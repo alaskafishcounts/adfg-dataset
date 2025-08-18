@@ -224,3 +224,54 @@ If you find naming inconsistencies or need clarification:
 **Version**: 1.0  
 **Status**: ✅ Active and Enforced
 # CDN Refresh Trigger - Tue Aug 12 12:05:49 AKDT 2025
+
+---
+
+## 🧭 Location & Species ID Index
+
+This repository can include a lightweight index of ADFG Location and Species IDs to aid tooling and documentation.
+
+### Files
+
+- `ids-index.json` — Generated index with metadata
+- `scripts/build-id-index.py` — Generator that reads masters from the app repo
+
+### Generate
+
+```bash
+cd "$(git rev-parse --show-toplevel)/local-dataset-adfg-data-fish-count"
+python3 scripts/build-id-index.py
+```
+
+This creates `ids-index.json`:
+
+```json
+{
+  "meta": {
+    "version": "1.0.0",
+    "generated": "2025-08-12T00:00:00Z",
+    "locations": 100,
+    "species": 12
+  },
+  "locations": {
+    "40": { "id": 40, "official_name": "Kenai River (Late-Run Sockeye)", "slug": "kenai-river-late-run-sockeye", "region": "Southcentral" }
+  },
+  "species": {
+    "420": { "id": 420, "name": "Sockeye Salmon", "slug": "sockeye" }
+  }
+}
+```
+
+### Fields
+
+- **locations[id]**: `official_name`, `slug`, `region`, `coordinates`
+- **species[id]**: `name`, `slug`, `color`
+
+### Purpose
+
+- Document authoritative ID ↔ name/slug mapping
+- Help scripts validate filenames and station selections
+- Improve discoverability for humans browsing the repo
+
+> Source of truth remains the master files in the app repository: `appprod/data/01-master/master-locations.json` and `master-species.json`.
+

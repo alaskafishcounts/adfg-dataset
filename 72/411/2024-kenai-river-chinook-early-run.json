@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "source": "ADFG Official Fish Counts",
+    "location_id": 72,
+    "species_id": 411,
+    "year": 2024,
+    "location_slug": "kenai-river",
+    "species_slug": "chinook-early-run",
+    "downloaded_at": "2025-08-13 03:57:27 UTC",
+    "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=72&SpeciesID=411&Year=2024"
+  },
+  "DATA": [
+    {
+      "date": "2024-01-01",
+      "count": 0,
+      "cumulative": 0,
+      "notes": "Sample data - actual parsing needed"
+    }
+  ]
+}

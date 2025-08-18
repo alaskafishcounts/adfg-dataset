@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1983,
+      "July, 26 1983 00:00:00",
+      42,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "July, 27 1983 00:00:00",
+      134,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "July, 28 1983 00:00:00",
+      762,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "July, 29 1983 00:00:00",
+      1056,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "July, 30 1983 00:00:00",
+      91,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "July, 31 1983 00:00:00",
+      559,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 01 1983 00:00:00",
+      2374,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 02 1983 00:00:00",
+      822,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 03 1983 00:00:00",
+      2091,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 04 1983 00:00:00",
+      2116,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 05 1983 00:00:00",
+      5328,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 06 1983 00:00:00",
+      1902,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 07 1983 00:00:00",
+      1297,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 08 1983 00:00:00",
+      4073,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 09 1983 00:00:00",
+      1804,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 10 1983 00:00:00",
+      593,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 11 1983 00:00:00",
+      1210,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 12 1983 00:00:00",
+      380,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 13 1983 00:00:00",
+      481,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 14 1983 00:00:00",
+      145,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 15 1983 00:00:00",
+      146,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 16 1983 00:00:00",
+      1242,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 17 1983 00:00:00",
+      382,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 18 1983 00:00:00",
+      495,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 19 1983 00:00:00",
+      199,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 20 1983 00:00:00",
+      70,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 21 1983 00:00:00",
+      488,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 22 1983 00:00:00",
+      355,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 23 1983 00:00:00",
+      50,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 24 1983 00:00:00",
+      447,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 25 1983 00:00:00",
+      138,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 26 1983 00:00:00",
+      321,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 27 1983 00:00:00",
+      105,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 28 1983 00:00:00",
+      684,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 29 1983 00:00:00",
+      268,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 30 1983 00:00:00",
+      325,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "August, 31 1983 00:00:00",
+      255,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 01 1983 00:00:00",
+      81,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 02 1983 00:00:00",
+      119,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 03 1983 00:00:00",
+      91,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 04 1983 00:00:00",
+      56,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 05 1983 00:00:00",
+      87,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 06 1983 00:00:00",
+      70,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 07 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 08 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 09 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 10 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 11 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 12 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 13 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 14 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 15 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 16 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 17 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 18 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 19 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 20 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 21 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 22 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 23 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 24 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 25 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 26 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 27 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 28 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 29 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1983,
+      "September, 30 1983 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 13,
+    "species_id": "422",
+    "year": "1983",
+    "totalRecords": 67,
+    "totalCount": 33734,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T10:11:22.133932"
+  }
+}

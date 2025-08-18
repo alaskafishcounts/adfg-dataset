@@ -1,0 +1,715 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1973,
+      "July, 16 1973 00:00:00",
+      118,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 17 1973 00:00:00",
+      181,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 18 1973 00:00:00",
+      64,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 19 1973 00:00:00",
+      220,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 20 1973 00:00:00",
+      158,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 21 1973 00:00:00",
+      57,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 22 1973 00:00:00",
+      129,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 23 1973 00:00:00",
+      691,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 24 1973 00:00:00",
+      817,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 25 1973 00:00:00",
+      2348,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 26 1973 00:00:00",
+      2723,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 27 1973 00:00:00",
+      123,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 28 1973 00:00:00",
+      777,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 29 1973 00:00:00",
+      208,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 30 1973 00:00:00",
+      181,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "July, 31 1973 00:00:00",
+      2032,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 01 1973 00:00:00",
+      4757,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 02 1973 00:00:00",
+      2034,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 03 1973 00:00:00",
+      1309,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 04 1973 00:00:00",
+      586,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 05 1973 00:00:00",
+      961,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 06 1973 00:00:00",
+      415,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 07 1973 00:00:00",
+      498,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 08 1973 00:00:00",
+      457,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 09 1973 00:00:00",
+      904,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 10 1973 00:00:00",
+      388,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 11 1973 00:00:00",
+      498,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 12 1973 00:00:00",
+      219,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 13 1973 00:00:00",
+      69,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 14 1973 00:00:00",
+      47,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 15 1973 00:00:00",
+      148,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 16 1973 00:00:00",
+      114,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 17 1973 00:00:00",
+      227,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 18 1973 00:00:00",
+      20,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 19 1973 00:00:00",
+      47,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 20 1973 00:00:00",
+      104,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 21 1973 00:00:00",
+      29,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 22 1973 00:00:00",
+      27,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 23 1973 00:00:00",
+      53,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 24 1973 00:00:00",
+      14,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 25 1973 00:00:00",
+      95,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 26 1973 00:00:00",
+      116,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 27 1973 00:00:00",
+      20,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 28 1973 00:00:00",
+      39,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 29 1973 00:00:00",
+      11,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 30 1973 00:00:00",
+      16,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "August, 31 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 01 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 02 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 03 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 04 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 05 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 06 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 07 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 08 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 09 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 10 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 11 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 12 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 13 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 14 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 15 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 16 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 17 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 18 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 19 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 20 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 21 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 22 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 23 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 24 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 25 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 26 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 27 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 28 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 29 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1973,
+      "September, 30 1973 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 13,
+    "species_id": "422",
+    "year": "1973",
+    "totalRecords": 77,
+    "totalCount": 25049,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T10:11:45.396326"
+  }
+}

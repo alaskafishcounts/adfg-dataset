@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "June, 12 2010 00:00:00",
+      12,
+      422,
+      25,
+      "Ayakulik River",
+      "Sockeye - Late Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 25,
+    "species_id": "422",
+    "year": "2010",
+    "totalRecords": 1,
+    "totalCount": 12,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T10:24:03.607122"
+  }
+}

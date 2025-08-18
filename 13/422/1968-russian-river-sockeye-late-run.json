@@ -1,0 +1,715 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "July, 16 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 17 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 18 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 19 1968 00:00:00",
+      128,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 20 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 21 1968 00:00:00",
+      472,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 22 1968 00:00:00",
+      632,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 23 1968 00:00:00",
+      2568,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 24 1968 00:00:00",
+      2000,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 25 1968 00:00:00",
+      816,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 26 1968 00:00:00",
+      1712,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 27 1968 00:00:00",
+      2536,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 28 1968 00:00:00",
+      2448,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 29 1968 00:00:00",
+      7464,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 30 1968 00:00:00",
+      5152,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "July, 31 1968 00:00:00",
+      3440,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 01 1968 00:00:00",
+      1496,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 02 1968 00:00:00",
+      1544,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 03 1968 00:00:00",
+      2048,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 04 1968 00:00:00",
+      1648,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 05 1968 00:00:00",
+      2992,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 06 1968 00:00:00",
+      1464,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 07 1968 00:00:00",
+      608,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 08 1968 00:00:00",
+      368,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 09 1968 00:00:00",
+      208,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 10 1968 00:00:00",
+      56,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 11 1968 00:00:00",
+      16,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 12 1968 00:00:00",
+      56,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 13 1968 00:00:00",
+      40,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 14 1968 00:00:00",
+      40,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 15 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 16 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 17 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 18 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 19 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 20 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 21 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 22 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 23 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 24 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 25 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 26 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 27 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 28 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 29 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 30 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "August, 31 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 01 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 02 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 03 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 04 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 05 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 06 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 07 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 08 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 09 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 10 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 11 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 12 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 13 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 14 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 15 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 16 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 17 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 18 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 19 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 20 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 21 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 22 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 23 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 24 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 25 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 26 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 27 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 28 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 29 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1968,
+      "September, 30 1968 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 13,
+    "species_id": "422",
+    "year": "1968",
+    "totalRecords": 77,
+    "totalCount": 41952,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T10:11:59.272186"
+  }
+}

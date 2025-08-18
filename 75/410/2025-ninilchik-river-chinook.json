@@ -863,15 +863,24 @@
       75,
       "Ninilchik River",
       "Chinook"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      3,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
     ]
   ],
   "metadata": {
-    "location_id": "75",
+    "location_id": 75,
     "species_id": "410",
     "year": "2025",
-    "totalRecords": 95,
-    "totalCount": 1121,
+    "totalRecords": 96,
+    "totalCount": 1124,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T11:38:43.367880"
+    "last_updated": "2025-08-12T20:46:47.505288"
   }
 }

@@ -11,6 +11,78 @@
   "DATA": [
     [
       2025,
+      "July, 24 2025 00:00:00",
+      307,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      167,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      712,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      204,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      439,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      646,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      494,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      648,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
       "August, 01 2025 00:00:00",
       717,
       450,
@@ -107,114 +179,15 @@
       16,
       "Little Susitna",
       "Chum"
-    ],
-    [
-      2025,
-      "July, 24 2025 00:00:00",
-      307,
-      450,
-      16,
-      "Little Susitna",
-      "Chum"
-    ],
-    [
-      2025,
-      "July, 25 2025 00:00:00",
-      167,
-      450,
-      16,
-      "Little Susitna",
-      "Chum"
-    ],
-    [
-      2025,
-      "July, 26 2025 00:00:00",
-      712,
-      450,
-      16,
-      "Little Susitna",
-      "Chum"
-    ],
-    [
-      2025,
-      "July, 27 2025 00:00:00",
-      204,
-      450,
-      16,
-      "Little Susitna",
-      "Chum"
-    ],
-    [
-      2025,
-      "July, 28 2025 00:00:00",
-      439,
-      450,
-      16,
-      "Little Susitna",
-      "Chum"
-    ],
-    [
-      2025,
-      "July, 29 2025 00:00:00",
-      646,
-      450,
-      16,
-      "Little Susitna",
-      "Chum"
-    ],
-    [
-      2025,
-      "July, 30 2025 00:00:00",
-      494,
-      450,
-      16,
-      "Little Susitna",
-      "Chum"
-    ],
-    [
-      2025,
-      "July, 31 2025 00:00:00",
-      648,
-      450,
-      16,
-      "Little Susitna",
-      "Chum"
     ]
   ],
   "metadata": {
-    "location_id": "16",
+    "location_id": 16,
     "species_id": "450",
     "year": "2025",
     "totalRecords": 19,
     "totalCount": 9327,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T11:33:55.070611",
-    "daysWithData": 19,
-    "latestDate": 2025,
-    "lastUpdated": "2025-08-12T11:38:16.303130",
-    "updateCount": 1,
-    "mergeHistory": [
-      {
-        "timestamp": "2025-08-12T11:38:16.303134",
-        "newRecords": 0,
-        "updatedRecords": 0,
-        "unchangedRecords": 19,
-        "totalRecords": 19
-      }
-    ]
-  },
-  "record_update_times": {},
-  "merge_info": {
-    "new_records_added": 0,
-    "existing_records_updated": 0,
-    "unchanged_records": 19,
-    "total_records": 19,
-    "merge_timestamp": "2025-08-12T11:38:16.303143",
-    "data_freshness": {
-      "latest_date": 2025,
-      "days_with_data": 19,
-      "total_count": 9327,
-      "total_records": 19
-    }
+    "last_updated": "2025-08-12T20:46:12.144470"
   }
 }

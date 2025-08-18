@@ -2485,17 +2485,17 @@
         "total_files": 8
       },
       "72": {
-        "slug": "kenai-river-chinook-chinook-late-run",
+        "slug": "kenai-river-chinook",
         "species": {
           "412": {
-            "slug": "kenai-river-chinook-chinook-late-run",
+            "slug": "late-run",
             "years": [
               2025
             ],
             "total_files": 1
           },
           "411": {
-            "slug": "kenai-river-chinook-chinook-early-run",
+            "slug": "early-run",
             "years": [
               2025
             ],
@@ -3849,6 +3849,22 @@
           }
         },
         "total_files": 4
+      },
+      "79": {
+        "slug": "iliuliuk-river-town-creek",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [2025],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [2025],
+            "total_files": 1
+          }
+        },
+        "total_files": 2
       },
       "13": {
         "slug": "russian-river",

@@ -11,96 +11,6 @@
   "DATA": [
     [
       2025,
-      "August, 01 2025 00:00:00",
-      17,
-      420,
-      77,
-      "Klag",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 02 2025 00:00:00",
-      279,
-      420,
-      77,
-      "Klag",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 03 2025 00:00:00",
-      1643,
-      420,
-      77,
-      "Klag",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 04 2025 00:00:00",
-      1828,
-      420,
-      77,
-      "Klag",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 05 2025 00:00:00",
-      6158,
-      420,
-      77,
-      "Klag",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 06 2025 00:00:00",
-      743,
-      420,
-      77,
-      "Klag",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 07 2025 00:00:00",
-      245,
-      420,
-      77,
-      "Klag",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 08 2025 00:00:00",
-      247,
-      420,
-      77,
-      "Klag",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 09 2025 00:00:00",
-      534,
-      420,
-      77,
-      "Klag",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 10 2025 00:00:00",
-      795,
-      420,
-      77,
-      "Klag",
-      "Sockeye"
-    ],
-    [
-      2025,
       "July, 04 2025 00:00:00",
       2,
       420,
@@ -224,43 +134,105 @@
       77,
       "Klag",
       "Sockeye"
+    ],
+    [
+      2025,
+      "August, 01 2025 00:00:00",
+      17,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      279,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      1643,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      1828,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      6158,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      743,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      245,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 08 2025 00:00:00",
+      247,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 09 2025 00:00:00",
+      534,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 10 2025 00:00:00",
+      795,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
     ]
   ],
   "metadata": {
-    "downloaded_at": "2025-08-11T14:39:20.807260",
-    "source_url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=export.JSON&countLocationID=77&year=2025&speciesID=420",
     "location_id": 77,
-    "species_id": 420,
-    "year": 2025,
-    "filename": "2025-klag-lake-sockeye.json",
+    "species_id": "420",
+    "year": "2025",
     "totalRecords": 24,
     "totalCount": 12788,
-    "daysWithData": 24,
-    "latestDate": 2025,
-    "lastUpdated": "2025-08-12T11:38:45.186539",
-    "updateCount": 1,
-    "mergeHistory": [
-      {
-        "timestamp": "2025-08-12T11:38:45.186543",
-        "newRecords": 0,
-        "updatedRecords": 0,
-        "unchangedRecords": 24,
-        "totalRecords": 24
-      }
-    ]
-  },
-  "record_update_times": {},
-  "merge_info": {
-    "new_records_added": 0,
-    "existing_records_updated": 0,
-    "unchanged_records": 24,
-    "total_records": 24,
-    "merge_timestamp": "2025-08-12T11:38:45.186553",
-    "data_freshness": {
-      "latest_date": 2025,
-      "days_with_data": 24,
-      "total_count": 12788,
-      "total_records": 24
-    }
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-12T20:46:49.705434"
   }
 }

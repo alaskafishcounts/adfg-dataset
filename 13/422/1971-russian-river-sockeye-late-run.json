@@ -1,0 +1,607 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1971,
+      "July, 28 1971 00:00:00",
+      44,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "July, 29 1971 00:00:00",
+      60,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "July, 30 1971 00:00:00",
+      4,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "July, 31 1971 00:00:00",
+      145,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 01 1971 00:00:00",
+      266,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 02 1971 00:00:00",
+      333,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 03 1971 00:00:00",
+      287,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 04 1971 00:00:00",
+      197,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 05 1971 00:00:00",
+      1707,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 06 1971 00:00:00",
+      2046,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 07 1971 00:00:00",
+      1422,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 08 1971 00:00:00",
+      107,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 09 1971 00:00:00",
+      232,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 10 1971 00:00:00",
+      223,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 11 1971 00:00:00",
+      577,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 12 1971 00:00:00",
+      607,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 13 1971 00:00:00",
+      554,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 14 1971 00:00:00",
+      734,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 15 1971 00:00:00",
+      934,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 16 1971 00:00:00",
+      1112,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 17 1971 00:00:00",
+      1241,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 18 1971 00:00:00",
+      1802,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 19 1971 00:00:00",
+      1741,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 20 1971 00:00:00",
+      1880,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 21 1971 00:00:00",
+      2994,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 22 1971 00:00:00",
+      4433,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 23 1971 00:00:00",
+      2058,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 24 1971 00:00:00",
+      3571,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 25 1971 00:00:00",
+      4763,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 26 1971 00:00:00",
+      4085,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 27 1971 00:00:00",
+      3699,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 28 1971 00:00:00",
+      3143,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 29 1971 00:00:00",
+      2482,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 30 1971 00:00:00",
+      1948,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "August, 31 1971 00:00:00",
+      1508,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 01 1971 00:00:00",
+      843,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 02 1971 00:00:00",
+      342,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 03 1971 00:00:00",
+      152,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 04 1971 00:00:00",
+      91,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 05 1971 00:00:00",
+      37,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 06 1971 00:00:00",
+      17,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 07 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 08 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 09 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 10 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 11 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 12 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 13 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 14 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 15 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 16 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 17 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 18 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 19 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 20 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 21 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 22 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 23 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 24 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 25 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 26 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 27 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 28 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 29 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      1971,
+      "September, 30 1971 00:00:00",
+      0,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 13,
+    "species_id": "422",
+    "year": "1971",
+    "totalRecords": 65,
+    "totalCount": 54421,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T10:11:49.647764"
+  }
+}

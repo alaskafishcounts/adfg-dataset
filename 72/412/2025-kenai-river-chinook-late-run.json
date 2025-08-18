@@ -11,105 +11,6 @@
   "DATA": [
     [
       2025,
-      "August, 01 2025 00:00:00",
-      699,
-      412,
-      72,
-      "Kenai River (Chinook)",
-      "Chinook - Late Run"
-    ],
-    [
-      2025,
-      "August, 02 2025 00:00:00",
-      590,
-      412,
-      72,
-      "Kenai River (Chinook)",
-      "Chinook - Late Run"
-    ],
-    [
-      2025,
-      "August, 03 2025 00:00:00",
-      530,
-      412,
-      72,
-      "Kenai River (Chinook)",
-      "Chinook - Late Run"
-    ],
-    [
-      2025,
-      "August, 04 2025 00:00:00",
-      266,
-      412,
-      72,
-      "Kenai River (Chinook)",
-      "Chinook - Late Run"
-    ],
-    [
-      2025,
-      "August, 05 2025 00:00:00",
-      217,
-      412,
-      72,
-      "Kenai River (Chinook)",
-      "Chinook - Late Run"
-    ],
-    [
-      2025,
-      "August, 06 2025 00:00:00",
-      175,
-      412,
-      72,
-      "Kenai River (Chinook)",
-      "Chinook - Late Run"
-    ],
-    [
-      2025,
-      "August, 07 2025 00:00:00",
-      289,
-      412,
-      72,
-      "Kenai River (Chinook)",
-      "Chinook - Late Run"
-    ],
-    [
-      2025,
-      "August, 08 2025 00:00:00",
-      379,
-      412,
-      72,
-      "Kenai River (Chinook)",
-      "Chinook - Late Run"
-    ],
-    [
-      2025,
-      "August, 09 2025 00:00:00",
-      199,
-      412,
-      72,
-      "Kenai River (Chinook)",
-      "Chinook - Late Run"
-    ],
-    [
-      2025,
-      "August, 10 2025 00:00:00",
-      199,
-      412,
-      72,
-      "Kenai River (Chinook)",
-      "Chinook - Late Run"
-    ],
-    [
-      2025,
-      "August, 11 2025 00:00:00",
-      194,
-      412,
-      72,
-      "Kenai River (Chinook)",
-      "Chinook - Late Run"
-    ],
-    [
-      2025,
       "July, 01 2025 00:00:00",
       120,
       412,
@@ -386,42 +287,114 @@
       72,
       "Kenai River (Chinook)",
       "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "August, 01 2025 00:00:00",
+      699,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      590,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      530,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      266,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      217,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      175,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      289,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "August, 08 2025 00:00:00",
+      379,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "August, 09 2025 00:00:00",
+      199,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "August, 10 2025 00:00:00",
+      199,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      194,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
     ]
   ],
   "metadata": {
-    "location_id": "72",
+    "location_id": 72,
     "species_id": "412",
     "year": "2025",
     "totalRecords": 42,
     "totalCount": 13245,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T11:34:19.169115",
-    "daysWithData": 42,
-    "latestDate": 2025,
-    "lastUpdated": "2025-08-12T11:38:41.530386",
-    "updateCount": 1,
-    "mergeHistory": [
-      {
-        "timestamp": "2025-08-12T11:38:41.530389",
-        "newRecords": 0,
-        "updatedRecords": 0,
-        "unchangedRecords": 42,
-        "totalRecords": 42
-      }
-    ]
-  },
-  "record_update_times": {},
-  "merge_info": {
-    "new_records_added": 0,
-    "existing_records_updated": 0,
-    "unchanged_records": 42,
-    "total_records": 42,
-    "merge_timestamp": "2025-08-12T11:38:41.530395",
-    "data_freshness": {
-      "latest_date": 2025,
-      "days_with_data": 42,
-      "total_count": 13245,
-      "total_records": 42
-    }
+    "last_updated": "2025-08-12T20:46:45.124624"
   }
 }
