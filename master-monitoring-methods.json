@@ -1,0 +1,422 @@
+{
+  "version": "1.0.0",
+  "metadata": {
+    "created": "2025-08-15T22:00:00.000Z",
+    "last_updated": "2025-08-15T22:00:00.000Z",
+    "description": "Comprehensive monitoring methods and technical infrastructure for Alaska Fish Count App",
+    "total_methods": 4,
+    "total_equipment_types": 12,
+    "data_sources": [
+      "ADFG technical specifications",
+      "Equipment manufacturer documentation",
+      "Field operation manuals",
+      "Technical maintenance records"
+    ]
+  },
+  "monitoring_methods": {
+    "weir": {
+      "id": "weir",
+      "name": "Weir",
+      "full_name": "Fixed Weir Structure",
+      "description": "Permanent or temporary barrier structure that creates a controlled fish passage for counting",
+      "type": "physical_barrier",
+      "subtypes": [
+        "fixed_weir",
+        "temporary_weir",
+        "portable_weir",
+        "adjustable_weir"
+      ],
+      "technical_specifications": {
+        "construction_materials": [
+          "steel_pipe",
+          "aluminum_angle",
+          "wooden_planks",
+          "concrete_blocks",
+          "fabric_mesh"
+        ],
+        "typical_dimensions": {
+          "height": "2-8 feet",
+          "width": "10-50 feet",
+          "depth": "1-3 feet"
+        },
+        "installation_methods": [
+          "anchored_to_stream_bed",
+          "supported_by_cable_system",
+          "braced_against_stream_banks",
+          "floating_platform_mounted"
+        ]
+      },
+      "operational_parameters": {
+        "water_depth_range": "0.5-10 feet",
+        "flow_velocity_range": "0.1-5.0 fps",
+        "fish_size_range": "2-36 inches",
+        "operational_season": "spring_to_fall",
+        "maintenance_frequency": "daily_to_weekly"
+      },
+      "advantages": [
+        "High accuracy for fish counts",
+        "Species identification possible",
+        "Minimal fish stress",
+        "Works in various flow conditions",
+        "Long-term reliability"
+      ],
+      "limitations": [
+        "Requires regular maintenance",
+        "Can be damaged by debris",
+        "Limited to smaller streams",
+        "Installation complexity",
+        "Seasonal limitations"
+      ],
+      "locations_using": [1, 5, 13, 15, 25],
+      "success_rate": 0.95,
+      "cost_factors": {
+        "installation": "high",
+        "maintenance": "medium",
+        "operation": "low",
+        "replacement": "high"
+      }
+    },
+    "sonar": {
+      "id": "sonar",
+      "name": "Sonar",
+      "full_name": "Acoustic Sonar System",
+      "description": "Underwater acoustic detection system that counts fish using sound wave reflection",
+      "type": "acoustic_detection",
+      "subtypes": [
+        "split_beam_sonar",
+        "dual_frequency_sonar",
+        "side_scan_sonar",
+        "multi_beam_sonar"
+      ],
+      "technical_specifications": {
+        "frequencies": [
+          "200_khz",
+          "420_khz",
+          "675_khz",
+          "1200_khz"
+        ],
+        "beam_angles": [
+          "narrow_beam_7_degree",
+          "wide_beam_15_degree",
+          "split_beam_dual_angle"
+        ],
+        "detection_range": "1-100 meters",
+        "accuracy": "±5-15% depending on conditions"
+      },
+      "operational_parameters": {
+        "water_depth_range": "2-50 feet",
+        "flow_velocity_range": "0.1-8.0 fps",
+        "fish_size_range": "3-48 inches",
+        "operational_season": "year_round",
+        "maintenance_frequency": "monthly_to_quarterly"
+      },
+      "advantages": [
+        "Non-intrusive to fish",
+        "Works in deep water",
+        "Real-time data collection",
+        "Low maintenance requirements",
+        "Year-round operation possible"
+      ],
+      "limitations": [
+        "Species identification difficult",
+        "Affected by water clarity",
+        "Requires calibration",
+        "Higher initial cost",
+        "Technical expertise needed"
+      ],
+      "locations_using": [16, 72],
+      "success_rate": 0.88,
+      "cost_factors": {
+        "installation": "very_high",
+        "maintenance": "low",
+        "operation": "low",
+        "replacement": "very_high"
+      }
+    },
+    "video": {
+      "id": "video",
+      "name": "Video",
+      "full_name": "Underwater Video Monitoring",
+      "description": "Camera-based system that records fish passage for visual counting and analysis",
+      "type": "visual_detection",
+      "subtypes": [
+        "underwater_camera",
+        "surface_camera",
+        "infrared_camera",
+        "stereo_camera_system"
+      ],
+      "technical_specifications": {
+        "camera_types": [
+          "HD_underwater_camera",
+          "4K_resolution_camera",
+          "night_vision_camera",
+          "wide_angle_camera"
+        ],
+        "recording_formats": [
+          "1080p_HD",
+          "4K_UHD",
+          "time_lapse",
+          "motion_activated"
+        ],
+        "storage_capacity": "1TB-10TB",
+        "transmission_methods": [
+          "wired_connection",
+          "wireless_transmission",
+          "satellite_link",
+          "cellular_modem"
+        ]
+      },
+      "operational_parameters": {
+        "water_depth_range": "1-20 feet",
+        "flow_velocity_range": "0.1-3.0 fps",
+        "fish_size_range": "2-24 inches",
+        "operational_season": "spring_to_fall",
+        "maintenance_frequency": "weekly_to_monthly"
+      },
+      "advantages": [
+        "Species identification possible",
+        "Behavioral analysis capability",
+        "Permanent record creation",
+        "Remote monitoring possible",
+        "High accuracy potential"
+      ],
+      "limitations": [
+        "Limited by water clarity",
+        "Requires good lighting",
+        "Storage space requirements",
+        "Review time intensive",
+        "Equipment vulnerability"
+      ],
+      "locations_using": [15],
+      "success_rate": 0.92,
+      "cost_factors": {
+        "installation": "medium",
+        "maintenance": "medium",
+        "operation": "low",
+        "replacement": "medium"
+      }
+    },
+    "mixed": {
+      "id": "mixed",
+      "name": "Mixed Methods",
+      "full_name": "Combination of Multiple Monitoring Technologies",
+      "description": "Integrated approach using two or more monitoring methods for comprehensive coverage",
+      "type": "hybrid_system",
+      "subtypes": [
+        "weir_plus_sonar",
+        "sonar_plus_video",
+        "weir_plus_video",
+        "triple_method_system"
+      ],
+      "technical_specifications": {
+        "integration_methods": [
+          "parallel_deployment",
+          "sequential_processing",
+          "data_fusion_algorithms",
+          "redundant_verification"
+        ],
+        "synchronization": "GPS_timed_coordination",
+        "data_merging": "automated_algorithm_processing"
+      },
+      "operational_parameters": {
+        "water_depth_range": "1-50 feet",
+        "flow_velocity_range": "0.1-8.0 fps",
+        "fish_size_range": "2-48 inches",
+        "operational_season": "year_round",
+        "maintenance_frequency": "weekly_to_monthly"
+      },
+      "advantages": [
+        "Highest accuracy potential",
+        "Redundancy and reliability",
+        "Comprehensive coverage",
+        "Data validation capability",
+        "Flexible operation modes"
+      ],
+      "limitations": [
+        "Highest complexity",
+        "Increased maintenance",
+        "Higher operational costs",
+        "Technical expertise required",
+        "Integration challenges"
+      ],
+      "locations_using": [23, 40, 41],
+      "success_rate": 0.98,
+      "cost_factors": {
+        "installation": "very_high",
+        "maintenance": "high",
+        "operation": "medium",
+        "replacement": "very_high"
+      }
+    }
+  },
+  "equipment_catalog": {
+    "weir_components": {
+      "barriers": {
+        "steel_pipe": {
+          "description": "Galvanized steel pipe for weir construction",
+          "specifications": "2-6 inch diameter, 10-20 foot lengths",
+          "durability": "20+ years with proper maintenance",
+          "cost_per_unit": "$50-200 per section"
+        },
+        "aluminum_angle": {
+          "description": "Lightweight aluminum angle for portable weirs",
+          "specifications": "2x2 inch to 4x4 inch, various lengths",
+          "durability": "10-15 years",
+          "cost_per_unit": "$30-100 per section"
+        },
+        "wooden_planks": {
+          "description": "Pressure-treated lumber for temporary weirs",
+          "specifications": "2x6 to 2x12 inch, 8-16 foot lengths",
+          "durability": "3-5 years",
+          "cost_per_unit": "$20-80 per section"
+        }
+      },
+      "supports": {
+        "cable_system": {
+          "description": "Steel cable support system for weir stability",
+          "specifications": "3/8 to 1/2 inch diameter, various lengths",
+          "load_capacity": "5000-15000 pounds",
+          "cost_per_unit": "$100-500 per system"
+        },
+        "concrete_anchors": {
+          "description": "Pre-cast concrete blocks for weir anchoring",
+          "specifications": "2x2x3 foot blocks, reinforced",
+          "weight": "2000-3000 pounds each",
+          "cost_per_unit": "$300-800 per anchor"
+        }
+      }
+    },
+    "sonar_equipment": {
+      "transducers": {
+        "split_beam": {
+          "description": "High-precision split-beam transducer",
+          "frequencies": "200 kHz, 420 kHz",
+          "beam_angle": "7 degree narrow beam",
+          "cost_per_unit": "$5000-15000"
+        },
+        "dual_frequency": {
+          "description": "Dual-frequency transducer for depth coverage",
+          "frequencies": "200 kHz + 675 kHz",
+          "beam_angle": "15 degree wide beam",
+          "cost_per_unit": "$8000-20000"
+        }
+      },
+      "processing_units": {
+        "sonar_processor": {
+          "description": "Digital signal processing unit",
+          "channels": "2-4 independent channels",
+          "data_output": "RS-232, Ethernet, USB",
+          "cost_per_unit": "$3000-8000"
+        }
+      }
+    },
+    "video_equipment": {
+      "cameras": {
+        "underwater_hd": {
+          "description": "High-definition underwater camera",
+          "resolution": "1080p to 4K",
+          "depth_rating": "100-300 feet",
+          "cost_per_unit": "$2000-8000"
+        },
+        "night_vision": {
+          "description": "Infrared night vision camera",
+          "illumination": "850nm IR LEDs",
+          "range": "50-200 feet",
+          "cost_per_unit": "$1500-5000"
+        }
+      },
+      "recording_systems": {
+        "dvr_system": {
+          "description": "Digital video recorder system",
+          "storage": "1TB-10TB capacity",
+          "channels": "4-16 camera inputs",
+          "cost_per_unit": "$1000-5000"
+        }
+      }
+    }
+  },
+  "operational_procedures": {
+    "daily_operations": [
+      "Equipment status check",
+      "Data collection verification",
+      "Environmental condition monitoring",
+      "Basic maintenance tasks"
+    ],
+    "weekly_operations": [
+      "Detailed equipment inspection",
+      "Data quality assessment",
+      "Calibration verification",
+      "Preventive maintenance"
+    ],
+    "monthly_operations": [
+      "Comprehensive system review",
+      "Performance analysis",
+      "Equipment calibration",
+      "Data backup verification"
+    ],
+    "seasonal_operations": [
+      "Pre-season setup and testing",
+      "Mid-season optimization",
+      "Post-season maintenance",
+      "Equipment winterization"
+    ]
+  },
+  "maintenance_schedules": {
+    "weir_systems": {
+      "daily": ["Visual inspection", "Debris removal", "Water level check"],
+      "weekly": ["Structural integrity check", "Cable tension verification"],
+      "monthly": ["Corrosion inspection", "Component lubrication"],
+      "seasonal": ["Complete disassembly", "Component replacement", "Reassembly"]
+    },
+    "sonar_systems": {
+      "daily": ["System status check", "Data quality verification"],
+      "weekly": ["Transducer cleaning", "Calibration check"],
+      "monthly": ["Performance analysis", "Software updates"],
+      "seasonal": ["Comprehensive testing", "Calibration adjustment"]
+    },
+    "video_systems": {
+      "daily": ["Camera operation check", "Recording verification"],
+      "weekly": ["Lens cleaning", "Storage capacity check"],
+      "monthly": ["System performance review", "Backup verification"],
+      "seasonal": ["Equipment optimization", "Storage cleanup"]
+    }
+  },
+  "performance_metrics": {
+    "accuracy_targets": {
+      "weir": "95-98%",
+      "sonar": "85-95%",
+      "video": "90-95%",
+      "mixed": "97-99%"
+    },
+    "reliability_targets": {
+      "uptime": "95-99%",
+      "data_completeness": "90-95%",
+      "system_availability": "24/7 during season"
+    },
+    "efficiency_metrics": {
+      "fish_count_per_hour": "100-1000+",
+      "species_identification_rate": "80-95%",
+      "data_processing_time": "<5 minutes"
+    }
+  },
+  "future_technologies": {
+    "emerging_methods": [
+      "AI-powered fish identification",
+      "Drone-based monitoring",
+      "Satellite imagery analysis",
+      "Environmental DNA sampling"
+    ],
+    "integration_opportunities": [
+      "IoT sensor networks",
+      "Cloud-based data processing",
+      "Mobile app integration",
+      "Real-time alerting systems"
+    ],
+    "scalability_features": [
+      "Modular equipment design",
+      "Standardized interfaces",
+      "Automated maintenance",
+      "Remote operation capability"
+    ]
+  }
+}
