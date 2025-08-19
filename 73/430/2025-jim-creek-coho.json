@@ -308,26 +308,39 @@
     ]
   ],
   "metadata": {
-    "location_id": "73",
+    "location_id": 73,
     "species_id": 430,
     "year": "2025",
     "totalRecords": 33,
     "totalCount": 1247,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-18T21:32:13.608225",
+    "last_updated": "2025-08-19T12:27:10.251434",
     "daysWithData": 26,
     "latestDate": 2025,
-    "lastUpdated": "2025-08-19T11:22:05.216563",
+    "lastUpdated": "2025-08-19T12:34:56.177684",
     "updateCount": 1,
     "mergeHistory": [
       {
-        "timestamp": "2025-08-19T11:22:05.216567",
-        "newRecords": 1,
+        "timestamp": "2025-08-19T12:34:56.177686",
+        "newRecords": 0,
         "updatedRecords": 0,
-        "unchangedRecords": 32,
+        "unchangedRecords": 33,
         "totalRecords": 33
       }
     ]
   },
-  "record_update_times": {
-    
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 33,
+    "total_records": 33,
+    "merge_timestamp": "2025-08-19T12:34:56.177691",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 26,
+      "total_count": 1247,
+      "total_records": 33
+    }
+  }
+}

@@ -488,11 +488,25 @@
     "last_updated": "2025-08-18T21:32:27.902559",
     "daysWithData": 40,
     "latestDate": 2025,
-    "lastUpdated": "2025-08-19T11:22:07.313780",
-    "updateCount": 1,
+    "lastUpdated": "2025-08-19T12:34:58.113669",
+    "updateCount": 3,
     "mergeHistory": [
       {
         "timestamp": "2025-08-19T11:22:07.313783",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 52,
+        "totalRecords": 52
+      },
+      {
+        "timestamp": "2025-08-19T12:27:12.491159",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 52,
+        "totalRecords": 52
+      },
+      {
+        "timestamp": "2025-08-19T12:34:58.113672",
         "newRecords": 0,
         "updatedRecords": 0,
         "unchangedRecords": 52,
@@ -506,7 +520,7 @@
     "existing_records_updated": 0,
     "unchanged_records": 52,
     "total_records": 52,
-    "merge_timestamp": "2025-08-19T11:22:07.313791",
+    "merge_timestamp": "2025-08-19T12:34:58.113678",
     "data_freshness": {
       "latest_date": 2025,
       "days_with_data": 40,
