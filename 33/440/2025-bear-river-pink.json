@@ -287,15 +287,51 @@
       33,
       "Bear River",
       "Pink"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      11,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      1,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      5,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      6,
+      440,
+      33,
+      "Bear River",
+      "Pink"
     ]
   ],
   "metadata": {
-    "location_id": 33,
-    "species_id": "440",
+    "location_id": "33",
+    "species_id": 440,
     "year": "2025",
-    "totalRecords": 31,
-    "totalCount": 278,
+    "totalRecords": 35,
+    "totalCount": 301,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T20:46:25.700338"
+    "last_updated": "2025-08-18T21:31:02.504939"
   }
 }

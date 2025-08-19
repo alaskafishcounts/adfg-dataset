@@ -686,17 +686,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:33:48.626916",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 5,
-    "species_id": 420,
-    "year": 2024,
-    "location_name": "Situk River",
-    "species_name": "Sockeye Salmon",
-    "total_records": 75,
-    "data_range": {
-      "start_date": "May, 29 2024 00:00:00",
-      "end_date": "August, 11 2024 00:00:00"
-    }
+    "species_id": "420",
+    "year": "2024",
+    "totalRecords": 75,
+    "totalCount": 75778,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:53:57.033907"
   }
 }

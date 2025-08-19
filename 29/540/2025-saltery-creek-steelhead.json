@@ -179,15 +179,33 @@
       29,
       "Saltery Creek",
       "Steelhead"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      0,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      0,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
     ]
   ],
   "metadata": {
-    "location_id": 29,
-    "species_id": "540",
+    "location_id": "29",
+    "species_id": 540,
     "year": "2025",
-    "totalRecords": 19,
+    "totalRecords": 21,
     "totalCount": 4,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T20:46:22.259058"
+    "last_updated": "2025-08-18T21:30:50.395383"
   }
 }

@@ -210,7 +210,7 @@
     [
       2025,
       "July, 03 2025 00:00:00",
-      0,
+      6,
       410,
       25,
       "Ayakulik River",
@@ -219,7 +219,7 @@
     [
       2025,
       "July, 04 2025 00:00:00",
-      0,
+      12,
       410,
       25,
       "Ayakulik River",
@@ -228,7 +228,7 @@
     [
       2025,
       "July, 05 2025 00:00:00",
-      0,
+      6,
       410,
       25,
       "Ayakulik River",
@@ -237,7 +237,7 @@
     [
       2025,
       "July, 06 2025 00:00:00",
-      0,
+      6,
       410,
       25,
       "Ayakulik River",
@@ -246,7 +246,7 @@
     [
       2025,
       "July, 07 2025 00:00:00",
-      0,
+      6,
       410,
       25,
       "Ayakulik River",
@@ -539,15 +539,51 @@
       25,
       "Ayakulik River",
       "Chinook"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
     ]
   ],
   "metadata": {
-    "location_id": 25,
-    "species_id": "410",
+    "location_id": "25",
+    "species_id": 410,
     "year": "2025",
-    "totalRecords": 59,
-    "totalCount": 406,
+    "totalRecords": 63,
+    "totalCount": 442,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T20:46:18.018675"
+    "last_updated": "2025-08-18T21:30:35.097562"
   }
 }

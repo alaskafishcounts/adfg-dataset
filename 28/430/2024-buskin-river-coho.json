@@ -497,17 +497,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:34:09.144812",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 28,
-    "species_id": 430,
-    "year": 2024,
-    "location_name": "Buskin River",
-    "species_name": "Coho Salmon",
-    "total_records": 54,
-    "data_range": {
-      "start_date": "August, 07 2024 00:00:00",
-      "end_date": "September, 30 2024 00:00:00"
-    }
+    "species_id": "430",
+    "year": "2024",
+    "totalRecords": 54,
+    "totalCount": 2211,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:54:34.211835"
   }
 }

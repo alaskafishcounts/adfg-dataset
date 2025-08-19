@@ -461,17 +461,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:34:06.123365",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 26,
-    "species_id": 430,
-    "year": 2024,
-    "location_name": "Olga Creek (Upper Station)",
-    "species_name": "Coho Salmon",
-    "total_records": 50,
-    "data_range": {
-      "start_date": "July, 27 2024 00:00:00",
-      "end_date": "September, 14 2024 00:00:00"
-    }
+    "species_id": "430",
+    "year": "2024",
+    "totalRecords": 50,
+    "totalCount": 2998,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:54:29.935818"
   }
 }

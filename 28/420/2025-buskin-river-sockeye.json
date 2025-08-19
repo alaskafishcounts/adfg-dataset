@@ -809,15 +809,51 @@
       28,
       "Buskin River",
       "Sockeye"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      1,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      5,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      0,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      0,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
     ]
   ],
   "metadata": {
-    "location_id": 28,
-    "species_id": "420",
+    "location_id": "28",
+    "species_id": 420,
     "year": "2025",
-    "totalRecords": 89,
-    "totalCount": 10566,
+    "totalRecords": 93,
+    "totalCount": 10572,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T20:46:21.666793"
+    "last_updated": "2025-08-18T21:30:46.226249"
   }
 }

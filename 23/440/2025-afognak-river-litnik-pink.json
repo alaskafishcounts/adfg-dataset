@@ -260,15 +260,33 @@
       23,
       "Afognak River (Litnik)",
       "Pink"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      486,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      573,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
     ]
   ],
   "metadata": {
-    "location_id": 23,
-    "species_id": "440",
+    "location_id": "23",
+    "species_id": 440,
     "year": "2025",
-    "totalRecords": 28,
-    "totalCount": 6269,
+    "totalRecords": 30,
+    "totalCount": 7328,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T20:46:17.052982"
+    "last_updated": "2025-08-18T21:30:30.457348"
   }
 }

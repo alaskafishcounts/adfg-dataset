@@ -326,17 +326,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:34:22.183718",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 37,
-    "species_id": 410,
-    "year": 2024,
-    "location_name": "Chena River",
-    "species_name": "Chinook Salmon",
-    "total_records": 35,
-    "data_range": {
-      "start_date": "June, 26 2024 00:00:00",
-      "end_date": "July, 30 2024 00:00:00"
-    }
+    "species_id": "410",
+    "year": "2024",
+    "totalRecords": 35,
+    "totalCount": 322,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:54:49.326437"
   }
 }

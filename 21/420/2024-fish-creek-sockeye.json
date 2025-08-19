@@ -587,17 +587,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:33:59.048702",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 21,
-    "species_id": 420,
-    "year": 2024,
-    "location_name": "Fish Creek",
-    "species_name": "Sockeye Salmon",
-    "total_records": 64,
-    "data_range": {
-      "start_date": "July, 02 2024 00:00:00",
-      "end_date": "September, 03 2024 00:00:00"
-    }
+    "species_id": "420",
+    "year": "2024",
+    "totalRecords": 64,
+    "totalCount": 37943,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:54:18.512584"
   }
 }

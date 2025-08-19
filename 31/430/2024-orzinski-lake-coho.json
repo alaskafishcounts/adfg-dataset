@@ -128,17 +128,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:34:16.519292",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 31,
-    "species_id": 430,
-    "year": 2024,
-    "location_name": "Orzinski Lake",
-    "species_name": "Coho Salmon",
-    "total_records": 13,
-    "data_range": {
-      "start_date": "July, 25 2024 00:00:00",
-      "end_date": "August, 06 2024 00:00:00"
-    }
+    "species_id": "430",
+    "year": "2024",
+    "totalRecords": 13,
+    "totalCount": 2,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:54:41.731788"
   }
 }

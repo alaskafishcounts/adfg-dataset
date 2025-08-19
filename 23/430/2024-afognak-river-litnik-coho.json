@@ -155,17 +155,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:34:02.213169",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 23,
-    "species_id": 430,
-    "year": 2024,
-    "location_name": "Afognak River (Litnik)",
-    "species_name": "Coho Salmon",
-    "total_records": 16,
-    "data_range": {
-      "start_date": "July, 24 2024 00:00:00",
-      "end_date": "August, 21 2024 00:00:00"
-    }
+    "species_id": "430",
+    "year": "2024",
+    "totalRecords": 16,
+    "totalCount": 102,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:54:22.170950"
   }
 }

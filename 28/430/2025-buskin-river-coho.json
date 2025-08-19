@@ -66,7 +66,7 @@
     [
       2025,
       "August, 05 2025 00:00:00",
-      null,
+      2,
       430,
       28,
       "Buskin River",
@@ -116,15 +116,51 @@
       28,
       "Buskin River",
       "Coho"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      24,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      29,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      12,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      8,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
     ]
   ],
   "metadata": {
-    "location_id": 28,
-    "species_id": "430",
+    "location_id": "28",
+    "species_id": 430,
     "year": "2025",
-    "totalRecords": 12,
-    "totalCount": 25,
+    "totalRecords": 16,
+    "totalCount": 100,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T20:46:21.390143"
+    "last_updated": "2025-08-18T21:30:46.323860"
   }
 }

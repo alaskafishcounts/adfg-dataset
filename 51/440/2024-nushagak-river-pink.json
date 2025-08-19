@@ -38,17 +38,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:34:40.875340",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 51,
-    "species_id": 440,
-    "year": 2024,
-    "location_name": "Nushagak River",
-    "species_name": "Pink Salmon",
-    "total_records": 3,
-    "data_range": {
-      "start_date": "July, 16 2024 00:00:00",
-      "end_date": "July, 21 2024 00:00:00"
-    }
+    "species_id": "440",
+    "year": "2024",
+    "totalRecords": 3,
+    "totalCount": 2619,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:54:57.115364"
   }
 }

@@ -561,7 +561,7 @@
     [
       2025,
       "August, 01 2025 00:00:00",
-      1620,
+      1626,
       420,
       25,
       "Ayakulik River",
@@ -571,6 +571,15 @@
       2025,
       "August, 02 2025 00:00:00",
       2409,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      401,
       420,
       25,
       "Ayakulik River",
@@ -638,15 +647,51 @@
       25,
       "Ayakulik River",
       "Sockeye"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      444,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      1709,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      143,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      34,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
     ]
   ],
   "metadata": {
-    "location_id": 25,
-    "species_id": "420",
+    "location_id": "25",
+    "species_id": 420,
     "year": "2025",
-    "totalRecords": 70,
-    "totalCount": 407139,
+    "totalRecords": 75,
+    "totalCount": 409876,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T20:46:19.021809"
+    "last_updated": "2025-08-18T21:30:36.610884"
   }
 }

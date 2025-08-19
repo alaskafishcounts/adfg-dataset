@@ -260,15 +260,33 @@
       23,
       "Afognak River (Litnik)",
       "Chum"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
     ]
   ],
   "metadata": {
-    "location_id": 23,
-    "species_id": "450",
+    "location_id": "23",
+    "species_id": 450,
     "year": "2025",
-    "totalRecords": 28,
+    "totalRecords": 30,
     "totalCount": 37,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T20:46:17.089758"
+    "last_updated": "2025-08-18T21:30:30.807200"
   }
 }

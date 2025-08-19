@@ -686,17 +686,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:33:54.902094",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 17,
-    "species_id": 410,
-    "year": 2024,
-    "location_name": "Deshka River",
-    "species_name": "Chinook Salmon",
-    "total_records": 75,
-    "data_range": {
-      "start_date": "May, 31 2024 00:00:00",
-      "end_date": "August, 13 2024 00:00:00"
-    }
+    "species_id": "410",
+    "year": "2024",
+    "totalRecords": 75,
+    "totalCount": 3445,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:54:16.482300"
   }
 }

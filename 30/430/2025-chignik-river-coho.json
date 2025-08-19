@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      1,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": "30",
+    "species_id": 430,
+    "year": "2025",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T21:30:52.810416"
+  }
+}

@@ -1208,17 +1208,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:34:08.122973",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 28,
-    "species_id": 420,
-    "year": 2024,
-    "location_name": "Buskin River",
-    "species_name": "Sockeye Salmon",
-    "total_records": 133,
-    "data_range": {
-      "start_date": "May, 15 2024 00:00:00",
-      "end_date": "September, 26 2024 00:00:00"
-    }
+    "species_id": "420",
+    "year": "2024",
+    "totalRecords": 133,
+    "totalCount": 9704,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:54:34.053901"
   }
 }

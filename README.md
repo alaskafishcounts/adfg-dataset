@@ -1,8 +1,15 @@
-# 🐟 ADFG Fish Counts Dataset
+# 🐟 ADFG Fish Counts Dataset - Local Backup
 
 ## 📊 Overview
 
-This repository contains the complete Alaska Department of Fish & Game (ADFG) fish count data in JSON format. The dataset covers all monitored locations across Alaska from 1950 to present, providing comprehensive fish population data for research, analysis, and public information.
+This is the **local backup copy** of the Alaska Department of Fish & Game (ADFG) fish count data, automatically synced from the main public repository. This dataset covers all monitored locations across Alaska from 1950 to present, providing comprehensive fish population data for research, analysis, and public information.
+
+## ⚠️ Important Note
+
+**This is a backup repository, not the primary data source.** For production use, always access the main repository:
+- **Primary Source**: [alaskafishcounts/adfg-dataset](https://github.com/alaskafishcounts/adfg-dataset)
+- **This Backup**: Automatically synced every 6 hours from the primary repository
+- **Purpose**: Offline access and backup for the Alaska Fish Counts app
 
 ## 🏗️ Data Structure
 
@@ -76,10 +83,32 @@ const data = await response.json();
 
 ## 🔄 Updates
 
-- **Daily**: During active fishing seasons
-- **Weekly**: Off-season maintenance
+- **Primary Updates**: Every 6 hours via automated pipeline to [alaskafishcounts/adfg-dataset](https://github.com/alaskafishcounts/adfg-dataset)
+- **Backup Sync**: This local copy automatically synced from primary repository
+- **Update Frequency**: Daily during fishing seasons, weekly off-season
 - **Automated**: GitHub Actions workflow integration
 - **Real-time**: Live data from ADFG monitoring stations
+
+## 🏗️ Dual Repository Architecture
+
+This project uses a **dual repository setup** for maximum reliability:
+
+### Primary Repository
+- **Public Data Source**: [alaskafishcounts/adfg-dataset](https://github.com/alaskafishcounts/adfg-dataset)
+- **Purpose**: Main data source for all applications and public access
+- **Update Frequency**: Every 6 hours via automated pipeline
+- **Access**: Public via GitHub raw URLs and CDN
+
+### This Local Backup
+- **App Backup**: `afcapp-repo-0101/local-dataset-adfg-data-fish-count`
+- **Purpose**: Backup/offline access for the Alaska Fish Counts app
+- **Update Frequency**: Automatically synced from primary repository
+- **Access**: App-specific backup and offline functionality
+
+### Data Flow
+```
+ADFG Servers → Pipeline → Primary Repository → Local Backup → Live App
+```
 
 ## 📚 Documentation
 
@@ -92,9 +121,11 @@ const data = await response.json();
 
 This dataset is maintained automatically through the ADFG data pipeline. For questions or issues:
 
-- **Repository**: [alaskafishcounts/adfg-dataset](https://github.com/alaskafishcounts/adfg-dataset)
+- **Primary Data Repository**: [alaskafishcounts/adfg-dataset](https://github.com/alaskafishcounts/adfg-dataset)
 - **App Repository**: [alaskafishcounts/afcapp-repo-0101](https://github.com/alaskafishcounts/afcapp-repo-0101)
 - **Live App**: [Alaska Fish Counts](https://alaskafishcounts.com/)
+
+**Note**: This local backup is automatically synced from the primary repository. For data contributions or issues, please use the primary repository.
 
 ## 📄 License
 

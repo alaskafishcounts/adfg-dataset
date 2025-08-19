@@ -299,17 +299,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:33:55.177173",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 17,
-    "species_id": 430,
-    "year": 2024,
-    "location_name": "Deshka River",
-    "species_name": "Coho Salmon",
-    "total_records": 32,
-    "data_range": {
-      "start_date": "July, 14 2024 00:00:00",
-      "end_date": "August, 14 2024 00:00:00"
-    }
+    "species_id": "430",
+    "year": "2024",
+    "totalRecords": 32,
+    "totalCount": 642,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:54:16.530283"
   }
 }

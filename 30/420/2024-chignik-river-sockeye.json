@@ -785,17 +785,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:34:11.520569",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 30,
-    "species_id": 420,
-    "year": 2024,
-    "location_name": "Chignik River",
-    "species_name": "Sockeye Salmon",
-    "total_records": 86,
-    "data_range": {
-      "start_date": "May, 31 2024 00:00:00",
-      "end_date": "August, 24 2024 00:00:00"
-    }
+    "species_id": "420",
+    "year": "2024",
+    "totalRecords": 86,
+    "totalCount": 695089,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:54:39.561006"
   }
 }

@@ -542,17 +542,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:33:48.215172",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 5,
-    "species_id": 410,
-    "year": 2024,
-    "location_name": "Situk River",
-    "species_name": "Chinook Salmon",
-    "total_records": 59,
-    "data_range": {
-      "start_date": "June, 14 2024 00:00:00",
-      "end_date": "August, 11 2024 00:00:00"
-    }
+    "species_id": "410",
+    "year": "2024",
+    "totalRecords": 59,
+    "totalCount": 517,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:53:56.669426"
   }
 }

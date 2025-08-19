@@ -1,3602 +1,157 @@
 {
+  "files": [
+    "13/410/2025-russian-river-chinook.json",
+    "13/421/2025-russian-river-sockeye-early-run.json",
+    "13/422/2025-russian-river-sockeye-late-run.json",
+    "13/430/2025-russian-river-coho.json",
+    "15/410/2025-crooked-creek-chinook.json",
+    "16/410/2025-little-susitna-river-chinook.json",
+    "16/420/2025-little-susitna-river-sockeye.json",
+    "16/430/2025-little-susitna-river-coho.json",
+    "16/440/2025-little-susitna-river-pink.json",
+    "16/450/2025-little-susitna-river-chum.json",
+    "17/410/2025-deshka-river-chinook.json",
+    "17/420/2025-deshka-river-sockeye.json",
+    "17/430/2025-deshka-river-coho.json",
+    "17/440/2025-deshka-river-pink.json",
+    "17/450/2025-deshka-river-chum.json",
+    "21/420/2025-fish-creek-sockeye.json",
+    "21/430/2025-fish-creek-coho.json",
+    "21/440/2025-fish-creek-pink.json",
+    "21/450/2025-fish-creek-chum.json",
+    "23/410/2025-afognak-river-litnik-chinook.json",
+    "23/420/2025-afognak-river-litnik-sockeye.json",
+    "23/430/2025-afognak-river-litnik-coho.json",
+    "23/440/2025-afognak-river-litnik-pink.json",
+    "23/450/2025-afognak-river-litnik-chum.json",
+    "23/540/2025-afognak-river-litnik-steelhead.json",
+    "24/410/2025-karluk-river-chinook.json",
+    "24/420/2025-karluk-river-sockeye.json",
+    "24/430/2025-karluk-river-coho.json",
+    "24/440/2025-karluk-river-pink.json",
+    "24/450/2025-karluk-river-chum.json",
+    "24/540/2025-karluk-river-steelhead.json",
+    "25/410/2025-ayakulik-river-chinook.json",
+    "25/420/2025-ayakulik-river-sockeye.json",
+    "25/430/2025-ayakulik-river-coho.json",
+    "25/440/2025-ayakulik-river-pink.json",
+    "25/450/2025-ayakulik-river-chum.json",
+    "25/540/2025-ayakulik-river-steelhead.json",
+    "26/420/2025-olga-creek-upper-station-sockeye.json",
+    "26/430/2025-olga-creek-upper-station-coho.json",
+    "26/440/2025-olga-creek-upper-station-pink.json",
+    "26/450/2025-olga-creek-upper-station-chum.json",
+    "26/540/2025-olga-creek-upper-station-steelhead.json",
+    "27/410/2025-dog-salmon-river-chinook.json",
+    "27/420/2025-dog-salmon-river-sockeye.json",
+    "27/430/2025-dog-salmon-river-coho.json",
+    "27/440/2025-dog-salmon-river-pink.json",
+    "27/450/2025-dog-salmon-river-chum.json",
+    "27/540/2025-dog-salmon-river-steelhead.json",
+    "28/420/2025-buskin-river-sockeye.json",
+    "28/430/2025-buskin-river-coho.json",
+    "28/440/2025-buskin-river-pink.json",
+    "28/450/2025-buskin-river-chum.json",
+    "28/540/2025-buskin-river-steelhead.json",
+    "29/420/2025-saltery-creek-sockeye.json",
+    "29/430/2025-saltery-creek-coho.json",
+    "29/440/2025-saltery-creek-pink.json",
+    "29/450/2025-saltery-creek-chum.json",
+    "29/540/2025-saltery-creek-steelhead.json",
+    "30/410/2025-chignik-river-chinook.json",
+    "30/420/2025-chignik-river-sockeye.json",
+    "30/430/2025-chignik-river-coho.json",
+    "30/440/2025-chignik-river-pink.json",
+    "30/450/2025-chignik-river-chum.json",
+    "31/420/2025-orzinski-lake-sockeye.json",
+    "31/440/2025-orzinski-lake-pink.json",
+    "31/450/2025-orzinski-lake-chum.json",
+    "32/410/2025-nelson-river-sapsuk-chinook.json",
+    "32/420/2025-nelson-river-sapsuk-sockeye.json",
+    "32/440/2025-nelson-river-sapsuk-pink.json",
+    "32/450/2025-nelson-river-sapsuk-chum.json",
+    "33/410/2025-bear-river-chinook.json",
+    "33/420/2025-bear-river-sockeye.json",
+    "33/440/2025-bear-river-pink.json",
+    "33/450/2025-bear-river-chum.json",
+    "35/410/2025-ilnik-river-chinook.json",
+    "35/420/2025-ilnik-river-sockeye.json",
+    "35/440/2025-ilnik-river-pink.json",
+    "37/410/2025-chena-river-chinook.json",
+    "37/450/2025-chena-river-chum.json",
+    "38/410/2025-salcha-river-chinook.json",
+    "38/450/2025-salcha-river-chum.json",
+    "39/420/2025-copper-river-miles-lake-sockeye.json",
+    "40/420/2025-kenai-river-late-run-sockeye-sockeye.json",
+    "41/420/2025-kasilof-river-sockeye-sockeye.json",
+    "5/410/2025-situk-river-chinook.json",
+    "5/420/2025-situk-river-sockeye.json",
+    "5/540/2025-situk-river-steelhead.json",
+    "51/410/2025-nushagak-river-chinook.json",
+    "51/420/2025-nushagak-river-sockeye.json",
+    "51/450/2025-nushagak-river-chum.json",
+    "6/410/2025-gulkana-river-chinook.json",
+    "6/420/2025-gulkana-river-sockeye.json",
+    "60/420/2025-pasagshak-river-sockeye.json",
+    "60/430/2025-pasagshak-river-coho.json",
+    "60/440/2025-pasagshak-river-pink.json",
+    "60/450/2025-pasagshak-river-chum.json",
+    "7/420/2025-coghill-river-sockeye.json",
+    "7/440/2025-coghill-river-pink.json",
+    "7/450/2025-coghill-river-chum.json",
+    "72/411/2025-kenai-river-chinook-early-run.json",
+    "72/412/2025-kenai-river-chinook-late-run.json",
+    "73/420/2025-jim-creek-sockeye.json",
+    "73/430/2025-jim-creek-coho.json",
+    "75/410/2025-ninilchik-river-chinook.json",
+    "76/420/2025-redoubt-lake-sockeye.json",
+    "77/420/2025-klag-lake-sockeye.json",
+    "78/410/2025-lake-creek-chinook.json",
+    "79/420/2025-iliuliuk-river-town-creek-sockeye.json",
+    "79/440/2025-iliuliuk-river-town-creek-pink.json",
+    "8/420/2025-eshamy-creek-sockeye.json",
+    "8/430/2025-eshamy-creek-coho.json",
+    "8/440/2025-eshamy-creek-pink.json",
+    "8/450/2025-eshamy-creek-chum.json",
+    "9/410/2025-anchor-river-chinook.json",
+    "9/430/2025-anchor-river-coho.json",
+    "9/540/2025-anchor-river-steelhead.json"
+  ],
   "index": {
     "locations": {
-      "50": {
-        "slug": "wood-river",
+      "13": {
+        "slug": "russian-river",
         "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1956,
-              1957,
-              1958,
-              1959,
-              1960,
-              1961,
-              1962,
-              1963,
-              1964,
-              1965,
-              1966,
-              1967,
-              1968,
-              1969,
-              1970,
-              1971,
-              1972,
-              1973,
-              1974,
-              1975,
-              1976,
-              1977,
-              1978,
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011
-            ],
-            "total_files": 56
-          }
-        },
-        "total_files": 56
-      },
-      "32": {
-        "slug": "nelson-river-sapsuk",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2010,
-              2012,
-              2013,
-              2016,
-              2022
-            ],
-            "total_files": 5
-          },
           "410": {
             "slug": "chinook",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          }
-        },
-        "total_files": 85
-      },
-      "35": {
-        "slug": "ilnik-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 19
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2008
-            ],
-            "total_files": 1
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 18
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2006,
-              2008,
-              2014,
-              2018,
-              2019
-            ],
-            "total_files": 5
-          }
-        },
-        "total_files": 63
-      },
-      "51": {
-        "slug": "nushagak-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2012,
-              2013,
-              2014,
-              2018,
-              2024
-            ],
-            "total_files": 5
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2012,
-              2013,
-              2014,
-              2018,
-              2019,
-              2023,
-              2024
-            ],
-            "total_files": 7
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 15
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 46
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 15
-          }
-        },
-        "total_files": 88
-      },
-      "60": {
-        "slug": "pasagshak-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024
-            ],
-            "total_files": 14
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2021,
-              2024
-            ],
-            "total_files": 7
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2016,
-              2018,
-              2020,
-              2023,
-              2024
-            ],
-            "total_files": 5
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 15
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2025
-            ],
-            "total_files": 14
-          }
-        },
-        "total_files": 55
-      },
-      "34": {
-        "slug": "sandy-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024
-            ],
-            "total_files": 19
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024
-            ],
-            "total_files": 19
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024
-            ],
-            "total_files": 19
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024
-            ],
-            "total_files": 19
-          }
-        },
-        "total_files": 76
-      },
-      "33": {
-        "slug": "bear-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2007,
-              2009,
-              2011,
-              2012,
-              2022
-            ],
-            "total_files": 5
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 19
-          }
-        },
-        "total_files": 84
-      },
-      "20": {
-        "slug": "cottonwood-creek",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              1998,
-              2000,
-              2001,
-              2003
-            ],
-            "total_files": 4
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004
-            ],
-            "total_files": 8
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              1997,
-              1998,
-              2000,
-              2001
-            ],
-            "total_files": 4
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003
-            ],
-            "total_files": 7
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              1997,
-              1998,
-              2000
-            ],
-            "total_files": 3
-          }
-        },
-        "total_files": 26
-      },
-      "27": {
-        "slug": "dog-salmon-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "540": {
-            "slug": "steelhead",
             "years": [
               2025
             ],
             "total_files": 1
-          }
-        },
-        "total_files": 101
-      },
-      "9": {
-        "slug": "anchor-river",
-        "species": {
-          "430": {
-            "slug": "coho",
-            "years": [
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 14
           },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 23
-          },
-          "540": {
-            "slug": "whitefish",
-            "years": [
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 8
-          }
-        },
-        "total_files": 45
-      },
-      "11": {
-        "slug": "deep-creek",
-        "species": {
-          "430": {
-            "slug": "coho",
-            "years": [
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002
-            ],
-            "total_files": 6
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2018,
-              2019,
-              2020
-            ],
-            "total_files": 3
-          }
-        },
-        "total_files": 9
-      },
-      "7": {
-        "slug": "coghill-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2019,
-              2020,
-              2024,
-              2025
-            ],
-            "total_files": 11
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2000,
-              2016
-            ],
-            "total_files": 2
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2013,
-              2014,
-              2015,
-              2016
-            ],
-            "total_files": 4
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1974,
-              1975,
-              1976,
-              1977,
-              1978,
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 52
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2020,
-              2022,
-              2024,
-              2025
-            ],
-            "total_files": 10
-          }
-        },
-        "total_files": 79
-      },
-      "29": {
-        "slug": "saltery-creek",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 18
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2002,
-              2003,
-              2008,
-              2009,
-              2012,
-              2014,
-              2015,
-              2018,
-              2020,
-              2023,
-              2025
-            ],
-            "total_files": 11
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2009,
-              2011,
-              2018,
-              2020,
-              2023
-            ],
-            "total_files": 5
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 29
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2008,
-              2009,
-              2010,
-              2012,
-              2013,
-              2014,
-              2015,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 16
-          },
-          "540": {
-            "slug": "steelhead",
+          "421": {
+            "slug": "sockeye-early-run",
             "years": [
               2025
             ],
             "total_files": 1
-          }
-        },
-        "total_files": 80
-      },
-      "16": {
-        "slug": "little-susitna-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 13
           },
-          "430": {
-            "slug": "coho",
+          "422": {
+            "slug": "sockeye-late-run",
             "years": [
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
               2025
-            ],
-            "total_files": 30
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              1988,
-              1989,
-              1994,
-              1995,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 17
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 13
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2007,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 23
-          }
-        },
-        "total_files": 96
-      },
-      "42": {
-        "slug": "crescent-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2010,
-              2011,
-              2012
-            ],
-            "total_files": 33
-          }
-        },
-        "total_files": 33
-      },
-      "45": {
-        "slug": "egegik-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1957,
-              1958,
-              1959,
-              1960,
-              1961,
-              1962,
-              1963,
-              1964,
-              1965,
-              1966,
-              1967,
-              1968,
-              1969,
-              1970,
-              1971,
-              1972,
-              1973,
-              1974,
-              1975,
-              1976,
-              1977,
-              1978,
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011
-            ],
-            "total_files": 55
-          }
-        },
-        "total_files": 55
-      },
-      "73": {
-        "slug": "jim-creek",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2017
             ],
             "total_files": 1
           },
           "430": {
             "slug": "coho",
             "years": [
-              1993,
-              1994,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 10
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1993,
-              1994,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 10
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2017
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 22
-      },
-      "74": {
-        "slug": "mclees-lake",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2020,
-              2021,
-              2022,
-              2023
-            ],
-            "total_files": 21
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2017
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 22
-      },
-      "6": {
-        "slug": "gulkana-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 24
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 23
-          }
-        },
-        "total_files": 47
-      },
-      "28": {
-        "slug": "buskin-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 32
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2008,
-              2009,
-              2010,
-              2021
-            ],
-            "total_files": 4
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 34
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "540": {
-            "slug": "steelhead",
-            "years": [
               2025
             ],
             "total_files": 1
-          }
-        },
-        "total_files": 111
-      },
-      "17": {
-        "slug": "deshka-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 30
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 30
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 31
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2005,
-              2012,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 22
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              1996,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2005,
-              2012,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 21
-          }
-        },
-        "total_files": 134
-      },
-      "1": {
-        "slug": "auke-creek",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2002,
-              2003,
-              2009
-            ],
-            "total_files": 3
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2002
-            ],
-            "total_files": 1
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2002
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2002
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2002,
-              2003,
-              2009
-            ],
-            "total_files": 3
-          }
-        },
-        "total_files": 9
-      },
-      "19": {
-        "slug": "wasilla-creek",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              1998,
-              2000,
-              2001,
-              2002,
-              2003
-            ],
-            "total_files": 5
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003
-            ],
-            "total_files": 7
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              1998,
-              2001,
-              2003
-            ],
-            "total_files": 3
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003
-            ],
-            "total_files": 7
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003
-            ],
-            "total_files": 7
-          }
-        },
-        "total_files": 29
-      },
-      "26": {
-        "slug": "olga-creek-upper-station",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2006,
-              2008,
-              2012,
-              2020,
-              2021,
-              2023
-            ],
-            "total_files": 6
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2007,
-              2011,
-              2012,
-              2014,
-              2015,
-              2016,
-              2017,
-              2019,
-              2021,
-              2022,
-              2024,
-              2025
-            ],
-            "total_files": 12
-          },
-          "540": {
-            "slug": "steelhead",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 79
-      },
-      "8": {
-        "slug": "eshamy-creek",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2024,
-              2025
-            ],
-            "total_files": 2
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2000,
-              2024,
-              2025
-            ],
-            "total_files": 3
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2024
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1957,
-              1958,
-              1959,
-              1960,
-              1961,
-              1962,
-              1963,
-              1964,
-              1965,
-              1966,
-              1967,
-              1968,
-              1969,
-              1970,
-              1971,
-              1972,
-              1973,
-              1974,
-              1975,
-              1976,
-              1977,
-              1978,
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 58
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2024,
-              2025
-            ],
-            "total_files": 2
-          }
-        },
-        "total_files": 66
-      },
-      "21": {
-        "slug": "fish-creek",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              1996,
-              1997,
-              1998,
-              2000,
-              2001,
-              2002,
-              2005,
-              2006,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 19
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2006,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 25
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              1996,
-              1997,
-              2000,
-              2001,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2023,
-              2024
-            ],
-            "total_files": 11
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 30
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2023,
-              2024
-            ],
-            "total_files": 14
-          }
-        },
-        "total_files": 99
-      },
-      "75": {
-        "slug": "ninilchik-river",
-        "species": {
-          "430": {
-            "slug": "coho",
-            "years": [
-              2022
-            ],
-            "total_files": 1
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 7
-          }
-        },
-        "total_files": 8
-      },
-      "72": {
-        "slug": "kenai-river-chinook",
-        "species": {
-          "412": {
-            "slug": "late-run",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "411": {
-            "slug": "early-run",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 2
-      },
-      "44": {
-        "slug": "ugashik-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1957,
-              1958,
-              1959,
-              1960,
-              1961,
-              1962,
-              1963,
-              1964,
-              1965,
-              1966,
-              1967,
-              1968,
-              1969,
-              1970,
-              1971,
-              1972,
-              1973,
-              1974,
-              1975,
-              1976,
-              1977,
-              1978,
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011
-            ],
-            "total_files": 55
-          }
-        },
-        "total_files": 55
-      },
-      "43": {
-        "slug": "yentna-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008
-            ],
-            "total_files": 28
-          }
-        },
-        "total_files": 28
-      },
-      "38": {
-        "slug": "salcha-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 22
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2012,
-              2013,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 18
-          }
-        },
-        "total_files": 40
-      },
-      "31": {
-        "slug": "orzinski-lake",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2017,
-              2019,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 14
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2007,
-              2008,
-              2009,
-              2010,
-              2014,
-              2015,
-              2024
-            ],
-            "total_files": 7
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2007,
-              2008,
-              2014,
-              2015,
-              2019,
-              2021,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 9
-          }
-        },
-        "total_files": 50
-      },
-      "53": {
-        "slug": "togiak-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1960,
-              1961,
-              1962,
-              1963,
-              1964,
-              1965,
-              1966,
-              1967,
-              1968,
-              1969,
-              1970,
-              1971,
-              1972,
-              1973,
-              1974,
-              1975,
-              1976,
-              1977,
-              1978,
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011
-            ],
-            "total_files": 52
-          }
-        },
-        "total_files": 52
-      },
-      "30": {
-        "slug": "chignik-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2022,
-              2023,
-              2024
-            ],
-            "total_files": 18
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          }
-        },
-        "total_files": 98
-      },
-      "37": {
-        "slug": "chena-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 23
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2017,
-              2018,
-              2019,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 19
-          }
-        },
-        "total_files": 42
-      },
-      "39": {
-        "slug": "copper-river-miles-lake",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1978,
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 48
-          }
-        },
-        "total_files": 48
-      },
-      "52": {
-        "slug": "nuyakuk-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2003,
-              2004,
-              2005,
-              2006
-            ],
-            "total_files": 4
           }
         },
         "total_files": 4
-      },
-      "46": {
-        "slug": "kvichak-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1955,
-              1956,
-              1957,
-              1958,
-              1959,
-              1960,
-              1961,
-              1962,
-              1963,
-              1964,
-              1965,
-              1966,
-              1967,
-              1968,
-              1969,
-              1970,
-              1971,
-              1972,
-              1973,
-              1974,
-              1975,
-              1976,
-              1977,
-              1978,
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011
-            ],
-            "total_files": 57
-          }
-        },
-        "total_files": 57
-      },
-      "41": {
-        "slug": "kasilof-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 43
-          }
-        },
-        "total_files": 43
-      },
-      "77": {
-        "slug": "klag-lake",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 3
-          }
-        },
-        "total_files": 3
-      },
-      "48": {
-        "slug": "naknek-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1958,
-              1959,
-              1960,
-              1961,
-              1962,
-              1963,
-              1964,
-              1965,
-              1966,
-              1967,
-              1968,
-              1969,
-              1970,
-              1971,
-              1972,
-              1973,
-              1974,
-              1975,
-              1976,
-              1977,
-              1978,
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011
-            ],
-            "total_files": 54
-          }
-        },
-        "total_files": 54
-      },
-      "24": {
-        "slug": "karluk-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 32
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 33
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2002,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 23
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "540": {
-            "slug": "steelhead",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 129
-      },
-      "23": {
-        "slug": "afognak-river-litnik",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 19
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2001,
-              2002,
-              2003,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 23
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2013,
-              2014,
-              2017,
-              2020,
-              2025
-            ],
-            "total_files": 5
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 32
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2015,
-              2016,
-              2018,
-              2019,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 17
-          },
-          "540": {
-            "slug": "steelhead",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 97
       },
       "15": {
         "slug": "crooked-creek",
@@ -3604,724 +159,166 @@
           "410": {
             "slug": "chinook",
             "years": [
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
               2025
             ],
-            "total_files": 21
+            "total_files": 1
           }
         },
-        "total_files": 21
+        "total_files": 1
       },
-      "76": {
-        "slug": "redoubt-lake",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1953,
-              1954,
-              1955,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 46
-          }
-        },
-        "total_files": 46
-      },
-      "49": {
-        "slug": "igushik-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1958,
-              1959,
-              1960,
-              1961,
-              1962,
-              1963,
-              1964,
-              1965,
-              1966,
-              1967,
-              1968,
-              1969,
-              1970,
-              1971,
-              1972,
-              1973,
-              1974,
-              1975,
-              1976,
-              1977,
-              1978,
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011
-            ],
-            "total_files": 54
-          }
-        },
-        "total_files": 54
-      },
-      "40": {
-        "slug": "kenai-river-late-run",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 47
-          }
-        },
-        "total_files": 47
-      },
-      "47": {
-        "slug": "alagnak-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011
-            ],
-            "total_files": 8
-          }
-        },
-        "total_files": 8
-      },
-      "78": {
-        "slug": "lake-creek",
+      "16": {
+        "slug": "little-susitna-river",
         "species": {
           "410": {
             "slug": "chinook",
             "years": [
-              2022,
-              2023,
-              2024,
               2025
             ],
-            "total_files": 4
+            "total_files": 1
+          },
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 5
+      },
+      "17": {
+        "slug": "deshka-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 5
+      },
+      "21": {
+        "slug": "fish-creek",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
           }
         },
         "total_files": 4
       },
-      "79": {
-        "slug": "iliuliuk-river-town-creek",
+      "23": {
+        "slug": "afognak-river-litnik",
         "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
           "420": {
             "slug": "sockeye",
-            "years": [2025],
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
             "total_files": 1
           },
           "440": {
             "slug": "pink",
-            "years": [2025],
-            "total_files": 1
-          }
-        },
-        "total_files": 2
-      },
-      "13": {
-        "slug": "russian-river",
-        "species": {
-          "422": {
-            "slug": "sockeye",
             "years": [
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
               2025
-            ],
-            "total_files": 6
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              1978,
-              1979,
-              1980,
-              1981,
-              1982,
-              1983,
-              1984,
-              1985,
-              1986,
-              1987,
-              1988,
-              1989,
-              1990,
-              1991,
-              1992,
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 48
-          },
-          "421": {
-            "slug": "sockeye",
-            "years": [
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 6
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 24
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              1999
             ],
             "total_files": 1
-          }
-        },
-        "total_files": 85
-      },
-      "5": {
-        "slug": "situk-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2017,
-              2018,
-              2019
-            ],
-            "total_files": 3
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2017,
-              2018,
-              2019
-            ],
-            "total_files": 3
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 27
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 27
           },
           "450": {
             "slug": "chum",
             "years": [
-              2017,
-              2018
-            ],
-            "total_files": 2
-          },
-          "540": {
-            "slug": "whitefish",
-            "years": [
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
               2025
             ],
-            "total_files": 54
-          }
-        },
-        "total_files": 116
-      },
-      "22": {
-        "slug": "pauls-bay-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2014,
-              2015,
-              2016
-            ],
-            "total_files": 3
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2001,
-              2002,
-              2014,
-              2015,
-              2016
-            ],
-            "total_files": 5
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2002,
-              2004,
-              2014,
-              2015,
-              2016
-            ],
-            "total_files": 5
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2014,
-              2015,
-              2016
-            ],
-            "total_files": 3
-          }
-        },
-        "total_files": 16
-      },
-      "25": {
-        "slug": "ayakulik-river",
-        "species": {
-          "440": {
-            "slug": "pink",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              2000,
-              2001,
-              2002,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 30
-          },
-          "410": {
-            "slug": "chinook",
-            "years": [
-              1993,
-              1994,
-              1995,
-              1996,
-              1997,
-              1998,
-              1999,
-              2000,
-              2001,
-              2002,
-              2003,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 33
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2002,
-              2004,
-              2005,
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 23
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2006,
-              2007,
-              2008,
-              2009,
-              2010,
-              2011,
-              2012,
-              2013,
-              2014,
-              2015,
-              2016,
-              2017,
-              2018,
-              2019,
-              2020,
-              2021,
-              2022,
-              2023,
-              2024,
-              2025
-            ],
-            "total_files": 20
+            "total_files": 1
           },
           "540": {
             "slug": "steelhead",
@@ -4331,13 +328,833 @@
             "total_files": 1
           }
         },
-        "total_files": 127
+        "total_files": 6
+      },
+      "24": {
+        "slug": "karluk-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "540": {
+            "slug": "steelhead",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 6
+      },
+      "25": {
+        "slug": "ayakulik-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "540": {
+            "slug": "steelhead",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 6
+      },
+      "26": {
+        "slug": "olga-creek-upper-station",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "540": {
+            "slug": "steelhead",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 5
+      },
+      "27": {
+        "slug": "dog-salmon-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "540": {
+            "slug": "steelhead",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 6
+      },
+      "28": {
+        "slug": "buskin-river",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "540": {
+            "slug": "steelhead",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 5
+      },
+      "29": {
+        "slug": "saltery-creek",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "540": {
+            "slug": "steelhead",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 5
+      },
+      "30": {
+        "slug": "chignik-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 5
+      },
+      "31": {
+        "slug": "orzinski-lake",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 3
+      },
+      "32": {
+        "slug": "nelson-river-sapsuk",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 4
+      },
+      "33": {
+        "slug": "bear-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 4
+      },
+      "35": {
+        "slug": "ilnik-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 3
+      },
+      "37": {
+        "slug": "chena-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 2
+      },
+      "38": {
+        "slug": "salcha-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 2
+      },
+      "39": {
+        "slug": "copper-river-miles-lake",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 1
+      },
+      "40": {
+        "slug": "kenai-river-late-run-sockeye",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 1
+      },
+      "41": {
+        "slug": "kasilof-river-sockeye",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 1
+      },
+      "5": {
+        "slug": "situk-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "540": {
+            "slug": "steelhead",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 3
+      },
+      "51": {
+        "slug": "nushagak-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 3
+      },
+      "6": {
+        "slug": "gulkana-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 2
+      },
+      "60": {
+        "slug": "pasagshak-river",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 4
+      },
+      "7": {
+        "slug": "coghill-river",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 3
+      },
+      "72": {
+        "slug": "kenai-river",
+        "species": {
+          "411": {
+            "slug": "chinook-early-run",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "412": {
+            "slug": "chinook-late-run",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 2
+      },
+      "73": {
+        "slug": "jim-creek",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 2
+      },
+      "75": {
+        "slug": "ninilchik-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 1
+      },
+      "76": {
+        "slug": "redoubt-lake",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 1
+      },
+      "77": {
+        "slug": "klag-lake",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 1
+      },
+      "78": {
+        "slug": "lake-creek",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 1
+      },
+      "79": {
+        "slug": "iliuliuk-river-town-creek",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 2
+      },
+      "8": {
+        "slug": "eshamy-creek",
+        "species": {
+          "420": {
+            "slug": "sockeye",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "440": {
+            "slug": "pink",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "450": {
+            "slug": "chum",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 4
+      },
+      "9": {
+        "slug": "anchor-river",
+        "species": {
+          "410": {
+            "slug": "chinook",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "430": {
+            "slug": "coho",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          },
+          "540": {
+            "slug": "steelhead",
+            "years": [
+              2025
+            ],
+            "total_files": 1
+          }
+        },
+        "total_files": 3
       }
     }
   },
   "metadata": {
-    "generated": "2025-08-12T11:54:53.654758",
-    "total_files": 2983,
-    "schema": "v2-lightweight-index-only"
+    "generated": "2025-08-18T21:33:06.203162",
+    "total_files": 116,
+    "naming_standards_enforced": true,
+    "repository": "adfg-data-fish-count",
+    "description": "Clean ADFG Fish Count Data - canonical naming; includes index with years",
+    "source": "Alaska Department of Fish and Game"
   }
 }

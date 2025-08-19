@@ -255,7 +255,7 @@
     [
       2025,
       "July, 27 2025 00:00:00",
-      78,
+      12,
       410,
       30,
       "Chignik River",
@@ -264,7 +264,7 @@
     [
       2025,
       "July, 28 2025 00:00:00",
-      90,
+      12,
       410,
       30,
       "Chignik River",
@@ -386,15 +386,51 @@
       30,
       "Chignik River",
       "Chinook"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
     ]
   ],
   "metadata": {
-    "location_id": 30,
-    "species_id": "410",
+    "location_id": "30",
+    "species_id": 410,
     "year": "2025",
-    "totalRecords": 42,
-    "totalCount": 1499,
+    "totalRecords": 46,
+    "totalCount": 1373,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T20:46:22.402316"
+    "last_updated": "2025-08-18T21:30:51.610010"
   }
 }

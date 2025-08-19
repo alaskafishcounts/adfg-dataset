@@ -218,6 +218,15 @@
     ],
     [
       2025,
+      "August, 03 2025 00:00:00",
+      128,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
       "August, 04 2025 00:00:00",
       23,
       440,
@@ -278,15 +287,51 @@
       25,
       "Ayakulik River",
       "Pink"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      23,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      292,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      24,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      7,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
     ]
   ],
   "metadata": {
-    "location_id": 25,
-    "species_id": "440",
+    "location_id": "25",
+    "species_id": 440,
     "year": "2025",
-    "totalRecords": 30,
-    "totalCount": 4319,
+    "totalRecords": 35,
+    "totalCount": 4793,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T20:46:18.849464"
+    "last_updated": "2025-08-18T21:30:36.811998"
   }
 }

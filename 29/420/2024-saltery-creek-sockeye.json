@@ -488,17 +488,12 @@
     ]
   ],
   "metadata": {
-    "last_downloaded": "2025-08-11T12:34:10.107441",
-    "download_source": "ADFG Fish Counts API",
     "location_id": 29,
-    "species_id": 420,
-    "year": 2024,
-    "location_name": "Saltery Creek",
-    "species_name": "Sockeye Salmon",
-    "total_records": 53,
-    "data_range": {
-      "start_date": "June, 15 2024 00:00:00",
-      "end_date": "August, 06 2024 00:00:00"
-    }
+    "species_id": "420",
+    "year": "2024",
+    "totalRecords": 53,
+    "totalCount": 66110,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-18T14:54:36.196945"
   }
 }

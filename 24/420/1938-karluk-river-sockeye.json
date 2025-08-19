@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "location_id": 24,
+    "location_name": "Karluk River",
+    "species_id": 420,
+    "species_name": "Sockeye Salmon (Red)",
+    "year": 1938,
+    "data_type": "historical_catch",
+    "source": "Historical canning industry records (1882-1952)",
+    "method": "Commercial catch data",
+    "notes": "Historical data from canning industry - single annual count, no daily breakdown",
+    "created": "2025-08-18T16:03:01.549478",
+    "historical_period": "Pre-ADFG monitoring era"
+  },
+  "DATA": [
+    [
+      "01-01",
+      "00:00",
+      984009,
+      "Annual catch for 1938"
+    ]
+  ],
+  "summary": {
+    "total_fish": 984009,
+    "data_points": 1,
+    "period": "Annual",
+    "historical_significance": "Pre-ADFG commercial fishing era"
+  }
+}

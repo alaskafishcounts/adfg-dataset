@@ -179,15 +179,33 @@
       23,
       "Afognak River (Litnik)",
       "Coho"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      13,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      11,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
     ]
   ],
   "metadata": {
-    "location_id": 23,
-    "species_id": "430",
+    "location_id": "23",
+    "species_id": 430,
     "year": "2025",
-    "totalRecords": 19,
-    "totalCount": 237,
+    "totalRecords": 21,
+    "totalCount": 261,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-12T20:46:17.021934"
+    "last_updated": "2025-08-18T21:30:30.452264"
   }
 }
