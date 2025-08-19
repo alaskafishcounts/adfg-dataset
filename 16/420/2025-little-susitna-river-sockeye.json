@@ -11,69 +11,6 @@
   "DATA": [
     [
       2025,
-      "July, 24 2025 00:00:00",
-      10,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 25 2025 00:00:00",
-      12,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 26 2025 00:00:00",
-      61,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 28 2025 00:00:00",
-      33,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 29 2025 00:00:00",
-      19,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 30 2025 00:00:00",
-      12,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 31 2025 00:00:00",
-      62,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
       "August, 01 2025 00:00:00",
       72,
       420,
@@ -224,15 +161,101 @@
       16,
       "Little Susitna",
       "Sockeye"
+    ],
+    [
+      2025,
+      "August, 18 2025 00:00:00",
+      16,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      10,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      12,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      61,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      33,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      19,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      12,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      62,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
     ]
   ],
   "metadata": {
     "location_id": "16",
     "species_id": 420,
     "year": "2025",
-    "totalRecords": 24,
-    "totalCount": 605,
+    "totalRecords": 25,
+    "totalCount": 621,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-18T21:30:11.126132"
-  }
-}
+    "last_updated": "2025-08-18T21:30:11.126132",
+    "daysWithData": 25,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-19T11:21:35.700224",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-19T11:21:35.700226",
+        "newRecords": 1,
+        "updatedRecords": 0,
+        "unchangedRecords": 24,
+        "totalRecords": 25
+      }
+    ]
+  },
+  "record_update_times": {
+    

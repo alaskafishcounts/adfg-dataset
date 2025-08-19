@@ -11,51 +11,6 @@
   "DATA": [
     [
       2025,
-      "July, 27 2025 00:00:00",
-      1,
-      420,
-      17,
-      "Deshka",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 28 2025 00:00:00",
-      14,
-      420,
-      17,
-      "Deshka",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 29 2025 00:00:00",
-      11,
-      420,
-      17,
-      "Deshka",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 30 2025 00:00:00",
-      30,
-      420,
-      17,
-      "Deshka",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 31 2025 00:00:00",
-      0,
-      420,
-      17,
-      "Deshka",
-      "Sockeye"
-    ],
-    [
-      2025,
       "August, 01 2025 00:00:00",
       1,
       420,
@@ -179,15 +134,83 @@
       17,
       "Deshka",
       "Sockeye"
+    ],
+    [
+      2025,
+      "August, 18 2025 00:00:00",
+      0,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      1,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      14,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      11,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      30,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      0,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
     ]
   ],
   "metadata": {
     "location_id": "17",
     "species_id": 420,
     "year": "2025",
-    "totalRecords": 19,
+    "totalRecords": 20,
     "totalCount": 58,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-18T21:30:13.536712"
-  }
-}
+    "last_updated": "2025-08-18T21:30:13.536712",
+    "daysWithData": 6,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-19T11:21:37.611612",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-19T11:21:37.611614",
+        "newRecords": 1,
+        "updatedRecords": 0,
+        "unchangedRecords": 19,
+        "totalRecords": 20
+      }
+    ]
+  },
+  "record_update_times": {
+    

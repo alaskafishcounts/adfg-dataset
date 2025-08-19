@@ -11,114 +11,6 @@
   "DATA": [
     [
       2025,
-      "July, 20 2025 00:00:00",
-      1,
-      430,
-      9,
-      "Anchor River",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 21 2025 00:00:00",
-      0,
-      430,
-      9,
-      "Anchor River",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 22 2025 00:00:00",
-      0,
-      430,
-      9,
-      "Anchor River",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 23 2025 00:00:00",
-      0,
-      430,
-      9,
-      "Anchor River",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 24 2025 00:00:00",
-      0,
-      430,
-      9,
-      "Anchor River",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 25 2025 00:00:00",
-      3,
-      430,
-      9,
-      "Anchor River",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 26 2025 00:00:00",
-      7,
-      430,
-      9,
-      "Anchor River",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 27 2025 00:00:00",
-      7,
-      430,
-      9,
-      "Anchor River",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 28 2025 00:00:00",
-      8,
-      430,
-      9,
-      "Anchor River",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 29 2025 00:00:00",
-      17,
-      430,
-      9,
-      "Anchor River",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 30 2025 00:00:00",
-      7,
-      430,
-      9,
-      "Anchor River",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 31 2025 00:00:00",
-      14,
-      430,
-      9,
-      "Anchor River",
-      "Coho"
-    ],
-    [
-      2025,
       "August, 01 2025 00:00:00",
       31,
       430,
@@ -269,15 +161,146 @@
       9,
       "Anchor River",
       "Coho"
+    ],
+    [
+      2025,
+      "August, 18 2025 00:00:00",
+      101,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      3,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      7,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      7,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      8,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      17,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      7,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      14,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
     ]
   ],
   "metadata": {
     "location_id": "9",
     "species_id": 430,
     "year": "2025",
-    "totalRecords": 29,
-    "totalCount": 1334,
+    "totalRecords": 30,
+    "totalCount": 1435,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-18T21:29:57.574429"
-  }
-}
+    "last_updated": "2025-08-18T21:29:57.574429",
+    "daysWithData": 26,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-19T11:21:33.600409",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-19T11:21:33.600412",
+        "newRecords": 1,
+        "updatedRecords": 0,
+        "unchangedRecords": 29,
+        "totalRecords": 30
+      }
+    ]
+  },
+  "record_update_times": {
+    

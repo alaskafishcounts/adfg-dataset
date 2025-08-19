@@ -107,15 +107,56 @@
       25,
       "Ayakulik River",
       "Coho"
+    ],
+    [
+      2025,
+      "August, 15 2025 00:00:00",
+      20,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 16 2025 00:00:00",
+      6,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 17 2025 00:00:00",
+      0,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
     ]
   ],
   "metadata": {
     "location_id": "25",
     "species_id": 430,
     "year": "2025",
-    "totalRecords": 11,
-    "totalCount": 92,
+    "totalRecords": 14,
+    "totalCount": 118,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-18T21:30:36.610698"
-  }
-}
+    "last_updated": "2025-08-18T21:30:36.610698",
+    "daysWithData": 13,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-19T11:21:45.446208",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-19T11:21:45.446211",
+        "newRecords": 3,
+        "updatedRecords": 0,
+        "unchangedRecords": 11,
+        "totalRecords": 14
+      }
+    ]
+  },
+  "record_update_times": {
+    
