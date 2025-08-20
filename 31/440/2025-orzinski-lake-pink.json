@@ -11,6 +11,42 @@
   "DATA": [
     [
       2025,
+      "August, 01 2025 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      284,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      97,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      5,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2025,
       "July, 25 2025 00:00:00",
       9,
       440,
@@ -71,51 +107,49 @@
       31,
       "Orzinski Lake",
       "Pink"
-    ],
-    [
-      2025,
-      "August, 01 2025 00:00:00",
-      0,
-      440,
-      31,
-      "Orzinski Lake",
-      "Pink"
-    ],
-    [
-      2025,
-      "August, 02 2025 00:00:00",
-      284,
-      440,
-      31,
-      "Orzinski Lake",
-      "Pink"
-    ],
-    [
-      2025,
-      "August, 03 2025 00:00:00",
-      97,
-      440,
-      31,
-      "Orzinski Lake",
-      "Pink"
-    ],
-    [
-      2025,
-      "August, 04 2025 00:00:00",
-      5,
-      440,
-      31,
-      "Orzinski Lake",
-      "Pink"
     ]
   ],
   "metadata": {
-    "location_id": 31,
+    "location_id": "31",
     "species_id": 440,
     "year": "2025",
     "totalRecords": 11,
     "totalCount": 453,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-20T01:24:38.134123"
+    "last_updated": "2025-08-20T10:40:26.693684",
+    "daysWithData": 10,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-20T10:49:12.304537",
+    "updateCount": 2,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-20T10:44:14.166573",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 11,
+        "totalRecords": 11
+      },
+      {
+        "timestamp": "2025-08-20T10:49:12.304539",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 11,
+        "totalRecords": 11
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 11,
+    "total_records": 11,
+    "merge_timestamp": "2025-08-20T10:49:12.304544",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 10,
+      "total_count": 453,
+      "total_records": 11
+    }
   }
 }

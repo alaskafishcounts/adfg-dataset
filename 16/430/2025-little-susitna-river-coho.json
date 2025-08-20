@@ -11,87 +11,6 @@
   "DATA": [
     [
       2025,
-      "July, 23 2025 00:00:00",
-      0,
-      430,
-      16,
-      "Little Susitna",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 24 2025 00:00:00",
-      10,
-      430,
-      16,
-      "Little Susitna",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 25 2025 00:00:00",
-      18,
-      430,
-      16,
-      "Little Susitna",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 26 2025 00:00:00",
-      73,
-      430,
-      16,
-      "Little Susitna",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 27 2025 00:00:00",
-      7,
-      430,
-      16,
-      "Little Susitna",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 28 2025 00:00:00",
-      30,
-      430,
-      16,
-      "Little Susitna",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 29 2025 00:00:00",
-      134,
-      430,
-      16,
-      "Little Susitna",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 30 2025 00:00:00",
-      87,
-      430,
-      16,
-      "Little Susitna",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 31 2025 00:00:00",
-      99,
-      430,
-      16,
-      "Little Susitna",
-      "Coho"
-    ],
-    [
-      2025,
       "August, 01 2025 00:00:00",
       90,
       430,
@@ -251,15 +170,139 @@
       16,
       "Little Susitna",
       "Coho"
+    ],
+    [
+      2025,
+      "August, 19 2025 00:00:00",
+      121,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      10,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      18,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      73,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      7,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      30,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      134,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      87,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      99,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
     ]
   ],
   "metadata": {
-    "location_id": 16,
+    "location_id": "16",
     "species_id": 430,
     "year": "2025",
-    "totalRecords": 27,
-    "totalCount": 2959,
+    "totalRecords": 28,
+    "totalCount": 3080,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-20T01:24:19.110216"
+    "last_updated": "2025-08-20T10:39:39.936653",
+    "daysWithData": 27,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-20T10:48:25.944636",
+    "updateCount": 2,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-20T10:43:28.898248",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 28,
+        "totalRecords": 28
+      },
+      {
+        "timestamp": "2025-08-20T10:48:25.944638",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 28,
+        "totalRecords": 28
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 28,
+    "total_records": 28,
+    "merge_timestamp": "2025-08-20T10:48:25.944642",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 27,
+      "total_count": 3080,
+      "total_records": 28
+    }
   }
 }
