@@ -1,1079 +1,22 @@
 {
   "metadata": {
     "version": "3.0.0",
-    "format": "organized-index",
-    "generation_timestamp": "2025-08-20T01:24:53.552443",
+    "format": "organized_by_location_year_species",
+    "generation_timestamp": "2025-08-20T11:05:50.750982",
     "statistics": {
       "total_files": 116,
-      "locations": 34,
+      "locations": 64,
       "species": 13,
-      "years": 1
-    }
-  },
-  "files": [
-    "13/410/2025-russian-river-chinook.json",
-    "13/421/2025-russian-river-sockeye-early-run.json",
-    "13/422/2025-russian-river-sockeye-late-run.json",
-    "13/430/2025-russian-river-coho.json",
-    "15/410/2025-crooked-creek-chinook.json",
-    "16/410/2025-little-susitna-river-chinook.json",
-    "16/420/2025-little-susitna-river-sockeye.json",
-    "16/430/2025-little-susitna-river-coho.json",
-    "16/440/2025-little-susitna-river-pink.json",
-    "16/450/2025-little-susitna-river-chum.json",
-    "17/410/2025-deshka-river-chinook.json",
-    "17/420/2025-deshka-river-sockeye.json",
-    "17/430/2025-deshka-river-coho.json",
-    "17/440/2025-deshka-river-pink.json",
-    "17/450/2025-deshka-river-chum.json",
-    "21/420/2025-fish-creek-sockeye.json",
-    "21/430/2025-fish-creek-coho.json",
-    "21/440/2025-fish-creek-pink.json",
-    "21/450/2025-fish-creek-chum.json",
-    "23/410/2025-afognak-river-litnik-chinook.json",
-    "23/420/2025-afognak-river-litnik-sockeye.json",
-    "23/430/2025-afognak-river-litnik-coho.json",
-    "23/440/2025-afognak-river-litnik-pink.json",
-    "23/450/2025-afognak-river-litnik-chum.json",
-    "24/410/2025-karluk-river-chinook.json",
-    "24/420/2025-karluk-river-sockeye.json",
-    "24/430/2025-karluk-river-coho.json",
-    "24/440/2025-karluk-river-pink.json",
-    "24/450/2025-karluk-river-chum.json",
-    "25/410/2025-ayakulik-river-chinook.json",
-    "25/420/2025-ayakulik-river-sockeye.json",
-    "25/430/2025-ayakulik-river-coho.json",
-    "25/440/2025-ayakulik-river-pink.json",
-    "25/450/2025-ayakulik-river-chum.json",
-    "26/420/2025-olga-creek-upper-station-sockeye.json",
-    "26/430/2025-olga-creek-upper-station-coho.json",
-    "26/440/2025-olga-creek-upper-station-pink.json",
-    "26/450/2025-olga-creek-upper-station-chum.json",
-    "27/410/2025-dog-salmon-river-chinook.json",
-    "27/420/2025-dog-salmon-river-sockeye.json",
-    "27/430/2025-dog-salmon-river-coho.json",
-    "27/440/2025-dog-salmon-river-pink.json",
-    "27/450/2025-dog-salmon-river-chum.json",
-    "28/420/2025-buskin-river-sockeye.json",
-    "28/430/2025-buskin-river-coho.json",
-    "28/440/2025-buskin-river-pink.json",
-    "28/450/2025-buskin-river-chum.json",
-    "29/420/2025-saltery-creek-sockeye.json",
-    "29/430/2025-saltery-creek-coho.json",
-    "29/440/2025-saltery-creek-pink.json",
-    "29/450/2025-saltery-creek-chum.json",
-    "30/410/2025-chignik-river-chinook.json",
-    "30/420/2025-chignik-river-sockeye.json",
-    "30/430/2025-chignik-river-coho.json",
-    "30/440/2025-chignik-river-pink.json",
-    "30/450/2025-chignik-river-chum.json",
-    "31/420/2025-orzinski-lake-sockeye.json",
-    "31/440/2025-orzinski-lake-pink.json",
-    "31/450/2025-orzinski-lake-chum.json",
-    "32/410/2025-nelson-river-sapsuk-chinook.json",
-    "32/420/2025-nelson-river-sapsuk-sockeye.json",
-    "32/440/2025-nelson-river-sapsuk-pink.json",
-    "32/450/2025-nelson-river-sapsuk-chum.json",
-    "33/410/2025-bear-river-chinook.json",
-    "33/420/2025-bear-river-sockeye.json",
-    "33/440/2025-bear-river-pink.json",
-    "33/450/2025-bear-river-chum.json",
-    "35/410/2025-ilnik-river-chinook.json",
-    "35/420/2025-ilnik-river-sockeye.json",
-    "35/440/2025-ilnik-river-pink.json",
-    "37/410/2025-chena-river-chinook.json",
-    "37/450/2025-chena-river-chum.json",
-    "38/410/2025-salcha-river-chinook.json",
-    "38/450/2025-salcha-river-chum.json",
-    "39/420/2025-copper-river-miles-lake-sockeye.json",
-    "40/420/2025-kenai-river-late-run-sockeye-sockeye.json",
-    "41/420/2025-kasilof-river-sockeye-sockeye.json",
-    "5/410/2025-situk-river-chinook.json",
-    "5/420/2025-situk-river-sockeye.json",
-    "5/540/2025-situk-river-steelhead.json",
-    "51/410/2025-nushagak-river-chinook.json",
-    "51/420/2025-nushagak-river-sockeye.json",
-    "51/450/2025-nushagak-river-chum.json",
-    "6/410/2025-gulkana-river-chinook.json",
-    "6/420/2025-gulkana-river-sockeye.json",
-    "60/420/2025-pasagshak-river-sockeye.json",
-    "60/430/2025-pasagshak-river-coho.json",
-    "60/440/2025-pasagshak-river-pink.json",
-    "60/450/2025-pasagshak-river-chum.json",
-    "7/420/2025-coghill-river-sockeye.json",
-    "7/440/2025-coghill-river-pink.json",
-    "7/450/2025-coghill-river-chum.json",
-    "73/420/2025-jim-creek-sockeye.json",
-    "73/430/2025-jim-creek-coho.json",
-    "75/410/2025-ninilchik-river-chinook.json",
-    "76/420/2025-redoubt-lake-sockeye.json",
-    "77/420/2025-klag-lake-sockeye.json",
-    "78/410/2025-lake-creek-chinook.json",
-    "8/420/2025-eshamy-creek-sockeye.json",
-    "8/430/2025-eshamy-creek-coho.json",
-    "8/440/2025-eshamy-creek-pink.json",
-    "8/450/2025-eshamy-creek-chum.json",
-    "9/410/2025-anchor-river-chinook.json",
-    "9/430/2025-anchor-river-coho.json",
-    "9/540/2025-anchor-river-steelhead.json",
-    "location-species-master.json",
-    "locations-master.json",
-    "master-combos.json",
-    "master-goals.json",
-    "master-locations.json",
-    "master-monitoring-methods.json",
-    "master-regions.json",
-    "master-seasons.json",
-    "master-species.json",
-    "master-station-details.json",
-    "species-master.json"
-  ],
-  "index": {
-    "locations": {
-      "13": {
-        "slug": "russian-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "421": {
-            "slug": "sockeye-early-run",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "422": {
-            "slug": "sockeye-late-run",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 4
-      },
-      "15": {
-        "slug": "crooked-creek",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 1
-      },
-      "16": {
-        "slug": "little-susitna-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 5
-      },
-      "17": {
-        "slug": "deshka-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 5
-      },
-      "21": {
-        "slug": "fish-creek",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 4
-      },
-      "23": {
-        "slug": "afognak-river-litnik",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 5
-      },
-      "24": {
-        "slug": "karluk-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 5
-      },
-      "25": {
-        "slug": "ayakulik-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 5
-      },
-      "26": {
-        "slug": "olga-creek-upper-station",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 4
-      },
-      "27": {
-        "slug": "dog-salmon-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 5
-      },
-      "28": {
-        "slug": "buskin-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 4
-      },
-      "29": {
-        "slug": "saltery-creek",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 4
-      },
-      "30": {
-        "slug": "chignik-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 5
-      },
-      "31": {
-        "slug": "orzinski-lake",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 3
-      },
-      "32": {
-        "slug": "nelson-river-sapsuk",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 4
-      },
-      "33": {
-        "slug": "bear-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 4
-      },
-      "35": {
-        "slug": "ilnik-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 3
-      },
-      "37": {
-        "slug": "chena-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 2
-      },
-      "38": {
-        "slug": "salcha-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 2
-      },
-      "39": {
-        "slug": "copper-river-miles-lake",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 1
-      },
-      "40": {
-        "slug": "kenai-river-late-run-sockeye",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 1
-      },
-      "41": {
-        "slug": "kasilof-river-sockeye",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 1
-      },
-      "5": {
-        "slug": "situk-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "540": {
-            "slug": "steelhead",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 3
-      },
-      "51": {
-        "slug": "nushagak-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 3
-      },
-      "6": {
-        "slug": "gulkana-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 2
-      },
-      "60": {
-        "slug": "pasagshak-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 4
-      },
-      "7": {
-        "slug": "coghill-river",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 3
-      },
-      "73": {
-        "slug": "jim-creek",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 2
-      },
-      "75": {
-        "slug": "ninilchik-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 1
-      },
-      "76": {
-        "slug": "redoubt-lake",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 1
-      },
-      "77": {
-        "slug": "klag-lake",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 1
-      },
-      "78": {
-        "slug": "lake-creek",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 1
-      },
-      "8": {
-        "slug": "eshamy-creek",
-        "species": {
-          "420": {
-            "slug": "sockeye",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "440": {
-            "slug": "pink",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "450": {
-            "slug": "chum",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 4
-      },
-      "9": {
-        "slug": "anchor-river",
-        "species": {
-          "410": {
-            "slug": "chinook",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "430": {
-            "slug": "coho",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          },
-          "540": {
-            "slug": "steelhead",
-            "years": [
-              2025
-            ],
-            "total_files": 1
-          }
-        },
-        "total_files": 3
-      }
+      "years": 1,
+      "locations_with_data": 36,
+      "locations_without_data": 28
     }
   },
   "organized": {
     "13": {
-      "name": "Location 13",
+      "name": "Russian River",
+      "slug": "russian-river",
+      "region": "Southcentral",
       "total_files": 4,
       "species": {
         "410": {
@@ -1111,7 +54,9 @@
       }
     },
     "15": {
-      "name": "Location 15",
+      "name": "Crooked Creek",
+      "slug": "crooked-creek",
+      "region": "Southcentral",
       "total_files": 1,
       "species": {
         "410": {
@@ -1125,7 +70,9 @@
       }
     },
     "16": {
-      "name": "Location 16",
+      "name": "Little Susitna River",
+      "slug": "little-susitna-river",
+      "region": "Southcentral",
       "total_files": 5,
       "species": {
         "410": {
@@ -1171,7 +118,9 @@
       }
     },
     "17": {
-      "name": "Location 17",
+      "name": "Deshka River",
+      "slug": "deshka-river",
+      "region": "Southcentral",
       "total_files": 5,
       "species": {
         "410": {
@@ -1217,7 +166,9 @@
       }
     },
     "21": {
-      "name": "Location 21",
+      "name": "Fish Creek",
+      "slug": "fish-creek",
+      "region": "Southcentral",
       "total_files": 4,
       "species": {
         "420": {
@@ -1255,8 +206,10 @@
       }
     },
     "23": {
-      "name": "Location 23",
-      "total_files": 5,
+      "name": "Afognak River (Litnik)",
+      "slug": "afognak-river-litnik",
+      "region": "Southcentral",
+      "total_files": 6,
       "species": {
         "410": {
           "name": "Chinook",
@@ -1297,12 +250,22 @@
             "2025": "23/450/2025-afognak-river-litnik-chum.json"
           },
           "total_files": 1
+        },
+        "540": {
+          "name": "Steelhead",
+          "slug": "steelhead",
+          "years": {
+            "2025": "23/540/2025-afognak-river-litnik-steelhead.json"
+          },
+          "total_files": 1
         }
       }
     },
     "24": {
-      "name": "Location 24",
-      "total_files": 5,
+      "name": "Karluk River",
+      "slug": "karluk-river",
+      "region": "Southcentral",
+      "total_files": 6,
       "species": {
         "410": {
           "name": "Chinook",
@@ -1343,12 +306,22 @@
             "2025": "24/450/2025-karluk-river-chum.json"
           },
           "total_files": 1
+        },
+        "540": {
+          "name": "Steelhead",
+          "slug": "steelhead",
+          "years": {
+            "2025": "24/540/2025-karluk-river-steelhead.json"
+          },
+          "total_files": 1
         }
       }
     },
     "25": {
-      "name": "Location 25",
-      "total_files": 5,
+      "name": "Ayakulik River",
+      "slug": "ayakulik-river",
+      "region": "Southcentral",
+      "total_files": 6,
       "species": {
         "410": {
           "name": "Chinook",
@@ -1389,12 +362,22 @@
             "2025": "25/450/2025-ayakulik-river-chum.json"
           },
           "total_files": 1
+        },
+        "540": {
+          "name": "Steelhead",
+          "slug": "steelhead",
+          "years": {
+            "2025": "25/540/2025-ayakulik-river-steelhead.json"
+          },
+          "total_files": 1
         }
       }
     },
     "26": {
-      "name": "Location 26",
-      "total_files": 4,
+      "name": "Olga Creek (Upper Station)",
+      "slug": "olga-creek-upper-station",
+      "region": "Southcentral",
+      "total_files": 5,
       "species": {
         "420": {
           "name": "Sockeye",
@@ -1427,12 +410,22 @@
             "2025": "26/450/2025-olga-creek-upper-station-chum.json"
           },
           "total_files": 1
+        },
+        "540": {
+          "name": "Steelhead",
+          "slug": "steelhead",
+          "years": {
+            "2025": "26/540/2025-olga-creek-upper-station-steelhead.json"
+          },
+          "total_files": 1
         }
       }
     },
     "27": {
-      "name": "Location 27",
-      "total_files": 5,
+      "name": "Dog Salmon River",
+      "slug": "dog-salmon-river",
+      "region": "Southcentral",
+      "total_files": 6,
       "species": {
         "410": {
           "name": "Chinook",
@@ -1473,12 +466,22 @@
             "2025": "27/450/2025-dog-salmon-river-chum.json"
           },
           "total_files": 1
+        },
+        "540": {
+          "name": "Steelhead",
+          "slug": "steelhead",
+          "years": {
+            "2025": "27/540/2025-dog-salmon-river-steelhead.json"
+          },
+          "total_files": 1
         }
       }
     },
     "28": {
-      "name": "Location 28",
-      "total_files": 4,
+      "name": "Buskin River",
+      "slug": "buskin-river",
+      "region": "Southcentral",
+      "total_files": 5,
       "species": {
         "420": {
           "name": "Sockeye",
@@ -1511,12 +514,22 @@
             "2025": "28/450/2025-buskin-river-chum.json"
           },
           "total_files": 1
+        },
+        "540": {
+          "name": "Steelhead",
+          "slug": "steelhead",
+          "years": {
+            "2025": "28/540/2025-buskin-river-steelhead.json"
+          },
+          "total_files": 1
         }
       }
     },
     "29": {
-      "name": "Location 29",
-      "total_files": 4,
+      "name": "Saltery Creek",
+      "slug": "saltery-creek",
+      "region": "Southcentral",
+      "total_files": 5,
       "species": {
         "420": {
           "name": "Sockeye",
@@ -1549,11 +562,21 @@
             "2025": "29/450/2025-saltery-creek-chum.json"
           },
           "total_files": 1
+        },
+        "540": {
+          "name": "Steelhead",
+          "slug": "steelhead",
+          "years": {
+            "2025": "29/540/2025-saltery-creek-steelhead.json"
+          },
+          "total_files": 1
         }
       }
     },
     "30": {
-      "name": "Location 30",
+      "name": "Chignik River",
+      "slug": "chignik-river",
+      "region": "Southcentral",
       "total_files": 5,
       "species": {
         "410": {
@@ -1599,7 +622,9 @@
       }
     },
     "31": {
-      "name": "Location 31",
+      "name": "Orzinski Lake",
+      "slug": "orzinski-lake",
+      "region": "Southcentral",
       "total_files": 3,
       "species": {
         "420": {
@@ -1629,7 +654,9 @@
       }
     },
     "32": {
-      "name": "Location 32",
+      "name": "Nelson River (Sapsuk)",
+      "slug": "nelson-river-sapsuk",
+      "region": "Southcentral",
       "total_files": 4,
       "species": {
         "410": {
@@ -1667,7 +694,9 @@
       }
     },
     "33": {
-      "name": "Location 33",
+      "name": "Bear River",
+      "slug": "bear-river",
+      "region": "Southcentral",
       "total_files": 4,
       "species": {
         "410": {
@@ -1705,7 +734,9 @@
       }
     },
     "35": {
-      "name": "Location 35",
+      "name": "Ilnik River",
+      "slug": "ilnik-river",
+      "region": "Southcentral",
       "total_files": 3,
       "species": {
         "410": {
@@ -1735,7 +766,9 @@
       }
     },
     "37": {
-      "name": "Location 37",
+      "name": "Chena River",
+      "slug": "chena-river",
+      "region": "Interior",
       "total_files": 2,
       "species": {
         "410": {
@@ -1757,7 +790,9 @@
       }
     },
     "38": {
-      "name": "Location 38",
+      "name": "Salcha River",
+      "slug": "salcha-river",
+      "region": "Interior",
       "total_files": 2,
       "species": {
         "410": {
@@ -1779,7 +814,9 @@
       }
     },
     "39": {
-      "name": "Location 39",
+      "name": "Copper River (Miles Lake)",
+      "slug": "copper-river-miles-lake",
+      "region": "Southcentral",
       "total_files": 1,
       "species": {
         "420": {
@@ -1793,7 +830,9 @@
       }
     },
     "40": {
-      "name": "Location 40",
+      "name": "Kenai River (Late-Run Sockeye)",
+      "slug": "kenai-river-late-run-sockeye",
+      "region": "Southcentral",
       "total_files": 1,
       "species": {
         "420": {
@@ -1807,7 +846,9 @@
       }
     },
     "41": {
-      "name": "Location 41",
+      "name": "Kasilof River (Sockeye)",
+      "slug": "kasilof-river-sockeye",
+      "region": "Southcentral",
       "total_files": 1,
       "species": {
         "420": {
@@ -1821,7 +862,9 @@
       }
     },
     "5": {
-      "name": "Location 5",
+      "name": "Situk River",
+      "slug": "situk-river",
+      "region": "Southeast",
       "total_files": 3,
       "species": {
         "410": {
@@ -1851,7 +894,9 @@
       }
     },
     "51": {
-      "name": "Location 51",
+      "name": "Nushagak River",
+      "slug": "nushagak-river",
+      "region": "Southcentral",
       "total_files": 3,
       "species": {
         "410": {
@@ -1881,7 +926,9 @@
       }
     },
     "6": {
-      "name": "Location 6",
+      "name": "Gulkana River",
+      "slug": "gulkana-river",
+      "region": "Interior",
       "total_files": 2,
       "species": {
         "410": {
@@ -1903,7 +950,9 @@
       }
     },
     "60": {
-      "name": "Location 60",
+      "name": "Pasagshak River",
+      "slug": "pasagshak-river",
+      "region": "Southcentral",
       "total_files": 4,
       "species": {
         "420": {
@@ -1941,7 +990,9 @@
       }
     },
     "7": {
-      "name": "Location 7",
+      "name": "Coghill River",
+      "slug": "coghill-river",
+      "region": "Southcentral",
       "total_files": 3,
       "species": {
         "420": {
@@ -1970,8 +1021,34 @@
         }
       }
     },
+    "72": {
+      "name": "Kenai River (Chinook)",
+      "slug": "kenai-river",
+      "region": "Southcentral",
+      "total_files": 2,
+      "species": {
+        "411": {
+          "name": "Chinook-Early-Run",
+          "slug": "chinook-early-run",
+          "years": {
+            "2025": "72/411/2025-kenai-river-chinook-early-run.json"
+          },
+          "total_files": 1
+        },
+        "412": {
+          "name": "Chinook-Late-Run",
+          "slug": "chinook-late-run",
+          "years": {
+            "2025": "72/412/2025-kenai-river-chinook-late-run.json"
+          },
+          "total_files": 1
+        }
+      }
+    },
     "73": {
-      "name": "Location 73",
+      "name": "Jim Creek",
+      "slug": "jim-creek",
+      "region": "Southcentral",
       "total_files": 2,
       "species": {
         "420": {
@@ -1993,7 +1070,9 @@
       }
     },
     "75": {
-      "name": "Location 75",
+      "name": "Ninilchik River",
+      "slug": "ninilchik-river",
+      "region": "Southcentral",
       "total_files": 1,
       "species": {
         "410": {
@@ -2007,7 +1086,9 @@
       }
     },
     "76": {
-      "name": "Location 76",
+      "name": "Redoubt Lake",
+      "slug": "redoubt-lake",
+      "region": "Southeast",
       "total_files": 1,
       "species": {
         "420": {
@@ -2021,7 +1102,9 @@
       }
     },
     "77": {
-      "name": "Location 77",
+      "name": "Klag Lake",
+      "slug": "klag-lake",
+      "region": "Southeast",
       "total_files": 1,
       "species": {
         "420": {
@@ -2035,7 +1118,9 @@
       }
     },
     "78": {
-      "name": "Location 78",
+      "name": "Lake Creek",
+      "slug": "lake-creek",
+      "region": "Southcentral",
       "total_files": 1,
       "species": {
         "410": {
@@ -2048,8 +1133,34 @@
         }
       }
     },
+    "79": {
+      "name": "Iliuliuk River (Town Creek)",
+      "slug": "iliuliuk-river-town-creek",
+      "region": "Southwest",
+      "total_files": 2,
+      "species": {
+        "420": {
+          "name": "Sockeye",
+          "slug": "sockeye",
+          "years": {
+            "2025": "79/420/2025-iliuliuk-river-town-creek-sockeye.json"
+          },
+          "total_files": 1
+        },
+        "440": {
+          "name": "Pink",
+          "slug": "pink",
+          "years": {
+            "2025": "79/440/2025-iliuliuk-river-town-creek-pink.json"
+          },
+          "total_files": 1
+        }
+      }
+    },
     "8": {
-      "name": "Location 8",
+      "name": "Eshamy Creek",
+      "slug": "eshamy-creek",
+      "region": "Southcentral",
       "total_files": 4,
       "species": {
         "420": {
@@ -2087,7 +1198,9 @@
       }
     },
     "9": {
-      "name": "Location 9",
+      "name": "Anchor River",
+      "slug": "anchor-river",
+      "region": "Southcentral",
       "total_files": 3,
       "species": {
         "410": {
@@ -2115,6 +1228,202 @@
           "total_files": 1
         }
       }
+    },
+    "1": {
+      "name": "Auke Creek",
+      "slug": "auke-creek",
+      "region": "Southeast",
+      "total_files": 0,
+      "species": {}
+    },
+    "11": {
+      "name": "Deep Creek",
+      "slug": "deep-creek",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "19": {
+      "name": "Wasilla Creek",
+      "slug": "wasilla-creek",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "20": {
+      "name": "Cottonwood Creek",
+      "slug": "cottonwood-creek",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "22": {
+      "name": "Pauls Bay River",
+      "slug": "pauls-bay-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "34": {
+      "name": "Sandy River",
+      "slug": "sandy-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "42": {
+      "name": "Crescent River",
+      "slug": "crescent-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "43": {
+      "name": "Yentna River",
+      "slug": "yentna-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "44": {
+      "name": "Ugashik River",
+      "slug": "ugashik-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "45": {
+      "name": "Egegik River",
+      "slug": "egegik-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "46": {
+      "name": "Kvichak River",
+      "slug": "kvichak-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "47": {
+      "name": "Alagnak River",
+      "slug": "alagnak-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "48": {
+      "name": "Naknek River",
+      "slug": "naknek-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "49": {
+      "name": "Igushik River",
+      "slug": "igushik-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "50": {
+      "name": "Wood River",
+      "slug": "wood-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "52": {
+      "name": "Nuyakuk River",
+      "slug": "nuyakuk-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "53": {
+      "name": "Togiak River",
+      "slug": "togiak-river",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "74": {
+      "name": "McLees Lake",
+      "slug": "mclees-lake",
+      "region": "Southcentral",
+      "total_files": 0,
+      "species": {}
+    },
+    "80": {
+      "name": "Big Bay Creek Weir",
+      "slug": "big-bay-creek-weir",
+      "region": "Southwest",
+      "total_files": 0,
+      "species": {}
+    },
+    "81": {
+      "name": "Litnik (Afognak River) Weir",
+      "slug": "litnik-afognak-river-weir",
+      "region": "Southwest",
+      "total_files": 0,
+      "species": {}
+    },
+    "82": {
+      "name": "Buskin River Weir",
+      "slug": "buskin-river-weir",
+      "region": "Southwest",
+      "total_files": 0,
+      "species": {}
+    },
+    "83": {
+      "name": "Lake Louise Weir",
+      "slug": "lake-louise-weir",
+      "region": "Southwest",
+      "total_files": 0,
+      "species": {}
+    },
+    "84": {
+      "name": "Saltery River Weir",
+      "slug": "saltery-river-weir",
+      "region": "Southwest",
+      "total_files": 0,
+      "species": {}
+    },
+    "85": {
+      "name": "Karluk River Weir",
+      "slug": "karluk-river-weir",
+      "region": "Southwest",
+      "total_files": 0,
+      "species": {}
+    },
+    "86": {
+      "name": "Frazer Fish Pass",
+      "slug": "frazer-fish-pass",
+      "region": "Southwest",
+      "total_files": 0,
+      "species": {}
+    },
+    "87": {
+      "name": "Dog Salmon Creek Weir",
+      "slug": "dog-salmon-creek-weir",
+      "region": "Southwest",
+      "total_files": 0,
+      "species": {}
+    },
+    "88": {
+      "name": "Upper Station (Olga Creek) Weir",
+      "slug": "upper-station-olga-creek-weir",
+      "region": "Southwest",
+      "total_files": 0,
+      "species": {}
+    },
+    "89": {
+      "name": "Ayakulik River Weir",
+      "slug": "ayakulik-river-weir",
+      "region": "Southwest",
+      "total_files": 0,
+      "species": {}
     }
   }
 }
