@@ -1,0 +1,290 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "August, 01 2025 00:00:00",
+      84,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      83,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      79,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      54,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      33,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      94,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      33,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 08 2025 00:00:00",
+      13,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 09 2025 00:00:00",
+      39,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 10 2025 00:00:00",
+      54,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      16,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      31,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      9,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      25,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 15 2025 00:00:00",
+      10,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 16 2025 00:00:00",
+      10,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 17 2025 00:00:00",
+      8,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 18 2025 00:00:00",
+      5,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 19 2025 00:00:00",
+      7,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      62,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      32,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      56,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      21,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      31,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      51,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      25,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": "16",
+    "species_id": 440,
+    "year": "2025",
+    "totalRecords": 26,
+    "totalCount": 965,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-20T10:39:39.969093",
+    "daysWithData": 26,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-20T10:48:25.944707",
+    "updateCount": 2,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-20T10:43:28.894754",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 26,
+        "totalRecords": 26
+      },
+      {
+        "timestamp": "2025-08-20T10:48:25.944709",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 26,
+        "totalRecords": 26
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 26,
+    "total_records": 26,
+    "merge_timestamp": "2025-08-20T10:48:25.944711",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 26,
+      "total_count": 965,
+      "total_records": 26
+    }
+  }
+}

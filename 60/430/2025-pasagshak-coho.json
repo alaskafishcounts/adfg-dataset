@@ -1,0 +1,74 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      1,
+      430,
+      60,
+      "Pasagshak",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      0,
+      430,
+      60,
+      "Pasagshak",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": "60",
+    "species_id": 430,
+    "year": "2025",
+    "totalRecords": 2,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-20T10:41:36.761737",
+    "daysWithData": 1,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-20T10:50:21.426783",
+    "updateCount": 2,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-20T10:45:24.438080",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 2,
+        "totalRecords": 2
+      },
+      {
+        "timestamp": "2025-08-20T10:50:21.426786",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 2,
+        "totalRecords": 2
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 2,
+    "total_records": 2,
+    "merge_timestamp": "2025-08-20T10:50:21.426790",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 1,
+      "total_count": 1,
+      "total_records": 2
+    }
+  }
+}

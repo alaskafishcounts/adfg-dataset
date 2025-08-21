@@ -1,0 +1,290 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "August, 01 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      1,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 08 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 09 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 10 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 15 2025 00:00:00",
+      2,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 16 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 17 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 18 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 19 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      58,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      37,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      5,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "17",
+    "species_id": 450,
+    "year": "2025",
+    "totalRecords": 26,
+    "totalCount": 103,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-20T10:39:43.719649",
+    "daysWithData": 5,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-20T10:48:29.674050",
+    "updateCount": 2,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-20T10:43:32.787177",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 26,
+        "totalRecords": 26
+      },
+      {
+        "timestamp": "2025-08-20T10:48:29.674051",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 26,
+        "totalRecords": 26
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 26,
+    "total_records": 26,
+    "merge_timestamp": "2025-08-20T10:48:29.674055",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 5,
+      "total_count": 103,
+      "total_records": 26
+    }
+  }
+}
