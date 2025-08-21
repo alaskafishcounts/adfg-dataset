@@ -1,0 +1,461 @@
+{
+  "version": "1.0.113",
+  "metadata": {
+    "created": "2025-08-15T22:00:00.000Z",
+    "last_updated": "2025-08-15T22:00:00.000Z",
+    "description": "Comprehensive regional management system for Alaska Fish Count App",
+    "total_regions": 8,
+    "total_sub_regions": 24,
+    "data_sources": [
+      "ADFG official regional divisions",
+      "Alaska Department of Natural Resources",
+      "US Census Bureau Alaska regions",
+      "Alaska Department of Transportation"
+    ]
+  },
+  "regional_hierarchy": {
+    "primary_regions": [
+      "Southeast",
+      "Southcentral", 
+      "Interior",
+      "Southwest",
+      "Western",
+      "Arctic",
+      "Aleutians",
+      "Yukon"
+    ],
+    "hierarchy_type": "geographic_administrative",
+    "boundary_source": "ADFG official management areas"
+  },
+  "regions": {
+    "Southeast": {
+      "id": "SE",
+      "name": "Southeast",
+      "full_name": "Southeast Alaska",
+      "adfg_code": "R1",
+      "description": "Panhandle region from Yakutat to Ketchikan",
+      "boundaries": {
+        "north": "Yakutat area",
+        "south": "Ketchikan area", 
+        "east": "Canada border",
+        "west": "Gulf of Alaska"
+      },
+      "sub_regions": [
+        "Yakutat Area",
+        "Haines/Skagway Area",
+        "Juneau Area", 
+        "Sitka Area",
+        "Petersburg/Wrangell Area",
+        "Ketchikan Area",
+        "Prince of Wales Island Area"
+      ],
+      "major_watersheds": [
+        "Taku River",
+        "Stikine River", 
+        "Unuk River",
+        "Nass River",
+        "Situk River"
+      ],
+      "monitoring_stations": 2,
+      "primary_species": ["sockeye", "chinook", "coho", "pink", "chum", "steelhead"],
+      "management_office": "Juneau",
+      "contact_info": {
+        "phone": "(907) 465-4100",
+        "email": "dfg.dsf.seastaff@alaska.gov"
+      },
+      "fishing_reports_url": "https://www.adfg.alaska.gov/sf/FishingReports/index.cfm?ADFG=R1.home",
+      "color_scheme": {
+        "primary": "#059669",
+        "secondary": "#10b981",
+        "accent": "#34d399"
+      },
+      "coordinates": {
+        "center": [57.7900, -135.0000],
+        "bounds": {
+          "north": 60.0000,
+          "south": 54.0000,
+          "east": -130.0000,
+          "west": -140.0000
+        }
+      }
+    },
+    "Southcentral": {
+      "id": "SC",
+      "name": "Southcentral", 
+      "full_name": "Southcentral Alaska",
+      "adfg_code": "R2",
+      "description": "Central region including Anchorage, Kenai Peninsula, and Susitna Valley",
+      "boundaries": {
+        "north": "Talkeetna Mountains",
+        "south": "Kenai Peninsula",
+        "east": "Chugach Mountains",
+        "west": "Alaska Range"
+      },
+      "sub_regions": [
+        "Anchorage Area",
+        "Kenai Peninsula Area",
+        "Susitna Valley Area",
+        "Prince William Sound Area",
+        "Kodiak Area",
+        "Alaska Peninsula Area"
+      ],
+      "major_watersheds": [
+        "Kenai River",
+        "Susitna River",
+        "Little Susitna River",
+        "Russian River",
+        "Ship Creek",
+        "Campbell Creek"
+      ],
+      "monitoring_stations": 8,
+      "primary_species": ["sockeye", "chinook", "coho", "pink", "chum", "rainbow"],
+      "management_office": "Anchorage",
+      "contact_info": {
+        "phone": "(907) 267-2218",
+        "email": "dfg.dsf.southcentral@alaska.gov"
+      },
+      "fishing_reports_url": "https://www.adfg.alaska.gov/sf/FishingReports/index.cfm?ADFG=R2.Home",
+      "color_scheme": {
+        "primary": "#2563eb",
+        "secondary": "#3b82f6",
+        "accent": "#60a5fa"
+      },
+      "coordinates": {
+        "center": [61.2181, -149.9003],
+        "bounds": {
+          "north": 63.0000,
+          "south": 59.0000",
+          "east": -145.0000,
+          "west": -155.0000
+        }
+      }
+    },
+    "Interior": {
+      "id": "IN",
+      "name": "Interior",
+      "full_name": "Interior Alaska",
+      "adfg_code": "R3",
+      "description": "Central Alaska region including Fairbanks, Denali, and Yukon River drainage",
+      "boundaries": {
+        "north": "Brooks Range",
+        "south": "Alaska Range",
+        "east": "Canadian border",
+        "west": "Kuskokwim Mountains"
+      },
+      "sub_regions": [
+        "Fairbanks Area",
+        "Tanana Valley Area",
+        "Yukon River Area",
+        "Kuskokwim Area",
+        "Upper Copper River Area",
+        "Upper Susitna Area"
+      ],
+      "major_watersheds": [
+        "Yukon River",
+        "Tanana River",
+        "Kuskokwim River",
+        "Copper River",
+        "Susitna River"
+      ],
+      "monitoring_stations": 0,
+      "primary_species": ["chinook", "chum", "coho", "pink"],
+      "management_office": "Fairbanks",
+      "contact_info": {
+        "phone": "(907) 459-7207",
+        "email": "dfg.dsf.interior@alaska.gov"
+      },
+      "fishing_reports_url": "https://www.adfg.alaska.gov/sf/FishingReports/index.cfm?ADFG=R3.home",
+      "color_scheme": {
+        "primary": "#7c3aed",
+        "secondary": "#8b5cf6",
+        "accent": "#a78bfa"
+      },
+      "coordinates": {
+        "center": [64.8438, -147.7231],
+        "bounds": {
+          "north": 68.0000,
+          "south": 62.0000",
+          "east": -140.0000,
+          "west": -160.0000
+        }
+      }
+    },
+    "Southwest": {
+      "id": "SW",
+      "name": "Southwest",
+      "full_name": "Southwest Alaska",
+      "adfg_code": "R4",
+      "description": "Kodiak Island, Alaska Peninsula, and Bristol Bay region",
+      "boundaries": {
+        "north": "Alaska Peninsula",
+        "south": "Kodiak Island",
+        "east": "Cook Inlet",
+        "west": "Bering Sea"
+      },
+      "sub_regions": [
+        "Kodiak Area",
+        "Alaska Peninsula Area",
+        "Bristol Bay Area",
+        "Aleutian Islands Area"
+      ],
+      "major_watersheds": [
+        "Kodiak Island streams",
+        "Bristol Bay rivers",
+        "Alaska Peninsula streams"
+      ],
+      "monitoring_stations": 1,
+      "primary_species": ["sockeye", "chinook", "coho", "pink", "chum"],
+      "management_office": "Kodiak",
+      "contact_info": {
+        "phone": "(907) 486-1840",
+        "email": "dfg.dsf.southwest@alaska.gov"
+      },
+      "fishing_reports_url": "https://www.adfg.alaska.gov/sf/FishingReports/index.cfm?ADFG=R4.home",
+      "color_scheme": {
+        "primary": "#dc2626",
+        "secondary": "#ef4444",
+        "accent": "#f87171"
+      },
+      "coordinates": {
+        "center": [57.7900, -152.4072],
+        "bounds": {
+          "north": 60.0000,
+          "south": 54.0000",
+          "east": -150.0000,
+          "west": -170.0000
+        }
+      }
+    },
+    "Western": {
+      "id": "WE",
+      "name": "Western",
+      "full_name": "Western Alaska",
+      "adfg_code": "R5",
+      "description": "Western Alaska including Nome, Kotzebue, and Bering Strait region",
+      "boundaries": {
+        "north": "Chukchi Sea",
+        "south": "Yukon-Kuskokwim Delta",
+        "east": "Kuskokwim Mountains",
+        "west": "Bering Sea"
+      },
+      "sub_regions": [
+        "Nome Area",
+        "Kotzebue Area",
+        "Bering Strait Area",
+        "Yukon Delta Area"
+      ],
+      "major_watersheds": [
+        "Yukon River",
+        "Kuskokwim River",
+        "Nome area streams"
+      ],
+      "monitoring_stations": 0,
+      "primary_species": ["chinook", "chum", "coho", "pink"],
+      "management_office": "Nome",
+      "contact_info": {
+        "phone": "(907) 443-2271",
+        "email": "dfg.dsf.western@alaska.gov"
+      },
+      "fishing_reports_url": "https://www.adfg.alaska.gov/sf/FishingReports/index.cfm?ADFG=R5.home",
+      "color_scheme": {
+        "primary": "#ea580c",
+        "secondary": "#f97316",
+        "accent": "#fb923c"
+      },
+      "coordinates": {
+        "center": [64.5011, -165.4064],
+        "bounds": {
+          "north": 68.0000,
+          "south": 62.0000,
+          "east": -160.0000,
+          "west": -170.0000
+        }
+      }
+    },
+    "Arctic": {
+      "id": "AR",
+      "name": "Arctic",
+      "full_name": "Arctic Alaska",
+      "adfg_code": "R6",
+      "description": "North Slope and Arctic coastal region",
+      "boundaries": {
+        "north": "Arctic Ocean",
+        "south": "Brooks Range",
+        "east": "Canadian border",
+        "west": "Chukchi Sea"
+      },
+      "sub_regions": [
+        "North Slope Area",
+        "Arctic Coastal Plain",
+        "Brooks Range Foothills"
+      ],
+      "major_watersheds": [
+        "Colville River",
+        "Kuparuk River",
+        "Sagavanirktok River"
+      ],
+      "monitoring_stations": 0,
+      "primary_species": ["arctic char", "dolly varden", "salmon"],
+      "management_office": "Fairbanks",
+      "contact_info": {
+        "phone": "(907) 459-7207",
+        "email": "dfg.dsf.arctic@alaska.gov"
+      },
+      "fishing_reports_url": "https://www.adfg.alaska.gov/sf/FishingReports/index.cfm?ADFG=R6.home",
+      "color_scheme": {
+        "primary": "#0891b2",
+        "secondary": "#0ea5e9",
+        "accent": "#38bdf8"
+      },
+      "coordinates": {
+        "center": [69.0000, -150.0000],
+        "bounds": {
+          "north": 72.0000,
+          "south": 66.0000",
+          "east": -140.0000,
+          "west": -160.0000
+        }
+      }
+    },
+    "Aleutians": {
+      "id": "AL",
+      "name": "Aleutians",
+      "full_name": "Aleutian Islands",
+      "adfg_code": "R7",
+      "description": "Aleutian Islands chain from Unimak to Attu",
+      "boundaries": {
+        "north": "Bering Sea",
+        "south": "North Pacific",
+        "east": "Alaska Peninsula",
+        "west": "International Date Line"
+      },
+      "sub_regions": [
+        "Eastern Aleutians",
+        "Central Aleutians",
+        "Western Aleutians"
+      ],
+      "major_watersheds": [
+        "Unimak Island streams",
+        "Unalaska streams",
+        "Adak streams"
+      ],
+      "monitoring_stations": 0,
+      "primary_species": ["salmon", "trout", "char"],
+      "management_office": "Dutch Harbor",
+      "contact_info": {
+        "phone": "(907) 581-1234",
+        "email": "dfg.dsf.aleutians@alaska.gov"
+      },
+      "fishing_reports_url": "https://www.adfg.alaska.gov/sf/FishingReports/index.cfm?ADFG=R7.home",
+      "color_scheme": {
+        "primary": "#6b21a8",
+        "secondary": "#7c3aed",
+        "accent": "#a78bfa"
+      },
+      "coordinates": {
+        "center": [52.0000, -175.0000],
+        "bounds": {
+          "north": 55.0000,
+          "south": 50.0000",
+          "east": -170.0000,
+          "west": 180.0000
+        }
+      }
+    },
+    "Yukon": {
+      "id": "YU",
+      "name": "Yukon",
+      "full_name": "Yukon River Drainage",
+      "adfg_code": "R8",
+      "description": "Yukon River drainage and tributaries",
+      "boundaries": {
+        "north": "Brooks Range",
+        "south": "Alaska Range",
+        "east": "Canadian border",
+        "west": "Kuskokwim Mountains"
+      },
+      "sub_regions": [
+        "Upper Yukon Area",
+        "Middle Yukon Area",
+        "Lower Yukon Area",
+        "Tanana River Area"
+      ],
+      "major_watersheds": [
+        "Yukon River",
+        "Tanana River",
+        "Koyukuk River",
+        "Porcupine River"
+      ],
+      "monitoring_stations": 0,
+      "primary_species": ["chinook", "chum", "coho", "pink"],
+      "management_office": "Fairbanks",
+      "contact_info": {
+        "phone": "(907) 459-7207",
+        "email": "dfg.dsf.yukon@alaska.gov"
+      },
+      "fishing_reports_url": "https://www.adfg.alaska.gov/sf/FishingReports/index.cfm?ADFG=R8.home",
+      "color_scheme": {
+        "primary": "#059669",
+        "secondary": "#10b981",
+        "accent": "#34d399"
+      },
+      "coordinates": {
+        "center": [65.0000, -150.0000],
+        "bounds": {
+          "north": 68.0000,
+          "south": 62.0000",
+          "east": -140.0000,
+          "west": -160.0000
+        }
+      }
+    }
+  },
+  "regional_statistics": {
+    "total_monitoring_stations": 11,
+    "stations_by_region": {
+      "Southeast": 2,
+      "Southcentral": 8,
+      "Kodiak": 1,
+      "Interior": 0,
+      "Southwest": 0,
+      "Western": 0,
+      "Arctic": 0,
+      "Aleutians": 0,
+      "Yukon": 0
+    },
+    "species_coverage": {
+      "sockeye": 8,
+      "chinook": 6,
+      "coho": 7,
+      "pink": 6,
+      "chum": 6,
+      "steelhead": 2,
+      "rainbow": 1
+    }
+  },
+  "management_structure": {
+    "regional_offices": [
+      "Juneau (Southeast)",
+      "Anchorage (Southcentral)",
+      "Fairbanks (Interior/Arctic/Yukon)",
+      "Kodiak (Southwest)",
+      "Nome (Western)",
+      "Dutch Harbor (Aleutians)"
+    ],
+    "coordination": "ADFG Sport Fish Division coordinates regional management",
+    "data_sharing": "Regional data shared through centralized database"
+  },
+  "future_expansion": {
+    "planned_regions": [
+      "Additional Interior monitoring stations",
+      "Western Alaska expansion",
+      "Arctic coastal monitoring"
+    ],
+    "scalability_features": [
+      "Modular region definitions",
+      "Dynamic boundary updates",
+      "Flexible sub-region creation",
+      "Regional theme customization"
+    ]
+  }
+}

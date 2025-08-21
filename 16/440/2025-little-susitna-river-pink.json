@@ -11,6 +11,69 @@
   "DATA": [
     [
       2025,
+      "July, 24 2025 00:00:00",
+      62,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      32,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      56,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      21,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      31,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      51,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      25,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
       "August, 01 2025 00:00:00",
       84,
       440,
@@ -179,112 +242,15 @@
       16,
       "Little Susitna",
       "Pink"
-    ],
-    [
-      2025,
-      "July, 24 2025 00:00:00",
-      62,
-      440,
-      16,
-      "Little Susitna",
-      "Pink"
-    ],
-    [
-      2025,
-      "July, 25 2025 00:00:00",
-      32,
-      440,
-      16,
-      "Little Susitna",
-      "Pink"
-    ],
-    [
-      2025,
-      "July, 26 2025 00:00:00",
-      56,
-      440,
-      16,
-      "Little Susitna",
-      "Pink"
-    ],
-    [
-      2025,
-      "July, 27 2025 00:00:00",
-      21,
-      440,
-      16,
-      "Little Susitna",
-      "Pink"
-    ],
-    [
-      2025,
-      "July, 28 2025 00:00:00",
-      31,
-      440,
-      16,
-      "Little Susitna",
-      "Pink"
-    ],
-    [
-      2025,
-      "July, 29 2025 00:00:00",
-      51,
-      440,
-      16,
-      "Little Susitna",
-      "Pink"
-    ],
-    [
-      2025,
-      "July, 30 2025 00:00:00",
-      25,
-      440,
-      16,
-      "Little Susitna",
-      "Pink"
     ]
   ],
   "metadata": {
-    "location_id": "16",
+    "location_id": 16,
     "species_id": 440,
     "year": "2025",
     "totalRecords": 26,
     "totalCount": 965,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-20T10:39:39.969093",
-    "daysWithData": 26,
-    "latestDate": 2025,
-    "lastUpdated": "2025-08-20T10:48:25.944707",
-    "updateCount": 2,
-    "mergeHistory": [
-      {
-        "timestamp": "2025-08-20T10:43:28.894754",
-        "newRecords": 0,
-        "updatedRecords": 0,
-        "unchangedRecords": 26,
-        "totalRecords": 26
-      },
-      {
-        "timestamp": "2025-08-20T10:48:25.944709",
-        "newRecords": 0,
-        "updatedRecords": 0,
-        "unchangedRecords": 26,
-        "totalRecords": 26
-      }
-    ]
-  },
-  "record_update_times": {},
-  "merge_info": {
-    "new_records_added": 0,
-    "existing_records_updated": 0,
-    "unchanged_records": 26,
-    "total_records": 26,
-    "merge_timestamp": "2025-08-20T10:48:25.944711",
-    "data_freshness": {
-      "latest_date": 2025,
-      "days_with_data": 26,
-      "total_count": 965,
-      "total_records": 26
-    }
+    "last_updated": "2025-08-21T05:51:07.378031"
   }
 }

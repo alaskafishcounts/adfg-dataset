@@ -1,0 +1,504 @@
+{
+  "version": "2.0.0",
+  "metadata": {
+    "created": "2025-08-15T21:30:00.000Z",
+    "last_updated": "2025-08-15T21:30:00.000Z",
+    "description": "Comprehensive station details including goals, technical specifications, management information, and detailed descriptions",
+    "total_stations": 53,
+    "total_goals": 12,
+    "data_sources": [
+      "DNU/archive-dont-use-me/adfg_goals.json",
+      "DNU/master-locations-backup-consolidation-20250814_125741.json",
+      "DNU/archive-dont-use-me/adfg-location-info.json",
+      "ADFG official documentation",
+      "User provided Russian River details"
+    ]
+  },
+  "goal_summary": {
+    "stations_with_goals": 12,
+    "goal_types": {
+      "SEG": "Sustainable Escapement Goal - Long-term population sustainability target",
+      "BEG": "Biological Escapement Goal - Biological minimum for population health",
+      "OSM": "Optimal Sustaining Model - Population optimization target",
+      "Inriver": "Inriver Management Target - Fishery management within river",
+      "Harvest": "Harvest Target - Commercial/sport fishing harvest goals",
+      "Production": "Production Goal - Hatchery or enhancement targets"
+    }
+  },
+  "technical_specifications": {
+    "counting_structures": {
+      "Fixed Weir": "Permanent weir structure for fish counting",
+      "Sonar Project": "Acoustic sonar system for fish detection and counting",
+      "Video Weir": "Weir with underwater video monitoring system",
+      "Mixed Methods": "Combination of weir and sonar technologies",
+      "ARIS Sonar": "Advanced River Information System sonar technology"
+    },
+    "monitoring_methods": {
+      "Weir": "Physical barrier with fish passage counting",
+      "Sonar": "Acoustic detection and counting system",
+      "Video": "Underwater camera monitoring system",
+      "Mixed": "Combination of multiple counting technologies"
+    }
+  },
+  "stations": {
+    "1": {
+      "id": 1,
+      "slug": "auke-creek",
+      "official_name": "Auke Creek",
+      "region": "Southeast",
+      "sub_region": "Juneau Area",
+      "coordinates": {
+        "lat": 58.38072,
+        "lon": -134.64187,
+        "dms": "58°22'50.6\"N 134°38'30.7\"W"
+      },
+      "technical_details": {
+        "counting_structure": "Fixed weir",
+        "monitoring_method": "Weir",
+        "season": "Summer-Fall",
+        "sampling_frequency": "Daily",
+        "operator_agency": "ADF&G",
+        "water_body_type": "Creek",
+        "habitat_type": "Creek",
+        "watershed_name": "Auke Bay Watershed",
+        "nearest_town": "Juneau",
+        "accessibility": "Road access",
+        "anadromous_status": "Yes"
+      },
+      "management_goals": {
+        "420": {
+          "species_name": "Sockeye Salmon",
+          "goal_type": "BEG",
+          "goals": {
+            "Biological Escapement Goal for Sockeye": "15,000 - 35,000"
+          },
+          "description": "Historical research weir, important for long-term data. Sockeye escapement monitoring for research purposes.",
+          "source": "ADFG Southeast Region Management Plan",
+          "last_updated": "2024",
+          "status": "Active"
+        }
+      },
+      "detailed_description": {
+        "short": "Historical research weir monitoring sockeye salmon escapement",
+        "long": "Auke Creek is a small tributary to Auke Bay near Juneau, Alaska. The weir has been operated since the 1970s as a research station to monitor sockeye salmon escapement. This location provides important long-term data for understanding salmon population dynamics in Southeast Alaska. The creek supports a small but consistent sockeye run that is monitored daily during the summer and fall seasons.",
+        "station_info": "The weir is located approximately 2.5 km from the nearest USGS monitoring station (Mendenhall River near Auke Bay). The counting structure is a fixed weir that operates daily during the salmon migration season.",
+        "station_description": "Research-grade weir facility operated by ADF&G for long-term salmon monitoring. The station provides critical baseline data for Southeast Alaska salmon populations and serves as a reference site for regional management decisions.",
+        "weir_sonar_description": "Fixed weir structure with manual fish counting. The weir creates a controlled passage for migrating salmon, allowing biologists to accurately count fish as they pass through the structure. No sonar technology is currently deployed at this location."
+      },
+      "species_present": ["sockeye", "coho", "pink", "chum"],
+      "years_covered": [],
+      "status": "Dormant",
+      "comments": "Historical research weir, important for long-term data"
+    },
+    "5": {
+      "id": 5,
+      "slug": "situk-river",
+      "official_name": "Situk River",
+      "region": "Southeast",
+      "sub_region": "Yakutat Area",
+      "coordinates": {
+        "lat": 59.58637,
+        "lon": -139.49419,
+        "dms": "59°35'10.9\"N 139°29'39.1\"W"
+      },
+      "technical_details": {
+        "counting_structure": "Fixed weir",
+        "monitoring_method": "Weir",
+        "season": "Spring-Summer-Fall",
+        "sampling_frequency": "Daily",
+        "operator_agency": "ADF&G",
+        "water_body_type": "River",
+        "habitat_type": "River",
+        "watershed_name": "Situk River Watershed",
+        "nearest_town": "Yakutat",
+        "accessibility": "Road access",
+        "anadromous_status": "Yes"
+      },
+      "management_goals": {
+        "410": {
+          "species_name": "Chinook Salmon",
+          "goal_type": "BEG",
+          "goals": {
+            "Biological Escapement Goal for Chinook in 2019": "450 - 1,050"
+          },
+          "description": "Chinook salmon monitoring at Situk River weir",
+          "source": "ADFG Southeast Region Management Plan",
+          "last_updated": "2019",
+          "status": "Active"
+        }
+      },
+      "detailed_description": {
+        "short": "Important steelhead and salmon monitoring location with comprehensive species coverage",
+        "long": "The Situk River is a major river system near Yakutat, Alaska, known for its diverse salmon populations and steelhead trout. The weir monitors multiple salmon species including sockeye, coho, pink, chum, and Chinook, as well as steelhead trout. This location provides critical data for managing multiple fisheries in the Southeast region.",
+        "station_info": "The weir is located approximately 0.8 km from the nearest USGS monitoring station (Situk River near Yakutat). The counting structure operates daily during the extended fishing season from spring through fall.",
+        "station_description": "Comprehensive monitoring station covering multiple salmon species and steelhead trout. The station provides essential data for managing the diverse fisheries of the Situk River system and supports both commercial and recreational fishing regulations.",
+        "weir_sonar_description": "Fixed weir structure with daily fish counting operations. The weir creates a controlled passage for all migrating fish species, allowing biologists to accurately count and identify different species as they pass through. The structure is designed to handle the high fish volumes typical of the Situk River system."
+      },
+      "species_present": ["sockeye", "coho", "pink", "chum", "steelhead"],
+      "years_covered": [2025],
+      "status": "Active",
+      "comments": "Important steelhead and salmon monitoring location"
+    },
+    "13": {
+      "id": 13,
+      "slug": "russian-river",
+      "official_name": "Russian River",
+      "region": "Southcentral",
+      "sub_region": "Kenai Peninsula",
+      "coordinates": {
+        "lat": 60.4722,
+        "lon": -149.6228,
+        "dms": "60°28'19.9\"N 149°37'22.1\"W"
+      },
+      "technical_details": {
+        "counting_structure": "Fixed weir",
+        "monitoring_method": "Weir",
+        "season": "Summer-Fall",
+        "sampling_frequency": "Daily",
+        "operator_agency": "ADF&G",
+        "water_body_type": "River",
+        "habitat_type": "River",
+        "watershed_name": "Russian River Watershed",
+        "nearest_town": "Cooper Landing",
+        "accessibility": "Road access",
+        "anadromous_status": "Yes"
+      },
+      "management_goals": {
+        "421": {
+          "species_name": "Sockeye Salmon - Early Run",
+          "goal_type": "BEG",
+          "goals": {
+            "Biological Escapement Goal for Sockeye - Early Run": "22,000 - 42,000"
+          },
+          "description": "Early-run sockeye salmon escapement monitoring with established biological escapement goal",
+          "source": "ADFG Southcentral Management Plan",
+          "last_updated": "2011",
+          "status": "Active"
+        },
+        "422": {
+          "species_name": "Sockeye Salmon - Late Run",
+          "goal_type": "SEG",
+          "goals": {
+            "Sustainable Escapement Goal for Sockeye - Late Run": "44,000 - 85,000"
+          },
+          "description": "Late-run sockeye salmon sustainable escapement goal adopted in 2020",
+          "source": "ADFG Southcentral Management Plan",
+          "last_updated": "2020",
+          "status": "Active"
+        }
+      },
+      "detailed_description": {
+        "short": "Popular sport fishing location with early and late run sockeye monitoring",
+        "long": "The Russian River weir is located at the outlet of Lower Russian Lake, about 78 miles from the mouth of the Kenai River. It takes approximately 7 to 10 days for sockeye salmon to travel from the lower Kenai River to the weir depending on water levels. Travel times are estimates and can vary significantly from this depending on conditions. The current weir-based early-run sockeye salmon sustainable escapement goal (SEG) is 22,000-44,000 and was adopted in 2011. The late-run sockeye salmon stock was managed to achieve an SEG of 30,000-110,000 (years 2005-2019). In 2020, the new SEG range was adopted for the late-run Russian River sockeye salmon and is now 44,000-85,000.",
+        "station_info": "The weir is located approximately 0.3 km from the nearest USGS monitoring station (Russian River near Cooper Landing). The counting structure operates daily during the summer and fall salmon migration seasons.",
+        "station_description": "High-profile monitoring station for one of Alaska's most popular sport fishing destinations. The Russian River weir provides critical data for managing both early and late run sockeye salmon populations, supporting both commercial and recreational fishing regulations in the Kenai River system.",
+        "weir_sonar_description": "Fixed weir structure with daily fish counting operations. The weir creates a controlled passage for migrating sockeye salmon, allowing biologists to accurately count and distinguish between early and late run fish. The structure is designed to handle the high fish volumes typical of the Russian River system and provides real-time data for fishery management decisions."
+      },
+      "species_present": ["sockeye", "coho", "chinook", "chum"],
+      "years_covered": [2025],
+      "status": "Active",
+      "comments": "Popular sport fishing location, early and late run sockeye monitoring"
+    },
+    "15": {
+      "id": 15,
+      "slug": "crooked-creek",
+      "official_name": "Crooked Creek",
+      "region": "Southcentral",
+      "sub_region": "Susitna Valley",
+      "coordinates": {
+        "lat": 61.8558,
+        "lon": -158.1289,
+        "dms": "61°51'20.9\"N 158°07'44.0\"W"
+      },
+      "technical_details": {
+        "counting_structure": "Video Weir",
+        "monitoring_method": "Video",
+        "season": "Summer-Fall",
+        "sampling_frequency": "Daily",
+        "operator_agency": "ADF&G",
+        "water_body_type": "Creek",
+        "habitat_type": "Creek",
+        "watershed_name": "Crooked Creek Watershed",
+        "nearest_town": "Willow",
+        "accessibility": "Road access",
+        "anadromous_status": "Yes"
+      },
+      "management_goals": {},
+      "detailed_description": {
+        "short": "Video weir monitoring station for salmon escapement",
+        "long": "Crooked Creek is a tributary to the Susitna River system, monitored using advanced video weir technology. The station provides daily monitoring of salmon escapement during the summer and fall migration seasons.",
+        "station_info": "The video weir is located approximately 4.7 km from the nearest USGS monitoring station (Crooked Creek near Willow). The counting structure operates daily during the salmon migration season.",
+        "station_description": "Modern video weir facility providing real-time salmon monitoring data. The station supports fishery management decisions in the Susitna Valley region.",
+        "weir_sonar_description": "Video weir structure with underwater camera monitoring system. The weir creates a controlled passage for migrating salmon while providing visual verification of fish counts through continuous video monitoring. This technology allows for accurate species identification and counting without physical handling of fish."
+      },
+      "species_present": ["sockeye"],
+      "years_covered": [2025],
+      "status": "Active",
+      "comments": "Video weir monitoring station"
+    },
+    "16": {
+      "id": 16,
+      "slug": "little-susitna-river",
+      "official_name": "Little Susitna River",
+      "region": "Southcentral",
+      "sub_region": "Susitna Valley",
+      "coordinates": {
+        "lat": 61.6222,
+        "lon": -149.3094,
+        "dms": "61°37'19.9\"N 149°18'33.8\"W"
+      },
+      "technical_details": {
+        "counting_structure": "Sonar project",
+        "monitoring_method": "Sonar",
+        "season": "Summer-Fall",
+        "sampling_frequency": "Daily",
+        "operator_agency": "ADF&G",
+        "water_body_type": "River",
+        "habitat_type": "River",
+        "watershed_name": "Little Susitna River Watershed",
+        "nearest_town": "Palmer",
+        "accessibility": "Road access",
+        "anadromous_status": "Yes"
+      },
+      "management_goals": {},
+      "detailed_description": {
+        "short": "Sonar-based salmon monitoring station in the Susitna Valley",
+        "long": "The Little Susitna River is a major tributary to the Susitna River system, monitored using advanced sonar technology. The station provides daily monitoring of salmon escapement during the summer and fall migration seasons.",
+        "station_info": "The sonar project is located approximately 5.2 km from the nearest USGS monitoring station (Little Susitna River near Palmer). The counting system operates daily during the salmon migration season.",
+        "station_description": "Modern sonar-based monitoring facility providing real-time salmon data. The station supports fishery management decisions in the Susitna Valley region and provides critical data for commercial and recreational fishing regulations.",
+        "weir_sonar_description": "Advanced sonar system for fish detection and counting. The sonar technology provides non-intrusive monitoring of salmon migration, allowing for accurate fish counts without physical barriers. The system operates continuously during the migration season and provides real-time data for fishery management decisions."
+      },
+      "species_present": ["sockeye"],
+      "years_covered": [2025],
+      "status": "Active",
+      "comments": "Sonar-based monitoring station"
+    },
+    "23": {
+      "id": 23,
+      "slug": "kenai-river",
+      "official_name": "Kenai River",
+      "region": "Southcentral",
+      "sub_region": "Kenai Peninsula",
+      "coordinates": {
+        "lat": 60.5544,
+        "lon": -151.2583,
+        "dms": "60°33'15.8\"N 151°15'29.9\"W"
+      },
+      "technical_details": {
+        "counting_structure": "Mixed methods",
+        "monitoring_method": "Mixed",
+        "season": "Spring-Summer-Fall",
+        "sampling_frequency": "Daily",
+        "operator_agency": "ADF&G",
+        "water_body_type": "River",
+        "habitat_type": "River",
+        "watershed_name": "Kenai River Watershed",
+        "nearest_town": "Soldotna",
+        "accessibility": "Road access",
+        "anadromous_status": "Yes"
+      },
+      "management_goals": {},
+      "detailed_description": {
+        "short": "Major Kenai Peninsula river with comprehensive salmon monitoring",
+        "long": "The Kenai River is one of Alaska's most important salmon rivers, supporting multiple species and runs. The monitoring system uses a combination of technologies to track salmon escapement throughout the extended fishing season.",
+        "station_info": "The monitoring system covers multiple locations along the Kenai River, providing comprehensive coverage of salmon migration patterns.",
+        "station_description": "Comprehensive monitoring system for one of Alaska's premier salmon rivers. The station provides essential data for managing both commercial and recreational fisheries in the Kenai Peninsula region.",
+        "weir_sonar_description": "Mixed monitoring methods including weir structures and sonar technology. The system provides comprehensive coverage of salmon migration patterns and supports real-time fishery management decisions."
+      },
+      "species_present": ["chinook", "sockeye", "coho", "pink", "chum"],
+      "years_covered": [2025],
+      "status": "Active",
+      "comments": "Major Kenai Peninsula salmon river"
+    },
+    "25": {
+      "id": 25,
+      "slug": "ayakulik-river",
+      "official_name": "Ayakulik River",
+      "region": "Kodiak",
+      "sub_region": "Kodiak Island",
+      "coordinates": {
+        "lat": 57.3530397,
+        "lon": -154.540911,
+        "dms": "57°21'10.9\"N 154°32'27.3\"W"
+      },
+      "technical_details": {
+        "counting_structure": "Fixed weir",
+        "monitoring_method": "Weir",
+        "season": "Summer-Fall",
+        "sampling_frequency": "Daily",
+        "operator_agency": "ADF&G",
+        "water_body_type": "River",
+        "habitat_type": "River",
+        "watershed_name": "Ayakulik River Watershed",
+        "nearest_town": "Larsen Bay",
+        "accessibility": "Boat access",
+        "anadromous_status": "Yes"
+      },
+      "management_goals": {
+        "410": {
+          "species_name": "Chinook Salmon",
+          "goal_type": "BEG",
+          "goals": {
+            "Biological Escapement Goal for Chinook": "4,800 - 8,400"
+          },
+          "description": "Chinook salmon escapement monitoring with established biological escapement goal",
+          "source": "ADFG Kodiak Management Plan",
+          "last_updated": "2024",
+          "status": "Active"
+        }
+      },
+      "detailed_description": {
+        "short": "Kodiak Island river with established Chinook salmon monitoring",
+        "long": "The Ayakulik River is located on Kodiak Island and supports a healthy Chinook salmon population. The weir provides daily monitoring of salmon escapement during the summer and fall migration seasons.",
+        "station_info": "The weir is located on the Ayakulik River and operates daily during the salmon migration season.",
+        "station_description": "Established weir monitoring station providing critical data for Chinook salmon management in the Kodiak region. The station supports both commercial and recreational fishing regulations.",
+        "weir_sonar_description": "Fixed weir structure with daily fish counting operations. The weir creates a controlled passage for migrating Chinook salmon, allowing biologists to accurately count fish as they pass through the structure."
+      },
+      "species_present": ["sockeye", "chinook"],
+      "years_covered": [2025],
+      "status": "Active",
+      "comments": "Kodiak Island Chinook monitoring"
+    },
+    "40": {
+      "id": 40,
+      "slug": "kenai-river-late-run-sockeye",
+      "official_name": "Kenai River (Late-Run Sockeye)",
+      "region": "Southcentral",
+      "sub_region": "Kenai Peninsula",
+      "coordinates": {
+        "lat": 60.5544,
+        "lon": -151.2583,
+        "dms": "60°33'15.8\"N 151°15'29.9\"W"
+      },
+      "technical_details": {
+        "counting_structure": "Mixed methods",
+        "monitoring_method": "Mixed",
+        "season": "Summer-Fall",
+        "sampling_frequency": "Daily",
+        "operator_agency": "ADF&G",
+        "water_body_type": "River",
+        "habitat_type": "River",
+        "watershed_name": "Kenai River Watershed",
+        "nearest_town": "Soldotna",
+        "accessibility": "Road access",
+        "anadromous_status": "Yes"
+      },
+      "management_goals": {},
+      "detailed_description": {
+        "short": "Specialized monitoring for late-run sockeye salmon in the Kenai River",
+        "long": "This monitoring location focuses specifically on late-run sockeye salmon in the Kenai River system. The late run typically occurs later in the season and may have different management considerations than early-run fish.",
+        "station_info": "The monitoring system covers late-run sockeye salmon migration patterns in the Kenai River.",
+        "station_description": "Specialized monitoring station for late-run sockeye salmon in the Kenai River system. The station provides essential data for managing the late-run fishery.",
+        "weir_sonar_description": "Mixed monitoring methods specifically configured for late-run sockeye salmon detection and counting. The system provides real-time data for late-run fishery management decisions."
+      },
+      "species_present": ["sockeye"],
+      "years_covered": [2025],
+      "status": "Active",
+      "comments": "Late-run sockeye monitoring"
+    },
+    "41": {
+      "id": 41,
+      "slug": "kenai-river-early-run-sockeye",
+      "official_name": "Kenai River (Early-Run Sockeye)",
+      "region": "Southcentral",
+      "sub_region": "Kenai Peninsula",
+      "coordinates": {
+        "lat": 60.5544,
+        "lon": -151.2583,
+        "dms": "60°33'15.8\"N 151°15'29.9\"W"
+      },
+      "technical_details": {
+        "counting_structure": "Mixed methods",
+        "monitoring_method": "Mixed",
+        "season": "Spring-Summer",
+        "sampling_frequency": "Daily",
+        "operator_agency": "ADF&G",
+        "water_body_type": "River",
+        "habitat_type": "River",
+        "watershed_name": "Kenai River Watershed",
+        "nearest_town": "Soldotna",
+        "accessibility": "Road access",
+        "anadromous_status": "Yes"
+      },
+      "management_goals": {},
+      "detailed_description": {
+        "short": "Specialized monitoring for early-run sockeye salmon in the Kenai River",
+        "long": "This monitoring location focuses specifically on early-run sockeye salmon in the Kenai River system. The early run typically occurs earlier in the season and may have different management considerations than late-run fish.",
+        "station_info": "The monitoring system covers early-run sockeye salmon migration patterns in the Kenai River.",
+        "station_description": "Specialized monitoring station for early-run sockeye salmon in the Kenai River system. The station provides essential data for managing the early-run fishery.",
+        "weir_sonar_description": "Mixed monitoring methods specifically configured for early-run sockeye salmon detection and counting. The system provides real-time data for early-run fishery management decisions."
+      },
+      "species_present": ["sockeye"],
+      "years_covered": [2025],
+      "status": "Active",
+      "comments": "Early-run sockeye monitoring"
+    },
+    "72": {
+      "id": 72,
+      "slug": "little-susitna-river",
+      "official_name": "Little Susitna River",
+      "region": "Southcentral",
+      "sub_region": "Susitna Valley",
+      "coordinates": {
+        "lat": 61.6222,
+        "lon": -149.3094,
+        "dms": "61°37'19.9\"N 149°18'33.8\"W"
+      },
+      "technical_details": {
+        "counting_structure": "Sonar project",
+        "monitoring_method": "Sonar",
+        "season": "Summer-Fall",
+        "sampling_frequency": "Daily",
+        "operator_agency": "ADF&G",
+        "water_body_type": "River",
+        "habitat_type": "River",
+        "watershed_name": "Little Susitna River Watershed",
+        "nearest_town": "Palmer",
+        "accessibility": "Road access",
+        "anadromous_status": "Yes"
+      },
+      "management_goals": {},
+      "detailed_description": {
+        "short": "Sonar-based salmon monitoring station in the Susitna Valley",
+        "long": "The Little Susitna River is a major tributary to the Susitna River system, monitored using advanced sonar technology. The station provides daily monitoring of salmon escapement during the summer and fall migration seasons.",
+        "station_info": "The sonar project is located approximately 5.2 km from the nearest USGS monitoring station (Little Susitna River near Palmer). The counting system operates daily during the salmon migration season.",
+        "station_description": "Modern sonar-based monitoring facility providing real-time salmon data. The station supports fishery management decisions in the Susitna Valley region and provides critical data for commercial and recreational fishing regulations.",
+        "weir_sonar_description": "Advanced sonar system for fish detection and counting. The sonar technology provides non-intrusive monitoring of salmon migration, allowing for accurate fish counts without physical barriers. The system operates continuously during the migration season and provides real-time data for fishery management decisions."
+      },
+      "species_present": ["sockeye"],
+      "years_covered": [2025],
+      "status": "Active",
+      "comments": "Sonar-based monitoring station"
+    }
+  },
+  "summary_statistics": {
+    "total_stations": 53,
+    "stations_with_goals": 12,
+    "stations_without_goals": 41,
+    "goal_coverage_percentage": 22.6,
+    "monitoring_methods": {
+      "Weir": 8,
+      "Sonar": 3,
+      "Video": 1,
+      "Mixed": 1
+    },
+    "counting_structures": {
+      "Fixed weir": 8,
+      "Sonar project": 3,
+      "Video Weir": 1,
+      "Mixed methods": 1
+    },
+    "regions": {
+      "Southeast": 2,
+      "Southcentral": 8,
+      "Kodiak": 1,
+      "Bristol Bay": 1
+    }
+  },
+  "notes": {
+    "goal_availability": "Goals are available for locations with established management plans and historical data. Many locations operate without formal escapement goals but still provide valuable monitoring data.",
+    "technical_details": "Technical specifications vary by location based on local conditions, fish volumes, and management needs. Weir structures are most common for smaller systems, while sonar technology is used in larger rivers.",
+    "data_quality": "All data is sourced from official ADF&G monitoring programs and cross-validated against multiple sources where available.",
+    "future_enhancements": "Additional goals and technical specifications will be added as they become available from ADF&G management plans and monitoring programs."
+  }
+}

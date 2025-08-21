@@ -11,6 +11,87 @@
   "DATA": [
     [
       2025,
+      "July, 21 2025 00:00:00",
+      0,
+      430,
+      17,
+      "Deshka",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      0,
+      430,
+      17,
+      "Deshka",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      0,
+      430,
+      17,
+      "Deshka",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      10,
+      430,
+      17,
+      "Deshka",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      24,
+      430,
+      17,
+      "Deshka",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      6,
+      430,
+      17,
+      "Deshka",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      1,
+      430,
+      17,
+      "Deshka",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      9,
+      430,
+      17,
+      "Deshka",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      3,
+      430,
+      17,
+      "Deshka",
+      "Coho"
+    ],
+    [
+      2025,
       "August, 01 2025 00:00:00",
       51,
       430,
@@ -179,130 +260,15 @@
       17,
       "Deshka",
       "Coho"
-    ],
-    [
-      2025,
-      "July, 21 2025 00:00:00",
-      0,
-      430,
-      17,
-      "Deshka",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 22 2025 00:00:00",
-      0,
-      430,
-      17,
-      "Deshka",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 23 2025 00:00:00",
-      0,
-      430,
-      17,
-      "Deshka",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 26 2025 00:00:00",
-      10,
-      430,
-      17,
-      "Deshka",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 27 2025 00:00:00",
-      24,
-      430,
-      17,
-      "Deshka",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 28 2025 00:00:00",
-      6,
-      430,
-      17,
-      "Deshka",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 29 2025 00:00:00",
-      1,
-      430,
-      17,
-      "Deshka",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 30 2025 00:00:00",
-      9,
-      430,
-      17,
-      "Deshka",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 31 2025 00:00:00",
-      3,
-      430,
-      17,
-      "Deshka",
-      "Coho"
     ]
   ],
   "metadata": {
-    "location_id": "17",
+    "location_id": 17,
     "species_id": 430,
     "year": "2025",
     "totalRecords": 28,
     "totalCount": 1016,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-20T10:39:43.612259",
-    "daysWithData": 25,
-    "latestDate": 2025,
-    "lastUpdated": "2025-08-20T10:48:29.669231",
-    "updateCount": 2,
-    "mergeHistory": [
-      {
-        "timestamp": "2025-08-20T10:43:32.702287",
-        "newRecords": 0,
-        "updatedRecords": 0,
-        "unchangedRecords": 28,
-        "totalRecords": 28
-      },
-      {
-        "timestamp": "2025-08-20T10:48:29.669234",
-        "newRecords": 0,
-        "updatedRecords": 0,
-        "unchangedRecords": 28,
-        "totalRecords": 28
-      }
-    ]
-  },
-  "record_update_times": {},
-  "merge_info": {
-    "new_records_added": 0,
-    "existing_records_updated": 0,
-    "unchanged_records": 28,
-    "total_records": 28,
-    "merge_timestamp": "2025-08-20T10:48:29.669241",
-    "data_freshness": {
-      "latest_date": 2025,
-      "days_with_data": 25,
-      "total_count": 1016,
-      "total_records": 28
-    }
+    "last_updated": "2025-08-21T05:51:09.279179"
   }
 }
