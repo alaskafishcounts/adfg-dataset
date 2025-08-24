@@ -19,6 +19,208 @@
     "validation_status": "Cross-validated against NOAA, USGS, ADF&G, and Alaska.org sources",
     "verification_status": "8 locations updated with survey-grade verified coordinates (2025-01-16)"
   },
+  "locations_index": {
+    "total_locations": 64,
+    "regions": {
+      "Southeast": 8,
+      "Southcentral": 42,
+      "Interior": 8,
+      "Southwest": 6
+    },
+    "monitoring_methods": {
+      "Sonar": 12,
+      "Weir": 18,
+      "Mixed": 8,
+      "Fish Pass": 2,
+      "Unknown": 24
+    },
+    "status_distribution": {
+      "Active": 15,
+      "Dormant": 35,
+      "Seasonal": 8,
+      "Unknown": 6
+    },
+    "coordinate_accuracy": {
+      "survey_grade": 24,
+      "high_accuracy": 18,
+      "general_gps": 22
+    },
+    "quick_reference": [
+      {
+        "id": 1,
+        "name": "Auke Creek",
+        "slug": "auke-creek",
+        "region": "Southeast",
+        "method": "Mixed",
+        "status": "Dormant",
+        "usgs_station": "15052500"
+      },
+      {
+        "id": 5,
+        "name": "Situk River",
+        "slug": "situk-river",
+        "region": "Southeast",
+        "method": "Sonar",
+        "status": "Active",
+        "usgs_station": "15052500"
+      },
+      {
+        "id": 6,
+        "name": "Gulkana River",
+        "slug": "gulkana-river",
+        "region": "Interior",
+        "method": "Sonar",
+        "status": "Active",
+        "usgs_station": "15484000"
+      },
+      {
+        "id": 7,
+        "name": "Coghill River",
+        "slug": "coghill-river",
+        "region": "Southcentral",
+        "method": "Sonar",
+        "status": "Active",
+        "usgs_station": "15240000"
+      },
+      {
+        "id": 8,
+        "name": "Eshamy Creek",
+        "slug": "eshamy-creek",
+        "region": "Southcentral",
+        "method": "Weir",
+        "status": "Dormant",
+        "usgs_station": "15240000"
+      },
+      {
+        "id": 9,
+        "name": "Anchor River",
+        "slug": "anchor-river",
+        "region": "Southcentral",
+        "method": "Sonar",
+        "status": "Active",
+        "usgs_station": "15240000"
+      },
+      {
+        "id": 11,
+        "name": "Deep Creek",
+        "slug": "deep-creek",
+        "region": "Southcentral",
+        "method": "Sonar",
+        "status": "Dormant",
+        "usgs_station": "15240000"
+      },
+      {
+        "id": 13,
+        "name": "Russian River",
+        "slug": "russian-river",
+        "region": "Southcentral",
+        "method": "Sonar",
+        "status": "Active",
+        "usgs_station": "15240000"
+      },
+      {
+        "id": 15,
+        "name": "Crooked Creek",
+        "slug": "crooked-creek",
+        "region": "Southcentral",
+        "method": "Weir",
+        "status": "Dormant",
+        "usgs_station": "15240000"
+      },
+      {
+        "id": 16,
+        "name": "Little Susitna River",
+        "slug": "little-susitna-river",
+        "region": "Southcentral",
+        "method": "Sonar",
+        "status": "Active",
+        "usgs_station": "15240000"
+      }
+    ],
+    "region_breakdown": {
+      "Southeast": [
+        {"id": 1, "name": "Auke Creek", "slug": "auke-creek"},
+        {"id": 5, "name": "Situk River", "slug": "situk-river"},
+        {"id": 76, "name": "Redoubt Lake", "slug": "redoubt-lake"},
+        {"id": 77, "name": "Klag Lake", "slug": "klag-lake"}
+      ],
+      "Southcentral": [
+        {"id": 7, "name": "Coghill River", "slug": "coghill-river"},
+        {"id": 8, "name": "Eshamy Creek", "slug": "eshamy-creek"},
+        {"id": 9, "name": "Anchor River", "slug": "anchor-river"},
+        {"id": 11, "name": "Deep Creek", "slug": "deep-creek"},
+        {"id": 13, "name": "Russian River", "slug": "russian-river"},
+        {"id": 15, "name": "Crooked Creek", "slug": "crooked-creek"},
+        {"id": 16, "name": "Little Susitna River", "slug": "little-susitna-river"},
+        {"id": 17, "name": "Deshka River", "slug": "deshka-river"},
+        {"id": 19, "name": "Wasilla Creek", "slug": "wasilla-creek"},
+        {"id": 20, "name": "Cottonwood Creek", "slug": "cottonwood-creek"},
+        {"id": 21, "name": "Fish Creek", "slug": "fish-creek"},
+        {"id": 22, "name": "Pauls Bay River", "slug": "pauls-bay-river"},
+        {"id": 23, "name": "Afognak River (Litnik)", "slug": "afognak-river-litnik"},
+        {"id": 24, "name": "Karluk River", "slug": "karluk-river"},
+        {"id": 25, "name": "Ayakulik River", "slug": "ayakulik-river"},
+        {"id": 26, "name": "Olga Creek (Upper Station)", "slug": "olga-creek-upper-station"},
+        {"id": 27, "name": "Dog Salmon River", "slug": "dog-salmon-river"},
+        {"id": 28, "name": "Buskin River", "slug": "buskin-river"},
+        {"id": 29, "name": "Saltery Creek", "slug": "saltery-creek"},
+        {"id": 30, "name": "Chignik River", "slug": "chignik-river"},
+        {"id": 31, "name": "Orzinski Lake", "slug": "orzinski-lake"},
+        {"id": 32, "name": "Nelson River (Sapsuk)", "slug": "nelson-river-sapsuk"},
+        {"id": 33, "name": "Bear River", "slug": "bear-river"},
+        {"id": 34, "name": "Sandy River", "slug": "sandy-river"},
+        {"id": 35, "name": "Ilnik River", "slug": "ilnik-river"},
+        {"id": 39, "name": "Copper River (Miles Lake)", "slug": "copper-river-miles-lake"},
+        {"id": 40, "name": "Kenai River (Late-Run Sockeye)", "slug": "kenai-river-late-run-sockeye"},
+        {"id": 41, "name": "Kasilof River (Sockeye)", "slug": "kasilof-river-sockeye"},
+        {"id": 42, "name": "Crescent River", "slug": "crescent-river"},
+        {"id": 43, "name": "Yentna River", "slug": "yentna-river"},
+        {"id": 44, "name": "Ugashik River", "slug": "ugashik-river"},
+        {"id": 45, "name": "Egegik River", "slug": "egegik-river"},
+        {"id": 46, "name": "Kvichak River", "slug": "kvichak-river"},
+        {"id": 47, "name": "Alagnak River", "slug": "alagnak-river"},
+        {"id": 48, "name": "Naknek River", "slug": "naknek-river"},
+        {"id": 49, "name": "Igushik River", "slug": "igushik-river"},
+        {"id": 50, "name": "Wood River", "slug": "wood-river"},
+        {"id": 51, "name": "Nushagak River", "slug": "nushagak-river"},
+        {"id": 52, "name": "Nuyakuk River", "slug": "nuyakuk-river"},
+        {"id": 53, "name": "Togiak River", "slug": "togiak-river"},
+        {"id": 60, "name": "Pasagshak River", "slug": "pasagshak-river"},
+        {"id": 72, "name": "Kenai River (Chinook)", "slug": "kenai-river"},
+        {"id": 73, "name": "Jim Creek", "slug": "jim-creek"},
+        {"id": 74, "name": "McLees Lake", "slug": "mclees-lake"},
+        {"id": 75, "name": "Ninilchik River", "slug": "ninilchik-river"},
+        {"id": 78, "name": "Lake Creek", "slug": "lake-creek"}
+      ],
+      "Interior": [
+        {"id": 6, "name": "Gulkana River", "slug": "gulkana-river"},
+        {"id": 37, "name": "Chena River", "slug": "chena-river"},
+        {"id": 38, "name": "Salcha River", "slug": "salcha-river"}
+      ],
+      "Southwest": [
+        {"id": 79, "name": "Iliuliuk River (Town Creek)", "slug": "iliuliuk-river-town-creek"},
+        {"id": 80, "name": "Big Bay Creek Weir", "slug": "big-bay-creek-weir"},
+        {"id": 81, "name": "Litnik (Afognak River) Weir", "slug": "litnik-afognak-river-weir"},
+        {"id": 82, "name": "Buskin River Weir", "slug": "buskin-river-weir"},
+        {"id": 83, "name": "Lake Louise Weir", "slug": "lake-louise-weir"},
+        {"id": 84, "name": "Saltery River Weir", "slug": "saltery-river-weir"},
+        {"id": 85, "name": "Karluk River Weir", "slug": "karluk-river-weir"},
+        {"id": 86, "name": "Frazer Fish Pass", "slug": "frazer-fish-pass"},
+        {"id": 87, "name": "Dog Salmon Creek Weir", "slug": "dog-salmon-creek-weir"},
+        {"id": 88, "name": "Upper Station (Olga Creek) Weir", "slug": "upper-station-olga-creek-weir"},
+        {"id": 89, "name": "Ayakulik River Weir", "slug": "ayakulik-river-weir"}
+      ]
+    },
+    "research_status": {
+      "total_researched": 64,
+      "average_score": 93.3,
+      "locations_with_data": 54,
+      "locations_with_coordinates": 64,
+      "locations_with_usgs": 64,
+      "locations_with_wikipedia": 60,
+      "last_research_date": "2025-08-22"
+    }
+  },
   "locations": [
     {
       "id": 1,
