@@ -125,15 +125,33 @@
       13,
       "Russian River",
       "Coho"
+    ],
+    [
+      2025,
+      "August, 22 2025 00:00:00",
+      47,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 23 2025 00:00:00",
+      66,
+      430,
+      13,
+      "Russian River",
+      "Coho"
     ]
   ],
   "metadata": {
     "location_id": 13,
     "species_id": 430,
     "year": "2025",
-    "totalRecords": 13,
-    "totalCount": 327,
+    "totalRecords": 15,
+    "totalCount": 440,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-24T06:50:59.122648"
+    "last_updated": "2025-08-25T06:55:54.098140"
   }
 }
