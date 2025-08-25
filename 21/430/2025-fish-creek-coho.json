@@ -332,15 +332,42 @@
       21,
       "Fish Creek",
       "Coho"
+    ],
+    [
+      2025,
+      "August, 22 2025 00:00:00",
+      42,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 23 2025 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 24 2025 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
     ]
   ],
   "metadata": {
     "location_id": 21,
     "species_id": 430,
     "year": "2025",
-    "totalRecords": 36,
-    "totalCount": 2361,
+    "totalRecords": 39,
+    "totalCount": 2403,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-25T06:56:03.604441"
+    "last_updated": "2025-08-25T17:49:54.893594"
   }
 }
