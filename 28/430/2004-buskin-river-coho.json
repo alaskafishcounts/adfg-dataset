@@ -1,0 +1,589 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      5,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      0,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 01 2004 00:00:00",
+      2,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 02 2004 00:00:00",
+      2,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 03 2004 00:00:00",
+      14,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 04 2004 00:00:00",
+      8,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 05 2004 00:00:00",
+      3,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 06 2004 00:00:00",
+      11,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 07 2004 00:00:00",
+      12,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 08 2004 00:00:00",
+      18,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 09 2004 00:00:00",
+      4,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 10 2004 00:00:00",
+      22,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 11 2004 00:00:00",
+      38,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 12 2004 00:00:00",
+      26,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 13 2004 00:00:00",
+      55,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 14 2004 00:00:00",
+      62,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 15 2004 00:00:00",
+      62,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 16 2004 00:00:00",
+      62,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 17 2004 00:00:00",
+      61,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 18 2004 00:00:00",
+      163,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 19 2004 00:00:00",
+      261,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 20 2004 00:00:00",
+      221,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 21 2004 00:00:00",
+      162,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 22 2004 00:00:00",
+      59,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 23 2004 00:00:00",
+      125,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 24 2004 00:00:00",
+      225,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 25 2004 00:00:00",
+      192,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 26 2004 00:00:00",
+      382,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 27 2004 00:00:00",
+      492,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 28 2004 00:00:00",
+      628,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 29 2004 00:00:00",
+      622,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 30 2004 00:00:00",
+      497,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 31 2004 00:00:00",
+      752,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 01 2004 00:00:00",
+      582,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 02 2004 00:00:00",
+      251,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 03 2004 00:00:00",
+      464,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 04 2004 00:00:00",
+      127,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 05 2004 00:00:00",
+      50,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 06 2004 00:00:00",
+      71,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 07 2004 00:00:00",
+      15,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 08 2004 00:00:00",
+      16,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 09 2004 00:00:00",
+      4,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 10 2004 00:00:00",
+      36,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 11 2004 00:00:00",
+      27,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 12 2004 00:00:00",
+      36,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 13 2004 00:00:00",
+      35,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 14 2004 00:00:00",
+      10,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 15 2004 00:00:00",
+      13,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 16 2004 00:00:00",
+      18,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 17 2004 00:00:00",
+      53,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 18 2004 00:00:00",
+      30,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 19 2004 00:00:00",
+      729,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 20 2004 00:00:00",
+      106,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 21 2004 00:00:00",
+      180,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 22 2004 00:00:00",
+      152,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 23 2004 00:00:00",
+      168,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 24 2004 00:00:00",
+      123,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 25 2004 00:00:00",
+      231,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 26 2004 00:00:00",
+      517,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 27 2004 00:00:00",
+      69,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 28 2004 00:00:00",
+      133,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 29 2004 00:00:00",
+      63,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 30 2004 00:00:00",
+      42,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 28,
+    "species_id": "430",
+    "year": "2004",
+    "totalRecords": 63,
+    "totalCount": 9599,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:09.197760"
+  }
+}

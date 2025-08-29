@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "July, 01 2022 00:00:00",
+      123,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 02 2022 00:00:00",
+      49,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 03 2022 00:00:00",
+      50,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 04 2022 00:00:00",
+      85,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 05 2022 00:00:00",
+      97,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 06 2022 00:00:00",
+      133,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 07 2022 00:00:00",
+      194,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 08 2022 00:00:00",
+      219,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 09 2022 00:00:00",
+      212,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      313,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      122,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      154,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      139,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      257,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      205,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      303,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      327,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      437,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      413,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      310,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      397,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      388,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      402,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      346,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      461,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      395,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      546,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      317,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      431,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      364,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      497,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      315,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      376,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 03 2022 00:00:00",
+      334,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 04 2022 00:00:00",
+      313,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 05 2022 00:00:00",
+      463,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 06 2022 00:00:00",
+      388,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 07 2022 00:00:00",
+      249,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 08 2022 00:00:00",
+      146,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 09 2022 00:00:00",
+      137,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      219,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 11 2022 00:00:00",
+      261,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      370,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      310,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      212,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 15 2022 00:00:00",
+      182,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      163,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      129,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 18 2022 00:00:00",
+      85,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2022,
+      "August, 19 2022 00:00:00",
+      87,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 72,
+    "species_id": "412",
+    "year": "2022",
+    "totalRecords": 50,
+    "totalCount": 13425,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:25.262446"
+  }
+}

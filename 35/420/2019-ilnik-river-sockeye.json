@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 01 2019 00:00:00",
+      14,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 02 2019 00:00:00",
+      85,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 03 2019 00:00:00",
+      87,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 04 2019 00:00:00",
+      634,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 05 2019 00:00:00",
+      678,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 06 2019 00:00:00",
+      1160,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 07 2019 00:00:00",
+      1112,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 08 2019 00:00:00",
+      1623,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 09 2019 00:00:00",
+      2327,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 10 2019 00:00:00",
+      1684,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 11 2019 00:00:00",
+      2685,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 12 2019 00:00:00",
+      971,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 13 2019 00:00:00",
+      176,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 14 2019 00:00:00",
+      6503,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 15 2019 00:00:00",
+      2621,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 16 2019 00:00:00",
+      4118,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 17 2019 00:00:00",
+      4637,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 18 2019 00:00:00",
+      3911,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 19 2019 00:00:00",
+      3282,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 20 2019 00:00:00",
+      3247,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 21 2019 00:00:00",
+      1093,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      1041,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      498,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 24 2019 00:00:00",
+      1037,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      1196,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      1326,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      2444,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      2301,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      1122,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      1115,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 01 2019 00:00:00",
+      979,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 02 2019 00:00:00",
+      1186,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 03 2019 00:00:00",
+      3872,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 04 2019 00:00:00",
+      3576,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 05 2019 00:00:00",
+      1209,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 06 2019 00:00:00",
+      857,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 07 2019 00:00:00",
+      878,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 08 2019 00:00:00",
+      1560,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 09 2019 00:00:00",
+      1286,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      1042,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      855,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      590,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      435,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      526,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      326,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      234,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      206,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      255,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      200,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      100,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      100,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 35,
+    "species_id": "420",
+    "year": "2019",
+    "totalRecords": 51,
+    "totalCount": 75000,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:07.605983"
+  }
+}

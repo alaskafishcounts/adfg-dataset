@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      2,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      1,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      3,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      3,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 28 2024 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 29 2024 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 30 2024 00:00:00",
+      7,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 31 2024 00:00:00",
+      3,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 01 2024 00:00:00",
+      2,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 03 2024 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 04 2024 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 05 2024 00:00:00",
+      19,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 06 2024 00:00:00",
+      13,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 07 2024 00:00:00",
+      35,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 08 2024 00:00:00",
+      14,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 21 2024 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 23,
+    "species_id": "430",
+    "year": "2024",
+    "totalRecords": 16,
+    "totalCount": 102,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:19.725952"
+  }
+}

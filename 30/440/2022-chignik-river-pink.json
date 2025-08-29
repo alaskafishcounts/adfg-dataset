@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "July, 04 2022 00:00:00",
+      18,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 05 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 06 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 07 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 08 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 09 2022 00:00:00",
+      6,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      12,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      12,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      6,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      7,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      12,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      18,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      18,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      12,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      12,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      18,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      103,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      96,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      68,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      78,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 03 2022 00:00:00",
+      36,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 04 2022 00:00:00",
+      102,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 05 2022 00:00:00",
+      204,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 06 2022 00:00:00",
+      157,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 07 2022 00:00:00",
+      168,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 08 2022 00:00:00",
+      270,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 09 2022 00:00:00",
+      402,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      680,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 11 2022 00:00:00",
+      404,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      282,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      620,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      277,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 15 2022 00:00:00",
+      210,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      192,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      150,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 18 2022 00:00:00",
+      180,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 19 2022 00:00:00",
+      318,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 20 2022 00:00:00",
+      480,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 21 2022 00:00:00",
+      726,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 22 2022 00:00:00",
+      2238,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 23 2022 00:00:00",
+      1212,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 24 2022 00:00:00",
+      606,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 25 2022 00:00:00",
+      332,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      685,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 27 2022 00:00:00",
+      324,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 28 2022 00:00:00",
+      307,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 29 2022 00:00:00",
+      255,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 30 2022 00:00:00",
+      160,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "August, 31 2022 00:00:00",
+      85,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "September, 01 2022 00:00:00",
+      null,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 30,
+    "species_id": "440",
+    "year": "2022",
+    "totalRecords": 60,
+    "totalCount": 12558,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:22.852835"
+  }
+}

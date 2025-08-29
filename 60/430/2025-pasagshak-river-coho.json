@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      1,
+      430,
+      60,
+      "Pasagshak",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      0,
+      430,
+      60,
+      "Pasagshak",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      0,
+      430,
+      60,
+      "Pasagshak",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 60,
+    "species_id": 430,
+    "year": "2025",
+    "totalRecords": 3,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T18:46:12.620485"
+  }
+}

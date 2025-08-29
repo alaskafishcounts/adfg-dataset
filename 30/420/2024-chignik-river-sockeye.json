@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "May, 31 2024 00:00:00",
+      null,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 01 2024 00:00:00",
+      0,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 02 2024 00:00:00",
+      7,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 03 2024 00:00:00",
+      36,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 04 2024 00:00:00",
+      6,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 05 2024 00:00:00",
+      12,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 06 2024 00:00:00",
+      347,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 07 2024 00:00:00",
+      21,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 08 2024 00:00:00",
+      18,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 09 2024 00:00:00",
+      36,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 10 2024 00:00:00",
+      48,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 11 2024 00:00:00",
+      420,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 12 2024 00:00:00",
+      464,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 13 2024 00:00:00",
+      2271,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 14 2024 00:00:00",
+      10863,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 15 2024 00:00:00",
+      6116,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 16 2024 00:00:00",
+      2814,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 17 2024 00:00:00",
+      336,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 18 2024 00:00:00",
+      474,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 19 2024 00:00:00",
+      1113,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 20 2024 00:00:00",
+      12567,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 21 2024 00:00:00",
+      26546,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 22 2024 00:00:00",
+      28650,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 23 2024 00:00:00",
+      16454,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 24 2024 00:00:00",
+      8943,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 25 2024 00:00:00",
+      9930,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 26 2024 00:00:00",
+      10093,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 27 2024 00:00:00",
+      19186,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 28 2024 00:00:00",
+      20965,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 29 2024 00:00:00",
+      19846,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 30 2024 00:00:00",
+      22680,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 01 2024 00:00:00",
+      30056,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 02 2024 00:00:00",
+      27517,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 03 2024 00:00:00",
+      25793,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 04 2024 00:00:00",
+      21479,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 05 2024 00:00:00",
+      11177,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 06 2024 00:00:00",
+      923,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 07 2024 00:00:00",
+      11015,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 08 2024 00:00:00",
+      4762,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 09 2024 00:00:00",
+      21330,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 10 2024 00:00:00",
+      6320,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 11 2024 00:00:00",
+      16749,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      9689,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      12398,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      16135,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      21031,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      10830,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      7894,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      11321,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      11354,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      4900,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      9169,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      13273,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      17187,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      15108,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      12517,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      5591,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      5495,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 28 2024 00:00:00",
+      14206,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 29 2024 00:00:00",
+      12304,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 30 2024 00:00:00",
+      10792,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 31 2024 00:00:00",
+      3997,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 01 2024 00:00:00",
+      3887,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 02 2024 00:00:00",
+      2380,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 03 2024 00:00:00",
+      1405,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 04 2024 00:00:00",
+      5511,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 05 2024 00:00:00",
+      6355,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 06 2024 00:00:00",
+      2829,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 07 2024 00:00:00",
+      3142,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 08 2024 00:00:00",
+      2822,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 09 2024 00:00:00",
+      2607,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 10 2024 00:00:00",
+      2268,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 11 2024 00:00:00",
+      3780,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 12 2024 00:00:00",
+      4980,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 13 2024 00:00:00",
+      4148,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 14 2024 00:00:00",
+      2463,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 15 2024 00:00:00",
+      2331,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 16 2024 00:00:00",
+      2421,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 17 2024 00:00:00",
+      2419,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 18 2024 00:00:00",
+      4393,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 19 2024 00:00:00",
+      3401,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 20 2024 00:00:00",
+      1392,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 21 2024 00:00:00",
+      2516,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 22 2024 00:00:00",
+      2202,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 23 2024 00:00:00",
+      1863,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 24 2024 00:00:00",
+      null,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 30,
+    "species_id": "420",
+    "year": "2024",
+    "totalRecords": 86,
+    "totalCount": 695089,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:22.297222"
+  }
+}

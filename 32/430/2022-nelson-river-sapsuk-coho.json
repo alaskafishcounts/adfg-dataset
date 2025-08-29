@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      6,
+      430,
+      32,
+      "Nelson River (Sapsuk)",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      7,
+      430,
+      32,
+      "Nelson River (Sapsuk)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "430",
+    "year": "2022",
+    "totalRecords": 2,
+    "totalCount": 13,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:44.293526"
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "June, 27 2003 00:00:00",
+      2880,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      12390,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 29 2003 00:00:00",
+      17928,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 30 2003 00:00:00",
+      13728,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 01 2003 00:00:00",
+      6810,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 02 2003 00:00:00",
+      6870,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 03 2003 00:00:00",
+      4428,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 04 2003 00:00:00",
+      3450,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 05 2003 00:00:00",
+      3516,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 06 2003 00:00:00",
+      3276,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 07 2003 00:00:00",
+      5430,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 08 2003 00:00:00",
+      8682,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 09 2003 00:00:00",
+      6654,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 10 2003 00:00:00",
+      4428,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 11 2003 00:00:00",
+      2832,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 12 2003 00:00:00",
+      2442,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 13 2003 00:00:00",
+      1662,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 14 2003 00:00:00",
+      2058,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 15 2003 00:00:00",
+      2088,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 16 2003 00:00:00",
+      1506,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 17 2003 00:00:00",
+      834,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 18 2003 00:00:00",
+      588,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 19 2003 00:00:00",
+      264,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 20 2003 00:00:00",
+      468,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 21 2003 00:00:00",
+      780,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 22 2003 00:00:00",
+      504,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 23 2003 00:00:00",
+      150,
+      420,
+      52,
+      "Nuyakuk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 52,
+    "species_id": "420",
+    "year": "2003",
+    "totalRecords": 27,
+    "totalCount": 116646,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:10.071774"
+  }
+}

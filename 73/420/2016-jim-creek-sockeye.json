@@ -1,0 +1,571 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "July, 18 2016 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 19 2016 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 20 2016 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 21 2016 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 22 2016 00:00:00",
+      3,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 23 2016 00:00:00",
+      201,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 24 2016 00:00:00",
+      246,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 25 2016 00:00:00",
+      239,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 26 2016 00:00:00",
+      67,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 27 2016 00:00:00",
+      17,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 28 2016 00:00:00",
+      112,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 29 2016 00:00:00",
+      445,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 30 2016 00:00:00",
+      67,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "July, 31 2016 00:00:00",
+      24,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 01 2016 00:00:00",
+      408,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 02 2016 00:00:00",
+      195,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 03 2016 00:00:00",
+      455,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 04 2016 00:00:00",
+      234,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 05 2016 00:00:00",
+      236,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 06 2016 00:00:00",
+      132,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 07 2016 00:00:00",
+      579,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 08 2016 00:00:00",
+      123,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 09 2016 00:00:00",
+      84,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 11 2016 00:00:00",
+      35,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 12 2016 00:00:00",
+      44,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 13 2016 00:00:00",
+      72,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 14 2016 00:00:00",
+      109,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 15 2016 00:00:00",
+      56,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 16 2016 00:00:00",
+      49,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 17 2016 00:00:00",
+      9,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 18 2016 00:00:00",
+      50,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 19 2016 00:00:00",
+      35,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 20 2016 00:00:00",
+      121,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 21 2016 00:00:00",
+      94,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 22 2016 00:00:00",
+      25,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 23 2016 00:00:00",
+      101,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 24 2016 00:00:00",
+      56,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 25 2016 00:00:00",
+      77,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 26 2016 00:00:00",
+      33,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 28 2016 00:00:00",
+      21,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 29 2016 00:00:00",
+      17,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 30 2016 00:00:00",
+      16,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 31 2016 00:00:00",
+      27,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 01 2016 00:00:00",
+      17,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 02 2016 00:00:00",
+      37,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 03 2016 00:00:00",
+      8,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 04 2016 00:00:00",
+      7,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 05 2016 00:00:00",
+      12,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 06 2016 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 07 2016 00:00:00",
+      9,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 08 2016 00:00:00",
+      3,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 09 2016 00:00:00",
+      3,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 10 2016 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 11 2016 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 12 2016 00:00:00",
+      5,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 15 2016 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 16 2016 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 17 2016 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 18 2016 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 19 2016 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 20 2016 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 73,
+    "species_id": "420",
+    "year": "2016",
+    "totalRecords": 61,
+    "totalCount": 5027,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:34.444356"
+  }
+}

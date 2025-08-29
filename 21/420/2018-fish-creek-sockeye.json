@@ -1,0 +1,688 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "July, 05 2018 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 06 2018 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 07 2018 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 08 2018 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 09 2018 00:00:00",
+      557,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 10 2018 00:00:00",
+      2032,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 11 2018 00:00:00",
+      1220,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 12 2018 00:00:00",
+      1426,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 13 2018 00:00:00",
+      410,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 14 2018 00:00:00",
+      1072,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 15 2018 00:00:00",
+      148,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 16 2018 00:00:00",
+      424,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 17 2018 00:00:00",
+      103,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 18 2018 00:00:00",
+      550,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 19 2018 00:00:00",
+      484,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 20 2018 00:00:00",
+      1998,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 21 2018 00:00:00",
+      3785,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 22 2018 00:00:00",
+      3469,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 23 2018 00:00:00",
+      3290,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 24 2018 00:00:00",
+      394,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 25 2018 00:00:00",
+      55,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 26 2018 00:00:00",
+      49,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 27 2018 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 28 2018 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 29 2018 00:00:00",
+      79,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 30 2018 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 31 2018 00:00:00",
+      21,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 01 2018 00:00:00",
+      1384,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 02 2018 00:00:00",
+      4448,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 03 2018 00:00:00",
+      5351,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 04 2018 00:00:00",
+      4738,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 05 2018 00:00:00",
+      37,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 06 2018 00:00:00",
+      5065,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 07 2018 00:00:00",
+      6972,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 08 2018 00:00:00",
+      2363,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 09 2018 00:00:00",
+      680,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 10 2018 00:00:00",
+      623,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 11 2018 00:00:00",
+      2142,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 12 2018 00:00:00",
+      2109,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 13 2018 00:00:00",
+      2849,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 14 2018 00:00:00",
+      1714,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 15 2018 00:00:00",
+      1629,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 16 2018 00:00:00",
+      301,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 17 2018 00:00:00",
+      1973,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 18 2018 00:00:00",
+      354,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 19 2018 00:00:00",
+      1271,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 20 2018 00:00:00",
+      254,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 21 2018 00:00:00",
+      1241,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 22 2018 00:00:00",
+      608,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 23 2018 00:00:00",
+      355,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 24 2018 00:00:00",
+      469,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 25 2018 00:00:00",
+      301,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 26 2018 00:00:00",
+      175,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 27 2018 00:00:00",
+      179,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 28 2018 00:00:00",
+      45,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 29 2018 00:00:00",
+      30,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 30 2018 00:00:00",
+      34,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 31 2018 00:00:00",
+      24,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 01 2018 00:00:00",
+      52,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 02 2018 00:00:00",
+      31,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 03 2018 00:00:00",
+      15,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 04 2018 00:00:00",
+      19,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 05 2018 00:00:00",
+      40,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 06 2018 00:00:00",
+      25,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 07 2018 00:00:00",
+      31,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 08 2018 00:00:00",
+      6,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 09 2018 00:00:00",
+      2,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 10 2018 00:00:00",
+      11,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 11 2018 00:00:00",
+      2,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 12 2018 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 13 2018 00:00:00",
+      2,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 14 2018 00:00:00",
+      9,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 15 2018 00:00:00",
+      27,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "September, 16 2018 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "420",
+    "year": "2018",
+    "totalRecords": 74,
+    "totalCount": 71556,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:00.821023"
+  }
+}

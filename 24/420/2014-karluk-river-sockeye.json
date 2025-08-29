@@ -1,0 +1,994 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "May, 24 2014 00:00:00",
+      1200,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 25 2014 00:00:00",
+      2654,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 26 2014 00:00:00",
+      620,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 27 2014 00:00:00",
+      14,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 28 2014 00:00:00",
+      1774,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 29 2014 00:00:00",
+      8535,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 30 2014 00:00:00",
+      762,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 31 2014 00:00:00",
+      13096,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 01 2014 00:00:00",
+      16296,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 02 2014 00:00:00",
+      6790,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 03 2014 00:00:00",
+      3026,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 04 2014 00:00:00",
+      18608,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 05 2014 00:00:00",
+      15900,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 06 2014 00:00:00",
+      3582,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 07 2014 00:00:00",
+      16321,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 08 2014 00:00:00",
+      3369,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 09 2014 00:00:00",
+      4850,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 10 2014 00:00:00",
+      6394,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 11 2014 00:00:00",
+      3504,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 12 2014 00:00:00",
+      4975,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 13 2014 00:00:00",
+      3414,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 14 2014 00:00:00",
+      2089,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 15 2014 00:00:00",
+      1052,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 16 2014 00:00:00",
+      59,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 17 2014 00:00:00",
+      892,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 18 2014 00:00:00",
+      5218,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 19 2014 00:00:00",
+      2778,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 20 2014 00:00:00",
+      7347,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 21 2014 00:00:00",
+      14128,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 22 2014 00:00:00",
+      2735,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 23 2014 00:00:00",
+      12829,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 24 2014 00:00:00",
+      2352,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 25 2014 00:00:00",
+      1340,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 26 2014 00:00:00",
+      2097,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 27 2014 00:00:00",
+      4426,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 28 2014 00:00:00",
+      1017,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 29 2014 00:00:00",
+      1528,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 30 2014 00:00:00",
+      909,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 01 2014 00:00:00",
+      370,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 02 2014 00:00:00",
+      4749,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 03 2014 00:00:00",
+      378,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 04 2014 00:00:00",
+      924,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 05 2014 00:00:00",
+      5366,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 06 2014 00:00:00",
+      2288,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 07 2014 00:00:00",
+      4422,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 08 2014 00:00:00",
+      1218,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 09 2014 00:00:00",
+      3431,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 10 2014 00:00:00",
+      4725,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      1116,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 12 2014 00:00:00",
+      686,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 13 2014 00:00:00",
+      5711,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 14 2014 00:00:00",
+      1126,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 15 2014 00:00:00",
+      1154,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 16 2014 00:00:00",
+      2497,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      549,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      1923,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      1437,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      5577,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      3930,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      620,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      1190,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      1017,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 25 2014 00:00:00",
+      498,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 26 2014 00:00:00",
+      2429,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 27 2014 00:00:00",
+      1077,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 28 2014 00:00:00",
+      1292,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 29 2014 00:00:00",
+      833,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 30 2014 00:00:00",
+      288,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 31 2014 00:00:00",
+      3003,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 01 2014 00:00:00",
+      1094,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 02 2014 00:00:00",
+      1541,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 03 2014 00:00:00",
+      3132,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 04 2014 00:00:00",
+      1713,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 05 2014 00:00:00",
+      2695,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 06 2014 00:00:00",
+      3463,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 07 2014 00:00:00",
+      1405,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 08 2014 00:00:00",
+      1541,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 09 2014 00:00:00",
+      1829,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 10 2014 00:00:00",
+      413,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 11 2014 00:00:00",
+      246,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 12 2014 00:00:00",
+      502,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 13 2014 00:00:00",
+      4878,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 14 2014 00:00:00",
+      5576,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 15 2014 00:00:00",
+      7797,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 16 2014 00:00:00",
+      5973,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 17 2014 00:00:00",
+      8164,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 18 2014 00:00:00",
+      2153,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 19 2014 00:00:00",
+      5214,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 20 2014 00:00:00",
+      1557,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 21 2014 00:00:00",
+      600,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 22 2014 00:00:00",
+      528,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 23 2014 00:00:00",
+      426,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 24 2014 00:00:00",
+      3539,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 25 2014 00:00:00",
+      32823,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 26 2014 00:00:00",
+      7023,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 27 2014 00:00:00",
+      28607,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 28 2014 00:00:00",
+      113369,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 29 2014 00:00:00",
+      24201,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 30 2014 00:00:00",
+      9429,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 31 2014 00:00:00",
+      1288,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "September, 01 2014 00:00:00",
+      6203,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "September, 02 2014 00:00:00",
+      69206,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "September, 03 2014 00:00:00",
+      2237,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "September, 04 2014 00:00:00",
+      12000,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "September, 05 2014 00:00:00",
+      2266,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "September, 06 2014 00:00:00",
+      518,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "September, 07 2014 00:00:00",
+      1073,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "September, 08 2014 00:00:00",
+      0,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 24,
+    "species_id": "420",
+    "year": "2014",
+    "totalRecords": 108,
+    "totalCount": 640526,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:26.204715"
+  }
+}

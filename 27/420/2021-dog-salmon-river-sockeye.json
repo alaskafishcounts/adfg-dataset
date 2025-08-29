@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "June, 02 2021 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 03 2021 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 04 2021 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 05 2021 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 06 2021 00:00:00",
+      5,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 07 2021 00:00:00",
+      5,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 08 2021 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 09 2021 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 10 2021 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 11 2021 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 12 2021 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 13 2021 00:00:00",
+      11,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 15 2021 00:00:00",
+      247,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 16 2021 00:00:00",
+      6000,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 17 2021 00:00:00",
+      8110,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 18 2021 00:00:00",
+      4232,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 19 2021 00:00:00",
+      4127,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 20 2021 00:00:00",
+      1544,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 21 2021 00:00:00",
+      3934,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 22 2021 00:00:00",
+      2885,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 23 2021 00:00:00",
+      7009,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 24 2021 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 25 2021 00:00:00",
+      1924,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      261,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      1590,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      4147,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      9196,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      6286,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 01 2021 00:00:00",
+      9509,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 02 2021 00:00:00",
+      6037,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 03 2021 00:00:00",
+      1803,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 04 2021 00:00:00",
+      2574,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 05 2021 00:00:00",
+      4830,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 06 2021 00:00:00",
+      4784,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 07 2021 00:00:00",
+      9193,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 08 2021 00:00:00",
+      10806,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 09 2021 00:00:00",
+      1755,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      1067,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      3466,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      2009,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      1150,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      8500,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      2289,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      7192,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      4078,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      7573,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      12094,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      4908,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      2754,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      3881,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      5425,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 24 2021 00:00:00",
+      1316,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 25 2021 00:00:00",
+      2636,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      1875,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 27 2021 00:00:00",
+      2458,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 28 2021 00:00:00",
+      569,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 29 2021 00:00:00",
+      1705,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 30 2021 00:00:00",
+      2061,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 31 2021 00:00:00",
+      1652,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 01 2021 00:00:00",
+      6221,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 02 2021 00:00:00",
+      1393,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 03 2021 00:00:00",
+      3124,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 04 2021 00:00:00",
+      3117,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 05 2021 00:00:00",
+      1504,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 06 2021 00:00:00",
+      5949,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 07 2021 00:00:00",
+      407,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 08 2021 00:00:00",
+      921,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 09 2021 00:00:00",
+      3000,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 27,
+    "species_id": "420",
+    "year": "2021",
+    "totalRecords": 68,
+    "totalCount": 219098,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:55.280866"
+  }
+}

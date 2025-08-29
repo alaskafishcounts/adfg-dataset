@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "May, 31 2004 12:00:00",
+      0,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 01 2004 12:00:00",
+      24,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 02 2004 12:00:00",
+      15,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 03 2004 12:00:00",
+      21,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 04 2004 12:00:00",
+      125,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 05 2004 12:00:00",
+      50,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 06 2004 12:00:00",
+      108,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 07 2004 12:00:00",
+      213,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 08 2004 12:00:00",
+      71,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 09 2004 12:00:00",
+      76,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 10 2004 12:00:00",
+      18,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 11 2004 12:00:00",
+      693,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 12 2004 12:00:00",
+      491,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 13 2004 12:00:00",
+      270,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 14 2004 12:00:00",
+      498,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 15 2004 12:00:00",
+      453,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 16 2004 12:00:00",
+      316,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 17 2004 12:00:00",
+      1612,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 18 2004 12:00:00",
+      2779,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 19 2004 12:00:00",
+      6488,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 20 2004 12:00:00",
+      1724,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 21 2004 12:00:00",
+      1484,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 22 2004 12:00:00",
+      1073,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 23 2004 12:00:00",
+      811,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 24 2004 12:00:00",
+      1048,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 25 2004 12:00:00",
+      1169,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 26 2004 12:00:00",
+      571,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 27 2004 12:00:00",
+      6300,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 28 2004 12:00:00",
+      894,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 29 2004 12:00:00",
+      1107,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 30 2004 12:00:00",
+      907,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 01 2004 12:00:00",
+      1059,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 02 2004 12:00:00",
+      839,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 03 2004 12:00:00",
+      470,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 04 2004 12:00:00",
+      46,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 05 2004 12:00:00",
+      105,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 06 2004 12:00:00",
+      43,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 07 2004 12:00:00",
+      318,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 08 2004 12:00:00",
+      17,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 09 2004 12:00:00",
+      132,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 10 2004 12:00:00",
+      1324,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 11 2004 12:00:00",
+      117,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 12 2004 12:00:00",
+      2303,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 13 2004 12:00:00",
+      0,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 14 2004 12:00:00",
+      0,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 15 2004 12:00:00",
+      541,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 16 2004 12:00:00",
+      112,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 17 2004 12:00:00",
+      35,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 18 2004 12:00:00",
+      44,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 19 2004 12:00:00",
+      85,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 20 2004 12:00:00",
+      34,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 21 2004 12:00:00",
+      94,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 22 2004 12:00:00",
+      7,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 23 2004 12:00:00",
+      1155,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 24 2004 12:00:00",
+      39,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 25 2004 12:00:00",
+      0,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 26 2004 12:00:00",
+      0,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 27 2004 12:00:00",
+      0,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 28 2004 12:00:00",
+      0,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 29 2004 12:00:00",
+      0,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 30 2004 12:00:00",
+      0,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 31 2004 12:00:00",
+      0,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 74,
+    "species_id": "420",
+    "year": "2004",
+    "totalRecords": 62,
+    "totalCount": 40328,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:50.349059"
+  }
+}

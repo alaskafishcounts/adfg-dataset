@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "July, 12 2005 00:00:00",
+      1,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "440",
+    "year": "2005",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:06.664685"
+  }
+}

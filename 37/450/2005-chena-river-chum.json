@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "July, 15 2005 00:00:00",
+      6,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 16 2005 00:00:00",
+      111,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 17 2005 00:00:00",
+      117,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 18 2005 00:00:00",
+      78,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 19 2005 00:00:00",
+      0,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 20 2005 00:00:00",
+      0,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 21 2005 00:00:00",
+      0,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 22 2005 00:00:00",
+      72,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 23 2005 00:00:00",
+      57,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 24 2005 00:00:00",
+      136,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 25 2005 00:00:00",
+      167,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 26 2005 00:00:00",
+      798,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 27 2005 00:00:00",
+      468,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 28 2005 00:00:00",
+      726,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 29 2005 00:00:00",
+      570,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 30 2005 00:00:00",
+      2394,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 31 2005 00:00:00",
+      1785,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 37,
+    "species_id": "450",
+    "year": "2005",
+    "totalRecords": 17,
+    "totalCount": 7485,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:18.930691"
+  }
+}

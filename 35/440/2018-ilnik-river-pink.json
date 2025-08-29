@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "June, 30 2018 00:00:00",
+      1,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 01 2018 00:00:00",
+      16,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 02 2018 00:00:00",
+      11,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 03 2018 00:00:00",
+      13,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 04 2018 00:00:00",
+      42,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 05 2018 00:00:00",
+      54,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 06 2018 00:00:00",
+      29,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 07 2018 00:00:00",
+      44,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 08 2018 00:00:00",
+      22,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 09 2018 00:00:00",
+      57,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 10 2018 00:00:00",
+      23,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 11 2018 00:00:00",
+      21,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 12 2018 00:00:00",
+      11,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 13 2018 00:00:00",
+      23,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 14 2018 00:00:00",
+      45,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 15 2018 00:00:00",
+      45,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 16 2018 00:00:00",
+      36,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 17 2018 00:00:00",
+      49,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 18 2018 00:00:00",
+      25,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 19 2018 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 35,
+    "species_id": "440",
+    "year": "2018",
+    "totalRecords": 20,
+    "totalCount": 567,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:08.101562"
+  }
+}

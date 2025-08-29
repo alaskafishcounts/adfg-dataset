@@ -1,0 +1,913 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "May, 21 2019 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "May, 22 2019 00:00:00",
+      3,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "May, 23 2019 00:00:00",
+      4,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "May, 24 2019 00:00:00",
+      2,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "May, 25 2019 00:00:00",
+      19,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "May, 26 2019 00:00:00",
+      18,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "May, 27 2019 00:00:00",
+      15,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "May, 28 2019 00:00:00",
+      43,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "May, 29 2019 00:00:00",
+      31,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "May, 30 2019 00:00:00",
+      31,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "May, 31 2019 00:00:00",
+      60,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 01 2019 00:00:00",
+      311,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 02 2019 00:00:00",
+      3261,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 03 2019 00:00:00",
+      6445,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 04 2019 00:00:00",
+      1466,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 05 2019 00:00:00",
+      1488,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 06 2019 00:00:00",
+      3050,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 07 2019 00:00:00",
+      2426,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 08 2019 00:00:00",
+      316,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 09 2019 00:00:00",
+      4251,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 10 2019 00:00:00",
+      1188,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 11 2019 00:00:00",
+      1275,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 12 2019 00:00:00",
+      2715,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 13 2019 00:00:00",
+      1407,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 14 2019 00:00:00",
+      1925,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 15 2019 00:00:00",
+      5506,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 16 2019 00:00:00",
+      6143,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 17 2019 00:00:00",
+      2838,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 18 2019 00:00:00",
+      1218,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 19 2019 00:00:00",
+      6527,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 20 2019 00:00:00",
+      1875,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 21 2019 00:00:00",
+      5401,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      1428,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      359,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 24 2019 00:00:00",
+      1824,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      84,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      1563,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      211,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      2960,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      3854,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      14322,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 01 2019 00:00:00",
+      8851,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 02 2019 00:00:00",
+      3198,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 03 2019 00:00:00",
+      1764,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 04 2019 00:00:00",
+      710,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 05 2019 00:00:00",
+      15032,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 06 2019 00:00:00",
+      13979,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 07 2019 00:00:00",
+      856,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 08 2019 00:00:00",
+      915,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 09 2019 00:00:00",
+      3349,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      8523,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      4794,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      273,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      6546,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      1274,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      4503,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      10308,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      2257,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      2236,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      1581,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      577,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      236,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      3237,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      13652,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      3169,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      3825,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      2656,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 27 2019 00:00:00",
+      2471,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 28 2019 00:00:00",
+      1496,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 29 2019 00:00:00",
+      488,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 30 2019 00:00:00",
+      4942,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      3143,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 01 2019 00:00:00",
+      4656,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 02 2019 00:00:00",
+      729,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 03 2019 00:00:00",
+      284,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 04 2019 00:00:00",
+      90,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 05 2019 00:00:00",
+      907,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 06 2019 00:00:00",
+      6762,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 07 2019 00:00:00",
+      6267,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 08 2019 00:00:00",
+      2154,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 09 2019 00:00:00",
+      648,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 10 2019 00:00:00",
+      4085,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 11 2019 00:00:00",
+      12555,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 12 2019 00:00:00",
+      869,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 13 2019 00:00:00",
+      818,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 14 2019 00:00:00",
+      772,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 15 2019 00:00:00",
+      454,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 16 2019 00:00:00",
+      606,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 17 2019 00:00:00",
+      1939,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 18 2019 00:00:00",
+      2417,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 19 2019 00:00:00",
+      3459,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 20 2019 00:00:00",
+      1225,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 21 2019 00:00:00",
+      1673,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 22 2019 00:00:00",
+      1561,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 23 2019 00:00:00",
+      2278,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 24 2019 00:00:00",
+      1062,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 25 2019 00:00:00",
+      668,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 26 2019 00:00:00",
+      1000,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 27 2019 00:00:00",
+      997,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 25,
+    "species_id": "420",
+    "year": "2019",
+    "totalRecords": 99,
+    "totalCount": 279639,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:35.222560"
+  }
+}

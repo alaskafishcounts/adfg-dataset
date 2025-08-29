@@ -1,0 +1,787 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "May, 22 2010 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "May, 23 2010 00:00:00",
+      41,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "May, 24 2010 00:00:00",
+      55,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "May, 25 2010 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "May, 26 2010 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "May, 27 2010 00:00:00",
+      151,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "May, 28 2010 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "May, 29 2010 00:00:00",
+      8,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "May, 30 2010 00:00:00",
+      12,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "May, 31 2010 00:00:00",
+      41,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 01 2010 00:00:00",
+      1258,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 02 2010 00:00:00",
+      912,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 03 2010 00:00:00",
+      5,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 04 2010 00:00:00",
+      121,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 05 2010 00:00:00",
+      7616,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 06 2010 00:00:00",
+      9555,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 07 2010 00:00:00",
+      5476,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 08 2010 00:00:00",
+      98,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 09 2010 00:00:00",
+      12061,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 10 2010 00:00:00",
+      13508,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 11 2010 00:00:00",
+      10465,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 12 2010 00:00:00",
+      4605,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 13 2010 00:00:00",
+      5748,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 14 2010 00:00:00",
+      7837,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 15 2010 00:00:00",
+      2945,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 16 2010 00:00:00",
+      1600,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 17 2010 00:00:00",
+      1073,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 18 2010 00:00:00",
+      9721,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 20 2010 00:00:00",
+      4742,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 21 2010 00:00:00",
+      584,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 22 2010 00:00:00",
+      4554,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      463,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      168,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      4096,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      4972,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      2792,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      657,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      3631,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      5974,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      2079,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      464,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      5904,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      3191,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      5288,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      1324,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      6931,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      3902,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      4475,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      11009,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      9051,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      12,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      37,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      2025,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      22,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      282,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      896,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      502,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      98,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      59,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      1400,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      255,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      1,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      7,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      6,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      450,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      332,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      374,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      473,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      2741,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      1100,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      400,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      255,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      116,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      61,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      304,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      2882,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      1800,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      2200,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      6000,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      1900,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      1600,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      2600,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      27000,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      4100,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 25,
+    "species_id": "420",
+    "year": "2010",
+    "totalRecords": 85,
+    "totalCount": 243453,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:38.986111"
+  }
+}

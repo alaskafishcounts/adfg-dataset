@@ -1,0 +1,454 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "July, 01 2013 00:00:00",
+      127,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      60,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      60,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      112,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      79,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      79,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      57,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      86,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      186,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      188,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      212,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      122,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      205,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      308,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      321,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      479,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      308,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      426,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      297,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      315,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      121,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      151,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      243,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      145,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      268,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      339,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      254,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      308,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      399,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      429,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      471,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      475,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      496,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      513,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      394,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      418,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      312,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      231,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      483,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      342,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      313,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      227,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 12 2013 00:00:00",
+      167,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 13 2013 00:00:00",
+      242,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 14 2013 00:00:00",
+      297,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 15 2013 00:00:00",
+      221,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 16 2013 00:00:00",
+      170,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2013,
+      "August, 17 2013 00:00:00",
+      200,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 72,
+    "species_id": "412",
+    "year": "2013",
+    "totalRecords": 48,
+    "totalCount": 12656,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:27.573630"
+  }
+}

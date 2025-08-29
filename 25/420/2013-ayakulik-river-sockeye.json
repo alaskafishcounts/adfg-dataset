@@ -1,0 +1,931 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "May, 25 2013 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "May, 26 2013 00:00:00",
+      25,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "May, 27 2013 00:00:00",
+      55,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "May, 28 2013 00:00:00",
+      522,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "May, 29 2013 00:00:00",
+      510,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "May, 30 2013 00:00:00",
+      1151,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "May, 31 2013 00:00:00",
+      3,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 01 2013 00:00:00",
+      148,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 02 2013 00:00:00",
+      447,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 03 2013 00:00:00",
+      4,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 04 2013 00:00:00",
+      1636,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 05 2013 00:00:00",
+      4358,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 06 2013 00:00:00",
+      666,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 07 2013 00:00:00",
+      12800,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 08 2013 00:00:00",
+      54,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 09 2013 00:00:00",
+      5479,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 10 2013 00:00:00",
+      378,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 11 2013 00:00:00",
+      13656,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 12 2013 00:00:00",
+      9120,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 13 2013 00:00:00",
+      11435,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 14 2013 00:00:00",
+      16719,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 15 2013 00:00:00",
+      7786,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 16 2013 00:00:00",
+      406,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 17 2013 00:00:00",
+      16617,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 18 2013 00:00:00",
+      562,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 19 2013 00:00:00",
+      11575,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 20 2013 00:00:00",
+      3864,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 21 2013 00:00:00",
+      2627,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 22 2013 00:00:00",
+      434,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 23 2013 00:00:00",
+      6993,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 24 2013 00:00:00",
+      18294,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 25 2013 00:00:00",
+      11255,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      3867,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 27 2013 00:00:00",
+      861,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      421,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      547,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      8,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 01 2013 00:00:00",
+      3710,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      249,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      6,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      428,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      932,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      11,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      1915,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      3265,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      3894,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      3910,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      25062,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      1289,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      955,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      3294,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      708,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      2957,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      4831,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      1,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      1115,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      2839,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      1144,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      405,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      307,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      529,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      3814,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      12022,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      964,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      1628,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      2100,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      16705,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      1527,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      1550,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      13,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      3,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      483,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      16,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      1296,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      2000,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 08 2013 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      0,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      797,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      1171,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 12 2013 00:00:00",
+      929,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 13 2013 00:00:00",
+      1647,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 14 2013 00:00:00",
+      47,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 15 2013 00:00:00",
+      588,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 16 2013 00:00:00",
+      150,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 17 2013 00:00:00",
+      379,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 18 2013 00:00:00",
+      502,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 19 2013 00:00:00",
+      41,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 20 2013 00:00:00",
+      149,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 21 2013 00:00:00",
+      235,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 22 2013 00:00:00",
+      468,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 23 2013 00:00:00",
+      359,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 24 2013 00:00:00",
+      79,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 25 2013 00:00:00",
+      92,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 26 2013 00:00:00",
+      87,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 27 2013 00:00:00",
+      234,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 28 2013 00:00:00",
+      27,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 29 2013 00:00:00",
+      368,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 30 2013 00:00:00",
+      304,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 31 2013 00:00:00",
+      164,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "September, 01 2013 00:00:00",
+      69,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "September, 02 2013 00:00:00",
+      60,
+      420,
+      25,
+      "Ayakulik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 25,
+    "species_id": "420",
+    "year": "2013",
+    "totalRecords": 101,
+    "totalCount": 282106,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:37.439857"
+  }
+}

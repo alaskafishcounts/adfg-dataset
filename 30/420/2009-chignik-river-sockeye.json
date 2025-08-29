@@ -1,0 +1,877 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "May, 29 2009 00:00:00",
+      42,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "May, 30 2009 00:00:00",
+      42,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "May, 31 2009 00:00:00",
+      42,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 01 2009 00:00:00",
+      72,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 02 2009 00:00:00",
+      302,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 03 2009 00:00:00",
+      181,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 04 2009 00:00:00",
+      412,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 05 2009 00:00:00",
+      1027,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 06 2009 00:00:00",
+      774,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 07 2009 00:00:00",
+      804,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 08 2009 00:00:00",
+      2278,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 09 2009 00:00:00",
+      3576,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 10 2009 00:00:00",
+      2916,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 11 2009 00:00:00",
+      15465,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 12 2009 00:00:00",
+      8538,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 13 2009 00:00:00",
+      14344,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 14 2009 00:00:00",
+      19402,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 15 2009 00:00:00",
+      9208,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 16 2009 00:00:00",
+      11875,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 17 2009 00:00:00",
+      24477,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 18 2009 00:00:00",
+      35410,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 19 2009 00:00:00",
+      39994,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 20 2009 00:00:00",
+      40650,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 21 2009 00:00:00",
+      11440,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 22 2009 00:00:00",
+      5454,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 23 2009 00:00:00",
+      6421,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 24 2009 00:00:00",
+      6007,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 25 2009 00:00:00",
+      21033,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 26 2009 00:00:00",
+      53689,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 27 2009 00:00:00",
+      9540,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 28 2009 00:00:00",
+      12779,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 29 2009 00:00:00",
+      10221,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 30 2009 00:00:00",
+      7984,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 01 2009 00:00:00",
+      3619,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 02 2009 00:00:00",
+      4674,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 03 2009 00:00:00",
+      3908,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 04 2009 00:00:00",
+      2876,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 05 2009 00:00:00",
+      2229,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 06 2009 00:00:00",
+      1843,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 07 2009 00:00:00",
+      7158,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 08 2009 00:00:00",
+      10227,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 09 2009 00:00:00",
+      16313,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 10 2009 00:00:00",
+      21786,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 11 2009 00:00:00",
+      9529,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 12 2009 00:00:00",
+      4345,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 13 2009 00:00:00",
+      2451,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 14 2009 00:00:00",
+      2524,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 15 2009 00:00:00",
+      3996,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 16 2009 00:00:00",
+      910,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 17 2009 00:00:00",
+      3303,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 18 2009 00:00:00",
+      3453,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 19 2009 00:00:00",
+      20101,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 20 2009 00:00:00",
+      8917,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 21 2009 00:00:00",
+      10092,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 22 2009 00:00:00",
+      29653,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 23 2009 00:00:00",
+      18320,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 24 2009 00:00:00",
+      4529,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 25 2009 00:00:00",
+      3051,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 26 2009 00:00:00",
+      6516,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 27 2009 00:00:00",
+      7185,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 28 2009 00:00:00",
+      4475,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 29 2009 00:00:00",
+      6726,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 30 2009 00:00:00",
+      4102,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 31 2009 00:00:00",
+      1914,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 01 2009 00:00:00",
+      1194,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 02 2009 00:00:00",
+      1039,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 03 2009 00:00:00",
+      7012,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 04 2009 00:00:00",
+      6270,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 05 2009 00:00:00",
+      5236,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 06 2009 00:00:00",
+      1827,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 07 2009 00:00:00",
+      2018,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 08 2009 00:00:00",
+      2982,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 09 2009 00:00:00",
+      1670,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 10 2009 00:00:00",
+      1417,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 11 2009 00:00:00",
+      1734,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 12 2009 00:00:00",
+      1429,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 13 2009 00:00:00",
+      1872,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 14 2009 00:00:00",
+      1289,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 15 2009 00:00:00",
+      2075,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 16 2009 00:00:00",
+      2402,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 17 2009 00:00:00",
+      2226,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 18 2009 00:00:00",
+      1627,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 19 2009 00:00:00",
+      1770,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 20 2009 00:00:00",
+      1672,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 21 2009 00:00:00",
+      3044,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 22 2009 00:00:00",
+      2854,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 23 2009 00:00:00",
+      4174,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 24 2009 00:00:00",
+      5444,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 25 2009 00:00:00",
+      4421,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 26 2009 00:00:00",
+      4109,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 27 2009 00:00:00",
+      3396,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 28 2009 00:00:00",
+      4425,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 29 2009 00:00:00",
+      3094,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 30 2009 00:00:00",
+      4641,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 31 2009 00:00:00",
+      3840,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 30,
+    "species_id": "420",
+    "year": "2009",
+    "totalRecords": 95,
+    "totalCount": 699327,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:28.355821"
+  }
+}

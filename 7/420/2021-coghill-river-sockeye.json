@@ -1,0 +1,436 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "June, 11 2021 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 12 2021 00:00:00",
+      7,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 13 2021 00:00:00",
+      31,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 14 2021 00:00:00",
+      90,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 15 2021 00:00:00",
+      452,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 16 2021 00:00:00",
+      167,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 17 2021 00:00:00",
+      841,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 18 2021 00:00:00",
+      318,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 19 2021 00:00:00",
+      665,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 20 2021 00:00:00",
+      844,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 21 2021 00:00:00",
+      72,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 22 2021 00:00:00",
+      423,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 23 2021 00:00:00",
+      761,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 24 2021 00:00:00",
+      619,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 25 2021 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      99,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      1251,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      1612,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      2080,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 01 2021 00:00:00",
+      6162,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 02 2021 00:00:00",
+      5404,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 03 2021 00:00:00",
+      2971,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 04 2021 00:00:00",
+      1886,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 05 2021 00:00:00",
+      4737,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 06 2021 00:00:00",
+      4257,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 07 2021 00:00:00",
+      2093,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 08 2021 00:00:00",
+      2097,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 09 2021 00:00:00",
+      1978,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      3645,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      3409,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      3693,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      3533,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      4452,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      1443,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      4891,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      9581,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      6875,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      4973,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      4080,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      1605,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      1456,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      1301,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 24 2021 00:00:00",
+      556,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 25 2021 00:00:00",
+      1903,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      1903,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 7,
+    "species_id": "420",
+    "year": "2021",
+    "totalRecords": 46,
+    "totalCount": 101216,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:37.410562"
+  }
+}

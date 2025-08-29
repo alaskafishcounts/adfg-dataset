@@ -1,0 +1,733 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "June, 09 2022 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 10 2022 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 11 2022 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 12 2022 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 13 2022 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 14 2022 00:00:00",
+      53,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 15 2022 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 16 2022 00:00:00",
+      17,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 17 2022 00:00:00",
+      11,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 18 2022 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 19 2022 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 20 2022 00:00:00",
+      2,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 21 2022 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 22 2022 00:00:00",
+      4,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 23 2022 00:00:00",
+      405,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 24 2022 00:00:00",
+      237,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 25 2022 00:00:00",
+      1154,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 26 2022 00:00:00",
+      1634,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 27 2022 00:00:00",
+      568,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 28 2022 00:00:00",
+      890,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 29 2022 00:00:00",
+      1859,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 30 2022 00:00:00",
+      393,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 01 2022 00:00:00",
+      1400,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 02 2022 00:00:00",
+      839,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 03 2022 00:00:00",
+      1780,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 04 2022 00:00:00",
+      2771,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 05 2022 00:00:00",
+      3066,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 06 2022 00:00:00",
+      1182,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 07 2022 00:00:00",
+      1279,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 08 2022 00:00:00",
+      3575,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 09 2022 00:00:00",
+      2666,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      4560,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      4549,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      1294,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      4026,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      4060,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      3743,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      5244,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      4103,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      2871,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      980,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      1696,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      5027,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      1986,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      883,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      1531,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      386,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      570,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      484,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      797,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      2035,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      839,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      949,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      3,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      54,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 03 2022 00:00:00",
+      1987,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 04 2022 00:00:00",
+      14,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 05 2022 00:00:00",
+      106,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 06 2022 00:00:00",
+      1242,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 07 2022 00:00:00",
+      318,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 08 2022 00:00:00",
+      421,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 09 2022 00:00:00",
+      3076,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      1912,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 11 2022 00:00:00",
+      1089,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      893,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      457,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      445,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 15 2022 00:00:00",
+      1002,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      1107,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      492,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 18 2022 00:00:00",
+      505,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 19 2022 00:00:00",
+      1155,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 20 2022 00:00:00",
+      1023,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 21 2022 00:00:00",
+      800,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 22 2022 00:00:00",
+      500,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 23 2022 00:00:00",
+      400,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 24 2022 00:00:00",
+      300,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 25 2022 00:00:00",
+      200,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      100,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "420",
+    "year": "2022",
+    "totalRecords": 79,
+    "totalCount": 97999,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:44.347306"
+  }
+}

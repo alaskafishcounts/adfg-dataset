@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "August, 11 2003 00:00:00",
+      5,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 12 2003 00:00:00",
+      7,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 13 2003 00:00:00",
+      4,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 14 2003 00:00:00",
+      94,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 15 2003 00:00:00",
+      66,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 16 2003 00:00:00",
+      30,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 17 2003 00:00:00",
+      5,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 18 2003 00:00:00",
+      7,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 19 2003 00:00:00",
+      194,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 20 2003 00:00:00",
+      649,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 21 2003 00:00:00",
+      55,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 22 2003 00:00:00",
+      112,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 23 2003 00:00:00",
+      2024,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 23,
+    "species_id": "430",
+    "year": "2003",
+    "totalRecords": 13,
+    "totalCount": 3252,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:21.601948"
+  }
+}

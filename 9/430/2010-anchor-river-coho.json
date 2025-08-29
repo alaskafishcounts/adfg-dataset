@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      2,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      3,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      2,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      5,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      4,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      4,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      5,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      16,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      10,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      16,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      37,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      98,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      25,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      58,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      36,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      40,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      90,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      107,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      104,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      275,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      684,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      152,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      152,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 16 2010 00:00:00",
+      139,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 17 2010 00:00:00",
+      438,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 18 2010 00:00:00",
+      77,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 19 2010 00:00:00",
+      60,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 20 2010 00:00:00",
+      106,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 21 2010 00:00:00",
+      196,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 22 2010 00:00:00",
+      119,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 23 2010 00:00:00",
+      735,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 24 2010 00:00:00",
+      103,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 25 2010 00:00:00",
+      107,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 26 2010 00:00:00",
+      107,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 27 2010 00:00:00",
+      80,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 28 2010 00:00:00",
+      84,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 29 2010 00:00:00",
+      141,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 30 2010 00:00:00",
+      38,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 31 2010 00:00:00",
+      212,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 01 2010 00:00:00",
+      453,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 02 2010 00:00:00",
+      43,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 03 2010 00:00:00",
+      46,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 04 2010 00:00:00",
+      22,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 05 2010 00:00:00",
+      279,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 06 2010 00:00:00",
+      51,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 07 2010 00:00:00",
+      160,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 08 2010 00:00:00",
+      57,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 09 2010 00:00:00",
+      17,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 10 2010 00:00:00",
+      25,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 11 2010 00:00:00",
+      27,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 12 2010 00:00:00",
+      35,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 13 2010 00:00:00",
+      28,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 14 2010 00:00:00",
+      9,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 16 2010 00:00:00",
+      10,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 17 2010 00:00:00",
+      19,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 18 2010 00:00:00",
+      16,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 19 2010 00:00:00",
+      8,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 20 2010 00:00:00",
+      7,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 21 2010 00:00:00",
+      10,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 22 2010 00:00:00",
+      7,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 24 2010 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 25 2010 00:00:00",
+      3,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 26 2010 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 27 2010 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 28 2010 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2010,
+      "September, 29 2010 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 9,
+    "species_id": "430",
+    "year": "2010",
+    "totalRecords": 68,
+    "totalCount": 6001,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:15:02.742259"
+  }
+}

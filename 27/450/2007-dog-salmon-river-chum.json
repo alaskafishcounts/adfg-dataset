@@ -1,0 +1,643 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "June, 18 2007 00:00:00",
+      1,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 19 2007 00:00:00",
+      8,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 20 2007 00:00:00",
+      23,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 21 2007 00:00:00",
+      0,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 22 2007 00:00:00",
+      3,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 23 2007 00:00:00",
+      0,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 24 2007 00:00:00",
+      3,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 25 2007 00:00:00",
+      11,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 26 2007 00:00:00",
+      37,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 27 2007 00:00:00",
+      94,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 28 2007 00:00:00",
+      45,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 29 2007 00:00:00",
+      11,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "June, 30 2007 00:00:00",
+      97,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 01 2007 00:00:00",
+      25,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 02 2007 00:00:00",
+      87,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 03 2007 00:00:00",
+      118,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 04 2007 00:00:00",
+      45,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 05 2007 00:00:00",
+      29,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 06 2007 00:00:00",
+      287,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 07 2007 00:00:00",
+      72,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 08 2007 00:00:00",
+      26,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 09 2007 00:00:00",
+      33,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 10 2007 00:00:00",
+      175,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 11 2007 00:00:00",
+      32,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 12 2007 00:00:00",
+      76,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 13 2007 00:00:00",
+      9,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 14 2007 00:00:00",
+      29,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 15 2007 00:00:00",
+      15,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 16 2007 00:00:00",
+      35,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 17 2007 00:00:00",
+      50,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 18 2007 00:00:00",
+      21,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 19 2007 00:00:00",
+      126,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 20 2007 00:00:00",
+      33,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 21 2007 00:00:00",
+      54,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 22 2007 00:00:00",
+      101,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 23 2007 00:00:00",
+      20,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 24 2007 00:00:00",
+      11,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 25 2007 00:00:00",
+      474,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 26 2007 00:00:00",
+      173,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 27 2007 00:00:00",
+      35,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 28 2007 00:00:00",
+      52,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 29 2007 00:00:00",
+      45,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 30 2007 00:00:00",
+      174,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "July, 31 2007 00:00:00",
+      25,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 01 2007 00:00:00",
+      1,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 02 2007 00:00:00",
+      855,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 03 2007 00:00:00",
+      69,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 04 2007 00:00:00",
+      7,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 05 2007 00:00:00",
+      49,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 06 2007 00:00:00",
+      0,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 07 2007 00:00:00",
+      10,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 08 2007 00:00:00",
+      91,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 09 2007 00:00:00",
+      64,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 10 2007 00:00:00",
+      15,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 11 2007 00:00:00",
+      34,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 12 2007 00:00:00",
+      22,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 13 2007 00:00:00",
+      76,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 14 2007 00:00:00",
+      10,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 15 2007 00:00:00",
+      10,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 16 2007 00:00:00",
+      0,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 17 2007 00:00:00",
+      33,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 18 2007 00:00:00",
+      32,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 19 2007 00:00:00",
+      10,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 20 2007 00:00:00",
+      2,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 21 2007 00:00:00",
+      8,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 22 2007 00:00:00",
+      15,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 23 2007 00:00:00",
+      15,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 14 2007 00:00:00",
+      0,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 15 2007 00:00:00",
+      0,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 27,
+    "species_id": "450",
+    "year": "2007",
+    "totalRecords": 69,
+    "totalCount": 4248,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:01.147467"
+  }
+}

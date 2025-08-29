@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 25 2002 00:00:00",
+      2061,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 27 2002 00:00:00",
+      1357,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 28 2002 00:00:00",
+      12176,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 29 2002 00:00:00",
+      1235,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 30 2002 00:00:00",
+      5114,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 24,
+    "species_id": "420",
+    "year": "2002",
+    "totalRecords": 5,
+    "totalCount": 21943,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:31.425369"
+  }
+}

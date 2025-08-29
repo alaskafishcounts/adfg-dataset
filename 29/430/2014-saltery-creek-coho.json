@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "August, 03 2014 00:00:00",
+      1,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 04 2014 00:00:00",
+      0,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 05 2014 00:00:00",
+      0,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 06 2014 00:00:00",
+      0,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 07 2014 00:00:00",
+      1,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 08 2014 00:00:00",
+      0,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 09 2014 00:00:00",
+      3,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 29,
+    "species_id": "430",
+    "year": "2014",
+    "totalRecords": 7,
+    "totalCount": 5,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:15.122580"
+  }
+}

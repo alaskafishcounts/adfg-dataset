@@ -1,0 +1,688 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "June, 15 2023 00:00:00",
+      6792,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 16 2023 00:00:00",
+      3936,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 17 2023 00:00:00",
+      4110,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 18 2023 00:00:00",
+      4522,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 19 2023 00:00:00",
+      5220,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 20 2023 00:00:00",
+      7008,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 21 2023 00:00:00",
+      6438,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 22 2023 00:00:00",
+      6054,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 23 2023 00:00:00",
+      6601,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 24 2023 00:00:00",
+      6786,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 25 2023 00:00:00",
+      8101,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 26 2023 00:00:00",
+      7506,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 27 2023 00:00:00",
+      6552,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 28 2023 00:00:00",
+      11616,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 29 2023 00:00:00",
+      11244,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 30 2023 00:00:00",
+      15810,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 01 2023 00:00:00",
+      10704,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 02 2023 00:00:00",
+      8910,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 03 2023 00:00:00",
+      9138,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 04 2023 00:00:00",
+      8706,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 05 2023 00:00:00",
+      7416,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 06 2023 00:00:00",
+      9022,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 07 2023 00:00:00",
+      7486,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 08 2023 00:00:00",
+      10675,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 09 2023 00:00:00",
+      15186,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      14862,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      11262,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      6156,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      4824,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      5478,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      26772,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      59742,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      49932,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      16548,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      15859,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      17586,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      15522,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      11940,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      13860,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      26586,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      39648,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      42480,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      49872,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      26511,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      18468,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      15696,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      13590,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 01 2023 00:00:00",
+      14268,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 02 2023 00:00:00",
+      11682,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 03 2023 00:00:00",
+      11481,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 04 2023 00:00:00",
+      18337,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 05 2023 00:00:00",
+      11652,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 06 2023 00:00:00",
+      9606,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 07 2023 00:00:00",
+      9745,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 08 2023 00:00:00",
+      11906,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 09 2023 00:00:00",
+      10395,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      6984,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      8637,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      8070,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      5274,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      9744,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      9024,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      5147,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      5298,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      6518,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      5004,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 20 2023 00:00:00",
+      6276,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 21 2023 00:00:00",
+      9997,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 22 2023 00:00:00",
+      8370,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 23 2023 00:00:00",
+      4470,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 24 2023 00:00:00",
+      3756,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 25 2023 00:00:00",
+      5112,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      5052,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 27 2023 00:00:00",
+      2358,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 41,
+    "species_id": "420",
+    "year": "2023",
+    "totalRecords": 74,
+    "totalCount": 932896,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:37.124863"
+  }
+}

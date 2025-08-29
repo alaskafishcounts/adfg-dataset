@@ -1,0 +1,247 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "July, 05 2022 00:00:00",
+      3,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 06 2022 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 07 2022 00:00:00",
+      98,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 08 2022 00:00:00",
+      2,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 09 2022 00:00:00",
+      125,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      12,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      337,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      102,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      1948,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      2963,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      1024,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      2423,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      3109,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      5474,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      4220,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      3291,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      1707,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      2043,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      2520,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      932,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      629,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      12032,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      6674,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      3683,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      3000,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "420",
+    "year": "2022",
+    "totalRecords": 25,
+    "totalCount": 58351,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:02:59.551885"
+  }
+}

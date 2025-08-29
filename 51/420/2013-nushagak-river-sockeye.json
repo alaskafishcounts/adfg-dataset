@@ -1,0 +1,517 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "June, 11 2013 00:00:00",
+      649,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 12 2013 00:00:00",
+      291,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 13 2013 00:00:00",
+      684,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 14 2013 00:00:00",
+      1199,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 15 2013 00:00:00",
+      1317,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 16 2013 00:00:00",
+      2198,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 17 2013 00:00:00",
+      2046,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 18 2013 00:00:00",
+      748,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 19 2013 00:00:00",
+      2846,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 20 2013 00:00:00",
+      60526,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 21 2013 00:00:00",
+      160868,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 22 2013 00:00:00",
+      135240,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 23 2013 00:00:00",
+      93813,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 24 2013 00:00:00",
+      85051,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 25 2013 00:00:00",
+      53846,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      25208,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 27 2013 00:00:00",
+      13875,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      18543,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      37553,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      11008,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 01 2013 00:00:00",
+      17728,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      19599,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      16799,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      24004,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      33554,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      16239,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      8404,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      5035,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      10064,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      10641,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      6707,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      3123,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      3086,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      1029,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      2448,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      2459,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      1359,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      454,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      864,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      927,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      928,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      621,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      327,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      0,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      0,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      0,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      0,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      0,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      0,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      0,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      0,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      0,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      86,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      178,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      0,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "420",
+    "year": "2013",
+    "totalRecords": 55,
+    "totalCount": 894172,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:55.097214"
+  }
+}

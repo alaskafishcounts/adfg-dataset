@@ -1,0 +1,814 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "May, 26 2004 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "May, 27 2004 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "May, 28 2004 00:00:00",
+      2,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "May, 29 2004 00:00:00",
+      3,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "May, 30 2004 00:00:00",
+      195,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "May, 31 2004 00:00:00",
+      1010,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 01 2004 00:00:00",
+      1286,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 02 2004 00:00:00",
+      1347,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 03 2004 00:00:00",
+      484,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 04 2004 00:00:00",
+      5194,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 05 2004 00:00:00",
+      516,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 06 2004 00:00:00",
+      467,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 07 2004 00:00:00",
+      1208,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 08 2004 00:00:00",
+      154,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 09 2004 00:00:00",
+      68,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 10 2004 00:00:00",
+      147,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 11 2004 00:00:00",
+      318,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 12 2004 00:00:00",
+      58,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 13 2004 00:00:00",
+      458,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 14 2004 00:00:00",
+      3530,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 15 2004 00:00:00",
+      535,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 16 2004 00:00:00",
+      755,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 17 2004 00:00:00",
+      839,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 18 2004 00:00:00",
+      37,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 19 2004 00:00:00",
+      111,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 20 2004 00:00:00",
+      684,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 21 2004 00:00:00",
+      639,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 22 2004 00:00:00",
+      608,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 23 2004 00:00:00",
+      156,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 24 2004 00:00:00",
+      127,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 25 2004 00:00:00",
+      151,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 26 2004 00:00:00",
+      178,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 27 2004 00:00:00",
+      42,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 28 2004 00:00:00",
+      872,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 29 2004 00:00:00",
+      613,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "June, 30 2004 00:00:00",
+      39,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 01 2004 00:00:00",
+      460,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 02 2004 00:00:00",
+      228,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 03 2004 00:00:00",
+      112,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 04 2004 00:00:00",
+      194,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 05 2004 00:00:00",
+      32,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 07 2004 00:00:00",
+      13,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 08 2004 00:00:00",
+      19,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 09 2004 00:00:00",
+      103,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 10 2004 00:00:00",
+      143,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 11 2004 00:00:00",
+      24,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 12 2004 00:00:00",
+      35,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 13 2004 00:00:00",
+      96,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 14 2004 00:00:00",
+      32,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 15 2004 00:00:00",
+      71,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 16 2004 00:00:00",
+      49,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 17 2004 00:00:00",
+      9,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 18 2004 00:00:00",
+      24,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 19 2004 00:00:00",
+      74,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 20 2004 00:00:00",
+      82,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 21 2004 00:00:00",
+      4,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 22 2004 00:00:00",
+      4,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 23 2004 00:00:00",
+      14,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 24 2004 00:00:00",
+      23,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      26,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 26 2004 00:00:00",
+      4,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 27 2004 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "July, 31 2004 00:00:00",
+      8,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 01 2004 00:00:00",
+      4,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 02 2004 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 03 2004 00:00:00",
+      1,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 04 2004 00:00:00",
+      3,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 05 2004 00:00:00",
+      1,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 06 2004 00:00:00",
+      2,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 07 2004 00:00:00",
+      2,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 08 2004 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 09 2004 00:00:00",
+      2,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 10 2004 00:00:00",
+      3,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 11 2004 00:00:00",
+      2,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 12 2004 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 13 2004 00:00:00",
+      1,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 14 2004 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 15 2004 00:00:00",
+      1,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 16 2004 00:00:00",
+      2,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 17 2004 00:00:00",
+      1,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 18 2004 00:00:00",
+      1,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 19 2004 00:00:00",
+      1,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 20 2004 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 21 2004 00:00:00",
+      0,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "August, 22 2004 00:00:00",
+      1,
+      410,
+      25,
+      "Ayakulik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 25,
+    "species_id": "410",
+    "year": "2004",
+    "totalRecords": 88,
+    "totalCount": 24742,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:41.238431"
+  }
+}

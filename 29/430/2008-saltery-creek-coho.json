@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "July, 29 2008 00:00:00",
+      2,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 30 2008 00:00:00",
+      2,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 31 2008 00:00:00",
+      0,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 01 2008 00:00:00",
+      0,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 02 2008 00:00:00",
+      0,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 03 2008 00:00:00",
+      0,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 04 2008 00:00:00",
+      0,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 05 2008 00:00:00",
+      3,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 06 2008 00:00:00",
+      0,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 07 2008 00:00:00",
+      0,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 08 2008 00:00:00",
+      10,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 29,
+    "species_id": "430",
+    "year": "2008",
+    "totalRecords": 11,
+    "totalCount": 17,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:18.166873"
+  }
+}

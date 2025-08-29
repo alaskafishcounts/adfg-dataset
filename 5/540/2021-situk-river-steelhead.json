@@ -1,0 +1,823 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "May, 14 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 15 2021 00:00:00",
+      2,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 16 2021 00:00:00",
+      8,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 17 2021 00:00:00",
+      5,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 18 2021 00:00:00",
+      2,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 19 2021 00:00:00",
+      4,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 20 2021 00:00:00",
+      6,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 21 2021 00:00:00",
+      32,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 22 2021 00:00:00",
+      26,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 23 2021 00:00:00",
+      22,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 24 2021 00:00:00",
+      17,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 25 2021 00:00:00",
+      28,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 26 2021 00:00:00",
+      18,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 27 2021 00:00:00",
+      40,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 28 2021 00:00:00",
+      143,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 29 2021 00:00:00",
+      null,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 30 2021 00:00:00",
+      null,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "May, 31 2021 00:00:00",
+      null,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 01 2021 00:00:00",
+      null,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 02 2021 00:00:00",
+      null,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 03 2021 00:00:00",
+      null,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 04 2021 00:00:00",
+      null,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 05 2021 00:00:00",
+      null,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 06 2021 00:00:00",
+      16,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 07 2021 00:00:00",
+      23,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 08 2021 00:00:00",
+      172,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 09 2021 00:00:00",
+      305,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 10 2021 00:00:00",
+      420,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 11 2021 00:00:00",
+      345,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 12 2021 00:00:00",
+      251,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 13 2021 00:00:00",
+      203,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 14 2021 00:00:00",
+      266,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 15 2021 00:00:00",
+      64,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 16 2021 00:00:00",
+      126,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 17 2021 00:00:00",
+      4,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 18 2021 00:00:00",
+      70,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 19 2021 00:00:00",
+      47,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 20 2021 00:00:00",
+      10,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 21 2021 00:00:00",
+      360,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 22 2021 00:00:00",
+      12,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 23 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 24 2021 00:00:00",
+      502,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 25 2021 00:00:00",
+      6,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      2,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 01 2021 00:00:00",
+      1,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 02 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 03 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 04 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 05 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 06 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 07 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 08 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 09 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      3,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      2,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      2,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      3,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      1,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      4,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      2,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 24 2021 00:00:00",
+      2,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 25 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      1,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 27 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 28 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 29 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 30 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "July, 31 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "August, 01 2021 00:00:00",
+      1,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "August, 02 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "August, 03 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "August, 04 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "August, 05 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "August, 06 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "August, 07 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "August, 08 2021 00:00:00",
+      0,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "August, 09 2021 00:00:00",
+      2,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ],
+    [
+      2021,
+      "August, 10 2021 00:00:00",
+      null,
+      540,
+      5,
+      "Situk River",
+      "Steelhead"
+    ]
+  ],
+  "metadata": {
+    "location_id": 5,
+    "species_id": "540",
+    "year": "2021",
+    "totalRecords": 89,
+    "totalCount": 3581,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:19.749816"
+  }
+}

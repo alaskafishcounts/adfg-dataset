@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "July, 29 2017 00:00:00",
+      1,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2017,
+      "July, 30 2017 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2017,
+      "July, 31 2017 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2017,
+      "August, 01 2017 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2017,
+      "August, 02 2017 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2017,
+      "August, 03 2017 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2017,
+      "August, 04 2017 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2017,
+      "August, 05 2017 00:00:00",
+      2,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2017,
+      "August, 06 2017 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2017,
+      "August, 07 2017 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2017,
+      "August, 08 2017 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2017,
+      "August, 09 2017 00:00:00",
+      3,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 27,
+    "species_id": "430",
+    "year": "2017",
+    "totalRecords": 12,
+    "totalCount": 6,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:57.014416"
+  }
+}

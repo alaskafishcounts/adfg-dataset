@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      null,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 01 2023 00:00:00",
+      37,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 02 2023 00:00:00",
+      5,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 03 2023 00:00:00",
+      126,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 04 2023 00:00:00",
+      14,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 05 2023 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 06 2023 00:00:00",
+      3,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 07 2023 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 08 2023 00:00:00",
+      10,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      28,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      19,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      14,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      6,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 20 2023 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 21 2023 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 22 2023 00:00:00",
+      8,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 23 2023 00:00:00",
+      6,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 24 2023 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 25 2023 00:00:00",
+      4,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 27 2023 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 28 2023 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 29 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 30 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 31 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 01 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 02 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 03 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 04 2023 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 07 2023 00:00:00",
+      null,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "September, 10 2023 00:00:00",
+      null,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 73,
+    "species_id": "420",
+    "year": "2023",
+    "totalRecords": 43,
+    "totalCount": 299,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:31.783163"
+  }
+}

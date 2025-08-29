@@ -1,0 +1,760 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "June, 23 2017 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 24 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 25 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 26 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 27 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 28 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 29 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "June, 30 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 01 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 02 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 05 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 06 2017 00:00:00",
+      4,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 07 2017 00:00:00",
+      2,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 08 2017 00:00:00",
+      8,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 09 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 10 2017 00:00:00",
+      7,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 11 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 12 2017 00:00:00",
+      5,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 13 2017 00:00:00",
+      8,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 14 2017 00:00:00",
+      30,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 15 2017 00:00:00",
+      6,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 16 2017 00:00:00",
+      4,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 17 2017 00:00:00",
+      2,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 18 2017 00:00:00",
+      7,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 19 2017 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 20 2017 00:00:00",
+      4,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 21 2017 00:00:00",
+      8,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 22 2017 00:00:00",
+      11,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 23 2017 00:00:00",
+      4,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 24 2017 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 25 2017 00:00:00",
+      10,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 26 2017 00:00:00",
+      3,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 27 2017 00:00:00",
+      34,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 28 2017 00:00:00",
+      24,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 29 2017 00:00:00",
+      32,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 30 2017 00:00:00",
+      45,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 31 2017 00:00:00",
+      26,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 01 2017 00:00:00",
+      55,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 02 2017 00:00:00",
+      78,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 03 2017 00:00:00",
+      356,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 04 2017 00:00:00",
+      677,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 05 2017 00:00:00",
+      430,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 06 2017 00:00:00",
+      606,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 07 2017 00:00:00",
+      1711,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 08 2017 00:00:00",
+      3579,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 09 2017 00:00:00",
+      9677,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 10 2017 00:00:00",
+      3309,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 11 2017 00:00:00",
+      1739,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 12 2017 00:00:00",
+      3155,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 13 2017 00:00:00",
+      2245,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 14 2017 00:00:00",
+      2936,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 15 2017 00:00:00",
+      2361,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 16 2017 00:00:00",
+      2997,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 17 2017 00:00:00",
+      7842,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 18 2017 00:00:00",
+      7030,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 19 2017 00:00:00",
+      3150,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 20 2017 00:00:00",
+      8744,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 21 2017 00:00:00",
+      5738,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 22 2017 00:00:00",
+      2683,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 23 2017 00:00:00",
+      3225,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 24 2017 00:00:00",
+      3622,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 25 2017 00:00:00",
+      5105,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 26 2017 00:00:00",
+      5653,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 27 2017 00:00:00",
+      4801,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 28 2017 00:00:00",
+      3557,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 29 2017 00:00:00",
+      11421,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 30 2017 00:00:00",
+      6462,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 31 2017 00:00:00",
+      6365,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 01 2017 00:00:00",
+      3182,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 02 2017 00:00:00",
+      8427,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 03 2017 00:00:00",
+      17421,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 04 2017 00:00:00",
+      21351,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 05 2017 00:00:00",
+      12724,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 06 2017 00:00:00",
+      14820,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 07 2017 00:00:00",
+      11424,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 08 2017 00:00:00",
+      8764,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 09 2017 00:00:00",
+      10895,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 10 2017 00:00:00",
+      5935,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 11 2017 00:00:00",
+      5532,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 12 2017 00:00:00",
+      3845,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 13 2017 00:00:00",
+      7102,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2017,
+      "September, 14 2017 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 24,
+    "species_id": "440",
+    "year": "2017",
+    "totalRecords": 82,
+    "totalCount": 253018,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:25.417857"
+  }
+}

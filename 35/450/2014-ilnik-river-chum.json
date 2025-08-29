@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "June, 26 2014 00:00:00",
+      4,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 27 2014 00:00:00",
+      2,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 28 2014 00:00:00",
+      1,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 29 2014 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "June, 30 2014 00:00:00",
+      3,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 01 2014 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 02 2014 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 03 2014 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 04 2014 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 05 2014 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 06 2014 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 07 2014 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 08 2014 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 09 2014 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 10 2014 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ],
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 35,
+    "species_id": "450",
+    "year": "2014",
+    "totalRecords": 16,
+    "totalCount": 10,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:09.672340"
+  }
+}

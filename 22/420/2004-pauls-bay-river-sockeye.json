@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      2505,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 22,
+    "species_id": "420",
+    "year": "2004",
+    "totalRecords": 1,
+    "totalCount": 2505,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:17.871988"
+  }
+}

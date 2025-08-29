@@ -1,0 +1,526 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      3,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      4,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      2,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 06 2013 00:00:00",
+      1,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 07 2013 00:00:00",
+      0,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 09 2013 00:00:00",
+      8,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 10 2013 00:00:00",
+      20,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 11 2013 00:00:00",
+      16,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 12 2013 00:00:00",
+      5,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 13 2013 00:00:00",
+      16,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 14 2013 00:00:00",
+      4,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 15 2013 00:00:00",
+      14,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 16 2013 00:00:00",
+      17,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 17 2013 00:00:00",
+      19,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 18 2013 00:00:00",
+      36,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 19 2013 00:00:00",
+      12,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 20 2013 00:00:00",
+      16,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 21 2013 00:00:00",
+      13,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 22 2013 00:00:00",
+      74,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 23 2013 00:00:00",
+      87,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 24 2013 00:00:00",
+      119,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 25 2013 00:00:00",
+      127,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 26 2013 00:00:00",
+      114,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 27 2013 00:00:00",
+      96,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 28 2013 00:00:00",
+      32,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 29 2013 00:00:00",
+      428,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 30 2013 00:00:00",
+      678,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "August, 31 2013 00:00:00",
+      500,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 01 2013 00:00:00",
+      406,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 02 2013 00:00:00",
+      198,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 03 2013 00:00:00",
+      59,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 04 2013 00:00:00",
+      105,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 05 2013 00:00:00",
+      161,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 06 2013 00:00:00",
+      343,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 07 2013 00:00:00",
+      343,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 08 2013 00:00:00",
+      143,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 09 2013 00:00:00",
+      233,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 10 2013 00:00:00",
+      233,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 11 2013 00:00:00",
+      135,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 12 2013 00:00:00",
+      119,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 13 2013 00:00:00",
+      203,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 14 2013 00:00:00",
+      25,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 15 2013 00:00:00",
+      52,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 16 2013 00:00:00",
+      9,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 17 2013 00:00:00",
+      7,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 18 2013 00:00:00",
+      34,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 19 2013 00:00:00",
+      59,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 20 2013 00:00:00",
+      60,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 21 2013 00:00:00",
+      115,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 22 2013 00:00:00",
+      145,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 23 2013 00:00:00",
+      15,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 24 2013 00:00:00",
+      1,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 25 2013 00:00:00",
+      38,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 26 2013 00:00:00",
+      4,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 27 2013 00:00:00",
+      59,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2013,
+      "September, 28 2013 00:00:00",
+      0,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 28,
+    "species_id": "430",
+    "year": "2013",
+    "totalRecords": 56,
+    "totalCount": 5765,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:07.139723"
+  }
+}

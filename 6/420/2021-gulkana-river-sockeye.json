@@ -1,0 +1,850 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "June, 09 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 10 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 11 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 12 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 13 2021 00:00:00",
+      36,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 14 2021 00:00:00",
+      444,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 15 2021 00:00:00",
+      582,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 16 2021 00:00:00",
+      180,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 17 2021 00:00:00",
+      330,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 18 2021 00:00:00",
+      192,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 19 2021 00:00:00",
+      60,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 20 2021 00:00:00",
+      30,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 21 2021 00:00:00",
+      132,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 22 2021 00:00:00",
+      108,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 23 2021 00:00:00",
+      204,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 24 2021 00:00:00",
+      270,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 25 2021 00:00:00",
+      240,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      84,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      228,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      228,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      288,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      42,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 01 2021 00:00:00",
+      66,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 02 2021 00:00:00",
+      84,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 03 2021 00:00:00",
+      72,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 04 2021 00:00:00",
+      90,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 05 2021 00:00:00",
+      114,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 06 2021 00:00:00",
+      96,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 07 2021 00:00:00",
+      6,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 08 2021 00:00:00",
+      54,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 09 2021 00:00:00",
+      48,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      24,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      6,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      42,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      114,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      162,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      108,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      120,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      120,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      270,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      468,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      810,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      636,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      1248,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      942,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 24 2021 00:00:00",
+      570,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 25 2021 00:00:00",
+      552,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      360,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 27 2021 00:00:00",
+      396,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 28 2021 00:00:00",
+      186,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 29 2021 00:00:00",
+      252,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 30 2021 00:00:00",
+      252,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 31 2021 00:00:00",
+      84,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 01 2021 00:00:00",
+      258,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 02 2021 00:00:00",
+      264,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 03 2021 00:00:00",
+      276,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 04 2021 00:00:00",
+      186,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 05 2021 00:00:00",
+      120,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 06 2021 00:00:00",
+      156,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 07 2021 00:00:00",
+      186,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 08 2021 00:00:00",
+      90,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 09 2021 00:00:00",
+      36,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 10 2021 00:00:00",
+      null,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 11 2021 00:00:00",
+      null,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 12 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 13 2021 00:00:00",
+      12,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 14 2021 00:00:00",
+      -12,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 15 2021 00:00:00",
+      -24,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 16 2021 00:00:00",
+      -18,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 17 2021 00:00:00",
+      -12,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 18 2021 00:00:00",
+      -6,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 19 2021 00:00:00",
+      -30,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 20 2021 00:00:00",
+      18,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 21 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 22 2021 00:00:00",
+      -6,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 23 2021 00:00:00",
+      -6,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 24 2021 00:00:00",
+      -6,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 25 2021 00:00:00",
+      6,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 26 2021 00:00:00",
+      -12,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 27 2021 00:00:00",
+      -12,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 28 2021 00:00:00",
+      null,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 29 2021 00:00:00",
+      null,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 30 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 31 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "September, 01 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "September, 02 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "September, 03 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "September, 04 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "September, 05 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "September, 06 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "September, 07 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "September, 08 2021 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 6,
+    "species_id": "420",
+    "year": "2021",
+    "totalRecords": 92,
+    "totalCount": 13494,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:27.480211"
+  }
+}

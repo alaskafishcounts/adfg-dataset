@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "August, 15 2008 00:00:00",
+      4,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 16 2008 00:00:00",
+      6,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 17 2008 00:00:00",
+      7,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 18 2008 00:00:00",
+      4,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 19 2008 00:00:00",
+      2,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 27,
+    "species_id": "430",
+    "year": "2008",
+    "totalRecords": 5,
+    "totalCount": 23,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:00.854445"
+  }
+}

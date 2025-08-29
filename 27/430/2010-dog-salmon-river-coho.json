@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      1,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      1,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      12,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      11,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      7,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      0,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      4,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2010,
+      "August, 25 2010 00:00:00",
+      5,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 27,
+    "species_id": "430",
+    "year": "2010",
+    "totalRecords": 15,
+    "totalCount": 41,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:00.236966"
+  }
+}

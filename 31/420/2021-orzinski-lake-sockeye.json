@@ -1,0 +1,526 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "June, 08 2021 00:00:00",
+      3,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 09 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 10 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 11 2021 00:00:00",
+      2,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 12 2021 00:00:00",
+      4,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 13 2021 00:00:00",
+      9,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 14 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 15 2021 00:00:00",
+      3,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 16 2021 00:00:00",
+      7,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 17 2021 00:00:00",
+      1,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 18 2021 00:00:00",
+      3,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 19 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 20 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 21 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 22 2021 00:00:00",
+      78,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 23 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 24 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 25 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      132,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      365,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      523,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 01 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 02 2021 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 03 2021 00:00:00",
+      344,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 04 2021 00:00:00",
+      1029,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 05 2021 00:00:00",
+      751,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 06 2021 00:00:00",
+      1001,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 07 2021 00:00:00",
+      380,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 08 2021 00:00:00",
+      247,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 09 2021 00:00:00",
+      288,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      886,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      1095,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      910,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      947,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      1126,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      575,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      310,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      389,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      644,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      417,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      1737,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      830,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      1531,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      878,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 24 2021 00:00:00",
+      404,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 25 2021 00:00:00",
+      467,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      303,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 27 2021 00:00:00",
+      112,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 28 2021 00:00:00",
+      261,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 29 2021 00:00:00",
+      109,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 30 2021 00:00:00",
+      323,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 31 2021 00:00:00",
+      334,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 01 2021 00:00:00",
+      997,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "August, 03 2021 00:00:00",
+      216,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 31,
+    "species_id": "420",
+    "year": "2021",
+    "totalRecords": 56,
+    "totalCount": 20971,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:37.203613"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      1,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      1,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      3,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      5,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      3,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      1,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      1,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      2,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      3,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      9,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      2,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      9,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      2,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      5,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 01 2012 00:00:00",
+      4,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 02 2012 00:00:00",
+      7,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 03 2012 00:00:00",
+      6,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 04 2012 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 31,
+    "species_id": "440",
+    "year": "2012",
+    "totalRecords": 25,
+    "totalCount": 64,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:38.047552"
+  }
+}

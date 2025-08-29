@@ -1,0 +1,526 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "June, 15 2025 00:00:00",
+      11190,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 16 2025 00:00:00",
+      9774,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 17 2025 00:00:00",
+      12444,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 18 2025 00:00:00",
+      8586,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 19 2025 00:00:00",
+      11706,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 20 2025 00:00:00",
+      12302,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 21 2025 00:00:00",
+      15864,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 22 2025 00:00:00",
+      12300,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 23 2025 00:00:00",
+      16704,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 24 2025 00:00:00",
+      23742,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      14928,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 26 2025 00:00:00",
+      15900,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 27 2025 00:00:00",
+      17586,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      20418,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      24048,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      28392,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 01 2025 00:00:00",
+      34788,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 02 2025 00:00:00",
+      33558,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 03 2025 00:00:00",
+      36546,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 04 2025 00:00:00",
+      24623,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 05 2025 00:00:00",
+      35287,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 06 2025 00:00:00",
+      25698,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 07 2025 00:00:00",
+      27996,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 08 2025 00:00:00",
+      41568,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 09 2025 00:00:00",
+      32610,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 10 2025 00:00:00",
+      24858,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 11 2025 00:00:00",
+      18630,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 12 2025 00:00:00",
+      17298,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 13 2025 00:00:00",
+      14106,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      21222,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      32124,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      44526,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      27330,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      18390,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      32706,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      36768,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      22764,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      27026,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      25428,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      21810,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      19176,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      37590,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      22962,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      14318,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      16410,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      21849,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      22878,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 01 2025 00:00:00",
+      21636,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      13668,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      10638,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      12546,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      14184,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      10110,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      10704,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 08 2025 00:00:00",
+      9168,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 09 2025 00:00:00",
+      6090,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 41,
+    "species_id": "420",
+    "year": "2025",
+    "totalRecords": 56,
+    "totalCount": 1197471,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:37.036968"
+  }
+}

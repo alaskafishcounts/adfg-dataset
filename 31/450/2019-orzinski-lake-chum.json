@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      1,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 01 2019 00:00:00",
+      1,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 02 2019 00:00:00",
+      0,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 03 2019 00:00:00",
+      0,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 04 2019 00:00:00",
+      0,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 05 2019 00:00:00",
+      0,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 06 2019 00:00:00",
+      0,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 07 2019 00:00:00",
+      1,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2019,
+      "August, 08 2019 00:00:00",
+      0,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 31,
+    "species_id": "450",
+    "year": "2019",
+    "totalRecords": 9,
+    "totalCount": 3,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:34.697409"
+  }
+}

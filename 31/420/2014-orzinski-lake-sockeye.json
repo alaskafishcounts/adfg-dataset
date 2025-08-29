@@ -1,0 +1,607 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "June, 06 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 07 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 08 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 09 2014 00:00:00",
+      1,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 11 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 12 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 13 2014 00:00:00",
+      5,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 14 2014 00:00:00",
+      2,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 15 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 16 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 17 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 18 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 19 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 20 2014 00:00:00",
+      6,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 21 2014 00:00:00",
+      1,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 22 2014 00:00:00",
+      16,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 23 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 24 2014 00:00:00",
+      8,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 25 2014 00:00:00",
+      23,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 26 2014 00:00:00",
+      160,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 27 2014 00:00:00",
+      15,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 28 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 29 2014 00:00:00",
+      17,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 30 2014 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 01 2014 00:00:00",
+      100,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 02 2014 00:00:00",
+      4,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 03 2014 00:00:00",
+      9,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 04 2014 00:00:00",
+      1,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 05 2014 00:00:00",
+      5,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 06 2014 00:00:00",
+      497,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 07 2014 00:00:00",
+      1996,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 08 2014 00:00:00",
+      131,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 09 2014 00:00:00",
+      424,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 10 2014 00:00:00",
+      470,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      1221,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 12 2014 00:00:00",
+      863,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 13 2014 00:00:00",
+      575,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 14 2014 00:00:00",
+      391,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 15 2014 00:00:00",
+      283,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 16 2014 00:00:00",
+      355,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      291,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      310,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      166,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      336,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      157,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      227,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      456,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      257,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 25 2014 00:00:00",
+      311,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 26 2014 00:00:00",
+      180,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 27 2014 00:00:00",
+      203,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 28 2014 00:00:00",
+      196,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 29 2014 00:00:00",
+      168,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 30 2014 00:00:00",
+      55,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 31 2014 00:00:00",
+      419,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 01 2014 00:00:00",
+      248,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 02 2014 00:00:00",
+      310,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 03 2014 00:00:00",
+      515,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 04 2014 00:00:00",
+      79,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 05 2014 00:00:00",
+      258,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 06 2014 00:00:00",
+      108,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 07 2014 00:00:00",
+      258,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 08 2014 00:00:00",
+      279,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 09 2014 00:00:00",
+      233,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 10 2014 00:00:00",
+      1,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 31,
+    "species_id": "420",
+    "year": "2014",
+    "totalRecords": 65,
+    "totalCount": 13600,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:36.713654"
+  }
+}

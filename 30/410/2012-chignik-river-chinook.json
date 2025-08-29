@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 22 2012 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "June, 23 2012 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "June, 24 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "June, 27 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 01 2012 00:00:00",
+      18,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 02 2012 00:00:00",
+      7,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 03 2012 00:00:00",
+      13,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 04 2012 00:00:00",
+      18,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 05 2012 00:00:00",
+      8,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 06 2012 00:00:00",
+      24,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 07 2012 00:00:00",
+      38,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 08 2012 00:00:00",
+      25,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 09 2012 00:00:00",
+      30,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      30,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      57,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      54,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      126,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      54,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      102,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      18,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      84,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      102,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      73,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      18,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      40,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      48,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      36,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      48,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      20,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      18,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      49,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      36,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      25,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 01 2012 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 02 2012 00:00:00",
+      36,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 03 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 04 2012 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 05 2012 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 06 2012 00:00:00",
+      13,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 07 2012 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 08 2012 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 09 2012 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 10 2012 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 11 2012 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 12 2012 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 13 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 14 2012 00:00:00",
+      12,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 15 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 16 2012 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 17 2012 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 18 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 19 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 20 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 21 2012 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 22 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 23 2012 00:00:00",
+      13,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 24 2012 00:00:00",
+      6,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 25 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 26 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 28 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "August, 29 2012 00:00:00",
+      0,
+      410,
+      30,
+      "Chignik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 30,
+    "species_id": "410",
+    "year": "2012",
+    "totalRecords": 68,
+    "totalCount": 1449,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:26.759982"
+  }
+}

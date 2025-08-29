@@ -1,0 +1,454 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "June, 10 2021 00:00:00",
+      5,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 11 2021 00:00:00",
+      8,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 12 2021 00:00:00",
+      9,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 13 2021 00:00:00",
+      119,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 14 2021 00:00:00",
+      70,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 15 2021 00:00:00",
+      71,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 16 2021 00:00:00",
+      71,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 17 2021 00:00:00",
+      89,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 18 2021 00:00:00",
+      73,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 19 2021 00:00:00",
+      167,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 20 2021 00:00:00",
+      95,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 21 2021 00:00:00",
+      166,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 22 2021 00:00:00",
+      352,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 23 2021 00:00:00",
+      281,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 24 2021 00:00:00",
+      174,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 25 2021 00:00:00",
+      35,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      422,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      655,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      661,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      465,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      520,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 01 2021 00:00:00",
+      779,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 02 2021 00:00:00",
+      518,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 03 2021 00:00:00",
+      596,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 04 2021 00:00:00",
+      290,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 05 2021 00:00:00",
+      781,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 06 2021 00:00:00",
+      272,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 07 2021 00:00:00",
+      266,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 08 2021 00:00:00",
+      657,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 09 2021 00:00:00",
+      375,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      740,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      387,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      596,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      416,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      139,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      311,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      196,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      238,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      3048,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      62,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      46,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      216,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      200,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      94,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 24 2021 00:00:00",
+      130,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 25 2021 00:00:00",
+      101,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      77,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "July, 27 2021 00:00:00",
+      134,
+      420,
+      74,
+      "McLees Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 74,
+    "species_id": "420",
+    "year": "2021",
+    "totalRecords": 48,
+    "totalCount": 16173,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:43.506706"
+  }
+}

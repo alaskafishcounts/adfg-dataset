@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      1,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      0,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      1,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 28 2024 00:00:00",
+      0,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 29 2024 00:00:00",
+      0,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 30 2024 00:00:00",
+      0,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 31 2024 00:00:00",
+      0,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 01 2024 00:00:00",
+      0,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 02 2024 00:00:00",
+      0,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 03 2024 00:00:00",
+      0,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 04 2024 00:00:00",
+      0,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 05 2024 00:00:00",
+      0,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ],
+    [
+      2024,
+      "August, 06 2024 00:00:00",
+      0,
+      430,
+      31,
+      "Orzinski Lake",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 31,
+    "species_id": "430",
+    "year": "2024",
+    "totalRecords": 13,
+    "totalCount": 2,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:32.577888"
+  }
+}

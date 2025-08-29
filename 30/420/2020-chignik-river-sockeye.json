@@ -1,0 +1,832 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "May, 29 2020 00:00:00",
+      0,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 30 2020 00:00:00",
+      30,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 31 2020 00:00:00",
+      0,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 01 2020 00:00:00",
+      18,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 02 2020 00:00:00",
+      6,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 03 2020 00:00:00",
+      48,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 04 2020 00:00:00",
+      149,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 05 2020 00:00:00",
+      356,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 06 2020 00:00:00",
+      478,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 07 2020 00:00:00",
+      311,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 08 2020 00:00:00",
+      258,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 09 2020 00:00:00",
+      1090,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 10 2020 00:00:00",
+      327,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 11 2020 00:00:00",
+      260,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 12 2020 00:00:00",
+      2056,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 13 2020 00:00:00",
+      587,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 14 2020 00:00:00",
+      1295,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 15 2020 00:00:00",
+      1467,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 16 2020 00:00:00",
+      132,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 17 2020 00:00:00",
+      3017,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 18 2020 00:00:00",
+      819,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 19 2020 00:00:00",
+      1097,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 20 2020 00:00:00",
+      8656,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 21 2020 00:00:00",
+      3361,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 22 2020 00:00:00",
+      3312,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 23 2020 00:00:00",
+      5943,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 24 2020 00:00:00",
+      6731,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 25 2020 00:00:00",
+      6868,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 26 2020 00:00:00",
+      6788,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 27 2020 00:00:00",
+      4152,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 28 2020 00:00:00",
+      4746,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 29 2020 00:00:00",
+      4539,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 30 2020 00:00:00",
+      2063,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 01 2020 00:00:00",
+      4709,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 02 2020 00:00:00",
+      6710,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 03 2020 00:00:00",
+      5862,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 04 2020 00:00:00",
+      3924,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 05 2020 00:00:00",
+      7538,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 06 2020 00:00:00",
+      1912,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 07 2020 00:00:00",
+      13757,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 08 2020 00:00:00",
+      5916,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 09 2020 00:00:00",
+      5082,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 10 2020 00:00:00",
+      6360,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 11 2020 00:00:00",
+      3685,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 12 2020 00:00:00",
+      6692,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 13 2020 00:00:00",
+      5929,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 14 2020 00:00:00",
+      9672,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 15 2020 00:00:00",
+      5896,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 16 2020 00:00:00",
+      3304,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 17 2020 00:00:00",
+      6831,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 18 2020 00:00:00",
+      5879,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 19 2020 00:00:00",
+      5624,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 20 2020 00:00:00",
+      7233,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 21 2020 00:00:00",
+      5693,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 22 2020 00:00:00",
+      2965,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 23 2020 00:00:00",
+      3806,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 24 2020 00:00:00",
+      4647,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 25 2020 00:00:00",
+      6720,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 26 2020 00:00:00",
+      5240,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 27 2020 00:00:00",
+      5778,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 28 2020 00:00:00",
+      3451,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 29 2020 00:00:00",
+      4948,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 30 2020 00:00:00",
+      3119,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 31 2020 00:00:00",
+      3384,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 01 2020 00:00:00",
+      4371,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 02 2020 00:00:00",
+      2903,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 03 2020 00:00:00",
+      5079,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 04 2020 00:00:00",
+      5350,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 05 2020 00:00:00",
+      3070,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 06 2020 00:00:00",
+      2242,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 07 2020 00:00:00",
+      2472,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 08 2020 00:00:00",
+      5508,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 09 2020 00:00:00",
+      2971,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 10 2020 00:00:00",
+      4003,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 11 2020 00:00:00",
+      2562,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 12 2020 00:00:00",
+      2956,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 13 2020 00:00:00",
+      3013,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 14 2020 00:00:00",
+      2118,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 15 2020 00:00:00",
+      1704,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 16 2020 00:00:00",
+      2811,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 17 2020 00:00:00",
+      2170,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 18 2020 00:00:00",
+      2069,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 19 2020 00:00:00",
+      1574,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 20 2020 00:00:00",
+      1060,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 21 2020 00:00:00",
+      524,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 22 2020 00:00:00",
+      1547,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 23 2020 00:00:00",
+      1080,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 24 2020 00:00:00",
+      1443,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 25 2020 00:00:00",
+      1088,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "August, 26 2020 00:00:00",
+      788,
+      420,
+      30,
+      "Chignik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 30,
+    "species_id": "420",
+    "year": "2020",
+    "totalRecords": 90,
+    "totalCount": 309702,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:24.073157"
+  }
+}

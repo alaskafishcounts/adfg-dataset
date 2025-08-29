@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      3,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      5,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      3,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      10,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      2,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      5,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      6,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 01 2023 00:00:00",
+      30,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 02 2023 00:00:00",
+      15,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 03 2023 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 31,
+    "species_id": "440",
+    "year": "2023",
+    "totalRecords": 12,
+    "totalCount": 79,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:33.515507"
+  }
+}

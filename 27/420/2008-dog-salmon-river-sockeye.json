@@ -1,0 +1,778 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "May, 29 2008 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "May, 30 2008 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "May, 31 2008 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 01 2008 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 02 2008 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 03 2008 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 04 2008 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 05 2008 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 06 2008 00:00:00",
+      1,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 07 2008 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 08 2008 00:00:00",
+      4,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 09 2008 00:00:00",
+      136,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 10 2008 00:00:00",
+      625,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 11 2008 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 12 2008 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 13 2008 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 14 2008 00:00:00",
+      9646,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 15 2008 00:00:00",
+      4620,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 16 2008 00:00:00",
+      2119,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 17 2008 00:00:00",
+      269,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 18 2008 00:00:00",
+      426,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 19 2008 00:00:00",
+      1741,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 20 2008 00:00:00",
+      9474,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 21 2008 00:00:00",
+      7213,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 22 2008 00:00:00",
+      12174,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 23 2008 00:00:00",
+      1683,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 24 2008 00:00:00",
+      1664,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 25 2008 00:00:00",
+      4659,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 26 2008 00:00:00",
+      631,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 27 2008 00:00:00",
+      3639,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 28 2008 00:00:00",
+      226,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 29 2008 00:00:00",
+      2245,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 30 2008 00:00:00",
+      10794,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 01 2008 00:00:00",
+      2482,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 02 2008 00:00:00",
+      38,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 03 2008 00:00:00",
+      6323,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 04 2008 00:00:00",
+      3173,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 05 2008 00:00:00",
+      139,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 06 2008 00:00:00",
+      3322,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 07 2008 00:00:00",
+      6635,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 08 2008 00:00:00",
+      8256,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 09 2008 00:00:00",
+      15416,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 10 2008 00:00:00",
+      887,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 11 2008 00:00:00",
+      53,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 12 2008 00:00:00",
+      957,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 13 2008 00:00:00",
+      3474,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 14 2008 00:00:00",
+      1834,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 15 2008 00:00:00",
+      1615,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 16 2008 00:00:00",
+      1328,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 17 2008 00:00:00",
+      2460,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 18 2008 00:00:00",
+      205,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 19 2008 00:00:00",
+      1140,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 20 2008 00:00:00",
+      1655,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 21 2008 00:00:00",
+      1110,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 22 2008 00:00:00",
+      393,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 23 2008 00:00:00",
+      2532,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 24 2008 00:00:00",
+      1898,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 25 2008 00:00:00",
+      596,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 26 2008 00:00:00",
+      1051,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 27 2008 00:00:00",
+      563,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 28 2008 00:00:00",
+      1044,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 29 2008 00:00:00",
+      1449,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 30 2008 00:00:00",
+      510,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 31 2008 00:00:00",
+      1315,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 01 2008 00:00:00",
+      678,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 02 2008 00:00:00",
+      165,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 03 2008 00:00:00",
+      550,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 04 2008 00:00:00",
+      391,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 05 2008 00:00:00",
+      642,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 06 2008 00:00:00",
+      954,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 07 2008 00:00:00",
+      369,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 08 2008 00:00:00",
+      287,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 09 2008 00:00:00",
+      74,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 10 2008 00:00:00",
+      161,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 11 2008 00:00:00",
+      47,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 12 2008 00:00:00",
+      5,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 13 2008 00:00:00",
+      56,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 14 2008 00:00:00",
+      24,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 15 2008 00:00:00",
+      188,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 16 2008 00:00:00",
+      274,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 17 2008 00:00:00",
+      57,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 18 2008 00:00:00",
+      20,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 19 2008 00:00:00",
+      232,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 20 2008 00:00:00",
+      250,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 27,
+    "species_id": "420",
+    "year": "2008",
+    "totalRecords": 84,
+    "totalCount": 153266,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:00.918083"
+  }
+}

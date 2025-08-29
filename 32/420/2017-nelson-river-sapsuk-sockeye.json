@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "June, 06 2017 00:00:00",
+      40,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 08 2017 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 09 2017 00:00:00",
+      88,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 10 2017 00:00:00",
+      19,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 11 2017 00:00:00",
+      37,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 12 2017 00:00:00",
+      128,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 13 2017 00:00:00",
+      238,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 14 2017 00:00:00",
+      41,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 15 2017 00:00:00",
+      223,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 16 2017 00:00:00",
+      289,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 17 2017 00:00:00",
+      82,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 18 2017 00:00:00",
+      709,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 19 2017 00:00:00",
+      102,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 20 2017 00:00:00",
+      512,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 21 2017 00:00:00",
+      2378,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 22 2017 00:00:00",
+      2179,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 23 2017 00:00:00",
+      1596,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 24 2017 00:00:00",
+      2494,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 25 2017 00:00:00",
+      4861,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 26 2017 00:00:00",
+      4570,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 27 2017 00:00:00",
+      3566,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 28 2017 00:00:00",
+      4137,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 29 2017 00:00:00",
+      3682,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 30 2017 00:00:00",
+      3670,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 01 2017 00:00:00",
+      5716,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 02 2017 00:00:00",
+      12632,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 03 2017 00:00:00",
+      16147,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 04 2017 00:00:00",
+      10506,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 05 2017 00:00:00",
+      11956,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 06 2017 00:00:00",
+      20274,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 07 2017 00:00:00",
+      23219,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 08 2017 00:00:00",
+      14674,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 09 2017 00:00:00",
+      24147,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 10 2017 00:00:00",
+      8628,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 11 2017 00:00:00",
+      10415,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 12 2017 00:00:00",
+      6286,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 13 2017 00:00:00",
+      10845,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 14 2017 00:00:00",
+      17158,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 15 2017 00:00:00",
+      14811,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 16 2017 00:00:00",
+      13769,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 17 2017 00:00:00",
+      17227,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 18 2017 00:00:00",
+      11053,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 19 2017 00:00:00",
+      8987,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 20 2017 00:00:00",
+      19972,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 21 2017 00:00:00",
+      11013,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 22 2017 00:00:00",
+      10649,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 23 2017 00:00:00",
+      7861,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 24 2017 00:00:00",
+      5742,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 25 2017 00:00:00",
+      4276,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 26 2017 00:00:00",
+      4363,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 27 2017 00:00:00",
+      4033,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 28 2017 00:00:00",
+      4000,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 29 2017 00:00:00",
+      3000,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 30 2017 00:00:00",
+      3000,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 31 2017 00:00:00",
+      3000,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 01 2017 00:00:00",
+      3000,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 02 2017 00:00:00",
+      2000,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 03 2017 00:00:00",
+      1000,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "420",
+    "year": "2017",
+    "totalRecords": 58,
+    "totalCount": 381000,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:46.413860"
+  }
+}

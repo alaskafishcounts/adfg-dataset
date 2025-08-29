@@ -1,0 +1,571 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "July, 23 2015 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 24 2015 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 25 2015 00:00:00",
+      11,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 26 2015 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 27 2015 00:00:00",
+      418,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 28 2015 00:00:00",
+      180,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 29 2015 00:00:00",
+      50,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 30 2015 00:00:00",
+      128,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 31 2015 00:00:00",
+      681,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 01 2015 00:00:00",
+      149,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 02 2015 00:00:00",
+      37,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 03 2015 00:00:00",
+      93,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 04 2015 00:00:00",
+      319,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 05 2015 00:00:00",
+      91,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 06 2015 00:00:00",
+      7,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 07 2015 00:00:00",
+      59,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 08 2015 00:00:00",
+      131,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 09 2015 00:00:00",
+      415,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 10 2015 00:00:00",
+      790,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 11 2015 00:00:00",
+      176,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 12 2015 00:00:00",
+      59,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 13 2015 00:00:00",
+      123,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 14 2015 00:00:00",
+      112,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 15 2015 00:00:00",
+      72,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 16 2015 00:00:00",
+      79,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 17 2015 00:00:00",
+      73,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 18 2015 00:00:00",
+      138,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 19 2015 00:00:00",
+      14,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 20 2015 00:00:00",
+      5,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 21 2015 00:00:00",
+      28,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 22 2015 00:00:00",
+      6,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 23 2015 00:00:00",
+      33,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 24 2015 00:00:00",
+      30,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 25 2015 00:00:00",
+      101,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 26 2015 00:00:00",
+      90,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 27 2015 00:00:00",
+      10,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 28 2015 00:00:00",
+      64,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 29 2015 00:00:00",
+      28,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 30 2015 00:00:00",
+      19,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 31 2015 00:00:00",
+      15,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 01 2015 00:00:00",
+      14,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 02 2015 00:00:00",
+      12,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 03 2015 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 04 2015 00:00:00",
+      6,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 05 2015 00:00:00",
+      4,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 06 2015 00:00:00",
+      12,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 07 2015 00:00:00",
+      5,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 08 2015 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 09 2015 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 10 2015 00:00:00",
+      3,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 11 2015 00:00:00",
+      7,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 12 2015 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 13 2015 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 14 2015 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 15 2015 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 16 2015 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 17 2015 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 18 2015 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 19 2015 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 20 2015 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "September, 21 2015 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 73,
+    "species_id": "420",
+    "year": "2015",
+    "totalRecords": 61,
+    "totalCount": 4916,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:34.951361"
+  }
+}

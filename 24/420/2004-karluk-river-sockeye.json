@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "July, 06 2004 00:00:00",
+      668,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 07 2004 00:00:00",
+      19,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 08 2004 00:00:00",
+      986,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 24,
+    "species_id": "420",
+    "year": "2004",
+    "totalRecords": 3,
+    "totalCount": 1673,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:30.809423"
+  }
+}

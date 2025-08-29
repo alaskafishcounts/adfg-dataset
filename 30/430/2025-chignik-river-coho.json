@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      1,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 15 2025 00:00:00",
+      343,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 16 2025 00:00:00",
+      277,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 17 2025 00:00:00",
+      305,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 18 2025 00:00:00",
+      427,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 19 2025 00:00:00",
+      324,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 20 2025 00:00:00",
+      222,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 21 2025 00:00:00",
+      204,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 22 2025 00:00:00",
+      432,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 23 2025 00:00:00",
+      409,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 24 2025 00:00:00",
+      432,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 25 2025 00:00:00",
+      630,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 26 2025 00:00:00",
+      369,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 27 2025 00:00:00",
+      726,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 28 2025 00:00:00",
+      930,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 30,
+    "species_id": "430",
+    "year": "2025",
+    "totalRecords": 15,
+    "totalCount": 6031,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:22.030454"
+  }
+}

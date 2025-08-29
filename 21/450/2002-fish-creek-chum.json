@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "September, 06 2002 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 07 2002 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 08 2002 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 09 2002 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 10 2002 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 11 2002 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 12 2002 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 13 2002 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 14 2002 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 15 2002 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 16 2002 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2002,
+      "September, 18 2002 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "450",
+    "year": "2002",
+    "totalRecords": 12,
+    "totalCount": 0,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:07.996071"
+  }
+}

@@ -1,0 +1,832 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "May, 17 2003 00:00:00",
+      0,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 18 2003 00:00:00",
+      0,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 19 2003 00:00:00",
+      0,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 20 2003 00:00:00",
+      0,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 21 2003 00:00:00",
+      0,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 22 2003 00:00:00",
+      2,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 23 2003 00:00:00",
+      7,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 24 2003 00:00:00",
+      3,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 25 2003 00:00:00",
+      5,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 26 2003 00:00:00",
+      7,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 27 2003 00:00:00",
+      9,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 28 2003 00:00:00",
+      8,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 29 2003 00:00:00",
+      4,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 30 2003 00:00:00",
+      16,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 31 2003 00:00:00",
+      2,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 01 2003 00:00:00",
+      4,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 02 2003 00:00:00",
+      0,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 03 2003 00:00:00",
+      293,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 04 2003 00:00:00",
+      226,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 05 2003 00:00:00",
+      153,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 06 2003 00:00:00",
+      64,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 07 2003 00:00:00",
+      106,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 08 2003 00:00:00",
+      141,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 09 2003 00:00:00",
+      97,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 10 2003 00:00:00",
+      300,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 11 2003 00:00:00",
+      19,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 12 2003 00:00:00",
+      98,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 13 2003 00:00:00",
+      76,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 14 2003 00:00:00",
+      127,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 15 2003 00:00:00",
+      59,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 16 2003 00:00:00",
+      6,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 17 2003 00:00:00",
+      3,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 18 2003 00:00:00",
+      10,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 19 2003 00:00:00",
+      126,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 20 2003 00:00:00",
+      59,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 21 2003 00:00:00",
+      239,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 22 2003 00:00:00",
+      505,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 23 2003 00:00:00",
+      51,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 24 2003 00:00:00",
+      34,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 25 2003 00:00:00",
+      215,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 26 2003 00:00:00",
+      445,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 27 2003 00:00:00",
+      248,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      28,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 29 2003 00:00:00",
+      57,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 30 2003 00:00:00",
+      57,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 01 2003 00:00:00",
+      99,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 02 2003 00:00:00",
+      78,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 03 2003 00:00:00",
+      7,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 04 2003 00:00:00",
+      15,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 05 2003 00:00:00",
+      70,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 06 2003 00:00:00",
+      108,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 07 2003 00:00:00",
+      24,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 08 2003 00:00:00",
+      436,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 09 2003 00:00:00",
+      1126,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 10 2003 00:00:00",
+      535,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 11 2003 00:00:00",
+      48,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 12 2003 00:00:00",
+      218,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 13 2003 00:00:00",
+      30,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 14 2003 00:00:00",
+      16,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 15 2003 00:00:00",
+      83,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 16 2003 00:00:00",
+      9,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 17 2003 00:00:00",
+      21,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 18 2003 00:00:00",
+      4,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 19 2003 00:00:00",
+      4,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 20 2003 00:00:00",
+      12,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 21 2003 00:00:00",
+      14,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 22 2003 00:00:00",
+      3,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 23 2003 00:00:00",
+      24,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 24 2003 00:00:00",
+      13,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 25 2003 00:00:00",
+      1,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 26 2003 00:00:00",
+      6,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 27 2003 00:00:00",
+      16,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 28 2003 00:00:00",
+      20,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 29 2003 00:00:00",
+      3,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 30 2003 00:00:00",
+      28,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 31 2003 00:00:00",
+      41,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 01 2003 00:00:00",
+      14,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 02 2003 00:00:00",
+      21,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 03 2003 00:00:00",
+      5,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 04 2003 00:00:00",
+      2,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 05 2003 00:00:00",
+      12,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 06 2003 00:00:00",
+      45,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 07 2003 00:00:00",
+      2,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 08 2003 00:00:00",
+      0,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 09 2003 00:00:00",
+      18,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 10 2003 00:00:00",
+      11,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 11 2003 00:00:00",
+      32,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 12 2003 00:00:00",
+      25,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 13 2003 00:00:00",
+      6,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 14 2003 00:00:00",
+      17,
+      410,
+      24,
+      "Karluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 24,
+    "species_id": "410",
+    "year": "2003",
+    "totalRecords": 90,
+    "totalCount": 7231,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:31.131320"
+  }
+}

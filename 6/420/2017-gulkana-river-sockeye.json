@@ -1,0 +1,652 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "June, 02 2017 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 03 2017 00:00:00",
+      54,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 04 2017 00:00:00",
+      18,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 05 2017 00:00:00",
+      42,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 06 2017 00:00:00",
+      90,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 07 2017 00:00:00",
+      78,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 08 2017 00:00:00",
+      288,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 09 2017 00:00:00",
+      1104,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 10 2017 00:00:00",
+      846,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 11 2017 00:00:00",
+      726,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 12 2017 00:00:00",
+      438,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 13 2017 00:00:00",
+      138,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 14 2017 00:00:00",
+      360,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 15 2017 00:00:00",
+      180,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 16 2017 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 17 2017 00:00:00",
+      246,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 18 2017 00:00:00",
+      252,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 19 2017 00:00:00",
+      378,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 20 2017 00:00:00",
+      282,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 21 2017 00:00:00",
+      114,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 22 2017 00:00:00",
+      96,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 23 2017 00:00:00",
+      354,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 24 2017 00:00:00",
+      312,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 25 2017 00:00:00",
+      240,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 26 2017 00:00:00",
+      486,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 27 2017 00:00:00",
+      528,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 28 2017 00:00:00",
+      156,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 29 2017 00:00:00",
+      312,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 30 2017 00:00:00",
+      870,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 01 2017 00:00:00",
+      756,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 02 2017 00:00:00",
+      384,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 03 2017 00:00:00",
+      444,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 04 2017 00:00:00",
+      186,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 05 2017 00:00:00",
+      414,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 06 2017 00:00:00",
+      378,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 07 2017 00:00:00",
+      924,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 08 2017 00:00:00",
+      486,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 09 2017 00:00:00",
+      282,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 10 2017 00:00:00",
+      186,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 11 2017 00:00:00",
+      174,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 12 2017 00:00:00",
+      432,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 13 2017 00:00:00",
+      228,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 14 2017 00:00:00",
+      204,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 15 2017 00:00:00",
+      228,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 16 2017 00:00:00",
+      156,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 17 2017 00:00:00",
+      378,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 18 2017 00:00:00",
+      126,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 19 2017 00:00:00",
+      84,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 20 2017 00:00:00",
+      102,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 21 2017 00:00:00",
+      264,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 22 2017 00:00:00",
+      270,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 23 2017 00:00:00",
+      276,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 24 2017 00:00:00",
+      324,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 25 2017 00:00:00",
+      138,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 26 2017 00:00:00",
+      246,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 27 2017 00:00:00",
+      270,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 28 2017 00:00:00",
+      84,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 29 2017 00:00:00",
+      150,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 30 2017 00:00:00",
+      168,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 31 2017 00:00:00",
+      66,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 01 2017 00:00:00",
+      168,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 02 2017 00:00:00",
+      270,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 03 2017 00:00:00",
+      84,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 04 2017 00:00:00",
+      150,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 05 2017 00:00:00",
+      66,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 06 2017 00:00:00",
+      198,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 07 2017 00:00:00",
+      90,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 08 2017 00:00:00",
+      42,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 09 2017 00:00:00",
+      36,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "August, 10 2017 00:00:00",
+      120,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 6,
+    "species_id": "420",
+    "year": "2017",
+    "totalRecords": 70,
+    "totalCount": 19020,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:28.036762"
+  }
+}

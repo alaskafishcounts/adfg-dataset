@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "May, 25 2001 00:00:00",
+      12,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "May, 26 2001 00:00:00",
+      44,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "May, 27 2001 00:00:00",
+      77,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "May, 28 2001 00:00:00",
+      178,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "May, 29 2001 00:00:00",
+      156,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "May, 30 2001 00:00:00",
+      472,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "May, 31 2001 00:00:00",
+      718,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 01 2001 00:00:00",
+      298,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 02 2001 00:00:00",
+      497,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 03 2001 00:00:00",
+      271,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 04 2001 00:00:00",
+      600,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 05 2001 00:00:00",
+      1501,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 06 2001 00:00:00",
+      616,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 07 2001 00:00:00",
+      500,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 08 2001 00:00:00",
+      1368,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 09 2001 00:00:00",
+      519,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 10 2001 00:00:00",
+      2238,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 11 2001 00:00:00",
+      1108,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 12 2001 00:00:00",
+      642,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 13 2001 00:00:00",
+      1208,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 14 2001 00:00:00",
+      1014,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 15 2001 00:00:00",
+      279,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 16 2001 00:00:00",
+      692,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 17 2001 00:00:00",
+      475,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 18 2001 00:00:00",
+      146,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 19 2001 00:00:00",
+      317,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 20 2001 00:00:00",
+      556,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 21 2001 00:00:00",
+      106,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 22 2001 00:00:00",
+      113,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 23 2001 00:00:00",
+      625,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 24 2001 00:00:00",
+      648,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 25 2001 00:00:00",
+      84,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 26 2001 00:00:00",
+      524,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 27 2001 00:00:00",
+      295,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 28 2001 00:00:00",
+      17,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 29 2001 00:00:00",
+      62,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 30 2001 00:00:00",
+      19,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 01 2001 00:00:00",
+      20,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 02 2001 00:00:00",
+      50,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 03 2001 00:00:00",
+      405,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 04 2001 00:00:00",
+      64,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 05 2001 00:00:00",
+      331,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 06 2001 00:00:00",
+      20,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 07 2001 00:00:00",
+      6,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 08 2001 00:00:00",
+      37,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 09 2001 00:00:00",
+      49,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 10 2001 00:00:00",
+      1,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 11 2001 00:00:00",
+      16,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 12 2001 00:00:00",
+      39,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 13 2001 00:00:00",
+      39,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 14 2001 00:00:00",
+      32,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 15 2001 00:00:00",
+      15,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 16 2001 00:00:00",
+      60,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 17 2001 00:00:00",
+      6,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 18 2001 00:00:00",
+      13,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 19 2001 00:00:00",
+      267,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 20 2001 00:00:00",
+      7,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 21 2001 00:00:00",
+      19,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 22 2001 00:00:00",
+      2,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 23 2001 00:00:00",
+      28,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      2,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 25 2001 00:00:00",
+      21,
+      420,
+      28,
+      "Buskin River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 28,
+    "species_id": "420",
+    "year": "2001",
+    "totalRecords": 62,
+    "totalCount": 20544,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:10.498138"
+  }
+}

@@ -1,0 +1,661 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "June, 04 2024 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 05 2024 00:00:00",
+      6,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 06 2024 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 07 2024 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 08 2024 00:00:00",
+      12,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 09 2024 00:00:00",
+      114,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 10 2024 00:00:00",
+      390,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 11 2024 00:00:00",
+      156,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 12 2024 00:00:00",
+      468,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 13 2024 00:00:00",
+      264,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 14 2024 00:00:00",
+      324,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 15 2024 00:00:00",
+      138,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 16 2024 00:00:00",
+      282,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 17 2024 00:00:00",
+      264,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 18 2024 00:00:00",
+      234,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 19 2024 00:00:00",
+      264,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 20 2024 00:00:00",
+      210,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 21 2024 00:00:00",
+      246,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 22 2024 00:00:00",
+      234,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 23 2024 00:00:00",
+      78,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 24 2024 00:00:00",
+      192,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 25 2024 00:00:00",
+      126,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 26 2024 00:00:00",
+      30,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 27 2024 00:00:00",
+      198,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 28 2024 00:00:00",
+      138,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 29 2024 00:00:00",
+      390,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 30 2024 00:00:00",
+      126,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 01 2024 00:00:00",
+      144,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 02 2024 00:00:00",
+      24,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 03 2024 00:00:00",
+      60,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 04 2024 00:00:00",
+      30,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 05 2024 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 06 2024 00:00:00",
+      12,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 07 2024 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 08 2024 00:00:00",
+      18,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 09 2024 00:00:00",
+      132,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 10 2024 00:00:00",
+      84,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 11 2024 00:00:00",
+      36,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      72,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      222,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      114,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      276,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      204,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      192,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      270,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      252,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      636,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      930,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      588,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      654,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      510,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      750,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      744,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      282,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 28 2024 00:00:00",
+      492,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 29 2024 00:00:00",
+      606,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 30 2024 00:00:00",
+      222,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 31 2024 00:00:00",
+      354,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 01 2024 00:00:00",
+      270,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 02 2024 00:00:00",
+      210,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 03 2024 00:00:00",
+      78,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 04 2024 00:00:00",
+      48,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 05 2024 00:00:00",
+      36,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 06 2024 00:00:00",
+      132,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 07 2024 00:00:00",
+      198,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 08 2024 00:00:00",
+      342,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 09 2024 00:00:00",
+      228,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 10 2024 00:00:00",
+      342,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 11 2024 00:00:00",
+      162,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 12 2024 00:00:00",
+      66,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 13 2024 00:00:00",
+      54,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 6,
+    "species_id": "420",
+    "year": "2024",
+    "totalRecords": 71,
+    "totalCount": 15960,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:25.681573"
+  }
+}

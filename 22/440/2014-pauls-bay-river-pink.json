@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      1,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 12 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 13 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 14 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 15 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 16 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      1,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      7,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      5,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      1,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      12,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 25 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 26 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 27 2014 00:00:00",
+      27,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 28 2014 00:00:00",
+      1,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 29 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 30 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 31 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 01 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 02 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 03 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 04 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 05 2014 00:00:00",
+      13,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 06 2014 00:00:00",
+      47,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 07 2014 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 08 2014 00:00:00",
+      262,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 22,
+    "species_id": "440",
+    "year": "2014",
+    "totalRecords": 29,
+    "totalCount": 377,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:13.792079"
+  }
+}

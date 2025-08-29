@@ -1,0 +1,211 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "June, 27 2016 00:00:00",
+      2,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "June, 29 2016 00:00:00",
+      2,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 01 2016 00:00:00",
+      2,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 03 2016 00:00:00",
+      1,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 04 2016 00:00:00",
+      1,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 05 2016 00:00:00",
+      2,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 06 2016 00:00:00",
+      5,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 07 2016 00:00:00",
+      3,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 08 2016 00:00:00",
+      4,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 09 2016 00:00:00",
+      6,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 10 2016 00:00:00",
+      8,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 14 2016 00:00:00",
+      1,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 15 2016 00:00:00",
+      2,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 16 2016 00:00:00",
+      2,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 18 2016 00:00:00",
+      4,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 19 2016 00:00:00",
+      2,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 20 2016 00:00:00",
+      2,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 21 2016 00:00:00",
+      1,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 22 2016 00:00:00",
+      2,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 23 2016 00:00:00",
+      7,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 24 2016 00:00:00",
+      8,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 7,
+    "species_id": "450",
+    "year": "2016",
+    "totalRecords": 21,
+    "totalCount": 67,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:39.364828"
+  }
+}

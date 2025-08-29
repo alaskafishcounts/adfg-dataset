@@ -1,0 +1,211 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "June, 29 2006 00:00:00",
+      3,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "June, 30 2006 00:00:00",
+      0,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 01 2006 00:00:00",
+      2,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 02 2006 00:00:00",
+      1,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 03 2006 00:00:00",
+      0,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 04 2006 00:00:00",
+      1,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 05 2006 00:00:00",
+      6,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 06 2006 00:00:00",
+      7,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 07 2006 00:00:00",
+      10,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 08 2006 00:00:00",
+      13,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 09 2006 00:00:00",
+      17,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 10 2006 00:00:00",
+      64,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 11 2006 00:00:00",
+      15,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 12 2006 00:00:00",
+      22,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 13 2006 00:00:00",
+      14,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 14 2006 00:00:00",
+      0,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 15 2006 00:00:00",
+      0,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 16 2006 00:00:00",
+      0,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 17 2006 00:00:00",
+      22,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 18 2006 00:00:00",
+      25,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ],
+    [
+      2006,
+      "July, 19 2006 00:00:00",
+      38,
+      440,
+      33,
+      "Bear River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 33,
+    "species_id": "440",
+    "year": "2006",
+    "totalRecords": 21,
+    "totalCount": 260,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:01.791209"
+  }
+}

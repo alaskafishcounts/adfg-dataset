@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "July, 07 2021 00:00:00",
+      1,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2021,
+      "July, 08 2021 00:00:00",
+      2,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2021,
+      "July, 09 2021 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      8,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 35,
+    "species_id": "440",
+    "year": "2021",
+    "totalRecords": 10,
+    "totalCount": 11,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:06.796181"
+  }
+}

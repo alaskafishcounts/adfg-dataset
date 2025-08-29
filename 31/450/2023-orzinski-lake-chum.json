@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      4,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      0,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      2,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      1,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      0,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      1,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      0,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      0,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      1,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      0,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      1,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 01 2023 00:00:00",
+      2,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 02 2023 00:00:00",
+      1,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 03 2023 00:00:00",
+      0,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 31,
+    "species_id": "450",
+    "year": "2023",
+    "totalRecords": 14,
+    "totalCount": 13,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:33.641397"
+  }
+}

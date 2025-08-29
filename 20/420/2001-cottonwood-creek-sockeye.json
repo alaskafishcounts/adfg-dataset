@@ -1,0 +1,715 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "July, 09 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 10 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 11 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 12 2001 00:00:00",
+      1,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 13 2001 00:00:00",
+      6,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 14 2001 00:00:00",
+      7,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 15 2001 00:00:00",
+      401,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 16 2001 00:00:00",
+      196,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 17 2001 00:00:00",
+      308,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 18 2001 00:00:00",
+      307,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 19 2001 00:00:00",
+      478,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 20 2001 00:00:00",
+      98,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 21 2001 00:00:00",
+      27,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 22 2001 00:00:00",
+      489,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 23 2001 00:00:00",
+      273,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      1988,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 25 2001 00:00:00",
+      1485,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 26 2001 00:00:00",
+      1871,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 27 2001 00:00:00",
+      1077,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 28 2001 00:00:00",
+      728,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 29 2001 00:00:00",
+      964,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 30 2001 00:00:00",
+      648,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 31 2001 00:00:00",
+      747,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 01 2001 00:00:00",
+      811,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 02 2001 00:00:00",
+      328,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 03 2001 00:00:00",
+      331,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 04 2001 00:00:00",
+      273,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 05 2001 00:00:00",
+      63,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 06 2001 00:00:00",
+      248,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 07 2001 00:00:00",
+      60,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 08 2001 00:00:00",
+      51,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 09 2001 00:00:00",
+      53,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 10 2001 00:00:00",
+      82,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 11 2001 00:00:00",
+      182,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 12 2001 00:00:00",
+      89,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 13 2001 00:00:00",
+      38,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 14 2001 00:00:00",
+      16,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 15 2001 00:00:00",
+      19,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 16 2001 00:00:00",
+      42,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 17 2001 00:00:00",
+      57,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 18 2001 00:00:00",
+      132,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 19 2001 00:00:00",
+      9,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 20 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 21 2001 00:00:00",
+      25,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 22 2001 00:00:00",
+      39,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 23 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 24 2001 00:00:00",
+      49,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 25 2001 00:00:00",
+      7,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 26 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 27 2001 00:00:00",
+      13,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 28 2001 00:00:00",
+      4,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 29 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 30 2001 00:00:00",
+      3,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 31 2001 00:00:00",
+      1,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 01 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 02 2001 00:00:00",
+      3,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 03 2001 00:00:00",
+      40,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 04 2001 00:00:00",
+      9,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 05 2001 00:00:00",
+      14,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 06 2001 00:00:00",
+      1,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 07 2001 00:00:00",
+      9,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 08 2001 00:00:00",
+      3,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 09 2001 00:00:00",
+      7,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 10 2001 00:00:00",
+      2,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 12 2001 00:00:00",
+      1,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 13 2001 00:00:00",
+      1,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 14 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 15 2001 00:00:00",
+      4,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 16 2001 00:00:00",
+      5,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 17 2001 00:00:00",
+      2,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 18 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 19 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 20 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 21 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 22 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 23 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 24 2001 00:00:00",
+      0,
+      420,
+      20,
+      "Cottonwood Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 20,
+    "species_id": "420",
+    "year": "2001",
+    "totalRecords": 77,
+    "totalCount": 15225,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:02:57.246449"
+  }
+}

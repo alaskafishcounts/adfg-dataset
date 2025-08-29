@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      6,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      6,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      7,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      6,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      54,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      30,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 20 2023 00:00:00",
+      36,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 21 2023 00:00:00",
+      61,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 22 2023 00:00:00",
+      120,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 23 2023 00:00:00",
+      363,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "August, 24 2023 00:00:00",
+      231,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 30,
+    "species_id": "430",
+    "year": "2023",
+    "totalRecords": 11,
+    "totalCount": 920,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:22.722346"
+  }
+}

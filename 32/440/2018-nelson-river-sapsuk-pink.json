@@ -1,0 +1,229 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "July, 01 2018 00:00:00",
+      3,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 02 2018 00:00:00",
+      7,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 03 2018 00:00:00",
+      0,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 04 2018 00:00:00",
+      0,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 05 2018 00:00:00",
+      0,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 06 2018 00:00:00",
+      2,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 07 2018 00:00:00",
+      3,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 08 2018 00:00:00",
+      2,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 09 2018 00:00:00",
+      9,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 10 2018 00:00:00",
+      8,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 11 2018 00:00:00",
+      13,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 12 2018 00:00:00",
+      8,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 13 2018 00:00:00",
+      57,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 14 2018 00:00:00",
+      69,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 15 2018 00:00:00",
+      85,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 16 2018 00:00:00",
+      93,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 17 2018 00:00:00",
+      97,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 18 2018 00:00:00",
+      64,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 19 2018 00:00:00",
+      149,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 20 2018 00:00:00",
+      61,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 21 2018 00:00:00",
+      107,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 22 2018 00:00:00",
+      120,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2018,
+      "July, 23 2018 00:00:00",
+      44,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "440",
+    "year": "2018",
+    "totalRecords": 23,
+    "totalCount": 1001,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:46.217968"
+  }
+}

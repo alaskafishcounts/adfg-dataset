@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "July, 26 2003 00:00:00",
+      1,
+      440,
+      20,
+      "Cottonwood Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 20,
+    "species_id": "440",
+    "year": "2003",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:02:56.230640"
+  }
+}

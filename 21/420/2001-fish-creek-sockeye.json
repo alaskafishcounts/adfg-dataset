@@ -1,0 +1,751 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "July, 06 2001 00:00:00",
+      104,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 07 2001 00:00:00",
+      294,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 08 2001 00:00:00",
+      431,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 09 2001 00:00:00",
+      745,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 10 2001 00:00:00",
+      494,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 11 2001 00:00:00",
+      72,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 12 2001 00:00:00",
+      631,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 13 2001 00:00:00",
+      349,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 14 2001 00:00:00",
+      670,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 15 2001 00:00:00",
+      1397,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 16 2001 00:00:00",
+      860,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 17 2001 00:00:00",
+      1082,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 18 2001 00:00:00",
+      1544,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 19 2001 00:00:00",
+      1941,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 20 2001 00:00:00",
+      3617,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 21 2001 00:00:00",
+      1988,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 22 2001 00:00:00",
+      3077,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 23 2001 00:00:00",
+      6766,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      3017,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 25 2001 00:00:00",
+      2039,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 26 2001 00:00:00",
+      1333,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 27 2001 00:00:00",
+      1794,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 28 2001 00:00:00",
+      1744,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 29 2001 00:00:00",
+      2120,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 30 2001 00:00:00",
+      1239,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 31 2001 00:00:00",
+      1092,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 01 2001 00:00:00",
+      551,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 02 2001 00:00:00",
+      411,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 03 2001 00:00:00",
+      488,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 04 2001 00:00:00",
+      338,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 05 2001 00:00:00",
+      78,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 06 2001 00:00:00",
+      204,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 07 2001 00:00:00",
+      265,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 08 2001 00:00:00",
+      102,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 09 2001 00:00:00",
+      20,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 10 2001 00:00:00",
+      20,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 11 2001 00:00:00",
+      94,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 12 2001 00:00:00",
+      186,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 13 2001 00:00:00",
+      87,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 14 2001 00:00:00",
+      40,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 15 2001 00:00:00",
+      20,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 16 2001 00:00:00",
+      5,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 17 2001 00:00:00",
+      32,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 18 2001 00:00:00",
+      46,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 19 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 20 2001 00:00:00",
+      5,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 21 2001 00:00:00",
+      2,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 22 2001 00:00:00",
+      26,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 23 2001 00:00:00",
+      3,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 24 2001 00:00:00",
+      2,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 25 2001 00:00:00",
+      4,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 26 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 27 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 28 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 29 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 30 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "August, 31 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 01 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 02 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 03 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 04 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 05 2001 00:00:00",
+      5,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 06 2001 00:00:00",
+      10,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 07 2001 00:00:00",
+      2,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 08 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 09 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 10 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 11 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 12 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 13 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 14 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 15 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 16 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 17 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 18 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 19 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 20 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 21 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 22 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 23 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "September, 24 2001 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "420",
+    "year": "2001",
+    "totalRecords": 81,
+    "totalCount": 43486,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:08.119783"
+  }
+}

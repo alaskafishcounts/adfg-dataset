@@ -1,0 +1,661 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "May, 19 2020 00:00:00",
+      763,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 20 2020 00:00:00",
+      1623,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 21 2020 00:00:00",
+      2532,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 22 2020 00:00:00",
+      2139,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 23 2020 00:00:00",
+      2631,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 24 2020 00:00:00",
+      4000,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 25 2020 00:00:00",
+      6116,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 26 2020 00:00:00",
+      7187,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 27 2020 00:00:00",
+      6425,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 28 2020 00:00:00",
+      5641,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 29 2020 00:00:00",
+      6640,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 30 2020 00:00:00",
+      8888,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "May, 31 2020 00:00:00",
+      11144,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 01 2020 00:00:00",
+      13753,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 02 2020 00:00:00",
+      13228,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 03 2020 00:00:00",
+      12744,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 04 2020 00:00:00",
+      15696,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 05 2020 00:00:00",
+      12686,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 06 2020 00:00:00",
+      11421,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 07 2020 00:00:00",
+      11080,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 08 2020 00:00:00",
+      9821,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 09 2020 00:00:00",
+      9311,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 10 2020 00:00:00",
+      8433,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 11 2020 00:00:00",
+      8506,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 12 2020 00:00:00",
+      10725,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 13 2020 00:00:00",
+      12576,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 14 2020 00:00:00",
+      14710,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 15 2020 00:00:00",
+      15226,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 16 2020 00:00:00",
+      14512,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 17 2020 00:00:00",
+      13184,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 18 2020 00:00:00",
+      11173,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 19 2020 00:00:00",
+      9520,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 20 2020 00:00:00",
+      8853,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 21 2020 00:00:00",
+      8703,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 22 2020 00:00:00",
+      7964,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 23 2020 00:00:00",
+      7349,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 24 2020 00:00:00",
+      6658,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 25 2020 00:00:00",
+      6387,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 26 2020 00:00:00",
+      6423,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 27 2020 00:00:00",
+      9316,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 28 2020 00:00:00",
+      11043,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 29 2020 00:00:00",
+      11328,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "June, 30 2020 00:00:00",
+      9048,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 01 2020 00:00:00",
+      9349,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 02 2020 00:00:00",
+      8463,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 03 2020 00:00:00",
+      8608,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 04 2020 00:00:00",
+      8648,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 05 2020 00:00:00",
+      6264,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 06 2020 00:00:00",
+      7227,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 07 2020 00:00:00",
+      6266,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 08 2020 00:00:00",
+      5320,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 09 2020 00:00:00",
+      5827,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 10 2020 00:00:00",
+      6681,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 11 2020 00:00:00",
+      7056,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 12 2020 00:00:00",
+      7607,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 13 2020 00:00:00",
+      5411,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 14 2020 00:00:00",
+      5138,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 15 2020 00:00:00",
+      8735,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 16 2020 00:00:00",
+      7230,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 17 2020 00:00:00",
+      5695,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 18 2020 00:00:00",
+      5671,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 19 2020 00:00:00",
+      3897,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 20 2020 00:00:00",
+      3591,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 21 2020 00:00:00",
+      1888,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 22 2020 00:00:00",
+      1930,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 23 2020 00:00:00",
+      1328,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 24 2020 00:00:00",
+      1287,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 25 2020 00:00:00",
+      769,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 26 2020 00:00:00",
+      596,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 27 2020 00:00:00",
+      1005,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2020,
+      "July, 28 2020 00:00:00",
+      1720,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 39,
+    "species_id": "420",
+    "year": "2020",
+    "totalRecords": 71,
+    "totalCount": 530313,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:26.444215"
+  }
+}

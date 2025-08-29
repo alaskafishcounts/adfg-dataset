@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "July, 28 2003 00:00:00",
+      4,
+      410,
+      19,
+      "Wasilla Creek",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 31 2003 00:00:00",
+      12,
+      410,
+      19,
+      "Wasilla Creek",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 04 2003 00:00:00",
+      1,
+      410,
+      19,
+      "Wasilla Creek",
+      "Chinook"
+    ],
+    [
+      2003,
+      "August, 19 2003 00:00:00",
+      2,
+      410,
+      19,
+      "Wasilla Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 19,
+    "species_id": "410",
+    "year": "2003",
+    "totalRecords": 4,
+    "totalCount": 19,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:02:45.958374"
+  }
+}

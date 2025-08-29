@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "July, 02 2012 00:00:00",
+      3,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 03 2012 00:00:00",
+      4,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      2,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      25,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      12,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      3018,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      1911,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      656,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      1331,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      5706,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      2231,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 7,
+    "species_id": "440",
+    "year": "2012",
+    "totalRecords": 11,
+    "totalCount": 14899,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:41.194244"
+  }
+}

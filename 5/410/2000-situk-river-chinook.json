@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "June, 03 2000 00:00:00",
+      6,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 04 2000 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 05 2000 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 06 2000 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 07 2000 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 08 2000 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 09 2000 00:00:00",
+      7,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 10 2000 00:00:00",
+      12,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 11 2000 00:00:00",
+      3,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 12 2000 00:00:00",
+      7,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 13 2000 00:00:00",
+      19,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 14 2000 00:00:00",
+      52,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 15 2000 00:00:00",
+      65,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 16 2000 00:00:00",
+      97,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 17 2000 00:00:00",
+      85,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 18 2000 00:00:00",
+      163,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 19 2000 00:00:00",
+      81,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 20 2000 00:00:00",
+      74,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 21 2000 00:00:00",
+      39,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 22 2000 00:00:00",
+      10,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 23 2000 00:00:00",
+      23,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 24 2000 00:00:00",
+      21,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 25 2000 00:00:00",
+      45,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      27,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      26,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      31,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      101,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      66,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      223,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      127,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      134,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      32,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      44,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      51,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      129,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      41,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      136,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      10,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      33,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      12,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      60,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      15,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      11,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      94,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      17,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      18,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      9,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      22,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      77,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 23 2000 00:00:00",
+      21,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 24 2000 00:00:00",
+      4,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 25 2000 00:00:00",
+      16,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      20,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      11,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 28 2000 00:00:00",
+      12,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 29 2000 00:00:00",
+      12,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 30 2000 00:00:00",
+      9,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "July, 31 2000 00:00:00",
+      20,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 01 2000 00:00:00",
+      8,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 02 2000 00:00:00",
+      4,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 03 2000 00:00:00",
+      4,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 04 2000 00:00:00",
+      3,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 05 2000 00:00:00",
+      3,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 06 2000 00:00:00",
+      5,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 07 2000 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2000,
+      "August, 08 2000 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 5,
+    "species_id": "410",
+    "year": "2000",
+    "totalRecords": 67,
+    "totalCount": 2518,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:25.489519"
+  }
+}

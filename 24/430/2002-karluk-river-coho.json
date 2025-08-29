@@ -1,0 +1,607 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "July, 24 2002 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 25 2002 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      2,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 29 2002 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 30 2002 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 31 2002 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 01 2002 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 02 2002 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 03 2002 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 04 2002 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 05 2002 00:00:00",
+      2,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 06 2002 00:00:00",
+      4,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 07 2002 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 08 2002 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 09 2002 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 10 2002 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 11 2002 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 12 2002 00:00:00",
+      5,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 13 2002 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 14 2002 00:00:00",
+      2,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 15 2002 00:00:00",
+      6,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 16 2002 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 17 2002 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 18 2002 00:00:00",
+      2,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 19 2002 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 20 2002 00:00:00",
+      19,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 21 2002 00:00:00",
+      5,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 22 2002 00:00:00",
+      10,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 23 2002 00:00:00",
+      11,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 24 2002 00:00:00",
+      8,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 25 2002 00:00:00",
+      20,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 26 2002 00:00:00",
+      2,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 27 2002 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 28 2002 00:00:00",
+      4,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 29 2002 00:00:00",
+      3,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 30 2002 00:00:00",
+      18,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 31 2002 00:00:00",
+      13,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 01 2002 00:00:00",
+      3,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 02 2002 00:00:00",
+      10,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 03 2002 00:00:00",
+      12,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 04 2002 00:00:00",
+      170,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 05 2002 00:00:00",
+      467,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 06 2002 00:00:00",
+      225,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 07 2002 00:00:00",
+      410,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 08 2002 00:00:00",
+      279,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 09 2002 00:00:00",
+      108,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 10 2002 00:00:00",
+      42,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 11 2002 00:00:00",
+      4,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 12 2002 00:00:00",
+      16,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 13 2002 00:00:00",
+      28,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 14 2002 00:00:00",
+      28,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 15 2002 00:00:00",
+      37,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 16 2002 00:00:00",
+      24,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 17 2002 00:00:00",
+      885,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 18 2002 00:00:00",
+      790,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 19 2002 00:00:00",
+      1287,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 20 2002 00:00:00",
+      51,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 21 2002 00:00:00",
+      11,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 22 2002 00:00:00",
+      407,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 23 2002 00:00:00",
+      2439,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 24 2002 00:00:00",
+      2500,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 25 2002 00:00:00",
+      1391,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "September, 26 2002 00:00:00",
+      1743,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 24,
+    "species_id": "430",
+    "year": "2002",
+    "totalRecords": 65,
+    "totalCount": 13515,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:31.382921"
+  }
+}

@@ -1,0 +1,697 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "May, 29 2024 00:00:00",
+      28,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 30 2024 00:00:00",
+      5,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 31 2024 00:00:00",
+      34,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 01 2024 00:00:00",
+      3,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 02 2024 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 03 2024 00:00:00",
+      16,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 04 2024 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 05 2024 00:00:00",
+      null,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 06 2024 00:00:00",
+      106,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 07 2024 00:00:00",
+      1,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 08 2024 00:00:00",
+      32,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 09 2024 00:00:00",
+      6,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 10 2024 00:00:00",
+      1,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 11 2024 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 12 2024 00:00:00",
+      48,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 13 2024 00:00:00",
+      5,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 14 2024 00:00:00",
+      291,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 15 2024 00:00:00",
+      1791,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 16 2024 00:00:00",
+      425,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 17 2024 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 18 2024 00:00:00",
+      1627,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 19 2024 00:00:00",
+      1527,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 20 2024 00:00:00",
+      936,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 21 2024 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 22 2024 00:00:00",
+      1415,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 23 2024 00:00:00",
+      1615,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 24 2024 00:00:00",
+      3191,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 25 2024 00:00:00",
+      229,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 26 2024 00:00:00",
+      946,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 27 2024 00:00:00",
+      1681,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 28 2024 00:00:00",
+      3447,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 29 2024 00:00:00",
+      2380,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 30 2024 00:00:00",
+      1035,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 01 2024 00:00:00",
+      1904,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 02 2024 00:00:00",
+      1134,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 03 2024 00:00:00",
+      29,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 04 2024 00:00:00",
+      1,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 05 2024 00:00:00",
+      92,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 06 2024 00:00:00",
+      4933,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 07 2024 00:00:00",
+      3006,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 08 2024 00:00:00",
+      18,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 09 2024 00:00:00",
+      21,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 10 2024 00:00:00",
+      1178,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 11 2024 00:00:00",
+      28,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      2205,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      3165,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      2234,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      1783,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      1333,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      882,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      455,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      407,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      6318,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      2248,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      795,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      895,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      1150,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      142,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      111,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      3722,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 28 2024 00:00:00",
+      1040,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 29 2024 00:00:00",
+      1059,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 30 2024 00:00:00",
+      1638,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 31 2024 00:00:00",
+      1595,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 01 2024 00:00:00",
+      362,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 02 2024 00:00:00",
+      172,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 03 2024 00:00:00",
+      645,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 04 2024 00:00:00",
+      304,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 05 2024 00:00:00",
+      2129,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 06 2024 00:00:00",
+      601,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 07 2024 00:00:00",
+      1901,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 08 2024 00:00:00",
+      449,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 09 2024 00:00:00",
+      351,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 10 2024 00:00:00",
+      42,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "August, 11 2024 00:00:00",
+      480,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 5,
+    "species_id": "420",
+    "year": "2024",
+    "totalRecords": 75,
+    "totalCount": 75778,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:19.821673"
+  }
+}

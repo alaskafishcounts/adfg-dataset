@@ -1,0 +1,715 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      4,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      1,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      1,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      3,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      6,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      2,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      23,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      36,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      7,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      2,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      18,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      6,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      5,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      13,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      30,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      17,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 01 2023 00:00:00",
+      14410,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 02 2023 00:00:00",
+      754,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 03 2023 00:00:00",
+      944,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 04 2023 00:00:00",
+      2479,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 05 2023 00:00:00",
+      2725,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 06 2023 00:00:00",
+      1590,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 07 2023 00:00:00",
+      4708,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 08 2023 00:00:00",
+      3864,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 09 2023 00:00:00",
+      1175,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      1904,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      520,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      1453,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      222,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      343,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      714,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      23,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      952,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      1168,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 20 2023 00:00:00",
+      76,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 21 2023 00:00:00",
+      851,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 22 2023 00:00:00",
+      950,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 23 2023 00:00:00",
+      1773,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 24 2023 00:00:00",
+      408,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 25 2023 00:00:00",
+      156,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      1603,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 27 2023 00:00:00",
+      995,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 28 2023 00:00:00",
+      1332,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 29 2023 00:00:00",
+      457,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 30 2023 00:00:00",
+      527,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 31 2023 00:00:00",
+      287,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 01 2023 00:00:00",
+      322,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 02 2023 00:00:00",
+      684,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 03 2023 00:00:00",
+      1059,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 04 2023 00:00:00",
+      674,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 05 2023 00:00:00",
+      420,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 06 2023 00:00:00",
+      348,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 07 2023 00:00:00",
+      384,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 08 2023 00:00:00",
+      503,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 09 2023 00:00:00",
+      1384,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 10 2023 00:00:00",
+      2398,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 11 2023 00:00:00",
+      191,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 12 2023 00:00:00",
+      499,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 13 2023 00:00:00",
+      874,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 14 2023 00:00:00",
+      228,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 15 2023 00:00:00",
+      446,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 16 2023 00:00:00",
+      1453,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 17 2023 00:00:00",
+      336,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 18 2023 00:00:00",
+      98,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 19 2023 00:00:00",
+      98,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 20 2023 00:00:00",
+      102,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 21 2023 00:00:00",
+      64,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 22 2023 00:00:00",
+      42,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 23 2023 00:00:00",
+      72,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 24 2023 00:00:00",
+      59,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 25 2023 00:00:00",
+      28,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 26 2023 00:00:00",
+      30,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 27 2023 00:00:00",
+      28,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 28 2023 00:00:00",
+      19,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2023,
+      "September, 29 2023 00:00:00",
+      6,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 28,
+    "species_id": "440",
+    "year": "2023",
+    "totalRecords": 77,
+    "totalCount": 62386,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:04.925317"
+  }
+}

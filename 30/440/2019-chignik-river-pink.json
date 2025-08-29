@@ -1,0 +1,508 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      18,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      12,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      42,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 01 2019 00:00:00",
+      12,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 02 2019 00:00:00",
+      36,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 03 2019 00:00:00",
+      24,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 04 2019 00:00:00",
+      144,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 05 2019 00:00:00",
+      12,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 06 2019 00:00:00",
+      24,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 07 2019 00:00:00",
+      90,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 08 2019 00:00:00",
+      18,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 09 2019 00:00:00",
+      48,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      36,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      103,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      90,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      270,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      306,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      192,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      330,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      138,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      66,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      90,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      270,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      138,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      48,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      66,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      102,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      132,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      108,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 27 2019 00:00:00",
+      168,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 28 2019 00:00:00",
+      60,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 29 2019 00:00:00",
+      224,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 30 2019 00:00:00",
+      192,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      86,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 01 2019 00:00:00",
+      342,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 02 2019 00:00:00",
+      187,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 03 2019 00:00:00",
+      146,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 04 2019 00:00:00",
+      174,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 05 2019 00:00:00",
+      104,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 06 2019 00:00:00",
+      192,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 07 2019 00:00:00",
+      733,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 08 2019 00:00:00",
+      534,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 09 2019 00:00:00",
+      1106,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 10 2019 00:00:00",
+      1170,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 11 2019 00:00:00",
+      1446,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 12 2019 00:00:00",
+      696,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 13 2019 00:00:00",
+      629,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 14 2019 00:00:00",
+      882,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 15 2019 00:00:00",
+      1776,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 16 2019 00:00:00",
+      1261,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 17 2019 00:00:00",
+      1320,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 18 2019 00:00:00",
+      1680,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 30,
+    "species_id": "440",
+    "year": "2019",
+    "totalRecords": 54,
+    "totalCount": 18073,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:24.388430"
+  }
+}

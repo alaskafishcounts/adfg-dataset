@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 15 2022 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 18 2022 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 19 2022 00:00:00",
+      2,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 20 2022 00:00:00",
+      39,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 21 2022 00:00:00",
+      11,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 22 2022 00:00:00",
+      15,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 23 2022 00:00:00",
+      39,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 24 2022 00:00:00",
+      57,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 25 2022 00:00:00",
+      52,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      117,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 27 2022 00:00:00",
+      89,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 28 2022 00:00:00",
+      49,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 29 2022 00:00:00",
+      62,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 30 2022 00:00:00",
+      48,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 31 2022 00:00:00",
+      149,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 01 2022 00:00:00",
+      744,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 02 2022 00:00:00",
+      162,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 03 2022 00:00:00",
+      71,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 04 2022 00:00:00",
+      57,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 05 2022 00:00:00",
+      43,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 06 2022 00:00:00",
+      147,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 07 2022 00:00:00",
+      130,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 08 2022 00:00:00",
+      null,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 12 2022 00:00:00",
+      2000,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 24,
+    "species_id": "430",
+    "year": "2022",
+    "totalRecords": 29,
+    "totalCount": 4085,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:23.362459"
+  }
+}

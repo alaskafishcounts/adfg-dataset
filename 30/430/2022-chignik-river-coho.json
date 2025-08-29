@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "August, 21 2022 00:00:00",
+      12,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 22 2022 00:00:00",
+      258,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 23 2022 00:00:00",
+      1060,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 24 2022 00:00:00",
+      1338,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 25 2022 00:00:00",
+      498,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      858,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 27 2022 00:00:00",
+      984,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 28 2022 00:00:00",
+      1509,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 29 2022 00:00:00",
+      1230,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 30 2022 00:00:00",
+      1872,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 31 2022 00:00:00",
+      1284,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 01 2022 00:00:00",
+      null,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 30,
+    "species_id": "430",
+    "year": "2022",
+    "totalRecords": 12,
+    "totalCount": 10903,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:22.847431"
+  }
+}

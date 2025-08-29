@@ -1,0 +1,643 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "July, 18 2001 00:00:00",
+      1,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 19 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 20 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 21 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 22 2001 00:00:00",
+      3,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 23 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      12,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 25 2001 00:00:00",
+      8,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 26 2001 00:00:00",
+      7,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 27 2001 00:00:00",
+      10,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 28 2001 00:00:00",
+      6,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 29 2001 00:00:00",
+      18,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 30 2001 00:00:00",
+      18,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "July, 31 2001 00:00:00",
+      11,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 01 2001 00:00:00",
+      50,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 02 2001 00:00:00",
+      7,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 03 2001 00:00:00",
+      22,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 04 2001 00:00:00",
+      123,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 05 2001 00:00:00",
+      24,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 06 2001 00:00:00",
+      40,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 07 2001 00:00:00",
+      32,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 08 2001 00:00:00",
+      6,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 09 2001 00:00:00",
+      5,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 10 2001 00:00:00",
+      4,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 11 2001 00:00:00",
+      11,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 12 2001 00:00:00",
+      9,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 13 2001 00:00:00",
+      15,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 14 2001 00:00:00",
+      4,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 15 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 16 2001 00:00:00",
+      14,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 17 2001 00:00:00",
+      152,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 18 2001 00:00:00",
+      562,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 19 2001 00:00:00",
+      1,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 20 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 21 2001 00:00:00",
+      2,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 22 2001 00:00:00",
+      7,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 23 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 24 2001 00:00:00",
+      341,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 25 2001 00:00:00",
+      4,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 26 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 27 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 28 2001 00:00:00",
+      3,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 29 2001 00:00:00",
+      7,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 30 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "August, 31 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 01 2001 00:00:00",
+      1,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 02 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 03 2001 00:00:00",
+      123,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 04 2001 00:00:00",
+      49,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 05 2001 00:00:00",
+      627,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 06 2001 00:00:00",
+      5,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 07 2001 00:00:00",
+      6,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 08 2001 00:00:00",
+      1,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 09 2001 00:00:00",
+      1,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 10 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 11 2001 00:00:00",
+      4,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 12 2001 00:00:00",
+      17,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 13 2001 00:00:00",
+      31,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 14 2001 00:00:00",
+      257,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 15 2001 00:00:00",
+      119,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 16 2001 00:00:00",
+      20,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 17 2001 00:00:00",
+      121,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 18 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 19 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 20 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 21 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 22 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 23 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ],
+    [
+      2001,
+      "September, 24 2001 00:00:00",
+      0,
+      430,
+      20,
+      "Cottonwood Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 20,
+    "species_id": "430",
+    "year": "2001",
+    "totalRecords": 69,
+    "totalCount": 2921,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:02:57.536199"
+  }
+}

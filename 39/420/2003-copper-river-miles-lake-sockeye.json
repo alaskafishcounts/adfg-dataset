@@ -1,0 +1,733 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "May, 14 2003 00:00:00",
+      437,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 15 2003 00:00:00",
+      661,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 16 2003 00:00:00",
+      1219,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 17 2003 00:00:00",
+      1595,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 18 2003 00:00:00",
+      1450,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 19 2003 00:00:00",
+      3523,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 20 2003 00:00:00",
+      3436,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 21 2003 00:00:00",
+      5376,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 22 2003 00:00:00",
+      3850,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 23 2003 00:00:00",
+      5489,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 24 2003 00:00:00",
+      12079,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 25 2003 00:00:00",
+      13101,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 26 2003 00:00:00",
+      3997,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 27 2003 00:00:00",
+      5885,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 28 2003 00:00:00",
+      9930,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 29 2003 00:00:00",
+      12777,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 30 2003 00:00:00",
+      10038,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "May, 31 2003 00:00:00",
+      17132,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 01 2003 00:00:00",
+      17278,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 02 2003 00:00:00",
+      13437,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 03 2003 00:00:00",
+      13164,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 04 2003 00:00:00",
+      12371,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 05 2003 00:00:00",
+      9446,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 06 2003 00:00:00",
+      10820,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 07 2003 00:00:00",
+      14472,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 08 2003 00:00:00",
+      16359,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 09 2003 00:00:00",
+      17415,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 10 2003 00:00:00",
+      13951,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 11 2003 00:00:00",
+      20849,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 12 2003 00:00:00",
+      19046,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 13 2003 00:00:00",
+      12562,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 14 2003 00:00:00",
+      12290,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 15 2003 00:00:00",
+      10867,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 16 2003 00:00:00",
+      13021,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 17 2003 00:00:00",
+      13447,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 18 2003 00:00:00",
+      13506,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 19 2003 00:00:00",
+      10030,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 20 2003 00:00:00",
+      6823,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 21 2003 00:00:00",
+      5771,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 22 2003 00:00:00",
+      11773,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 23 2003 00:00:00",
+      10110,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 24 2003 00:00:00",
+      10697,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 25 2003 00:00:00",
+      10890,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 26 2003 00:00:00",
+      10149,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 27 2003 00:00:00",
+      7590,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      12164,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 29 2003 00:00:00",
+      14779,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 30 2003 00:00:00",
+      10104,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 01 2003 00:00:00",
+      10183,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 02 2003 00:00:00",
+      10377,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 03 2003 00:00:00",
+      8570,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 04 2003 00:00:00",
+      5589,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 05 2003 00:00:00",
+      5222,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 06 2003 00:00:00",
+      8221,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 07 2003 00:00:00",
+      10223,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 08 2003 00:00:00",
+      7022,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 09 2003 00:00:00",
+      6076,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 10 2003 00:00:00",
+      4710,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 11 2003 00:00:00",
+      9420,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 12 2003 00:00:00",
+      6617,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 13 2003 00:00:00",
+      5927,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 14 2003 00:00:00",
+      6367,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 15 2003 00:00:00",
+      3497,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 16 2003 00:00:00",
+      487,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 17 2003 00:00:00",
+      179,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 18 2003 00:00:00",
+      176,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 19 2003 00:00:00",
+      156,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 20 2003 00:00:00",
+      14414,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 21 2003 00:00:00",
+      13714,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 22 2003 00:00:00",
+      6521,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 23 2003 00:00:00",
+      7437,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 24 2003 00:00:00",
+      10757,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 25 2003 00:00:00",
+      7984,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 26 2003 00:00:00",
+      9613,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 27 2003 00:00:00",
+      10832,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 28 2003 00:00:00",
+      6897,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 29 2003 00:00:00",
+      5777,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 30 2003 00:00:00",
+      5031,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 31 2003 00:00:00",
+      5385,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 39,
+    "species_id": "420",
+    "year": "2003",
+    "totalRecords": 79,
+    "totalCount": 700537,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:33.210500"
+  }
+}

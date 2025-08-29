@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      1,
+      430,
+      32,
+      "Nelson River (Sapsuk)",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      1,
+      430,
+      32,
+      "Nelson River (Sapsuk)",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      0,
+      430,
+      32,
+      "Nelson River (Sapsuk)",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      0,
+      430,
+      32,
+      "Nelson River (Sapsuk)",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      0,
+      430,
+      32,
+      "Nelson River (Sapsuk)",
+      "Coho"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      0,
+      430,
+      32,
+      "Nelson River (Sapsuk)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "430",
+    "year": "2010",
+    "totalRecords": 6,
+    "totalCount": 2,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:49.501966"
+  }
+}

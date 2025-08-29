@@ -1,0 +1,598 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "June, 14 2023 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 15 2023 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 16 2023 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 17 2023 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 18 2023 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 19 2023 00:00:00",
+      9,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 20 2023 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 21 2023 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 22 2023 00:00:00",
+      2,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 23 2023 00:00:00",
+      117,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 24 2023 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 25 2023 00:00:00",
+      6,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 26 2023 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 27 2023 00:00:00",
+      10,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 28 2023 00:00:00",
+      5,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 29 2023 00:00:00",
+      12,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 30 2023 00:00:00",
+      6,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 01 2023 00:00:00",
+      8,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 02 2023 00:00:00",
+      67,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 03 2023 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 04 2023 00:00:00",
+      10,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 05 2023 00:00:00",
+      5,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 06 2023 00:00:00",
+      55,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 07 2023 00:00:00",
+      2,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 08 2023 00:00:00",
+      19,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 09 2023 00:00:00",
+      17,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      40,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      211,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      154,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      131,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      186,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      52,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      43,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      74,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      333,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      41,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      188,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      104,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      158,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      168,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      299,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      154,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      142,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      1,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      4,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      66,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      259,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 01 2023 00:00:00",
+      69,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 02 2023 00:00:00",
+      76,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 03 2023 00:00:00",
+      73,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 04 2023 00:00:00",
+      99,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 05 2023 00:00:00",
+      67,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 06 2023 00:00:00",
+      17,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 07 2023 00:00:00",
+      5,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 08 2023 00:00:00",
+      156,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 09 2023 00:00:00",
+      45,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      37,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      101,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      37,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      213,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      42,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      150,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      150,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 60,
+    "species_id": "420",
+    "year": "2023",
+    "totalRecords": 64,
+    "totalCount": 4495,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:22.338695"
+  }
+}

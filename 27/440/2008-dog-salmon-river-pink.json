@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "June, 22 2008 00:00:00",
+      2,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 23 2008 00:00:00",
+      2,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 24 2008 00:00:00",
+      0,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 25 2008 00:00:00",
+      96,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 26 2008 00:00:00",
+      22,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 27 2008 00:00:00",
+      7,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 28 2008 00:00:00",
+      8,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 29 2008 00:00:00",
+      19,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 30 2008 00:00:00",
+      13,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 01 2008 00:00:00",
+      1,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 02 2008 00:00:00",
+      0,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 03 2008 00:00:00",
+      23,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 04 2008 00:00:00",
+      15,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 05 2008 00:00:00",
+      11,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 06 2008 00:00:00",
+      18,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 07 2008 00:00:00",
+      22,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 08 2008 00:00:00",
+      16,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 09 2008 00:00:00",
+      45,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 10 2008 00:00:00",
+      22,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 11 2008 00:00:00",
+      2,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 12 2008 00:00:00",
+      12,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 13 2008 00:00:00",
+      18,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 14 2008 00:00:00",
+      19,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 15 2008 00:00:00",
+      25,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 16 2008 00:00:00",
+      7,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 17 2008 00:00:00",
+      2,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 18 2008 00:00:00",
+      0,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 19 2008 00:00:00",
+      11,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 20 2008 00:00:00",
+      9,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 21 2008 00:00:00",
+      0,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 22 2008 00:00:00",
+      0,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 23 2008 00:00:00",
+      23,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 24 2008 00:00:00",
+      12,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 25 2008 00:00:00",
+      9,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 26 2008 00:00:00",
+      22,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 27 2008 00:00:00",
+      1224,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 28 2008 00:00:00",
+      136,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 29 2008 00:00:00",
+      324,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 30 2008 00:00:00",
+      14,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 31 2008 00:00:00",
+      209,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 01 2008 00:00:00",
+      59,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 02 2008 00:00:00",
+      49,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 03 2008 00:00:00",
+      117,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 04 2008 00:00:00",
+      276,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 05 2008 00:00:00",
+      794,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 06 2008 00:00:00",
+      968,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 07 2008 00:00:00",
+      1122,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 08 2008 00:00:00",
+      553,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 09 2008 00:00:00",
+      347,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 10 2008 00:00:00",
+      2222,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 11 2008 00:00:00",
+      52,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 12 2008 00:00:00",
+      31,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 13 2008 00:00:00",
+      2026,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 14 2008 00:00:00",
+      4130,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 15 2008 00:00:00",
+      16550,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 16 2008 00:00:00",
+      14461,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 17 2008 00:00:00",
+      11365,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 18 2008 00:00:00",
+      304,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 19 2008 00:00:00",
+      3485,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 20 2008 00:00:00",
+      45000,
+      440,
+      27,
+      "Dog Salmon River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 27,
+    "species_id": "440",
+    "year": "2008",
+    "totalRecords": 60,
+    "totalCount": 106331,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:00.864725"
+  }
+}

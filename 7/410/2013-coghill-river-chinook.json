@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      2,
+      410,
+      7,
+      "Coghill River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      2,
+      410,
+      7,
+      "Coghill River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      1,
+      410,
+      7,
+      "Coghill River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 7,
+    "species_id": "410",
+    "year": "2013",
+    "totalRecords": 3,
+    "totalCount": 5,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:41.051163"
+  }
+}

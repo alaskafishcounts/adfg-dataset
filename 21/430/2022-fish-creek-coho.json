@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      8,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      3,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      2,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      23,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "430",
+    "year": "2022",
+    "totalRecords": 11,
+    "totalCount": 36,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:02:59.560567"
+  }
+}

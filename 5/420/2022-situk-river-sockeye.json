@@ -1,0 +1,499 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "June, 14 2022 00:00:00",
+      3,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 15 2022 00:00:00",
+      7,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 16 2022 00:00:00",
+      36,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 17 2022 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 18 2022 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 19 2022 00:00:00",
+      164,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 20 2022 00:00:00",
+      1582,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 21 2022 00:00:00",
+      2045,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 22 2022 00:00:00",
+      2229,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 23 2022 00:00:00",
+      4805,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 24 2022 00:00:00",
+      1623,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 25 2022 00:00:00",
+      2455,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 26 2022 00:00:00",
+      4274,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 27 2022 00:00:00",
+      4566,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 28 2022 00:00:00",
+      2618,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 29 2022 00:00:00",
+      325,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 30 2022 00:00:00",
+      220,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 01 2022 00:00:00",
+      1690,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 02 2022 00:00:00",
+      2081,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 03 2022 00:00:00",
+      4426,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 04 2022 00:00:00",
+      2178,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 05 2022 00:00:00",
+      2748,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 06 2022 00:00:00",
+      1968,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 07 2022 00:00:00",
+      2606,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 08 2022 00:00:00",
+      994,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 09 2022 00:00:00",
+      1750,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      2623,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      1187,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      978,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      764,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      172,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      1255,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      4350,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      7991,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      3802,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      1006,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      1860,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      356,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      1922,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      2126,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      1364,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      367,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      837,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      808,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      779,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      529,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      971,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      3181,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      851,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      1762,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 03 2022 00:00:00",
+      733,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 04 2022 00:00:00",
+      605,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 05 2022 00:00:00",
+      170,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 5,
+    "species_id": "420",
+    "year": "2022",
+    "totalRecords": 53,
+    "totalCount": 90742,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:19.727034"
+  }
+}

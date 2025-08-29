@@ -1,0 +1,688 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "June, 05 2003 00:00:00",
+      6,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 06 2003 00:00:00",
+      60,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 07 2003 00:00:00",
+      36,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 08 2003 00:00:00",
+      84,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 09 2003 00:00:00",
+      198,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 10 2003 00:00:00",
+      108,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 11 2003 00:00:00",
+      354,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 12 2003 00:00:00",
+      156,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 13 2003 00:00:00",
+      216,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 14 2003 00:00:00",
+      114,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 15 2003 00:00:00",
+      210,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 16 2003 00:00:00",
+      360,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 17 2003 00:00:00",
+      216,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 18 2003 00:00:00",
+      216,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 19 2003 00:00:00",
+      48,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 20 2003 00:00:00",
+      120,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 21 2003 00:00:00",
+      168,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 22 2003 00:00:00",
+      138,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 23 2003 00:00:00",
+      384,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 24 2003 00:00:00",
+      246,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 25 2003 00:00:00",
+      192,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 26 2003 00:00:00",
+      282,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 27 2003 00:00:00",
+      96,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      306,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 29 2003 00:00:00",
+      336,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "June, 30 2003 00:00:00",
+      576,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 01 2003 00:00:00",
+      678,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 02 2003 00:00:00",
+      582,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 03 2003 00:00:00",
+      450,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 04 2003 00:00:00",
+      510,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 05 2003 00:00:00",
+      840,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 06 2003 00:00:00",
+      480,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 07 2003 00:00:00",
+      786,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 08 2003 00:00:00",
+      378,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 09 2003 00:00:00",
+      510,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 10 2003 00:00:00",
+      402,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 11 2003 00:00:00",
+      468,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 12 2003 00:00:00",
+      552,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 13 2003 00:00:00",
+      378,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 14 2003 00:00:00",
+      606,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 15 2003 00:00:00",
+      222,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 16 2003 00:00:00",
+      156,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 17 2003 00:00:00",
+      114,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 18 2003 00:00:00",
+      90,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 19 2003 00:00:00",
+      228,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 20 2003 00:00:00",
+      240,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 21 2003 00:00:00",
+      120,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 22 2003 00:00:00",
+      180,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 23 2003 00:00:00",
+      36,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 24 2003 00:00:00",
+      84,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 25 2003 00:00:00",
+      66,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 26 2003 00:00:00",
+      48,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 27 2003 00:00:00",
+      30,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 28 2003 00:00:00",
+      42,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 29 2003 00:00:00",
+      42,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 30 2003 00:00:00",
+      24,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "July, 31 2003 00:00:00",
+      54,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 01 2003 00:00:00",
+      18,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 02 2003 00:00:00",
+      6,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 03 2003 00:00:00",
+      42,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 04 2003 00:00:00",
+      12,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 05 2003 00:00:00",
+      18,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 06 2003 00:00:00",
+      60,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 07 2003 00:00:00",
+      36,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 08 2003 00:00:00",
+      120,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 09 2003 00:00:00",
+      210,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 10 2003 00:00:00",
+      350,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 11 2003 00:00:00",
+      414,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 12 2003 00:00:00",
+      444,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 13 2003 00:00:00",
+      264,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 14 2003 00:00:00",
+      516,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 15 2003 00:00:00",
+      720,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 16 2003 00:00:00",
+      834,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "August, 17 2003 00:00:00",
+      984,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 6,
+    "species_id": "420",
+    "year": "2003",
+    "totalRecords": 74,
+    "totalCount": 19670,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:33.618040"
+  }
+}

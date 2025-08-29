@@ -1,0 +1,679 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "June, 17 2022 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 18 2022 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 19 2022 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 20 2022 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 21 2022 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 22 2022 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 23 2022 00:00:00",
+      42,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 24 2022 00:00:00",
+      66,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 25 2022 00:00:00",
+      102,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 26 2022 00:00:00",
+      120,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 27 2022 00:00:00",
+      96,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 28 2022 00:00:00",
+      300,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 29 2022 00:00:00",
+      306,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 30 2022 00:00:00",
+      462,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 01 2022 00:00:00",
+      108,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 02 2022 00:00:00",
+      240,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 03 2022 00:00:00",
+      390,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 04 2022 00:00:00",
+      420,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 05 2022 00:00:00",
+      312,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 06 2022 00:00:00",
+      204,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 07 2022 00:00:00",
+      90,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 08 2022 00:00:00",
+      156,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 09 2022 00:00:00",
+      198,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      96,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      30,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      102,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      30,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      18,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      24,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      42,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      90,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      60,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      132,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      54,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      60,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      90,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      198,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      90,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 03 2022 00:00:00",
+      90,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 04 2022 00:00:00",
+      72,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 05 2022 00:00:00",
+      -36,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 06 2022 00:00:00",
+      -48,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 07 2022 00:00:00",
+      -30,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 08 2022 00:00:00",
+      42,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 09 2022 00:00:00",
+      48,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      -18,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 11 2022 00:00:00",
+      30,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      -6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      36,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      42,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 15 2022 00:00:00",
+      -66,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      -24,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      -42,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 18 2022 00:00:00",
+      18,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 19 2022 00:00:00",
+      30,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 20 2022 00:00:00",
+      -18,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 21 2022 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 22 2022 00:00:00",
+      -18,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 23 2022 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 24 2022 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 25 2022 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 27 2022 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 28 2022 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 6,
+    "species_id": "410",
+    "year": "2022",
+    "totalRecords": 73,
+    "totalCount": 4908,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:25.718141"
+  }
+}

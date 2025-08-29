@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "August, 27 2012 00:00:00",
+      1,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 28 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 29 2012 00:00:00",
+      1,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 30 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 31 2012 00:00:00",
+      2,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 01 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 02 2012 00:00:00",
+      1,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 03 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 04 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 05 2012 00:00:00",
+      1,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 06 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 07 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 08 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 09 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 10 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 11 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 12 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 13 2012 00:00:00",
+      1,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2012,
+      "September, 14 2012 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 26,
+    "species_id": "450",
+    "year": "2012",
+    "totalRecords": 19,
+    "totalCount": 7,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:48.886648"
+  }
+}

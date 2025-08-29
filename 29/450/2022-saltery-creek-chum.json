@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      1,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 03 2022 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 04 2022 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 05 2022 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 06 2022 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 07 2022 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 08 2022 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 09 2022 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 29,
+    "species_id": "450",
+    "year": "2022",
+    "totalRecords": 10,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:12.463565"
+  }
+}

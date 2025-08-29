@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      360,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 38,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 2,
+    "totalCount": 360,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:22.266325"
+  }
+}

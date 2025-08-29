@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      1,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 29,
+    "species_id": "410",
+    "year": "2023",
+    "totalRecords": 7,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:11.141635"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "July, 14 2008 00:00:00",
+      1,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 15 2008 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 16 2008 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 17 2008 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 18 2008 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 19 2008 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 20 2008 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 21 2008 00:00:00",
+      3,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 22 2008 00:00:00",
+      1,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 23 2008 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 24 2008 00:00:00",
+      1,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 25 2008 00:00:00",
+      1,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 26 2008 00:00:00",
+      4,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 27 2008 00:00:00",
+      8,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 28 2008 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 29 2008 00:00:00",
+      2,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 30 2008 00:00:00",
+      4,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "July, 31 2008 00:00:00",
+      5,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 01 2008 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 02 2008 00:00:00",
+      3,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 03 2008 00:00:00",
+      1,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 04 2008 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 05 2008 00:00:00",
+      3,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 06 2008 00:00:00",
+      10,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 07 2008 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 08 2008 00:00:00",
+      100,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 23,
+    "species_id": "430",
+    "year": "2008",
+    "totalRecords": 26,
+    "totalCount": 147,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:21.334086"
+  }
+}

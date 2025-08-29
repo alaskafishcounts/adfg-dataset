@@ -1,0 +1,391 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "May, 30 2003 00:00:00",
+      163,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "May, 31 2003 00:00:00",
+      339,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 01 2003 00:00:00",
+      902,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 02 2003 00:00:00",
+      342,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 03 2003 00:00:00",
+      456,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 04 2003 00:00:00",
+      375,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 05 2003 00:00:00",
+      528,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 06 2003 00:00:00",
+      385,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 07 2003 00:00:00",
+      224,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 08 2003 00:00:00",
+      460,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 09 2003 00:00:00",
+      323,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 10 2003 00:00:00",
+      584,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 11 2003 00:00:00",
+      158,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 12 2003 00:00:00",
+      121,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 13 2003 00:00:00",
+      181,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 14 2003 00:00:00",
+      499,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 15 2003 00:00:00",
+      265,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 16 2003 00:00:00",
+      213,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 17 2003 00:00:00",
+      166,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 18 2003 00:00:00",
+      106,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 19 2003 00:00:00",
+      119,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 20 2003 00:00:00",
+      97,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 21 2003 00:00:00",
+      191,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 22 2003 00:00:00",
+      148,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 23 2003 00:00:00",
+      193,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 24 2003 00:00:00",
+      170,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 25 2003 00:00:00",
+      158,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 26 2003 00:00:00",
+      121,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 27 2003 00:00:00",
+      109,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      130,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 29 2003 00:00:00",
+      85,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 30 2003 00:00:00",
+      175,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 01 2003 00:00:00",
+      163,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 02 2003 00:00:00",
+      321,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 03 2003 00:00:00",
+      68,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 04 2003 00:00:00",
+      14,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 05 2003 00:00:00",
+      20,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 06 2003 00:00:00",
+      10,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 07 2003 00:00:00",
+      18,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 08 2003 00:00:00",
+      54,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 09 2003 00:00:00",
+      84,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 9,
+    "species_id": "410",
+    "year": "2003",
+    "totalRecords": 41,
+    "totalCount": 9238,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:15:06.292586"
+  }
+}

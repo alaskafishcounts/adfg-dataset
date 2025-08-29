@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      0,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 38,
+    "species_id": "450",
+    "year": "2011",
+    "totalRecords": 1,
+    "totalCount": 0,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:22.395802"
+  }
+}

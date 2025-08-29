@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      10,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 15 2025 00:00:00",
+      3,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 16 2025 00:00:00",
+      6,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 17 2025 00:00:00",
+      4,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 18 2025 00:00:00",
+      12,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 19 2025 00:00:00",
+      4,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 20 2025 00:00:00",
+      8,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 21 2025 00:00:00",
+      3,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 22 2025 00:00:00",
+      3,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 23 2025 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 24 2025 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 25 2025 00:00:00",
+      5,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 26 2025 00:00:00",
+      3,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 28 2025 00:00:00",
+      2,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "450",
+    "year": "2025",
+    "totalRecords": 16,
+    "totalCount": 66,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:02:58.136490"
+  }
+}

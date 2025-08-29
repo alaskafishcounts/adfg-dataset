@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      3,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      7,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 15 2022 00:00:00",
+      9,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      13,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      10,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 18 2022 00:00:00",
+      14,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 19 2022 00:00:00",
+      13,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 20 2022 00:00:00",
+      18,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 21 2022 00:00:00",
+      38,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 22 2022 00:00:00",
+      28,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 23 2022 00:00:00",
+      47,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 24 2022 00:00:00",
+      70,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 25 2022 00:00:00",
+      60,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      44,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 27 2022 00:00:00",
+      74,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 28 2022 00:00:00",
+      79,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 29 2022 00:00:00",
+      57,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 30 2022 00:00:00",
+      128,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 31 2022 00:00:00",
+      77,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 01 2022 00:00:00",
+      66,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 02 2022 00:00:00",
+      57,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 03 2022 00:00:00",
+      76,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 04 2022 00:00:00",
+      58,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 05 2022 00:00:00",
+      59,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 06 2022 00:00:00",
+      199,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 07 2022 00:00:00",
+      356,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 08 2022 00:00:00",
+      7,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 13,
+    "species_id": "430",
+    "year": "2022",
+    "totalRecords": 28,
+    "totalCount": 1668,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:15:19.096877"
+  }
+}

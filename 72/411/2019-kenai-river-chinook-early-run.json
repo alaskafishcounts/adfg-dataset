@@ -1,0 +1,436 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "May, 16 2019 00:00:00",
+      0,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 17 2019 00:00:00",
+      0,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 18 2019 00:00:00",
+      0,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 19 2019 00:00:00",
+      6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 20 2019 00:00:00",
+      -6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 21 2019 00:00:00",
+      18,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 22 2019 00:00:00",
+      6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 23 2019 00:00:00",
+      24,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 24 2019 00:00:00",
+      36,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 25 2019 00:00:00",
+      36,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 26 2019 00:00:00",
+      36,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 27 2019 00:00:00",
+      47,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 28 2019 00:00:00",
+      80,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 29 2019 00:00:00",
+      60,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 30 2019 00:00:00",
+      66,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "May, 31 2019 00:00:00",
+      48,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 01 2019 00:00:00",
+      127,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 02 2019 00:00:00",
+      115,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 03 2019 00:00:00",
+      199,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 04 2019 00:00:00",
+      176,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 05 2019 00:00:00",
+      230,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 06 2019 00:00:00",
+      220,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 07 2019 00:00:00",
+      137,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 08 2019 00:00:00",
+      157,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 09 2019 00:00:00",
+      163,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 10 2019 00:00:00",
+      145,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 11 2019 00:00:00",
+      206,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 12 2019 00:00:00",
+      121,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 13 2019 00:00:00",
+      218,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 14 2019 00:00:00",
+      103,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 15 2019 00:00:00",
+      127,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 16 2019 00:00:00",
+      43,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 17 2019 00:00:00",
+      67,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 18 2019 00:00:00",
+      74,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 19 2019 00:00:00",
+      91,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 20 2019 00:00:00",
+      147,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 21 2019 00:00:00",
+      67,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      73,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      91,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 24 2019 00:00:00",
+      103,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      118,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      103,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      97,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      49,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      95,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      67,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 72,
+    "species_id": "411",
+    "year": "2019",
+    "totalRecords": 46,
+    "totalCount": 4186,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:25.970552"
+  }
+}

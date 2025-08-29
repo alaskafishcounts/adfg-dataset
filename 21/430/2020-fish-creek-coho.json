@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "July, 24 2020 00:00:00",
+      null,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 25 2020 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 26 2020 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 27 2020 00:00:00",
+      2,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 28 2020 00:00:00",
+      4,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 29 2020 00:00:00",
+      10,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 30 2020 00:00:00",
+      10,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "July, 31 2020 00:00:00",
+      38,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 01 2020 00:00:00",
+      607,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 02 2020 00:00:00",
+      51,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 03 2020 00:00:00",
+      202,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 04 2020 00:00:00",
+      202,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 05 2020 00:00:00",
+      854,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 06 2020 00:00:00",
+      629,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 07 2020 00:00:00",
+      529,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 08 2020 00:00:00",
+      27,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 09 2020 00:00:00",
+      22,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 10 2020 00:00:00",
+      298,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 11 2020 00:00:00",
+      129,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 12 2020 00:00:00",
+      7,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 13 2020 00:00:00",
+      441,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2020,
+      "August, 14 2020 00:00:00",
+      497,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "430",
+    "year": "2020",
+    "totalRecords": 22,
+    "totalCount": 4559,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:00.079786"
+  }
+}

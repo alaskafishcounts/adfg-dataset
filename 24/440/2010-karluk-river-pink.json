@@ -1,0 +1,661 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      10,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      2,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      3,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      5,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      3,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      3,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      9,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      2,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      8,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      68,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      381,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      67,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      85,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      1771,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      1673,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      2005,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      2753,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      586,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      4665,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      4031,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      42132,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      9872,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      21103,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      28724,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      87829,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      8456,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 11 2010 00:00:00",
+      30263,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 12 2010 00:00:00",
+      7624,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 13 2010 00:00:00",
+      11689,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 14 2010 00:00:00",
+      58692,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 15 2010 00:00:00",
+      73588,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 16 2010 00:00:00",
+      78453,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 17 2010 00:00:00",
+      134710,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 18 2010 00:00:00",
+      63749,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 19 2010 00:00:00",
+      42922,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 20 2010 00:00:00",
+      33454,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 21 2010 00:00:00",
+      51911,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 22 2010 00:00:00",
+      28649,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 23 2010 00:00:00",
+      83430,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 24 2010 00:00:00",
+      66285,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 25 2010 00:00:00",
+      83143,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 26 2010 00:00:00",
+      75672,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 27 2010 00:00:00",
+      60953,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 28 2010 00:00:00",
+      23736,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 29 2010 00:00:00",
+      12904,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 30 2010 00:00:00",
+      26584,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "August, 31 2010 00:00:00",
+      16358,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 01 2010 00:00:00",
+      8382,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 02 2010 00:00:00",
+      8466,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 03 2010 00:00:00",
+      2580,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 04 2010 00:00:00",
+      3919,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 05 2010 00:00:00",
+      10166,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 06 2010 00:00:00",
+      3697,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 07 2010 00:00:00",
+      3557,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 08 2010 00:00:00",
+      104,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 09 2010 00:00:00",
+      563,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 10 2010 00:00:00",
+      637,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 11 2010 00:00:00",
+      562,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 12 2010 00:00:00",
+      247,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 13 2010 00:00:00",
+      130,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 14 2010 00:00:00",
+      48,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 15 2010 00:00:00",
+      84,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 16 2010 00:00:00",
+      65,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 17 2010 00:00:00",
+      54,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2010,
+      "September, 18 2010 00:00:00",
+      90,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 24,
+    "species_id": "440",
+    "year": "2010",
+    "totalRecords": 71,
+    "totalCount": 1324368,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:27.966315"
+  }
+}

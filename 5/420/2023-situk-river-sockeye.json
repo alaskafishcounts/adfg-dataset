@@ -1,0 +1,571 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "June, 03 2023 00:00:00",
+      372,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 04 2023 00:00:00",
+      178,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 05 2023 00:00:00",
+      26,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 06 2023 00:00:00",
+      386,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 07 2023 00:00:00",
+      392,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 08 2023 00:00:00",
+      52,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 09 2023 00:00:00",
+      756,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 10 2023 00:00:00",
+      30,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 11 2023 00:00:00",
+      14,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 12 2023 00:00:00",
+      893,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 13 2023 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 14 2023 00:00:00",
+      2,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 15 2023 00:00:00",
+      1,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 16 2023 00:00:00",
+      896,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 17 2023 00:00:00",
+      164,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 18 2023 00:00:00",
+      457,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 19 2023 00:00:00",
+      386,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 20 2023 00:00:00",
+      297,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 21 2023 00:00:00",
+      1169,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 22 2023 00:00:00",
+      436,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 23 2023 00:00:00",
+      3079,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 24 2023 00:00:00",
+      762,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 25 2023 00:00:00",
+      2842,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 26 2023 00:00:00",
+      1703,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 27 2023 00:00:00",
+      3197,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 28 2023 00:00:00",
+      5294,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 29 2023 00:00:00",
+      1205,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 30 2023 00:00:00",
+      2587,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 01 2023 00:00:00",
+      3389,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 02 2023 00:00:00",
+      2351,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 03 2023 00:00:00",
+      178,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 04 2023 00:00:00",
+      885,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 05 2023 00:00:00",
+      4031,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 06 2023 00:00:00",
+      3161,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 07 2023 00:00:00",
+      3078,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 08 2023 00:00:00",
+      31,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 09 2023 00:00:00",
+      2430,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      2343,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      2706,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      7387,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      4078,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      5026,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      3423,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      6994,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      3272,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      2208,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      2830,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      499,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      3843,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      5105,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      4478,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      685,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      944,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      2160,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      2783,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      3145,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      4072,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      6065,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      4961,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 01 2023 00:00:00",
+      1392,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 02 2023 00:00:00",
+      408,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 5,
+    "species_id": "420",
+    "year": "2023",
+    "totalRecords": 61,
+    "totalCount": 127917,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:19.723703"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "June, 18 2010 00:00:00",
+      0,
+      410,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 26,
+    "species_id": "410",
+    "year": "2010",
+    "totalRecords": 1,
+    "totalCount": 0,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:49.215098"
+  }
+}

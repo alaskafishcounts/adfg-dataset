@@ -1,0 +1,661 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 01 2019 00:00:00",
+      1,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 02 2019 00:00:00",
+      6,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 03 2019 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 04 2019 00:00:00",
+      3,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 05 2019 00:00:00",
+      1,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 06 2019 00:00:00",
+      8,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 07 2019 00:00:00",
+      1094,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 08 2019 00:00:00",
+      2,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 09 2019 00:00:00",
+      3,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 10 2019 00:00:00",
+      637,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 11 2019 00:00:00",
+      0,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 12 2019 00:00:00",
+      518,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 13 2019 00:00:00",
+      33,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 14 2019 00:00:00",
+      7,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 15 2019 00:00:00",
+      3,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 16 2019 00:00:00",
+      54,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 17 2019 00:00:00",
+      1019,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 18 2019 00:00:00",
+      14,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 19 2019 00:00:00",
+      677,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 20 2019 00:00:00",
+      62,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 21 2019 00:00:00",
+      16,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      376,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      1541,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 24 2019 00:00:00",
+      408,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      456,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      1023,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      459,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      993,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      464,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      1551,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 01 2019 00:00:00",
+      1188,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 02 2019 00:00:00",
+      271,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 03 2019 00:00:00",
+      1208,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 04 2019 00:00:00",
+      2241,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 05 2019 00:00:00",
+      1754,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 06 2019 00:00:00",
+      1015,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 07 2019 00:00:00",
+      2063,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 08 2019 00:00:00",
+      1766,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 09 2019 00:00:00",
+      430,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      305,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      1680,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      865,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      1121,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      1429,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      878,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      4905,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      1550,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      2798,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      2503,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      21,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      1360,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      4979,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      2469,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      755,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      987,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      1588,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 27 2019 00:00:00",
+      1090,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 28 2019 00:00:00",
+      1549,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 29 2019 00:00:00",
+      1063,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 30 2019 00:00:00",
+      807,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      226,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 01 2019 00:00:00",
+      876,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 02 2019 00:00:00",
+      1695,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 03 2019 00:00:00",
+      321,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 04 2019 00:00:00",
+      1372,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 05 2019 00:00:00",
+      1465,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 06 2019 00:00:00",
+      2356,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 07 2019 00:00:00",
+      2901,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 08 2019 00:00:00",
+      1500,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 09 2019 00:00:00",
+      1206,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "August, 10 2019 00:00:00",
+      576,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 5,
+    "species_id": "420",
+    "year": "2019",
+    "totalRecords": 71,
+    "totalCount": 72561,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:19.796201"
+  }
+}

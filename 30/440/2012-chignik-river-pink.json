@@ -1,0 +1,454 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      24,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      6,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      6,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      18,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      12,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      6,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      0,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      6,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      42,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      18,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      12,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      81,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      24,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 01 2012 00:00:00",
+      6,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 02 2012 00:00:00",
+      7,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 03 2012 00:00:00",
+      12,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 04 2012 00:00:00",
+      10,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 05 2012 00:00:00",
+      30,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 06 2012 00:00:00",
+      7,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 07 2012 00:00:00",
+      24,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 08 2012 00:00:00",
+      6,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 09 2012 00:00:00",
+      12,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 10 2012 00:00:00",
+      6,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 11 2012 00:00:00",
+      13,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 12 2012 00:00:00",
+      49,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 13 2012 00:00:00",
+      156,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 14 2012 00:00:00",
+      369,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 15 2012 00:00:00",
+      240,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 16 2012 00:00:00",
+      96,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 17 2012 00:00:00",
+      24,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 18 2012 00:00:00",
+      64,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 19 2012 00:00:00",
+      48,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 20 2012 00:00:00",
+      31,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 21 2012 00:00:00",
+      102,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 22 2012 00:00:00",
+      72,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 23 2012 00:00:00",
+      185,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 24 2012 00:00:00",
+      162,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 25 2012 00:00:00",
+      216,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 26 2012 00:00:00",
+      136,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 27 2012 00:00:00",
+      175,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 28 2012 00:00:00",
+      240,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "August, 29 2012 00:00:00",
+      96,
+      440,
+      30,
+      "Chignik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 30,
+    "species_id": "440",
+    "year": "2012",
+    "totalRecords": 48,
+    "totalCount": 2849,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:26.820118"
+  }
+}

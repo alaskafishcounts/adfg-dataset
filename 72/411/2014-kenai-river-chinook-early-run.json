@@ -1,0 +1,436 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "May, 16 2014 00:00:00",
+      0,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 17 2014 00:00:00",
+      0,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 18 2014 00:00:00",
+      6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 19 2014 00:00:00",
+      6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 20 2014 00:00:00",
+      0,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 21 2014 00:00:00",
+      12,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 22 2014 00:00:00",
+      7,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 23 2014 00:00:00",
+      6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 24 2014 00:00:00",
+      0,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 25 2014 00:00:00",
+      0,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 26 2014 00:00:00",
+      0,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 27 2014 00:00:00",
+      6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 28 2014 00:00:00",
+      18,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 29 2014 00:00:00",
+      6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 30 2014 00:00:00",
+      30,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "May, 31 2014 00:00:00",
+      18,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 01 2014 00:00:00",
+      31,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 02 2014 00:00:00",
+      26,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 03 2014 00:00:00",
+      79,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 04 2014 00:00:00",
+      133,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 05 2014 00:00:00",
+      103,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 06 2014 00:00:00",
+      203,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 07 2014 00:00:00",
+      129,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 08 2014 00:00:00",
+      97,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 09 2014 00:00:00",
+      109,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 10 2014 00:00:00",
+      60,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 11 2014 00:00:00",
+      121,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 12 2014 00:00:00",
+      93,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 13 2014 00:00:00",
+      66,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 14 2014 00:00:00",
+      111,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 15 2014 00:00:00",
+      79,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 16 2014 00:00:00",
+      61,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 17 2014 00:00:00",
+      87,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 18 2014 00:00:00",
+      72,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 19 2014 00:00:00",
+      78,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 20 2014 00:00:00",
+      78,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 21 2014 00:00:00",
+      54,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 22 2014 00:00:00",
+      85,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 23 2014 00:00:00",
+      55,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 24 2014 00:00:00",
+      24,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 25 2014 00:00:00",
+      30,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 26 2014 00:00:00",
+      49,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 27 2014 00:00:00",
+      66,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 28 2014 00:00:00",
+      36,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 29 2014 00:00:00",
+      24,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2014,
+      "June, 30 2014 00:00:00",
+      37,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 72,
+    "species_id": "411",
+    "year": "2014",
+    "totalRecords": 46,
+    "totalCount": 2391,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:27.153924"
+  }
+}

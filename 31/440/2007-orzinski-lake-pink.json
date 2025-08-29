@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "August, 01 2007 00:00:00",
+      6,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 02 2007 00:00:00",
+      2,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 03 2007 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 04 2007 00:00:00",
+      14,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 07 2007 00:00:00",
+      3,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 08 2007 00:00:00",
+      234,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 09 2007 00:00:00",
+      82,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 10 2007 00:00:00",
+      789,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 11 2007 00:00:00",
+      331,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 12 2007 00:00:00",
+      260,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 13 2007 00:00:00",
+      1382,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 14 2007 00:00:00",
+      1171,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2007,
+      "August, 15 2007 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 31,
+    "species_id": "440",
+    "year": "2007",
+    "totalRecords": 13,
+    "totalCount": 4274,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:40.114129"
+  }
+}

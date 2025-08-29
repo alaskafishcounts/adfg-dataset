@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 08 2012 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 09 2012 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 10 2012 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 11 2012 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 12 2012 00:00:00",
+      3,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 13 2012 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 14 2012 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 15 2012 00:00:00",
+      3,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 16 2012 00:00:00",
+      9,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 17 2012 00:00:00",
+      2,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 18 2012 00:00:00",
+      1,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 19 2012 00:00:00",
+      36,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 20 2012 00:00:00",
+      34,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 21 2012 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 22 2012 00:00:00",
+      75,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 23 2012 00:00:00",
+      1,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 24 2012 00:00:00",
+      25,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      93,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      94,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      360,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      59,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      49,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 01 2012 00:00:00",
+      310,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 02 2012 00:00:00",
+      994,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 03 2012 00:00:00",
+      2184,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 04 2012 00:00:00",
+      4077,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 05 2012 00:00:00",
+      139,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 06 2012 00:00:00",
+      844,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 07 2012 00:00:00",
+      25,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 08 2012 00:00:00",
+      349,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 09 2012 00:00:00",
+      123,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      60,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      300,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      98,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      46,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      306,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      84,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      533,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      83,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      163,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      85,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      103,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      121,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      16,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      20,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      226,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      60,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      1447,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      1070,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      232,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      283,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      503,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      317,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 01 2012 00:00:00",
+      457,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 02 2012 00:00:00",
+      474,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 03 2012 00:00:00",
+      159,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "August, 04 2012 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 31,
+    "species_id": "420",
+    "year": "2012",
+    "totalRecords": 57,
+    "totalCount": 17135,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:37.961023"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      15,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      2,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      0,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      2,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      0,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      15,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      0,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      0,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      35,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      7,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      19,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      70,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      70,
+      440,
+      79,
+      "Iliuliuk River(Town Creek)",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 79,
+    "species_id": "440",
+    "year": "2025",
+    "totalRecords": 13,
+    "totalCount": 235,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:07:36.070848"
+  }
+}

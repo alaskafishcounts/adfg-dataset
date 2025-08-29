@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      1,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      1,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "July, 24 2010 00:00:00",
+      1,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "July, 25 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "July, 26 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "July, 27 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "July, 28 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "July, 29 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "July, 30 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "July, 31 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "August, 01 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "August, 02 2010 00:00:00",
+      1,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "August, 03 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "August, 04 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "August, 05 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "August, 06 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "August, 07 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "August, 08 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "August, 09 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2010,
+      "August, 10 2010 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 29,
+    "species_id": "450",
+    "year": "2010",
+    "totalRecords": 20,
+    "totalCount": 4,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:16.980960"
+  }
+}

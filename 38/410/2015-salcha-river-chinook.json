@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "July, 12 2015 00:00:00",
+      160,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 13 2015 00:00:00",
+      678,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 14 2015 00:00:00",
+      663,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 15 2015 00:00:00",
+      672,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 16 2015 00:00:00",
+      300,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 17 2015 00:00:00",
+      270,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 18 2015 00:00:00",
+      348,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 19 2015 00:00:00",
+      315,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 20 2015 00:00:00",
+      48,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 21 2015 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 22 2015 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 23 2015 00:00:00",
+      129,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 24 2015 00:00:00",
+      243,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 25 2015 00:00:00",
+      189,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 26 2015 00:00:00",
+      192,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 27 2015 00:00:00",
+      216,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 28 2015 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 29 2015 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "July, 31 2015 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "August, 01 2015 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "August, 02 2015 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "August, 03 2015 00:00:00",
+      3,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "August, 04 2015 00:00:00",
+      27,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "August, 05 2015 00:00:00",
+      60,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "August, 06 2015 00:00:00",
+      42,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "August, 07 2015 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "August, 08 2015 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "August, 09 2015 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "August, 10 2015 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 38,
+    "species_id": "410",
+    "year": "2015",
+    "totalRecords": 29,
+    "totalCount": 4555,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:21.499362"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "June, 26 2015 00:00:00",
+      1,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 09 2015 00:00:00",
+      3,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 10 2015 00:00:00",
+      2,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 7,
+    "species_id": "450",
+    "year": "2015",
+    "totalRecords": 3,
+    "totalCount": 6,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:39.665700"
+  }
+}

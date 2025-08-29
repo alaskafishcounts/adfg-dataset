@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "June, 16 2023 00:00:00",
+      0,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 17 2023 00:00:00",
+      1,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 18 2023 00:00:00",
+      55,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 19 2023 00:00:00",
+      26,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 20 2023 00:00:00",
+      110,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 21 2023 00:00:00",
+      90,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 22 2023 00:00:00",
+      64,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 23 2023 00:00:00",
+      11,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 24 2023 00:00:00",
+      38,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 25 2023 00:00:00",
+      12,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 26 2023 00:00:00",
+      25,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 27 2023 00:00:00",
+      16,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 28 2023 00:00:00",
+      44,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 29 2023 00:00:00",
+      89,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 30 2023 00:00:00",
+      279,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 01 2023 00:00:00",
+      27,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 02 2023 00:00:00",
+      175,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 03 2023 00:00:00",
+      662,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 04 2023 00:00:00",
+      299,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 05 2023 00:00:00",
+      45,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 06 2023 00:00:00",
+      137,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 07 2023 00:00:00",
+      744,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 08 2023 00:00:00",
+      365,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 09 2023 00:00:00",
+      378,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      140,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      513,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      329,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      2309,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      2923,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      1532,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      1020,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      1041,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      1951,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      1144,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      1089,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      980,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      1116,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      779,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      559,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      1176,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      1028,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      1064,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      1618,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      450,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      805,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      2586,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 01 2023 00:00:00",
+      2161,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 02 2023 00:00:00",
+      454,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 03 2023 00:00:00",
+      1086,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 04 2023 00:00:00",
+      1661,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 05 2023 00:00:00",
+      471,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 06 2023 00:00:00",
+      786,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 07 2023 00:00:00",
+      733,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 08 2023 00:00:00",
+      1032,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 09 2023 00:00:00",
+      995,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      981,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      802,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      3883,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      986,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      963,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      1038,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      60,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 29,
+    "species_id": "420",
+    "year": "2023",
+    "totalRecords": 62,
+    "totalCount": 47936,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:11.239431"
+  }
+}

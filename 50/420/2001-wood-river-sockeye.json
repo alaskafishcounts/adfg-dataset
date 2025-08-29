@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "June, 21 2001 00:00:00",
+      5916,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 22 2001 00:00:00",
+      29400,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 23 2001 00:00:00",
+      39420,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 24 2001 00:00:00",
+      61644,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 25 2001 00:00:00",
+      144846,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 26 2001 00:00:00",
+      76962,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 27 2001 00:00:00",
+      26076,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 28 2001 00:00:00",
+      5040,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 29 2001 00:00:00",
+      4398,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "June, 30 2001 00:00:00",
+      151020,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 01 2001 00:00:00",
+      63708,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 02 2001 00:00:00",
+      45954,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 03 2001 00:00:00",
+      309186,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 04 2001 00:00:00",
+      324816,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 05 2001 00:00:00",
+      68190,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 06 2001 00:00:00",
+      20856,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 07 2001 00:00:00",
+      5376,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 08 2001 00:00:00",
+      4860,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 09 2001 00:00:00",
+      14472,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 10 2001 00:00:00",
+      25314,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 11 2001 00:00:00",
+      6462,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 12 2001 00:00:00",
+      5052,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 13 2001 00:00:00",
+      3366,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 14 2001 00:00:00",
+      2286,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 15 2001 00:00:00",
+      3114,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 16 2001 00:00:00",
+      4530,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 17 2001 00:00:00",
+      2334,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 18 2001 00:00:00",
+      2352,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      2001,
+      "July, 19 2001 00:00:00",
+      1782,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 50,
+    "species_id": "420",
+    "year": "2001",
+    "totalRecords": 29,
+    "totalCount": 1458732,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:49.305019"
+  }
+}

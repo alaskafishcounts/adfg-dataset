@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      5,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      5,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      25,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      1,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      2,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      4,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      4,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      2,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 35,
+    "species_id": "440",
+    "year": "2013",
+    "totalRecords": 13,
+    "totalCount": 48,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:09.936159"
+  }
+}

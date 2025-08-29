@@ -1,0 +1,256 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "June, 26 2003 00:00:00",
+      42,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 27 2003 00:00:00",
+      150,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      30,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 29 2003 00:00:00",
+      156,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 30 2003 00:00:00",
+      114,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 01 2003 00:00:00",
+      165,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 02 2003 00:00:00",
+      99,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 03 2003 00:00:00",
+      159,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 04 2003 00:00:00",
+      42,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 05 2003 00:00:00",
+      291,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 06 2003 00:00:00",
+      510,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 07 2003 00:00:00",
+      663,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 08 2003 00:00:00",
+      870,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 09 2003 00:00:00",
+      945,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 10 2003 00:00:00",
+      1929,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 11 2003 00:00:00",
+      1542,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 12 2003 00:00:00",
+      966,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 13 2003 00:00:00",
+      774,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 14 2003 00:00:00",
+      1029,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 15 2003 00:00:00",
+      1282,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 16 2003 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 17 2003 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 18 2003 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 19 2003 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 20 2003 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 21 2003 00:00:00",
+      0,
+      410,
+      38,
+      "Salcha River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 38,
+    "species_id": "410",
+    "year": "2003",
+    "totalRecords": 26,
+    "totalCount": 11758,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:23.439627"
+  }
+}

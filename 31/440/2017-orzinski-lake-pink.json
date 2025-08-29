@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "July, 29 2017 00:00:00",
+      25,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 30 2017 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 31 2017 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 01 2017 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 02 2017 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2017,
+      "August, 03 2017 00:00:00",
+      0,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 31,
+    "species_id": "440",
+    "year": "2017",
+    "totalRecords": 6,
+    "totalCount": 25,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:35.973687"
+  }
+}

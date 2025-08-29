@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "July, 17 2007 00:00:00",
+      0,
+      450,
+      35,
+      "Ilnik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 35,
+    "species_id": "450",
+    "year": "2007",
+    "totalRecords": 1,
+    "totalCount": 0,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:12.648617"
+  }
+}

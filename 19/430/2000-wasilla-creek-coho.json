@@ -1,0 +1,553 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "July, 26 2000 00:00:00",
+      6,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 27 2000 00:00:00",
+      0,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 29 2000 00:00:00",
+      7,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 30 2000 00:00:00",
+      6,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "July, 31 2000 00:00:00",
+      1,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 01 2000 00:00:00",
+      0,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 02 2000 00:00:00",
+      0,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 03 2000 00:00:00",
+      8,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 04 2000 00:00:00",
+      4,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 05 2000 00:00:00",
+      10,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 06 2000 00:00:00",
+      47,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 07 2000 00:00:00",
+      32,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 08 2000 00:00:00",
+      7,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 09 2000 00:00:00",
+      17,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 10 2000 00:00:00",
+      16,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 11 2000 00:00:00",
+      47,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 12 2000 00:00:00",
+      47,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 13 2000 00:00:00",
+      50,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 14 2000 00:00:00",
+      269,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 15 2000 00:00:00",
+      380,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 16 2000 00:00:00",
+      227,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 17 2000 00:00:00",
+      100,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 18 2000 00:00:00",
+      111,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 19 2000 00:00:00",
+      472,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 20 2000 00:00:00",
+      516,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 21 2000 00:00:00",
+      194,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 22 2000 00:00:00",
+      199,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 23 2000 00:00:00",
+      124,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 24 2000 00:00:00",
+      79,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 25 2000 00:00:00",
+      84,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 26 2000 00:00:00",
+      46,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 27 2000 00:00:00",
+      72,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 28 2000 00:00:00",
+      215,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 29 2000 00:00:00",
+      91,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 30 2000 00:00:00",
+      1812,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "August, 31 2000 00:00:00",
+      65,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 01 2000 00:00:00",
+      26,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 02 2000 00:00:00",
+      73,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 03 2000 00:00:00",
+      29,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 04 2000 00:00:00",
+      53,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 05 2000 00:00:00",
+      20,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 06 2000 00:00:00",
+      3,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 07 2000 00:00:00",
+      51,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 08 2000 00:00:00",
+      10,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 09 2000 00:00:00",
+      4,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 10 2000 00:00:00",
+      3,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 11 2000 00:00:00",
+      60,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 12 2000 00:00:00",
+      72,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 13 2000 00:00:00",
+      32,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 14 2000 00:00:00",
+      25,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 15 2000 00:00:00",
+      28,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 16 2000 00:00:00",
+      4,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 17 2000 00:00:00",
+      8,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 18 2000 00:00:00",
+      8,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 19 2000 00:00:00",
+      3,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 20 2000 00:00:00",
+      5,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 21 2000 00:00:00",
+      166,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 22 2000 00:00:00",
+      105,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ],
+    [
+      2000,
+      "September, 23 2000 00:00:00",
+      23,
+      430,
+      19,
+      "Wasilla Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 19,
+    "species_id": "430",
+    "year": "2000",
+    "totalRecords": 59,
+    "totalCount": 6172,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:02:46.923250"
+  }
+}

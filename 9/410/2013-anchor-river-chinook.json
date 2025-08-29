@@ -1,0 +1,751 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "May, 15 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 16 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 17 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 18 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 19 2013 00:00:00",
+      3,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 20 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 21 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 22 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 23 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 24 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 25 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 26 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 27 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 28 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 29 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 30 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "May, 31 2013 00:00:00",
+      9,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 01 2013 00:00:00",
+      24,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 02 2013 00:00:00",
+      39,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 03 2013 00:00:00",
+      57,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 04 2013 00:00:00",
+      81,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 05 2013 00:00:00",
+      33,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 06 2013 00:00:00",
+      42,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 07 2013 00:00:00",
+      18,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 08 2013 00:00:00",
+      57,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 09 2013 00:00:00",
+      126,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 10 2013 00:00:00",
+      150,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 11 2013 00:00:00",
+      246,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 12 2013 00:00:00",
+      105,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 13 2013 00:00:00",
+      123,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 14 2013 00:00:00",
+      147,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 15 2013 00:00:00",
+      177,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 16 2013 00:00:00",
+      186,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 17 2013 00:00:00",
+      99,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 18 2013 00:00:00",
+      162,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 19 2013 00:00:00",
+      419,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 20 2013 00:00:00",
+      85,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 21 2013 00:00:00",
+      15,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 22 2013 00:00:00",
+      34,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 23 2013 00:00:00",
+      25,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 24 2013 00:00:00",
+      64,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 25 2013 00:00:00",
+      114,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 26 2013 00:00:00",
+      79,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 27 2013 00:00:00",
+      92,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 28 2013 00:00:00",
+      68,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 29 2013 00:00:00",
+      39,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "June, 30 2013 00:00:00",
+      80,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 01 2013 00:00:00",
+      89,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 02 2013 00:00:00",
+      62,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 03 2013 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 04 2013 00:00:00",
+      28,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 05 2013 00:00:00",
+      13,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 06 2013 00:00:00",
+      39,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 07 2013 00:00:00",
+      453,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 08 2013 00:00:00",
+      54,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      41,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      45,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      56,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      65,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      24,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      23,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      26,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      18,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      62,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      40,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      70,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      53,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      6,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      2,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      7,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      13,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      16,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      25,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      16,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      7,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      12,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      6,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      1,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      2,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      3,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      3,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 9,
+    "species_id": "410",
+    "year": "2013",
+    "totalRecords": 81,
+    "totalCount": 4378,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:15:02.319455"
+  }
+}

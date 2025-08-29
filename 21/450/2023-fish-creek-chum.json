@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "August, 07 2023 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      2,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      7,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      2,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 20 2023 00:00:00",
+      2,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 21 2023 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 22 2023 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 25 2023 00:00:00",
+      2,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 26 2023 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 27 2023 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 31 2023 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "450",
+    "year": "2023",
+    "totalRecords": 14,
+    "totalCount": 21,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:02:58.831268"
+  }
+}

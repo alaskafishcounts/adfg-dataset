@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "May, 16 2009 00:00:00",
+      5,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "May, 31 2009 00:00:00",
+      5,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 01 2009 00:00:00",
+      1311,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 02 2009 00:00:00",
+      826,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 03 2009 00:00:00",
+      368,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 04 2009 00:00:00",
+      1370,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 05 2009 00:00:00",
+      66,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 06 2009 00:00:00",
+      186,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 07 2009 00:00:00",
+      624,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 08 2009 00:00:00",
+      390,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 09 2009 00:00:00",
+      307,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 10 2009 00:00:00",
+      289,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 11 2009 00:00:00",
+      535,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 12 2009 00:00:00",
+      21,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 13 2009 00:00:00",
+      228,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 14 2009 00:00:00",
+      761,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 15 2009 00:00:00",
+      221,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 16 2009 00:00:00",
+      424,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 17 2009 00:00:00",
+      233,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 18 2009 00:00:00",
+      886,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 19 2009 00:00:00",
+      1553,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 20 2009 00:00:00",
+      368,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 21 2009 00:00:00",
+      2214,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 22 2009 00:00:00",
+      1228,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 23 2009 00:00:00",
+      407,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 24 2009 00:00:00",
+      2177,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 25 2009 00:00:00",
+      1291,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 26 2009 00:00:00",
+      991,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 27 2009 00:00:00",
+      3823,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 28 2009 00:00:00",
+      1671,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 29 2009 00:00:00",
+      1286,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 30 2009 00:00:00",
+      2706,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 01 2009 00:00:00",
+      472,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 02 2009 00:00:00",
+      731,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 03 2009 00:00:00",
+      1962,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 04 2009 00:00:00",
+      2468,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 05 2009 00:00:00",
+      2828,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 06 2009 00:00:00",
+      704,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 07 2009 00:00:00",
+      1180,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 08 2009 00:00:00",
+      5,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 09 2009 00:00:00",
+      1324,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 10 2009 00:00:00",
+      6550,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 11 2009 00:00:00",
+      2791,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 12 2009 00:00:00",
+      5742,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 13 2009 00:00:00",
+      2611,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 14 2009 00:00:00",
+      2313,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 15 2009 00:00:00",
+      176,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 16 2009 00:00:00",
+      125,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 17 2009 00:00:00",
+      688,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 18 2009 00:00:00",
+      4395,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 19 2009 00:00:00",
+      1499,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 20 2009 00:00:00",
+      1813,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 21 2009 00:00:00",
+      744,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 22 2009 00:00:00",
+      1881,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 23 2009 00:00:00",
+      1716,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 24 2009 00:00:00",
+      1328,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 25 2009 00:00:00",
+      1212,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 26 2009 00:00:00",
+      2733,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 27 2009 00:00:00",
+      291,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 28 2009 00:00:00",
+      403,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 29 2009 00:00:00",
+      652,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 30 2009 00:00:00",
+      263,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 31 2009 00:00:00",
+      94,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 01 2009 00:00:00",
+      459,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 02 2009 00:00:00",
+      430,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 03 2009 00:00:00",
+      1124,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "August, 04 2009 00:00:00",
+      908,
+      420,
+      5,
+      "Situk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 5,
+    "species_id": "420",
+    "year": "2009",
+    "totalRecords": 67,
+    "totalCount": 83386,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:23.612626"
+  }
+}

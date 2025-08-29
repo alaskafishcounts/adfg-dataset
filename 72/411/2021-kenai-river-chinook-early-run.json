@@ -1,0 +1,436 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "May, 16 2021 00:00:00",
+      0,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 17 2021 00:00:00",
+      18,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 18 2021 00:00:00",
+      30,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 19 2021 00:00:00",
+      6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 20 2021 00:00:00",
+      6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 21 2021 00:00:00",
+      12,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 22 2021 00:00:00",
+      6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 23 2021 00:00:00",
+      6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 24 2021 00:00:00",
+      12,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 25 2021 00:00:00",
+      6,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 26 2021 00:00:00",
+      42,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 27 2021 00:00:00",
+      73,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 28 2021 00:00:00",
+      18,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 29 2021 00:00:00",
+      36,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 30 2021 00:00:00",
+      19,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "May, 31 2021 00:00:00",
+      36,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 01 2021 00:00:00",
+      48,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 02 2021 00:00:00",
+      91,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 03 2021 00:00:00",
+      109,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 04 2021 00:00:00",
+      194,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 05 2021 00:00:00",
+      145,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 06 2021 00:00:00",
+      164,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 07 2021 00:00:00",
+      206,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 08 2021 00:00:00",
+      261,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 09 2021 00:00:00",
+      158,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 10 2021 00:00:00",
+      134,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 11 2021 00:00:00",
+      115,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 12 2021 00:00:00",
+      158,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 13 2021 00:00:00",
+      170,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 14 2021 00:00:00",
+      200,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 15 2021 00:00:00",
+      175,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 16 2021 00:00:00",
+      91,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 17 2021 00:00:00",
+      170,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 18 2021 00:00:00",
+      85,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 19 2021 00:00:00",
+      104,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 20 2021 00:00:00",
+      91,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 21 2021 00:00:00",
+      108,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 22 2021 00:00:00",
+      121,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 23 2021 00:00:00",
+      127,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 24 2021 00:00:00",
+      98,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 25 2021 00:00:00",
+      79,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      79,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      54,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      69,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      103,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      98,
+      411,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Early Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 72,
+    "species_id": "411",
+    "year": "2021",
+    "totalRecords": 46,
+    "totalCount": 4131,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:25.639124"
+  }
+}

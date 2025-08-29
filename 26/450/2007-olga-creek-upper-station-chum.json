@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "August, 28 2007 00:00:00",
+      1,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 29 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 30 2007 00:00:00",
+      2,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 01 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 02 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 03 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 04 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 05 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 06 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 07 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 08 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 09 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 10 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 11 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 12 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2007,
+      "September, 13 2007 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 26,
+    "species_id": "450",
+    "year": "2007",
+    "totalRecords": 16,
+    "totalCount": 3,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:50.944471"
+  }
+}

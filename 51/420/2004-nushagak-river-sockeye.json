@@ -1,0 +1,652 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "June, 08 2004 00:00:00",
+      660,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 09 2004 00:00:00",
+      1119,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 10 2004 00:00:00",
+      1266,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 11 2004 00:00:00",
+      1066,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 12 2004 00:00:00",
+      5309,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 13 2004 00:00:00",
+      7795,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 14 2004 00:00:00",
+      3088,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 15 2004 00:00:00",
+      2087,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 16 2004 00:00:00",
+      2994,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 17 2004 00:00:00",
+      15715,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 18 2004 00:00:00",
+      12971,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 19 2004 00:00:00",
+      54923,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 20 2004 00:00:00",
+      86380,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 21 2004 00:00:00",
+      37593,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 22 2004 00:00:00",
+      22973,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 23 2004 00:00:00",
+      29148,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 24 2004 00:00:00",
+      64582,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 25 2004 00:00:00",
+      38741,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 26 2004 00:00:00",
+      21201,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 27 2004 00:00:00",
+      27750,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 28 2004 00:00:00",
+      14492,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 29 2004 00:00:00",
+      29084,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 30 2004 00:00:00",
+      56134,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 01 2004 00:00:00",
+      63053,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 02 2004 00:00:00",
+      25085,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 03 2004 00:00:00",
+      11478,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 04 2004 00:00:00",
+      17480,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 05 2004 00:00:00",
+      31017,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 06 2004 00:00:00",
+      33969,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 07 2004 00:00:00",
+      46609,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 08 2004 00:00:00",
+      27188,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 09 2004 00:00:00",
+      8988,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 10 2004 00:00:00",
+      5575,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 11 2004 00:00:00",
+      4015,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 12 2004 00:00:00",
+      2146,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 13 2004 00:00:00",
+      4400,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 14 2004 00:00:00",
+      11276,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 15 2004 00:00:00",
+      7440,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 16 2004 00:00:00",
+      3709,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 17 2004 00:00:00",
+      6255,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 18 2004 00:00:00",
+      3406,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 19 2004 00:00:00",
+      1834,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 20 2004 00:00:00",
+      2010,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 21 2004 00:00:00",
+      1840,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 22 2004 00:00:00",
+      1926,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 23 2004 00:00:00",
+      2343,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 24 2004 00:00:00",
+      4897,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      12466,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 26 2004 00:00:00",
+      17652,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 27 2004 00:00:00",
+      12854,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      13170,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      18978,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      33484,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 31 2004 00:00:00",
+      35775,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 01 2004 00:00:00",
+      60114,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 02 2004 00:00:00",
+      41586,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 03 2004 00:00:00",
+      52930,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 04 2004 00:00:00",
+      27341,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 05 2004 00:00:00",
+      26239,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 06 2004 00:00:00",
+      23316,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 07 2004 00:00:00",
+      77885,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 08 2004 00:00:00",
+      52889,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 09 2004 00:00:00",
+      36878,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 10 2004 00:00:00",
+      32965,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 11 2004 00:00:00",
+      34913,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 12 2004 00:00:00",
+      26257,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 13 2004 00:00:00",
+      35446,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 14 2004 00:00:00",
+      39853,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 15 2004 00:00:00",
+      14615,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 16 2004 00:00:00",
+      7888,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "420",
+    "year": "2004",
+    "totalRecords": 70,
+    "totalCount": 1600504,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:58.789550"
+  }
+}

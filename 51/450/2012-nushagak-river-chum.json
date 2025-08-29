@@ -1,0 +1,598 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 05 2012 00:00:00",
+      38,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 06 2012 00:00:00",
+      77,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 07 2012 00:00:00",
+      104,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 08 2012 00:00:00",
+      114,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 09 2012 00:00:00",
+      69,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 10 2012 00:00:00",
+      91,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 11 2012 00:00:00",
+      212,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 12 2012 00:00:00",
+      326,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 13 2012 00:00:00",
+      1630,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 14 2012 00:00:00",
+      338,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 15 2012 00:00:00",
+      466,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 16 2012 00:00:00",
+      1426,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 17 2012 00:00:00",
+      1504,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 18 2012 00:00:00",
+      3032,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 19 2012 00:00:00",
+      8048,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 20 2012 00:00:00",
+      14884,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 21 2012 00:00:00",
+      14450,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 22 2012 00:00:00",
+      22275,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 23 2012 00:00:00",
+      11750,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 24 2012 00:00:00",
+      4272,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      23151,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      14900,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 27 2012 00:00:00",
+      9005,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      22018,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      19144,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      25324,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 01 2012 00:00:00",
+      8450,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 02 2012 00:00:00",
+      6206,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 03 2012 00:00:00",
+      8319,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 04 2012 00:00:00",
+      11467,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 05 2012 00:00:00",
+      12443,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 06 2012 00:00:00",
+      10452,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 07 2012 00:00:00",
+      10960,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 08 2012 00:00:00",
+      13365,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 09 2012 00:00:00",
+      5050,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      7451,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      5205,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      4387,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      4017,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      7065,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      7222,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      6381,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      5512,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      5934,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      11850,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      10229,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      2619,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      1320,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      2969,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      1863,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      3990,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      5619,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      1673,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      888,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      4122,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 30 2012 00:00:00",
+      1738,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "July, 31 2012 00:00:00",
+      2313,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 01 2012 00:00:00",
+      903,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 02 2012 00:00:00",
+      936,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 06 2012 00:00:00",
+      427,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 08 2012 00:00:00",
+      542,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 09 2012 00:00:00",
+      1450,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 10 2012 00:00:00",
+      742,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2012,
+      "August, 13 2012 00:00:00",
+      435,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "450",
+    "year": "2012",
+    "totalRecords": 64,
+    "totalCount": 395162,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:55.815462"
+  }
+}

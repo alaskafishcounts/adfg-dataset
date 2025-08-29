@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "August, 01 2008 00:00:00",
+      1,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 02 2008 00:00:00",
+      0,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 03 2008 00:00:00",
+      1,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 04 2008 00:00:00",
+      1,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 05 2008 00:00:00",
+      5,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 06 2008 00:00:00",
+      0,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 07 2008 00:00:00",
+      0,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 08 2008 00:00:00",
+      8,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 09 2008 00:00:00",
+      10,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 10 2008 00:00:00",
+      8,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 11 2008 00:00:00",
+      16,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 12 2008 00:00:00",
+      35,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 13 2008 00:00:00",
+      18,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 14 2008 00:00:00",
+      107,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 15 2008 00:00:00",
+      41,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 16 2008 00:00:00",
+      141,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 17 2008 00:00:00",
+      84,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 18 2008 00:00:00",
+      36,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 19 2008 00:00:00",
+      0,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 20 2008 00:00:00",
+      82,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 21 2008 00:00:00",
+      88,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 22 2008 00:00:00",
+      49,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 23 2008 00:00:00",
+      145,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 24 2008 00:00:00",
+      148,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 25 2008 00:00:00",
+      78,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 26 2008 00:00:00",
+      119,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 27 2008 00:00:00",
+      76,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 28 2008 00:00:00",
+      86,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 29 2008 00:00:00",
+      20,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 30 2008 00:00:00",
+      33,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 31 2008 00:00:00",
+      266,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 01 2008 00:00:00",
+      221,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 02 2008 00:00:00",
+      488,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 03 2008 00:00:00",
+      89,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 04 2008 00:00:00",
+      278,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 05 2008 00:00:00",
+      277,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 06 2008 00:00:00",
+      300,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 07 2008 00:00:00",
+      300,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 08 2008 00:00:00",
+      0,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 09 2008 00:00:00",
+      490,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 10 2008 00:00:00",
+      489,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 11 2008 00:00:00",
+      311,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 12 2008 00:00:00",
+      334,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 13 2008 00:00:00",
+      465,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 14 2008 00:00:00",
+      139,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 15 2008 00:00:00",
+      140,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 16 2008 00:00:00",
+      177,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 17 2008 00:00:00",
+      31,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 18 2008 00:00:00",
+      541,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 19 2008 00:00:00",
+      523,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 20 2008 00:00:00",
+      284,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 21 2008 00:00:00",
+      37,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 22 2008 00:00:00",
+      88,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 23 2008 00:00:00",
+      225,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 24 2008 00:00:00",
+      86,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 25 2008 00:00:00",
+      301,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 26 2008 00:00:00",
+      135,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 27 2008 00:00:00",
+      105,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 28 2008 00:00:00",
+      64,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 29 2008 00:00:00",
+      25,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 28,
+    "species_id": "430",
+    "year": "2008",
+    "totalRecords": 60,
+    "totalCount": 8645,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:08.661919"
+  }
+}

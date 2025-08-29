@@ -1,0 +1,598 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      1,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      1,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      6,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      302,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      83,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      1161,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 01 2019 00:00:00",
+      273,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 02 2019 00:00:00",
+      95,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 03 2019 00:00:00",
+      21,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 04 2019 00:00:00",
+      13,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 05 2019 00:00:00",
+      277,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 06 2019 00:00:00",
+      323,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 07 2019 00:00:00",
+      47,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 08 2019 00:00:00",
+      32,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 09 2019 00:00:00",
+      124,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      476,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      97,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      55,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      264,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      67,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      132,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      465,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      183,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      156,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      91,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      54,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      23,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      772,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      1252,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      391,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      559,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      187,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 27 2019 00:00:00",
+      147,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 28 2019 00:00:00",
+      201,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 29 2019 00:00:00",
+      27,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 30 2019 00:00:00",
+      679,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      822,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 01 2019 00:00:00",
+      1074,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 02 2019 00:00:00",
+      252,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 03 2019 00:00:00",
+      87,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 04 2019 00:00:00",
+      58,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 05 2019 00:00:00",
+      171,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 06 2019 00:00:00",
+      1048,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 07 2019 00:00:00",
+      595,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 08 2019 00:00:00",
+      275,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 09 2019 00:00:00",
+      144,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 10 2019 00:00:00",
+      532,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 11 2019 00:00:00",
+      1460,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 12 2019 00:00:00",
+      656,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 13 2019 00:00:00",
+      982,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 14 2019 00:00:00",
+      356,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 15 2019 00:00:00",
+      889,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 16 2019 00:00:00",
+      315,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 17 2019 00:00:00",
+      263,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 18 2019 00:00:00",
+      344,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 19 2019 00:00:00",
+      688,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 20 2019 00:00:00",
+      533,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 21 2019 00:00:00",
+      674,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 22 2019 00:00:00",
+      2359,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 23 2019 00:00:00",
+      916,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 24 2019 00:00:00",
+      465,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 25 2019 00:00:00",
+      775,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 26 2019 00:00:00",
+      840,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "August, 27 2019 00:00:00",
+      562,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 25,
+    "species_id": "440",
+    "year": "2019",
+    "totalRecords": 64,
+    "totalCount": 27172,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:35.258691"
+  }
+}

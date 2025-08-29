@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "July, 14 2007 00:00:00",
+      2,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 15 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 16 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 17 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 18 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 19 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 20 2007 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 21 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 22 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 23 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 24 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 25 2007 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 26 2007 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 27 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 28 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 29 2007 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 30 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "July, 31 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 01 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 02 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 03 2007 00:00:00",
+      3,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 04 2007 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 05 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 06 2007 00:00:00",
+      4,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 07 2007 00:00:00",
+      3,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 08 2007 00:00:00",
+      2,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 09 2007 00:00:00",
+      8,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 10 2007 00:00:00",
+      4,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 11 2007 00:00:00",
+      3,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 12 2007 00:00:00",
+      25,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 13 2007 00:00:00",
+      27,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 14 2007 00:00:00",
+      16,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 15 2007 00:00:00",
+      19,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 16 2007 00:00:00",
+      65,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 17 2007 00:00:00",
+      9,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 18 2007 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 19 2007 00:00:00",
+      7,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 20 2007 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 21 2007 00:00:00",
+      4,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 22 2007 00:00:00",
+      7,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 23 2007 00:00:00",
+      2021,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 24 2007 00:00:00",
+      240,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 25 2007 00:00:00",
+      909,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 26 2007 00:00:00",
+      49,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 27 2007 00:00:00",
+      3,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 28 2007 00:00:00",
+      14,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 29 2007 00:00:00",
+      12,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 30 2007 00:00:00",
+      64,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "August, 31 2007 00:00:00",
+      23,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "September, 01 2007 00:00:00",
+      18,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "September, 02 2007 00:00:00",
+      49,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "September, 03 2007 00:00:00",
+      15,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "September, 04 2007 00:00:00",
+      8,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "September, 05 2007 00:00:00",
+      24,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "September, 06 2007 00:00:00",
+      27,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "September, 07 2007 00:00:00",
+      17,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "September, 08 2007 00:00:00",
+      2393,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "September, 09 2007 00:00:00",
+      1984,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "September, 10 2007 00:00:00",
+      132,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2007,
+      "September, 11 2007 00:00:00",
+      9,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 9,
+    "species_id": "430",
+    "year": "2007",
+    "totalRecords": 60,
+    "totalCount": 8225,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:15:04.514164"
+  }
+}

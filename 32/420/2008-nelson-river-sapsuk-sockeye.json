@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "June, 01 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 02 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 03 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 04 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 05 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 06 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 07 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 08 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 09 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 10 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 11 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 12 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 13 2008 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 14 2008 00:00:00",
+      21,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 15 2008 00:00:00",
+      19,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 16 2008 00:00:00",
+      342,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 17 2008 00:00:00",
+      163,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 18 2008 00:00:00",
+      471,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 19 2008 00:00:00",
+      3956,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 20 2008 00:00:00",
+      2906,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 21 2008 00:00:00",
+      1728,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 22 2008 00:00:00",
+      1283,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 23 2008 00:00:00",
+      2260,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 24 2008 00:00:00",
+      2826,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 25 2008 00:00:00",
+      2582,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 26 2008 00:00:00",
+      4037,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 27 2008 00:00:00",
+      4340,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 28 2008 00:00:00",
+      4327,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 29 2008 00:00:00",
+      5026,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 30 2008 00:00:00",
+      10302,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 01 2008 00:00:00",
+      7125,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 02 2008 00:00:00",
+      7076,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 03 2008 00:00:00",
+      7045,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 04 2008 00:00:00",
+      5071,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 05 2008 00:00:00",
+      6214,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 06 2008 00:00:00",
+      3426,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 07 2008 00:00:00",
+      13044,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 08 2008 00:00:00",
+      3672,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 09 2008 00:00:00",
+      2389,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 10 2008 00:00:00",
+      3712,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 11 2008 00:00:00",
+      3465,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 12 2008 00:00:00",
+      3857,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 13 2008 00:00:00",
+      1976,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 14 2008 00:00:00",
+      4568,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 15 2008 00:00:00",
+      2951,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 16 2008 00:00:00",
+      2321,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 17 2008 00:00:00",
+      1231,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 18 2008 00:00:00",
+      400,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 19 2008 00:00:00",
+      1900,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 20 2008 00:00:00",
+      1329,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 21 2008 00:00:00",
+      2215,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 22 2008 00:00:00",
+      1647,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 23 2008 00:00:00",
+      666,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 24 2008 00:00:00",
+      125,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 25 2008 00:00:00",
+      359,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 26 2008 00:00:00",
+      1038,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 27 2008 00:00:00",
+      39,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 28 2008 00:00:00",
+      650,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 29 2008 00:00:00",
+      800,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 30 2008 00:00:00",
+      800,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 31 2008 00:00:00",
+      800,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 01 2008 00:00:00",
+      700,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 02 2008 00:00:00",
+      600,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 03 2008 00:00:00",
+      500,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 04 2008 00:00:00",
+      500,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 05 2008 00:00:00",
+      400,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 06 2008 00:00:00",
+      300,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 07 2008 00:00:00",
+      100,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "420",
+    "year": "2008",
+    "totalRecords": 68,
+    "totalCount": 141600,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:50.173067"
+  }
+}

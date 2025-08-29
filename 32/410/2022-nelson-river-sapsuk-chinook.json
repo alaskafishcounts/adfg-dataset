@@ -1,0 +1,607 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "June, 14 2022 00:00:00",
+      25,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 15 2022 00:00:00",
+      0,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 16 2022 00:00:00",
+      1,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 17 2022 00:00:00",
+      9,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 18 2022 00:00:00",
+      0,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 19 2022 00:00:00",
+      3,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 20 2022 00:00:00",
+      1,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 21 2022 00:00:00",
+      0,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 22 2022 00:00:00",
+      0,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 23 2022 00:00:00",
+      120,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 24 2022 00:00:00",
+      5,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 25 2022 00:00:00",
+      180,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 26 2022 00:00:00",
+      77,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 27 2022 00:00:00",
+      8,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 28 2022 00:00:00",
+      19,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 29 2022 00:00:00",
+      150,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 30 2022 00:00:00",
+      4,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 01 2022 00:00:00",
+      17,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 02 2022 00:00:00",
+      32,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 03 2022 00:00:00",
+      16,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 04 2022 00:00:00",
+      144,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 05 2022 00:00:00",
+      390,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 06 2022 00:00:00",
+      11,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 07 2022 00:00:00",
+      21,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 08 2022 00:00:00",
+      30,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 09 2022 00:00:00",
+      19,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      85,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      149,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      6,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      24,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      34,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      70,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      236,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      96,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      18,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      1,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      8,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      78,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      20,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      7,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      33,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      1,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      2,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      2,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      14,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      137,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      48,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      65,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      0,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      7,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 03 2022 00:00:00",
+      57,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 04 2022 00:00:00",
+      0,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 05 2022 00:00:00",
+      10,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 06 2022 00:00:00",
+      225,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 07 2022 00:00:00",
+      9,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 08 2022 00:00:00",
+      62,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 09 2022 00:00:00",
+      563,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      95,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 11 2022 00:00:00",
+      94,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      37,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      11,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      18,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 15 2022 00:00:00",
+      54,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      41,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      23,
+      410,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "410",
+    "year": "2022",
+    "totalRecords": 65,
+    "totalCount": 3722,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:44.280884"
+  }
+}

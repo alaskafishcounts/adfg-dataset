@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "July, 14 2005 00:00:00",
+      33,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 15 2005 00:00:00",
+      99,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 16 2005 00:00:00",
+      315,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 17 2005 00:00:00",
+      150,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 18 2005 00:00:00",
+      255,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 19 2005 00:00:00",
+      417,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 20 2005 00:00:00",
+      66,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 21 2005 00:00:00",
+      249,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 22 2005 00:00:00",
+      654,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 23 2005 00:00:00",
+      1380,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 24 2005 00:00:00",
+      2124,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 25 2005 00:00:00",
+      2631,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 26 2005 00:00:00",
+      3531,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 27 2005 00:00:00",
+      3987,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 28 2005 00:00:00",
+      3573,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 29 2005 00:00:00",
+      3702,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 30 2005 00:00:00",
+      3861,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "July, 31 2005 00:00:00",
+      3357,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ],
+    [
+      2005,
+      "August, 03 2005 00:00:00",
+      7245,
+      450,
+      38,
+      "Salcha River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 38,
+    "species_id": "450",
+    "year": "2005",
+    "totalRecords": 19,
+    "totalCount": 37629,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:23.288341"
+  }
+}

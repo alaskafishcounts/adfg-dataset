@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ],
+    [
+      2021,
+      "July, 27 2021 00:00:00",
+      0,
+      430,
+      21,
+      "Fish Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "430",
+    "year": "2021",
+    "totalRecords": 3,
+    "totalCount": 0,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:02:59.842230"
+  }
+}

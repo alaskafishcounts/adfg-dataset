@@ -1,0 +1,706 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "May, 19 2021 00:00:00",
+      0,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "May, 20 2021 00:00:00",
+      0,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "May, 21 2021 00:00:00",
+      1,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "May, 22 2021 00:00:00",
+      1,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "May, 23 2021 00:00:00",
+      2,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "May, 24 2021 00:00:00",
+      2,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "May, 25 2021 00:00:00",
+      8,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "May, 26 2021 00:00:00",
+      7,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "May, 27 2021 00:00:00",
+      19,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "May, 28 2021 00:00:00",
+      12,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "May, 29 2021 00:00:00",
+      1,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "May, 30 2021 00:00:00",
+      16,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "May, 31 2021 00:00:00",
+      5,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 01 2021 00:00:00",
+      5,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 02 2021 00:00:00",
+      17,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 03 2021 00:00:00",
+      6,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 04 2021 00:00:00",
+      5,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 05 2021 00:00:00",
+      13,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 06 2021 00:00:00",
+      82,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 07 2021 00:00:00",
+      47,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 08 2021 00:00:00",
+      48,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 09 2021 00:00:00",
+      32,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 10 2021 00:00:00",
+      10,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 11 2021 00:00:00",
+      13,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 12 2021 00:00:00",
+      19,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 13 2021 00:00:00",
+      96,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 14 2021 00:00:00",
+      35,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 15 2021 00:00:00",
+      29,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 16 2021 00:00:00",
+      13,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 17 2021 00:00:00",
+      20,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 18 2021 00:00:00",
+      9,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 19 2021 00:00:00",
+      18,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 20 2021 00:00:00",
+      15,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 21 2021 00:00:00",
+      10,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 22 2021 00:00:00",
+      8,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 23 2021 00:00:00",
+      3,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 24 2021 00:00:00",
+      5,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 25 2021 00:00:00",
+      9,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 26 2021 00:00:00",
+      16,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 27 2021 00:00:00",
+      13,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 28 2021 00:00:00",
+      31,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 29 2021 00:00:00",
+      9,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "June, 30 2021 00:00:00",
+      16,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 01 2021 00:00:00",
+      15,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 02 2021 00:00:00",
+      2,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 03 2021 00:00:00",
+      12,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 04 2021 00:00:00",
+      5,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 05 2021 00:00:00",
+      7,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 06 2021 00:00:00",
+      2,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 07 2021 00:00:00",
+      7,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 08 2021 00:00:00",
+      1,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 09 2021 00:00:00",
+      3,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      4,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      4,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      8,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      4,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      6,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      4,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      9,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      7,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      11,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      9,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      9,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      6,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      3,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      2,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 24 2021 00:00:00",
+      2,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 25 2021 00:00:00",
+      1,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      5,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 27 2021 00:00:00",
+      9,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 28 2021 00:00:00",
+      2,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 29 2021 00:00:00",
+      3,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 30 2021 00:00:00",
+      7,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 31 2021 00:00:00",
+      6,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 01 2021 00:00:00",
+      2,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "August, 02 2021 00:00:00",
+      6,
+      410,
+      75,
+      "Ninilchik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 75,
+    "species_id": "410",
+    "year": "2021",
+    "totalRecords": 76,
+    "totalCount": 909,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:53.769990"
+  }
+}

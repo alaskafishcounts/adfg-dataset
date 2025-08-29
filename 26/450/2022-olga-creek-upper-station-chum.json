@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "September, 06 2022 00:00:00",
+      1,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 07 2022 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 08 2022 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 09 2022 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 10 2022 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 11 2022 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 12 2022 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 13 2022 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 14 2022 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 15 2022 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2022,
+      "September, 16 2022 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 26,
+    "species_id": "450",
+    "year": "2022",
+    "totalRecords": 11,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:44.800011"
+  }
+}

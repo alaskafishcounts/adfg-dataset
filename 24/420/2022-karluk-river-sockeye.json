@@ -1,0 +1,1003 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "May, 24 2022 00:00:00",
+      0,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 25 2022 00:00:00",
+      1,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 26 2022 00:00:00",
+      1,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 27 2022 00:00:00",
+      3,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 28 2022 00:00:00",
+      64,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 29 2022 00:00:00",
+      517,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 30 2022 00:00:00",
+      34,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 31 2022 00:00:00",
+      6,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 01 2022 00:00:00",
+      691,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 02 2022 00:00:00",
+      3568,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 03 2022 00:00:00",
+      25433,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 04 2022 00:00:00",
+      8486,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 05 2022 00:00:00",
+      8053,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 06 2022 00:00:00",
+      5386,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 07 2022 00:00:00",
+      5144,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 08 2022 00:00:00",
+      10969,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 09 2022 00:00:00",
+      6200,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 10 2022 00:00:00",
+      5007,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 11 2022 00:00:00",
+      18012,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 12 2022 00:00:00",
+      15741,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 13 2022 00:00:00",
+      8620,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 14 2022 00:00:00",
+      4471,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 15 2022 00:00:00",
+      4197,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 16 2022 00:00:00",
+      81,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 17 2022 00:00:00",
+      6881,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 18 2022 00:00:00",
+      5389,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 19 2022 00:00:00",
+      93,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 20 2022 00:00:00",
+      483,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 21 2022 00:00:00",
+      3292,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 22 2022 00:00:00",
+      6443,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 23 2022 00:00:00",
+      2231,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 24 2022 00:00:00",
+      6260,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 25 2022 00:00:00",
+      249,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 26 2022 00:00:00",
+      232,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 27 2022 00:00:00",
+      468,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 28 2022 00:00:00",
+      336,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 29 2022 00:00:00",
+      187,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 30 2022 00:00:00",
+      642,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 01 2022 00:00:00",
+      216,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 02 2022 00:00:00",
+      3110,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 03 2022 00:00:00",
+      509,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 04 2022 00:00:00",
+      217,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 05 2022 00:00:00",
+      441,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 06 2022 00:00:00",
+      329,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 07 2022 00:00:00",
+      526,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 08 2022 00:00:00",
+      702,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 09 2022 00:00:00",
+      183,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      925,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      413,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      175,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      848,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      995,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      1876,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      394,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      46,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      996,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      35,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      89,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      112,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      1689,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      112,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      195,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      350,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      1086,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      794,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      5486,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      4310,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      1862,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      106,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      126,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      34,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 03 2022 00:00:00",
+      413,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 04 2022 00:00:00",
+      109,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 05 2022 00:00:00",
+      2061,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 06 2022 00:00:00",
+      66,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 07 2022 00:00:00",
+      960,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 08 2022 00:00:00",
+      59,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 09 2022 00:00:00",
+      128,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      7177,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 11 2022 00:00:00",
+      4685,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      1228,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      826,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      249,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 15 2022 00:00:00",
+      339,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      137,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      292,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 18 2022 00:00:00",
+      479,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 19 2022 00:00:00",
+      1438,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 20 2022 00:00:00",
+      15526,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 21 2022 00:00:00",
+      2557,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 22 2022 00:00:00",
+      5754,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 23 2022 00:00:00",
+      12223,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 24 2022 00:00:00",
+      8450,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 25 2022 00:00:00",
+      6286,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      7503,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 27 2022 00:00:00",
+      7596,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 28 2022 00:00:00",
+      2900,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 29 2022 00:00:00",
+      3490,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 30 2022 00:00:00",
+      1885,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 31 2022 00:00:00",
+      1695,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "September, 01 2022 00:00:00",
+      68978,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "September, 02 2022 00:00:00",
+      10364,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "September, 03 2022 00:00:00",
+      18612,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "September, 04 2022 00:00:00",
+      10023,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "September, 05 2022 00:00:00",
+      3868,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "September, 06 2022 00:00:00",
+      1661,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "September, 07 2022 00:00:00",
+      634,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "September, 08 2022 00:00:00",
+      null,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "September, 12 2022 00:00:00",
+      100000,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 24,
+    "species_id": "420",
+    "year": "2022",
+    "totalRecords": 109,
+    "totalCount": 503809,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:23.349681"
+  }
+}

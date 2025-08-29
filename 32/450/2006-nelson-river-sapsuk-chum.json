@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "June, 26 2006 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "June, 27 2006 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "June, 28 2006 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "June, 29 2006 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "June, 30 2006 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 01 2006 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 02 2006 00:00:00",
+      4,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 03 2006 00:00:00",
+      2,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 04 2006 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 05 2006 00:00:00",
+      28,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 06 2006 00:00:00",
+      2,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 07 2006 00:00:00",
+      3,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 08 2006 00:00:00",
+      3,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 09 2006 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 10 2006 00:00:00",
+      18,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 11 2006 00:00:00",
+      5,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 12 2006 00:00:00",
+      6,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 13 2006 00:00:00",
+      71,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 14 2006 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 15 2006 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 16 2006 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 17 2006 00:00:00",
+      66,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 18 2006 00:00:00",
+      80,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2006,
+      "July, 19 2006 00:00:00",
+      226,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "450",
+    "year": "2006",
+    "totalRecords": 24,
+    "totalCount": 517,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:51.355662"
+  }
+}

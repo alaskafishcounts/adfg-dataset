@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 10 2019 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 11 2019 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 12 2019 00:00:00",
+      5,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 13 2019 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 14 2019 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 15 2019 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 16 2019 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 17 2019 00:00:00",
+      5,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 18 2019 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 19 2019 00:00:00",
+      12,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 20 2019 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 21 2019 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      13,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 24 2019 00:00:00",
+      5,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      5,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      14,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      20,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      8,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      44,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 01 2019 00:00:00",
+      22,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 02 2019 00:00:00",
+      3,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 03 2019 00:00:00",
+      8,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 04 2019 00:00:00",
+      27,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 05 2019 00:00:00",
+      9,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 06 2019 00:00:00",
+      18,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 07 2019 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 08 2019 00:00:00",
+      15,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 09 2019 00:00:00",
+      3,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      3,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      27,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      29,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      9,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      41,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      34,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      3,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      7,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      80,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      10,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      18,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      22,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 27 2019 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 28 2019 00:00:00",
+      48,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 29 2019 00:00:00",
+      17,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 30 2019 00:00:00",
+      9,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 01 2019 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 02 2019 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 03 2019 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 04 2019 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 05 2019 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 06 2019 00:00:00",
+      4,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 07 2019 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 08 2019 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 09 2019 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 10 2019 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 5,
+    "species_id": "410",
+    "year": "2019",
+    "totalRecords": 62,
+    "totalCount": 623,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:19.723917"
+  }
+}

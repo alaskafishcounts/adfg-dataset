@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "September, 09 2008 00:00:00",
+      1,
+      410,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chinook"
+    ],
+    [
+      2008,
+      "September, 10 2008 00:00:00",
+      0,
+      410,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chinook"
+    ],
+    [
+      2008,
+      "September, 11 2008 00:00:00",
+      0,
+      410,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chinook"
+    ],
+    [
+      2008,
+      "September, 12 2008 00:00:00",
+      0,
+      410,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chinook"
+    ],
+    [
+      2008,
+      "September, 13 2008 00:00:00",
+      0,
+      410,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chinook"
+    ],
+    [
+      2008,
+      "September, 14 2008 00:00:00",
+      0,
+      410,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chinook"
+    ],
+    [
+      2008,
+      "September, 15 2008 00:00:00",
+      0,
+      410,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chinook"
+    ],
+    [
+      2008,
+      "September, 16 2008 00:00:00",
+      0,
+      410,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chinook"
+    ],
+    [
+      2008,
+      "September, 17 2008 00:00:00",
+      0,
+      410,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 26,
+    "species_id": "410",
+    "year": "2008",
+    "totalRecords": 9,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:49.724367"
+  }
+}

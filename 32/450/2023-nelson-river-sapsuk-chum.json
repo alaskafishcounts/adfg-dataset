@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 08 2023 00:00:00",
+      2,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 09 2023 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      3,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      5,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      4,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      2,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      26,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      6,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      28,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      15,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      21,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      26,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "450",
+    "year": "2023",
+    "totalRecords": 19,
+    "totalCount": 143,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:44.251054"
+  }
+}

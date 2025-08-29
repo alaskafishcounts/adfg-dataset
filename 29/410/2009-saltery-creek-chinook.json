@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "August, 01 2009 00:00:00",
+      1,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 02 2009 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 03 2009 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 04 2009 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 05 2009 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 06 2009 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 07 2009 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 08 2009 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 09 2009 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 10 2009 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ],
+    [
+      2009,
+      "August, 11 2009 00:00:00",
+      0,
+      410,
+      29,
+      "Saltery Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 29,
+    "species_id": "410",
+    "year": "2009",
+    "totalRecords": 11,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:17.089606"
+  }
+}

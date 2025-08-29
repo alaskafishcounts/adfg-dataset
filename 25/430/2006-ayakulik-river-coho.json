@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "August, 12 2006 00:00:00",
+      13,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 13 2006 00:00:00",
+      5,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 14 2006 00:00:00",
+      1,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 15 2006 00:00:00",
+      0,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 16 2006 00:00:00",
+      0,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      2006,
+      "August, 18 2006 00:00:00",
+      259,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 25,
+    "species_id": "430",
+    "year": "2006",
+    "totalRecords": 6,
+    "totalCount": 278,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:40.618413"
+  }
+}

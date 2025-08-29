@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      18,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      196,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      1203,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      523,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      249,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      1272,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      1166,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      129,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 7,
+    "species_id": "440",
+    "year": "2024",
+    "totalRecords": 8,
+    "totalCount": 4756,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:37.104382"
+  }
+}

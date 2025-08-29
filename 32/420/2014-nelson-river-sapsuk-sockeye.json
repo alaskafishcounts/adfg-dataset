@@ -1,0 +1,517 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "May, 31 2014 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 01 2014 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 02 2014 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 03 2014 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 04 2014 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 05 2014 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 06 2014 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 07 2014 00:00:00",
+      45,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 08 2014 00:00:00",
+      192,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 09 2014 00:00:00",
+      86,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 10 2014 00:00:00",
+      8,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 11 2014 00:00:00",
+      778,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 12 2014 00:00:00",
+      959,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 13 2014 00:00:00",
+      303,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 14 2014 00:00:00",
+      2454,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 15 2014 00:00:00",
+      2306,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 16 2014 00:00:00",
+      3821,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 17 2014 00:00:00",
+      6491,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 18 2014 00:00:00",
+      2192,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 19 2014 00:00:00",
+      7082,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 20 2014 00:00:00",
+      1523,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 21 2014 00:00:00",
+      11421,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 22 2014 00:00:00",
+      14681,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 23 2014 00:00:00",
+      13111,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 24 2014 00:00:00",
+      21573,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 25 2014 00:00:00",
+      14395,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 26 2014 00:00:00",
+      9524,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 27 2014 00:00:00",
+      10905,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 28 2014 00:00:00",
+      6756,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 29 2014 00:00:00",
+      4713,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 30 2014 00:00:00",
+      4574,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 01 2014 00:00:00",
+      5096,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 02 2014 00:00:00",
+      5419,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 03 2014 00:00:00",
+      4507,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 04 2014 00:00:00",
+      6335,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 05 2014 00:00:00",
+      4258,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 06 2014 00:00:00",
+      4017,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 07 2014 00:00:00",
+      3950,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 08 2014 00:00:00",
+      3593,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 09 2014 00:00:00",
+      3817,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 10 2014 00:00:00",
+      2956,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      6411,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 12 2014 00:00:00",
+      9256,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 13 2014 00:00:00",
+      5016,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 14 2014 00:00:00",
+      5215,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 15 2014 00:00:00",
+      5372,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 16 2014 00:00:00",
+      4501,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      3238,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      2320,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      3094,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      4295,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      2441,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      2233,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      188,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      0,
+      420,
+      32,
+      "Nelson River (Sapsuk)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "420",
+    "year": "2014",
+    "totalRecords": 55,
+    "totalCount": 237421,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:47.942483"
+  }
+}

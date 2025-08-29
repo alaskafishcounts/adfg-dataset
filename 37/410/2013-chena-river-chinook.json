@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "April, 07 2013 00:00:00",
+      null,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 09 2013 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 10 2013 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 11 2013 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 12 2013 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 13 2013 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 14 2013 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 15 2013 00:00:00",
+      6,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 16 2013 00:00:00",
+      93,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 17 2013 00:00:00",
+      81,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 18 2013 00:00:00",
+      99,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 19 2013 00:00:00",
+      309,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 20 2013 00:00:00",
+      108,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 21 2013 00:00:00",
+      129,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 22 2013 00:00:00",
+      45,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 23 2013 00:00:00",
+      135,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 24 2013 00:00:00",
+      147,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 25 2013 00:00:00",
+      258,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 26 2013 00:00:00",
+      78,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 27 2013 00:00:00",
+      24,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 28 2013 00:00:00",
+      18,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 29 2013 00:00:00",
+      72,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 30 2013 00:00:00",
+      36,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "July, 31 2013 00:00:00",
+      3,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "August, 01 2013 00:00:00",
+      12,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "August, 02 2013 00:00:00",
+      -3,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "August, 03 2013 00:00:00",
+      3,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "August, 04 2013 00:00:00",
+      6,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "August, 05 2013 00:00:00",
+      -6,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 37,
+    "species_id": "410",
+    "year": "2013",
+    "totalRecords": 29,
+    "totalCount": 1653,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:17.514043"
+  }
+}

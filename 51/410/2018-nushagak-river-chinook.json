@@ -1,0 +1,670 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "June, 07 2018 00:00:00",
+      35,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 08 2018 00:00:00",
+      53,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 09 2018 00:00:00",
+      29,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 10 2018 00:00:00",
+      47,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 11 2018 00:00:00",
+      17,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 12 2018 00:00:00",
+      131,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 13 2018 00:00:00",
+      335,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 14 2018 00:00:00",
+      2759,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 15 2018 00:00:00",
+      4266,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 16 2018 00:00:00",
+      2256,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 17 2018 00:00:00",
+      4419,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 18 2018 00:00:00",
+      3812,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 19 2018 00:00:00",
+      7509,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 20 2018 00:00:00",
+      6630,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 21 2018 00:00:00",
+      4707,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 22 2018 00:00:00",
+      3157,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 23 2018 00:00:00",
+      3017,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 24 2018 00:00:00",
+      1874,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 25 2018 00:00:00",
+      2490,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 26 2018 00:00:00",
+      5665,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 27 2018 00:00:00",
+      4185,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 28 2018 00:00:00",
+      2977,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 29 2018 00:00:00",
+      1691,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "June, 30 2018 00:00:00",
+      979,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 01 2018 00:00:00",
+      677,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 02 2018 00:00:00",
+      5179,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 03 2018 00:00:00",
+      2266,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 04 2018 00:00:00",
+      2579,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 05 2018 00:00:00",
+      1357,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 06 2018 00:00:00",
+      1772,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 07 2018 00:00:00",
+      1043,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 08 2018 00:00:00",
+      982,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 09 2018 00:00:00",
+      1104,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 10 2018 00:00:00",
+      2144,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 11 2018 00:00:00",
+      2002,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 12 2018 00:00:00",
+      689,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 13 2018 00:00:00",
+      1141,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 14 2018 00:00:00",
+      1073,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 15 2018 00:00:00",
+      154,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 16 2018 00:00:00",
+      0,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 17 2018 00:00:00",
+      909,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 18 2018 00:00:00",
+      665,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 19 2018 00:00:00",
+      433,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 20 2018 00:00:00",
+      369,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 21 2018 00:00:00",
+      488,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 22 2018 00:00:00",
+      530,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 23 2018 00:00:00",
+      1239,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 24 2018 00:00:00",
+      381,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 25 2018 00:00:00",
+      444,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 26 2018 00:00:00",
+      685,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 27 2018 00:00:00",
+      74,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 28 2018 00:00:00",
+      134,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 29 2018 00:00:00",
+      273,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 30 2018 00:00:00",
+      608,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "July, 31 2018 00:00:00",
+      1173,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 01 2018 00:00:00",
+      150,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 02 2018 00:00:00",
+      230,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 03 2018 00:00:00",
+      435,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 04 2018 00:00:00",
+      166,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 05 2018 00:00:00",
+      0,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 06 2018 00:00:00",
+      0,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 07 2018 00:00:00",
+      0,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 08 2018 00:00:00",
+      0,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 09 2018 00:00:00",
+      244,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 10 2018 00:00:00",
+      97,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 11 2018 00:00:00",
+      92,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 12 2018 00:00:00",
+      130,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 13 2018 00:00:00",
+      0,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 14 2018 00:00:00",
+      0,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 15 2018 00:00:00",
+      56,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 16 2018 00:00:00",
+      19,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "August, 17 2018 00:00:00",
+      13,
+      410,
+      51,
+      "Nushagak River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "410",
+    "year": "2018",
+    "totalRecords": 72,
+    "totalCount": 97239,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:53.045268"
+  }
+}

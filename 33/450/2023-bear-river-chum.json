@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      2,
+      450,
+      33,
+      "Bear River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      0,
+      450,
+      33,
+      "Bear River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      0,
+      450,
+      33,
+      "Bear River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      1,
+      450,
+      33,
+      "Bear River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      1,
+      450,
+      33,
+      "Bear River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      0,
+      450,
+      33,
+      "Bear River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      0,
+      450,
+      33,
+      "Bear River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      0,
+      450,
+      33,
+      "Bear River",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 20 2023 00:00:00",
+      0,
+      450,
+      33,
+      "Bear River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 33,
+    "species_id": "450",
+    "year": "2023",
+    "totalRecords": 9,
+    "totalCount": 4,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:55.130989"
+  }
+}

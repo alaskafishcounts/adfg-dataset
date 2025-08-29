@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "July, 01 2017 00:00:00",
+      181,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 02 2017 00:00:00",
+      256,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 03 2017 00:00:00",
+      172,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 04 2017 00:00:00",
+      211,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 05 2017 00:00:00",
+      211,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 06 2017 00:00:00",
+      163,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 07 2017 00:00:00",
+      290,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 08 2017 00:00:00",
+      368,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 09 2017 00:00:00",
+      471,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 10 2017 00:00:00",
+      392,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 11 2017 00:00:00",
+      404,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 12 2017 00:00:00",
+      421,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 13 2017 00:00:00",
+      398,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 14 2017 00:00:00",
+      392,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 15 2017 00:00:00",
+      440,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 16 2017 00:00:00",
+      615,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 17 2017 00:00:00",
+      639,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 18 2017 00:00:00",
+      682,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 19 2017 00:00:00",
+      500,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 20 2017 00:00:00",
+      350,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 21 2017 00:00:00",
+      485,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 22 2017 00:00:00",
+      398,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 23 2017 00:00:00",
+      389,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 24 2017 00:00:00",
+      985,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 25 2017 00:00:00",
+      561,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 26 2017 00:00:00",
+      676,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 27 2017 00:00:00",
+      398,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 28 2017 00:00:00",
+      622,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 29 2017 00:00:00",
+      543,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 30 2017 00:00:00",
+      380,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "July, 31 2017 00:00:00",
+      923,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 01 2017 00:00:00",
+      434,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 02 2017 00:00:00",
+      602,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 03 2017 00:00:00",
+      477,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 04 2017 00:00:00",
+      737,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 05 2017 00:00:00",
+      754,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 06 2017 00:00:00",
+      667,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 07 2017 00:00:00",
+      525,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 08 2017 00:00:00",
+      592,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 09 2017 00:00:00",
+      398,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 10 2017 00:00:00",
+      205,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 11 2017 00:00:00",
+      327,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 12 2017 00:00:00",
+      283,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 13 2017 00:00:00",
+      355,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 14 2017 00:00:00",
+      180,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 15 2017 00:00:00",
+      235,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 16 2017 00:00:00",
+      235,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 17 2017 00:00:00",
+      175,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 18 2017 00:00:00",
+      343,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 19 2017 00:00:00",
+      404,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2017,
+      "August, 20 2017 00:00:00",
+      289,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 72,
+    "species_id": "412",
+    "year": "2017",
+    "totalRecords": 51,
+    "totalCount": 22133,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:26.362138"
+  }
+}

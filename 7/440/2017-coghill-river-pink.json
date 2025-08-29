@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "July, 07 2017 00:00:00",
+      650,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ],
+    [
+      2017,
+      "July, 08 2017 00:00:00",
+      484,
+      440,
+      7,
+      "Coghill River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 7,
+    "species_id": "440",
+    "year": "2017",
+    "totalRecords": 2,
+    "totalCount": 1134,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:39.221763"
+  }
+}

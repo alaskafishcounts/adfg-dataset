@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "June, 04 2010 00:00:00",
+      0,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 05 2010 00:00:00",
+      0,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 06 2010 00:00:00",
+      0,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 07 2010 00:00:00",
+      0,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 08 2010 00:00:00",
+      1,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 09 2010 00:00:00",
+      4,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 10 2010 00:00:00",
+      64,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 11 2010 00:00:00",
+      56,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 12 2010 00:00:00",
+      1318,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 13 2010 00:00:00",
+      250,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 14 2010 00:00:00",
+      1367,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 15 2010 00:00:00",
+      254,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 17 2010 00:00:00",
+      213,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 18 2010 00:00:00",
+      1169,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 19 2010 00:00:00",
+      107,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 20 2010 00:00:00",
+      329,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 21 2010 00:00:00",
+      1724,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 22 2010 00:00:00",
+      7065,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 23 2010 00:00:00",
+      454,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 24 2010 00:00:00",
+      686,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 25 2010 00:00:00",
+      3680,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 26 2010 00:00:00",
+      2749,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 27 2010 00:00:00",
+      4144,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 28 2010 00:00:00",
+      1854,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 29 2010 00:00:00",
+      549,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "June, 30 2010 00:00:00",
+      649,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 01 2010 00:00:00",
+      1346,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 02 2010 00:00:00",
+      2063,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 03 2010 00:00:00",
+      818,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 04 2010 00:00:00",
+      2350,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 05 2010 00:00:00",
+      727,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 06 2010 00:00:00",
+      696,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 07 2010 00:00:00",
+      781,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 08 2010 00:00:00",
+      329,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 09 2010 00:00:00",
+      129,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 10 2010 00:00:00",
+      327,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 11 2010 00:00:00",
+      300,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 12 2010 00:00:00",
+      258,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 13 2010 00:00:00",
+      404,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 14 2010 00:00:00",
+      490,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 15 2010 00:00:00",
+      155,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 16 2010 00:00:00",
+      60,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 17 2010 00:00:00",
+      349,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 18 2010 00:00:00",
+      300,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 19 2010 00:00:00",
+      200,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 20 2010 00:00:00",
+      200,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 21 2010 00:00:00",
+      200,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 22 2010 00:00:00",
+      200,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "July, 23 2010 00:00:00",
+      100,
+      420,
+      35,
+      "Ilnik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 35,
+    "species_id": "420",
+    "year": "2010",
+    "totalRecords": 49,
+    "totalCount": 41468,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:11.219017"
+  }
+}

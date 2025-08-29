@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "July, 20 2015 00:00:00",
+      1,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 21 2015 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 22 2015 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 23 2015 00:00:00",
+      1,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 24 2015 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 25 2015 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 26 2015 00:00:00",
+      7,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 27 2015 00:00:00",
+      1,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 28 2015 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 29 2015 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 30 2015 00:00:00",
+      10,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "July, 31 2015 00:00:00",
+      7,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 01 2015 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 02 2015 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 03 2015 00:00:00",
+      18,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 04 2015 00:00:00",
+      5,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 05 2015 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 06 2015 00:00:00",
+      38,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 07 2015 00:00:00",
+      10,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 08 2015 00:00:00",
+      23,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 09 2015 00:00:00",
+      26,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ],
+    [
+      2015,
+      "August, 10 2015 00:00:00",
+      0,
+      440,
+      22,
+      "Pauls Bay River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 22,
+    "species_id": "440",
+    "year": "2015",
+    "totalRecords": 22,
+    "totalCount": 147,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:13.610687"
+  }
+}

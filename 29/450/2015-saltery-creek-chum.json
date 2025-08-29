@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "July, 21 2015 00:00:00",
+      1,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 22 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 23 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 24 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 25 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 26 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 27 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 28 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 29 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 31 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 01 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 02 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 03 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 04 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 05 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2015,
+      "August, 06 2015 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 29,
+    "species_id": "450",
+    "year": "2015",
+    "totalRecords": 16,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:15.002290"
+  }
+}

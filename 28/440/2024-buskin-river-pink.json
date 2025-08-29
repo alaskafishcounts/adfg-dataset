@@ -1,0 +1,832 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "June, 29 2024 00:00:00",
+      1,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "June, 30 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 01 2024 00:00:00",
+      6,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 02 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 03 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 04 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 05 2024 00:00:00",
+      6,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 06 2024 00:00:00",
+      2,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 07 2024 00:00:00",
+      4,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 08 2024 00:00:00",
+      null,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 09 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 10 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 11 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      14,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      5,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      1,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      3,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      1,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 28 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 29 2024 00:00:00",
+      3,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 30 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 31 2024 00:00:00",
+      500,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 01 2024 00:00:00",
+      31,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 02 2024 00:00:00",
+      31,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 03 2024 00:00:00",
+      1,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 04 2024 00:00:00",
+      2,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 05 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 06 2024 00:00:00",
+      0,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 07 2024 00:00:00",
+      158,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 08 2024 00:00:00",
+      2446,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 09 2024 00:00:00",
+      86,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 10 2024 00:00:00",
+      4,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 11 2024 00:00:00",
+      1430,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 12 2024 00:00:00",
+      150,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 13 2024 00:00:00",
+      425,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 14 2024 00:00:00",
+      133,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 15 2024 00:00:00",
+      138,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 16 2024 00:00:00",
+      1045,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 17 2024 00:00:00",
+      243,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 18 2024 00:00:00",
+      946,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 19 2024 00:00:00",
+      423,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 20 2024 00:00:00",
+      272,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 21 2024 00:00:00",
+      54,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 22 2024 00:00:00",
+      114,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 23 2024 00:00:00",
+      78,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 24 2024 00:00:00",
+      46,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 25 2024 00:00:00",
+      348,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 26 2024 00:00:00",
+      141,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 27 2024 00:00:00",
+      246,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 28 2024 00:00:00",
+      134,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 29 2024 00:00:00",
+      273,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 30 2024 00:00:00",
+      460,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "August, 31 2024 00:00:00",
+      5071,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 01 2024 00:00:00",
+      442,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 02 2024 00:00:00",
+      204,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 03 2024 00:00:00",
+      348,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 04 2024 00:00:00",
+      10000,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 05 2024 00:00:00",
+      null,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 06 2024 00:00:00",
+      76,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 07 2024 00:00:00",
+      41,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 08 2024 00:00:00",
+      50,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 09 2024 00:00:00",
+      24,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 10 2024 00:00:00",
+      31,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 11 2024 00:00:00",
+      117,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 12 2024 00:00:00",
+      54,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 13 2024 00:00:00",
+      33,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 14 2024 00:00:00",
+      39,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 15 2024 00:00:00",
+      17,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 16 2024 00:00:00",
+      81,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 17 2024 00:00:00",
+      26,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 18 2024 00:00:00",
+      26,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 19 2024 00:00:00",
+      13,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 20 2024 00:00:00",
+      10,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 21 2024 00:00:00",
+      10,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 22 2024 00:00:00",
+      45,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 23 2024 00:00:00",
+      17,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 24 2024 00:00:00",
+      8,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 25 2024 00:00:00",
+      6,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ],
+    [
+      2024,
+      "September, 26 2024 00:00:00",
+      1,
+      440,
+      28,
+      "Buskin River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 28,
+    "species_id": "440",
+    "year": "2024",
+    "totalRecords": 90,
+    "totalCount": 27194,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:04.760143"
+  }
+}

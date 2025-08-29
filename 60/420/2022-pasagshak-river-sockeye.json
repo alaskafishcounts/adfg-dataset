@@ -1,0 +1,571 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "June, 15 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 16 2022 00:00:00",
+      5,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 17 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 18 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 19 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 20 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 21 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 22 2022 00:00:00",
+      89,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 23 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 24 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 25 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 26 2022 00:00:00",
+      2,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 27 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 28 2022 00:00:00",
+      95,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 29 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 30 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 01 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 02 2022 00:00:00",
+      91,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 03 2022 00:00:00",
+      78,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 04 2022 00:00:00",
+      12,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 05 2022 00:00:00",
+      200,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 06 2022 00:00:00",
+      81,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 07 2022 00:00:00",
+      28,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 08 2022 00:00:00",
+      53,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 09 2022 00:00:00",
+      74,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      78,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      282,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      32,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      37,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      29,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      232,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      267,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      7,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      351,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      294,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      466,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      262,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      145,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      211,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      11,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      160,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      37,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 03 2022 00:00:00",
+      6,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 04 2022 00:00:00",
+      110,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 05 2022 00:00:00",
+      25,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 06 2022 00:00:00",
+      15,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 07 2022 00:00:00",
+      44,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 08 2022 00:00:00",
+      177,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 09 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      209,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 11 2022 00:00:00",
+      62,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      18,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      0,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      2,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 60,
+    "species_id": "420",
+    "year": "2022",
+    "totalRecords": 61,
+    "totalCount": 4377,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:22.350184"
+  }
+}

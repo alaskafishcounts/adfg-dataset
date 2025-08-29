@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      0,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      0,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      0,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      0,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      0,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "410",
+    "year": "2022",
+    "totalRecords": 5,
+    "totalCount": 0,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:03.321716"
+  }
+}

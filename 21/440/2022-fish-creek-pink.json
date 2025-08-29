@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      0,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      0,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      0,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      0,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      0,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      0,
+      440,
+      21,
+      "Fish Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "440",
+    "year": "2022",
+    "totalRecords": 6,
+    "totalCount": 0,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:02:59.569125"
+  }
+}

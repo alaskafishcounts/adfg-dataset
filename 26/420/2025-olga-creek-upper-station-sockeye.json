@@ -1,0 +1,841 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "May, 30 2025 00:00:00",
+      1056,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "May, 31 2025 00:00:00",
+      507,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 01 2025 00:00:00",
+      1079,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 02 2025 00:00:00",
+      1637,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 03 2025 00:00:00",
+      2794,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 04 2025 00:00:00",
+      1292,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 05 2025 00:00:00",
+      3795,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 06 2025 00:00:00",
+      5172,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 07 2025 00:00:00",
+      3824,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 08 2025 00:00:00",
+      1785,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 09 2025 00:00:00",
+      6856,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 10 2025 00:00:00",
+      4525,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 11 2025 00:00:00",
+      1344,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 12 2025 00:00:00",
+      3208,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 13 2025 00:00:00",
+      1663,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 14 2025 00:00:00",
+      1939,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 15 2025 00:00:00",
+      2743,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 16 2025 00:00:00",
+      2830,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 17 2025 00:00:00",
+      3196,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 18 2025 00:00:00",
+      2331,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 19 2025 00:00:00",
+      4849,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 20 2025 00:00:00",
+      2173,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 21 2025 00:00:00",
+      421,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 22 2025 00:00:00",
+      2201,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 23 2025 00:00:00",
+      208,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 24 2025 00:00:00",
+      1397,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      2130,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 26 2025 00:00:00",
+      916,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 27 2025 00:00:00",
+      2190,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      821,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      967,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      1467,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 01 2025 00:00:00",
+      1745,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 02 2025 00:00:00",
+      497,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 03 2025 00:00:00",
+      177,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 04 2025 00:00:00",
+      498,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 05 2025 00:00:00",
+      209,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 06 2025 00:00:00",
+      716,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 07 2025 00:00:00",
+      905,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 08 2025 00:00:00",
+      559,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 09 2025 00:00:00",
+      965,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 10 2025 00:00:00",
+      280,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 11 2025 00:00:00",
+      168,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 12 2025 00:00:00",
+      66,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 13 2025 00:00:00",
+      114,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      26,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      845,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      231,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      86,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      60,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      58,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      1218,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      21,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      234,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      144,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      1114,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      58,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      926,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      1009,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      1653,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      2015,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      147,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      1349,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 01 2025 00:00:00",
+      100,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      339,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      1166,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      1899,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      948,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      846,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      3297,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 08 2025 00:00:00",
+      3876,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 09 2025 00:00:00",
+      8132,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 10 2025 00:00:00",
+      4645,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
+      1948,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 12 2025 00:00:00",
+      1980,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 13 2025 00:00:00",
+      3447,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 14 2025 00:00:00",
+      1145,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 15 2025 00:00:00",
+      2649,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 16 2025 00:00:00",
+      4547,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 17 2025 00:00:00",
+      7337,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 18 2025 00:00:00",
+      10511,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 19 2025 00:00:00",
+      5343,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 20 2025 00:00:00",
+      2538,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 21 2025 00:00:00",
+      3283,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 22 2025 00:00:00",
+      2525,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 23 2025 00:00:00",
+      5024,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 24 2025 00:00:00",
+      6357,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 25 2025 00:00:00",
+      12984,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 26 2025 00:00:00",
+      11344,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 27 2025 00:00:00",
+      2656,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 28 2025 00:00:00",
+      4745,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 26,
+    "species_id": "420",
+    "year": "2025",
+    "totalRecords": 91,
+    "totalCount": 207020,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:43.315932"
+  }
+}

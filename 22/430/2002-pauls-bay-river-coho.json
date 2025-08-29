@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "July, 30 2002 00:00:00",
+      1,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2002,
+      "July, 31 2002 00:00:00",
+      0,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 01 2002 00:00:00",
+      0,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 02 2002 00:00:00",
+      2,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 03 2002 00:00:00",
+      14,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 04 2002 00:00:00",
+      5,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 05 2002 00:00:00",
+      166,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 06 2002 00:00:00",
+      100,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 07 2002 00:00:00",
+      70,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 08 2002 00:00:00",
+      167,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 09 2002 00:00:00",
+      167,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 10 2002 00:00:00",
+      433,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2002,
+      "August, 11 2002 00:00:00",
+      1200,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 22,
+    "species_id": "430",
+    "year": "2002",
+    "totalRecords": 13,
+    "totalCount": 2325,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:18.464471"
+  }
+}

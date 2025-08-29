@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      3,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      6,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      0,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      1,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      2,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      5,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      3,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      10,
+      440,
+      32,
+      "Nelson River (Sapsuk)",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "440",
+    "year": "2024",
+    "totalRecords": 8,
+    "totalCount": 30,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:44.982133"
+  }
+}

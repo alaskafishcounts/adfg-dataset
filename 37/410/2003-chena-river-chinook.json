@@ -1,0 +1,256 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "June, 26 2003 00:00:00",
+      6,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 27 2003 00:00:00",
+      12,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 28 2003 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 29 2003 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "June, 30 2003 00:00:00",
+      342,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 01 2003 00:00:00",
+      36,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 02 2003 00:00:00",
+      132,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 03 2003 00:00:00",
+      132,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 04 2003 00:00:00",
+      54,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 05 2003 00:00:00",
+      54,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 06 2003 00:00:00",
+      342,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 07 2003 00:00:00",
+      198,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 08 2003 00:00:00",
+      318,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 09 2003 00:00:00",
+      672,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 10 2003 00:00:00",
+      828,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 11 2003 00:00:00",
+      1416,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 12 2003 00:00:00",
+      726,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 13 2003 00:00:00",
+      1080,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 14 2003 00:00:00",
+      1014,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 15 2003 00:00:00",
+      1074,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 16 2003 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 17 2003 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 18 2003 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 19 2003 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 20 2003 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "July, 21 2003 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 37,
+    "species_id": "410",
+    "year": "2003",
+    "totalRecords": 26,
+    "totalCount": 8436,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:19.274326"
+  }
+}

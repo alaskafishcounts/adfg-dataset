@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "August, 13 2008 00:00:00",
+      2,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 14 2008 00:00:00",
+      14,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 15 2008 00:00:00",
+      0,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 16 2008 00:00:00",
+      6,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 17 2008 00:00:00",
+      0,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 18 2008 00:00:00",
+      14,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 19 2008 00:00:00",
+      7,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 20 2008 00:00:00",
+      3,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 21 2008 00:00:00",
+      18,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 22 2008 00:00:00",
+      48,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 23 2008 00:00:00",
+      68,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 24 2008 00:00:00",
+      32,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 25 2008 00:00:00",
+      184,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 26 2008 00:00:00",
+      186,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 27 2008 00:00:00",
+      974,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 28 2008 00:00:00",
+      939,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 29 2008 00:00:00",
+      850,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 30 2008 00:00:00",
+      1205,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "August, 31 2008 00:00:00",
+      3411,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 01 2008 00:00:00",
+      3843,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 02 2008 00:00:00",
+      2154,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ],
+    [
+      2008,
+      "September, 03 2008 00:00:00",
+      0,
+      430,
+      30,
+      "Chignik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 30,
+    "species_id": "430",
+    "year": "2008",
+    "totalRecords": 22,
+    "totalCount": 13958,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:28.675923"
+  }
+}

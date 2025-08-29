@@ -1,0 +1,229 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      2,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      0,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      6,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      14,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      0,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      0,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      0,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      21,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 25 2014 00:00:00",
+      26,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 26 2014 00:00:00",
+      54,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 27 2014 00:00:00",
+      133,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 28 2014 00:00:00",
+      2,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 29 2014 00:00:00",
+      0,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 30 2014 00:00:00",
+      0,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 31 2014 00:00:00",
+      0,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 01 2014 00:00:00",
+      1,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 02 2014 00:00:00",
+      0,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 03 2014 00:00:00",
+      70,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 04 2014 00:00:00",
+      0,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 05 2014 00:00:00",
+      52,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 06 2014 00:00:00",
+      204,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 07 2014 00:00:00",
+      0,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 08 2014 00:00:00",
+      216,
+      430,
+      22,
+      "Pauls Bay River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 22,
+    "species_id": "430",
+    "year": "2014",
+    "totalRecords": 23,
+    "totalCount": 801,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:14.091005"
+  }
+}

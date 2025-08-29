@@ -1,0 +1,796 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "June, 24 2009 00:00:00",
+      2,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "June, 25 2009 00:00:00",
+      0,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "June, 26 2009 00:00:00",
+      0,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "June, 27 2009 00:00:00",
+      1,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "June, 28 2009 00:00:00",
+      0,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "June, 29 2009 00:00:00",
+      13,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "June, 30 2009 00:00:00",
+      8,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 01 2009 00:00:00",
+      7,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 02 2009 00:00:00",
+      39,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 03 2009 00:00:00",
+      24,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 04 2009 00:00:00",
+      143,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 05 2009 00:00:00",
+      91,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 06 2009 00:00:00",
+      19,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 07 2009 00:00:00",
+      65,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 08 2009 00:00:00",
+      79,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 09 2009 00:00:00",
+      71,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 10 2009 00:00:00",
+      183,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 11 2009 00:00:00",
+      148,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 12 2009 00:00:00",
+      366,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 13 2009 00:00:00",
+      11,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 14 2009 00:00:00",
+      283,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 15 2009 00:00:00",
+      165,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 16 2009 00:00:00",
+      94,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 17 2009 00:00:00",
+      562,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 18 2009 00:00:00",
+      12,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 19 2009 00:00:00",
+      396,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 20 2009 00:00:00",
+      481,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 21 2009 00:00:00",
+      279,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 22 2009 00:00:00",
+      3,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 23 2009 00:00:00",
+      0,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 24 2009 00:00:00",
+      23,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 25 2009 00:00:00",
+      35,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 26 2009 00:00:00",
+      47,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 27 2009 00:00:00",
+      10,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 28 2009 00:00:00",
+      2,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 29 2009 00:00:00",
+      99,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 30 2009 00:00:00",
+      44,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 31 2009 00:00:00",
+      777,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 01 2009 00:00:00",
+      137,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 02 2009 00:00:00",
+      837,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 03 2009 00:00:00",
+      418,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 04 2009 00:00:00",
+      2053,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 05 2009 00:00:00",
+      700,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 06 2009 00:00:00",
+      50,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 07 2009 00:00:00",
+      30,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 08 2009 00:00:00",
+      165,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 09 2009 00:00:00",
+      585,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 10 2009 00:00:00",
+      14,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 11 2009 00:00:00",
+      6,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 12 2009 00:00:00",
+      1616,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 13 2009 00:00:00",
+      3865,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 14 2009 00:00:00",
+      1214,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 15 2009 00:00:00",
+      988,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 16 2009 00:00:00",
+      386,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 17 2009 00:00:00",
+      922,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 18 2009 00:00:00",
+      1689,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 19 2009 00:00:00",
+      268,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 20 2009 00:00:00",
+      105,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 21 2009 00:00:00",
+      258,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 22 2009 00:00:00",
+      31,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 23 2009 00:00:00",
+      2,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 24 2009 00:00:00",
+      374,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 25 2009 00:00:00",
+      644,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 26 2009 00:00:00",
+      78,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 27 2009 00:00:00",
+      1728,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 28 2009 00:00:00",
+      608,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 29 2009 00:00:00",
+      568,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 30 2009 00:00:00",
+      223,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 31 2009 00:00:00",
+      276,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 01 2009 00:00:00",
+      119,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 02 2009 00:00:00",
+      458,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 03 2009 00:00:00",
+      924,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 04 2009 00:00:00",
+      2,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 05 2009 00:00:00",
+      109,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 06 2009 00:00:00",
+      99,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 07 2009 00:00:00",
+      88,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 08 2009 00:00:00",
+      121,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 09 2009 00:00:00",
+      103,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 10 2009 00:00:00",
+      21,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 11 2009 00:00:00",
+      92,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 12 2009 00:00:00",
+      8,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 13 2009 00:00:00",
+      139,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 14 2009 00:00:00",
+      50,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 15 2009 00:00:00",
+      20,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 16 2009 00:00:00",
+      20,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2009,
+      "September, 17 2009 00:00:00",
+      20,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 25,
+    "species_id": "440",
+    "year": "2009",
+    "totalRecords": 86,
+    "totalCount": 27813,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:39.172589"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "July, 09 2016 00:00:00",
+      1,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 14 2016 00:00:00",
+      1,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 15 2016 00:00:00",
+      4,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 16 2016 00:00:00",
+      4,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 23 2016 00:00:00",
+      1,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 28 2016 00:00:00",
+      1,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 31 2016 00:00:00",
+      1,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 05 2016 00:00:00",
+      1,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 06 2016 00:00:00",
+      3,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 07 2016 00:00:00",
+      3,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 10 2016 00:00:00",
+      1,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 11 2016 00:00:00",
+      4,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 12 2016 00:00:00",
+      2,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 13 2016 00:00:00",
+      1,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 14 2016 00:00:00",
+      1,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 15 2016 00:00:00",
+      0,
+      410,
+      21,
+      "Fish Creek",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 16,
+    "totalCount": 29,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:01.875005"
+  }
+}

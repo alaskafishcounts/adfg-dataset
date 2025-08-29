@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "June, 16 2022 00:00:00",
+      3,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 17 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 18 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 19 2022 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 20 2022 00:00:00",
+      10,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 21 2022 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 22 2022 00:00:00",
+      19,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 23 2022 00:00:00",
+      14,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 24 2022 00:00:00",
+      5,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 25 2022 00:00:00",
+      31,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 26 2022 00:00:00",
+      37,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 27 2022 00:00:00",
+      48,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 28 2022 00:00:00",
+      29,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 29 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "June, 30 2022 00:00:00",
+      23,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 01 2022 00:00:00",
+      6,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 02 2022 00:00:00",
+      3,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 03 2022 00:00:00",
+      17,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 04 2022 00:00:00",
+      32,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 05 2022 00:00:00",
+      72,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 06 2022 00:00:00",
+      16,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 07 2022 00:00:00",
+      11,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 08 2022 00:00:00",
+      6,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 09 2022 00:00:00",
+      11,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      5,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      4,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      35,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      35,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      9,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      27,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      283,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      79,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      4,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      3,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 03 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 04 2022 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "August, 05 2022 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 5,
+    "species_id": "410",
+    "year": "2022",
+    "totalRecords": 51,
+    "totalCount": 888,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:19.743460"
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "July, 04 2014 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 05 2014 00:00:00",
+      2,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 06 2014 00:00:00",
+      5,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 07 2014 00:00:00",
+      1,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 08 2014 00:00:00",
+      3,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 09 2014 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 10 2014 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      3,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 12 2014 00:00:00",
+      10,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 13 2014 00:00:00",
+      12,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 14 2014 00:00:00",
+      13,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 15 2014 00:00:00",
+      23,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 16 2014 00:00:00",
+      12,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      44,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      42,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      57,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      275,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      186,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      44,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      27,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      36,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 25 2014 00:00:00",
+      41,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 26 2014 00:00:00",
+      435,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 27 2014 00:00:00",
+      391,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 28 2014 00:00:00",
+      19,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 29 2014 00:00:00",
+      31,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 30 2014 00:00:00",
+      273,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "July, 31 2014 00:00:00",
+      910,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 01 2014 00:00:00",
+      908,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 02 2014 00:00:00",
+      847,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 03 2014 00:00:00",
+      615,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 04 2014 00:00:00",
+      321,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 05 2014 00:00:00",
+      452,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 06 2014 00:00:00",
+      617,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 07 2014 00:00:00",
+      390,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 08 2014 00:00:00",
+      657,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 09 2014 00:00:00",
+      548,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 10 2014 00:00:00",
+      924,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 11 2014 00:00:00",
+      664,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 12 2014 00:00:00",
+      119,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 13 2014 00:00:00",
+      82,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 14 2014 00:00:00",
+      9,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 15 2014 00:00:00",
+      39,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 16 2014 00:00:00",
+      968,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 17 2014 00:00:00",
+      640,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 18 2014 00:00:00",
+      683,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 19 2014 00:00:00",
+      1062,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 20 2014 00:00:00",
+      2889,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 21 2014 00:00:00",
+      1032,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 22 2014 00:00:00",
+      1332,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 23 2014 00:00:00",
+      803,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 24 2014 00:00:00",
+      228,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 25 2014 00:00:00",
+      708,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 26 2014 00:00:00",
+      307,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 27 2014 00:00:00",
+      680,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 28 2014 00:00:00",
+      1324,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 29 2014 00:00:00",
+      777,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 30 2014 00:00:00",
+      119,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "August, 31 2014 00:00:00",
+      39,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "September, 01 2014 00:00:00",
+      7,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "September, 02 2014 00:00:00",
+      9,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "September, 03 2014 00:00:00",
+      14,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "September, 04 2014 00:00:00",
+      80,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "September, 05 2014 00:00:00",
+      68,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "September, 06 2014 00:00:00",
+      232,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "September, 07 2014 00:00:00",
+      86,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "September, 08 2014 00:00:00",
+      37,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2014,
+      "September, 09 2014 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 16,
+    "species_id": "430",
+    "year": "2014",
+    "totalRecords": 68,
+    "totalCount": 24211,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:02:27.585253"
+  }
+}

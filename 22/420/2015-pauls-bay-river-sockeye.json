@@ -1,0 +1,652 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "June, 01 2015 00:00:00",
+      0,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 02 2015 00:00:00",
+      23,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 03 2015 00:00:00",
+      60,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 04 2015 00:00:00",
+      318,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 05 2015 00:00:00",
+      225,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 06 2015 00:00:00",
+      75,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 07 2015 00:00:00",
+      169,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 08 2015 00:00:00",
+      4,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 09 2015 00:00:00",
+      183,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 10 2015 00:00:00",
+      135,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 11 2015 00:00:00",
+      310,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 12 2015 00:00:00",
+      882,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 13 2015 00:00:00",
+      90,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 14 2015 00:00:00",
+      83,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 15 2015 00:00:00",
+      66,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 16 2015 00:00:00",
+      157,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 17 2015 00:00:00",
+      341,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 18 2015 00:00:00",
+      551,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 19 2015 00:00:00",
+      140,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 20 2015 00:00:00",
+      2,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 21 2015 00:00:00",
+      99,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 22 2015 00:00:00",
+      280,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 23 2015 00:00:00",
+      75,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 24 2015 00:00:00",
+      11,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 25 2015 00:00:00",
+      184,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 26 2015 00:00:00",
+      6,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 27 2015 00:00:00",
+      17,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 28 2015 00:00:00",
+      2,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 29 2015 00:00:00",
+      4,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 30 2015 00:00:00",
+      2,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 01 2015 00:00:00",
+      1266,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 02 2015 00:00:00",
+      569,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 03 2015 00:00:00",
+      68,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 04 2015 00:00:00",
+      96,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 05 2015 00:00:00",
+      87,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 06 2015 00:00:00",
+      45,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 07 2015 00:00:00",
+      1103,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 08 2015 00:00:00",
+      197,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 09 2015 00:00:00",
+      6,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 10 2015 00:00:00",
+      463,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 11 2015 00:00:00",
+      49,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 12 2015 00:00:00",
+      89,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 13 2015 00:00:00",
+      221,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 14 2015 00:00:00",
+      8,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 15 2015 00:00:00",
+      120,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 16 2015 00:00:00",
+      46,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 17 2015 00:00:00",
+      712,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 18 2015 00:00:00",
+      91,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 19 2015 00:00:00",
+      82,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 21 2015 00:00:00",
+      112,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 22 2015 00:00:00",
+      34,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 23 2015 00:00:00",
+      59,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 24 2015 00:00:00",
+      117,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 25 2015 00:00:00",
+      59,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 26 2015 00:00:00",
+      313,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 27 2015 00:00:00",
+      105,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 28 2015 00:00:00",
+      2,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 29 2015 00:00:00",
+      27,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 30 2015 00:00:00",
+      214,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 31 2015 00:00:00",
+      80,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 01 2015 00:00:00",
+      27,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 02 2015 00:00:00",
+      50,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 03 2015 00:00:00",
+      47,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 04 2015 00:00:00",
+      10,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 05 2015 00:00:00",
+      14,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 06 2015 00:00:00",
+      165,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 07 2015 00:00:00",
+      32,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 08 2015 00:00:00",
+      42,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 09 2015 00:00:00",
+      94,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "August, 10 2015 00:00:00",
+      5,
+      420,
+      22,
+      "Pauls Bay River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 22,
+    "species_id": "420",
+    "year": "2015",
+    "totalRecords": 70,
+    "totalCount": 11420,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:13.525734"
+  }
+}

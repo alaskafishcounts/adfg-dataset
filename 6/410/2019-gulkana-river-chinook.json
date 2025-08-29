@@ -1,0 +1,823 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "June, 01 2019 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 02 2019 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 03 2019 00:00:00",
+      18,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 04 2019 00:00:00",
+      24,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 05 2019 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 06 2019 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 07 2019 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 08 2019 00:00:00",
+      18,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 09 2019 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 10 2019 00:00:00",
+      30,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 11 2019 00:00:00",
+      66,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 12 2019 00:00:00",
+      60,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 13 2019 00:00:00",
+      150,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 14 2019 00:00:00",
+      120,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 15 2019 00:00:00",
+      210,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 16 2019 00:00:00",
+      162,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 17 2019 00:00:00",
+      186,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 18 2019 00:00:00",
+      114,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 19 2019 00:00:00",
+      384,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 20 2019 00:00:00",
+      282,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 21 2019 00:00:00",
+      462,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 22 2019 00:00:00",
+      672,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 23 2019 00:00:00",
+      432,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 24 2019 00:00:00",
+      300,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 25 2019 00:00:00",
+      360,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 26 2019 00:00:00",
+      186,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 27 2019 00:00:00",
+      330,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 28 2019 00:00:00",
+      450,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 29 2019 00:00:00",
+      498,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "June, 30 2019 00:00:00",
+      462,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 01 2019 00:00:00",
+      396,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 02 2019 00:00:00",
+      180,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 03 2019 00:00:00",
+      90,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 04 2019 00:00:00",
+      108,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 05 2019 00:00:00",
+      108,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 06 2019 00:00:00",
+      60,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 07 2019 00:00:00",
+      30,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 08 2019 00:00:00",
+      144,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 09 2019 00:00:00",
+      30,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 10 2019 00:00:00",
+      78,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 11 2019 00:00:00",
+      24,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 12 2019 00:00:00",
+      12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 13 2019 00:00:00",
+      18,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 14 2019 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 15 2019 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 16 2019 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 17 2019 00:00:00",
+      12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 18 2019 00:00:00",
+      24,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 19 2019 00:00:00",
+      54,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 20 2019 00:00:00",
+      108,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 21 2019 00:00:00",
+      90,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 22 2019 00:00:00",
+      72,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 23 2019 00:00:00",
+      18,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 24 2019 00:00:00",
+      48,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 25 2019 00:00:00",
+      42,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 26 2019 00:00:00",
+      12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 27 2019 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 28 2019 00:00:00",
+      48,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 29 2019 00:00:00",
+      12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 30 2019 00:00:00",
+      66,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "July, 31 2019 00:00:00",
+      48,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 01 2019 00:00:00",
+      42,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 02 2019 00:00:00",
+      -12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 03 2019 00:00:00",
+      36,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 04 2019 00:00:00",
+      60,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 05 2019 00:00:00",
+      78,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 06 2019 00:00:00",
+      48,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 07 2019 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 08 2019 00:00:00",
+      -24,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 09 2019 00:00:00",
+      132,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 10 2019 00:00:00",
+      42,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 11 2019 00:00:00",
+      -18,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 12 2019 00:00:00",
+      24,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 13 2019 00:00:00",
+      6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 14 2019 00:00:00",
+      24,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 15 2019 00:00:00",
+      12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 16 2019 00:00:00",
+      -12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 17 2019 00:00:00",
+      -18,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 18 2019 00:00:00",
+      -18,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 19 2019 00:00:00",
+      -6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 20 2019 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 22 2019 00:00:00",
+      -12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 23 2019 00:00:00",
+      -6,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 24 2019 00:00:00",
+      -12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 25 2019 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 26 2019 00:00:00",
+      -12,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 27 2019 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 28 2019 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "August, 29 2019 00:00:00",
+      0,
+      410,
+      6,
+      "Gulkana River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 6,
+    "species_id": "410",
+    "year": "2019",
+    "totalRecords": 89,
+    "totalCount": 8304,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:27.574986"
+  }
+}

@@ -1,0 +1,805 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "June, 28 2008 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 29 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "June, 30 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 01 2008 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 02 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 03 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 04 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 05 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 06 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 07 2008 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 08 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 09 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 10 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 11 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 12 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 13 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 14 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 15 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 16 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 17 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 18 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 19 2008 00:00:00",
+      1,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 20 2008 00:00:00",
+      2,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 21 2008 00:00:00",
+      3,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 22 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 23 2008 00:00:00",
+      6,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 24 2008 00:00:00",
+      26,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 25 2008 00:00:00",
+      84,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 26 2008 00:00:00",
+      82,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 27 2008 00:00:00",
+      8,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 28 2008 00:00:00",
+      88,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 29 2008 00:00:00",
+      42,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 30 2008 00:00:00",
+      23,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "July, 31 2008 00:00:00",
+      99,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 01 2008 00:00:00",
+      168,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 02 2008 00:00:00",
+      2212,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 03 2008 00:00:00",
+      235,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 04 2008 00:00:00",
+      789,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 05 2008 00:00:00",
+      984,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 06 2008 00:00:00",
+      11882,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 07 2008 00:00:00",
+      15665,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 08 2008 00:00:00",
+      17950,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 09 2008 00:00:00",
+      11275,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 10 2008 00:00:00",
+      10110,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 11 2008 00:00:00",
+      198,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 12 2008 00:00:00",
+      8839,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 13 2008 00:00:00",
+      49841,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 14 2008 00:00:00",
+      26740,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 15 2008 00:00:00",
+      17566,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 16 2008 00:00:00",
+      10058,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 17 2008 00:00:00",
+      14075,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 18 2008 00:00:00",
+      10628,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 19 2008 00:00:00",
+      102150,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 20 2008 00:00:00",
+      93233,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 21 2008 00:00:00",
+      18960,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 22 2008 00:00:00",
+      6516,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 23 2008 00:00:00",
+      13785,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 24 2008 00:00:00",
+      30248,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 25 2008 00:00:00",
+      12015,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 26 2008 00:00:00",
+      4532,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 27 2008 00:00:00",
+      29140,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 28 2008 00:00:00",
+      22693,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 29 2008 00:00:00",
+      12467,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 30 2008 00:00:00",
+      9471,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "August, 31 2008 00:00:00",
+      4579,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 01 2008 00:00:00",
+      29982,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 02 2008 00:00:00",
+      2888,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 03 2008 00:00:00",
+      4375,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 04 2008 00:00:00",
+      669,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 05 2008 00:00:00",
+      1309,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 06 2008 00:00:00",
+      301,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 07 2008 00:00:00",
+      30,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 08 2008 00:00:00",
+      300,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 09 2008 00:00:00",
+      5000,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 10 2008 00:00:00",
+      5112,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 11 2008 00:00:00",
+      56,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 12 2008 00:00:00",
+      121,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 13 2008 00:00:00",
+      27,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 14 2008 00:00:00",
+      93,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 15 2008 00:00:00",
+      133,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 16 2008 00:00:00",
+      153,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 17 2008 00:00:00",
+      7,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 18 2008 00:00:00",
+      148,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 19 2008 00:00:00",
+      1250,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 20 2008 00:00:00",
+      76,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 21 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ],
+    [
+      2008,
+      "September, 22 2008 00:00:00",
+      0,
+      440,
+      24,
+      "Karluk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 24,
+    "species_id": "440",
+    "year": "2008",
+    "totalRecords": 87,
+    "totalCount": 621501,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:29.278333"
+  }
+}

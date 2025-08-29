@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "August, 19 2009 00:00:00",
+      10,
+      430,
+      33,
+      "Bear River",
+      "Coho"
+    ],
+    [
+      2009,
+      "August, 20 2009 00:00:00",
+      10,
+      430,
+      33,
+      "Bear River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 33,
+    "species_id": "430",
+    "year": "2009",
+    "totalRecords": 2,
+    "totalCount": 20,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:00.584015"
+  }
+}

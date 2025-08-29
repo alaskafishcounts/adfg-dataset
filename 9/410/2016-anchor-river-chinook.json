@@ -1,0 +1,859 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "May, 03 2016 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 04 2016 00:00:00",
+      1,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 05 2016 00:00:00",
+      1,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 06 2016 00:00:00",
+      1,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 07 2016 00:00:00",
+      1,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 08 2016 00:00:00",
+      0,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 09 2016 00:00:00",
+      3,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 10 2016 00:00:00",
+      22,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 11 2016 00:00:00",
+      25,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 12 2016 00:00:00",
+      30,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 13 2016 00:00:00",
+      23,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 14 2016 00:00:00",
+      34,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 15 2016 00:00:00",
+      44,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 16 2016 00:00:00",
+      38,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 17 2016 00:00:00",
+      26,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 18 2016 00:00:00",
+      49,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 19 2016 00:00:00",
+      27,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 20 2016 00:00:00",
+      68,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 21 2016 00:00:00",
+      16,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 22 2016 00:00:00",
+      93,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 23 2016 00:00:00",
+      133,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 24 2016 00:00:00",
+      56,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 25 2016 00:00:00",
+      59,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 26 2016 00:00:00",
+      97,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 27 2016 00:00:00",
+      89,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 28 2016 00:00:00",
+      80,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 29 2016 00:00:00",
+      201,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 30 2016 00:00:00",
+      149,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "May, 31 2016 00:00:00",
+      142,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 01 2016 00:00:00",
+      106,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 02 2016 00:00:00",
+      150,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 03 2016 00:00:00",
+      152,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 04 2016 00:00:00",
+      58,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 05 2016 00:00:00",
+      202,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 06 2016 00:00:00",
+      150,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 07 2016 00:00:00",
+      139,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 08 2016 00:00:00",
+      144,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 09 2016 00:00:00",
+      234,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 10 2016 00:00:00",
+      179,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 11 2016 00:00:00",
+      69,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 12 2016 00:00:00",
+      176,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 13 2016 00:00:00",
+      218,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 14 2016 00:00:00",
+      151,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 15 2016 00:00:00",
+      88,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 16 2016 00:00:00",
+      215,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 17 2016 00:00:00",
+      220,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 18 2016 00:00:00",
+      97,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 19 2016 00:00:00",
+      190,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 20 2016 00:00:00",
+      207,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 21 2016 00:00:00",
+      111,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 22 2016 00:00:00",
+      106,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 23 2016 00:00:00",
+      250,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 24 2016 00:00:00",
+      79,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 25 2016 00:00:00",
+      77,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 26 2016 00:00:00",
+      61,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 27 2016 00:00:00",
+      134,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 28 2016 00:00:00",
+      78,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 29 2016 00:00:00",
+      71,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 30 2016 00:00:00",
+      82,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 01 2016 00:00:00",
+      38,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 02 2016 00:00:00",
+      56,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 03 2016 00:00:00",
+      106,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 04 2016 00:00:00",
+      86,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 05 2016 00:00:00",
+      71,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 06 2016 00:00:00",
+      50,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 07 2016 00:00:00",
+      302,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 08 2016 00:00:00",
+      46,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 09 2016 00:00:00",
+      50,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 10 2016 00:00:00",
+      32,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 11 2016 00:00:00",
+      112,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 12 2016 00:00:00",
+      34,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 13 2016 00:00:00",
+      36,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 14 2016 00:00:00",
+      20,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 15 2016 00:00:00",
+      46,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 16 2016 00:00:00",
+      17,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 17 2016 00:00:00",
+      44,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 18 2016 00:00:00",
+      70,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 19 2016 00:00:00",
+      35,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 20 2016 00:00:00",
+      39,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 21 2016 00:00:00",
+      14,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 22 2016 00:00:00",
+      12,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 23 2016 00:00:00",
+      15,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 24 2016 00:00:00",
+      9,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 25 2016 00:00:00",
+      11,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 26 2016 00:00:00",
+      18,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 27 2016 00:00:00",
+      9,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 28 2016 00:00:00",
+      13,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 29 2016 00:00:00",
+      24,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 30 2016 00:00:00",
+      15,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 31 2016 00:00:00",
+      18,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 01 2016 00:00:00",
+      17,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 02 2016 00:00:00",
+      16,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "August, 03 2016 00:00:00",
+      11,
+      410,
+      9,
+      "Anchor River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 9,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 93,
+    "totalCount": 7194,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:15:00.676337"
+  }
+}

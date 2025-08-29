@@ -1,0 +1,742 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      2,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      6,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      5,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 03 2022 00:00:00",
+      4,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 04 2022 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 05 2022 00:00:00",
+      5,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 06 2022 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 07 2022 00:00:00",
+      20,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 08 2022 00:00:00",
+      23,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 09 2022 00:00:00",
+      13,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      19,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 11 2022 00:00:00",
+      117,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      65,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 13 2022 00:00:00",
+      27,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 14 2022 00:00:00",
+      25,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 15 2022 00:00:00",
+      29,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 16 2022 00:00:00",
+      142,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 17 2022 00:00:00",
+      100,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 18 2022 00:00:00",
+      10,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 19 2022 00:00:00",
+      12,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 20 2022 00:00:00",
+      164,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 21 2022 00:00:00",
+      132,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 22 2022 00:00:00",
+      99,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 23 2022 00:00:00",
+      68,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 24 2022 00:00:00",
+      113,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 25 2022 00:00:00",
+      203,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 26 2022 00:00:00",
+      150,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 27 2022 00:00:00",
+      73,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 28 2022 00:00:00",
+      145,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 29 2022 00:00:00",
+      102,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 30 2022 00:00:00",
+      124,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 31 2022 00:00:00",
+      151,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 01 2022 00:00:00",
+      212,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 02 2022 00:00:00",
+      16,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 03 2022 00:00:00",
+      8,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 04 2022 00:00:00",
+      29,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 05 2022 00:00:00",
+      55,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 06 2022 00:00:00",
+      50,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 07 2022 00:00:00",
+      36,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 08 2022 00:00:00",
+      117,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 09 2022 00:00:00",
+      32,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 10 2022 00:00:00",
+      25,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 11 2022 00:00:00",
+      34,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 12 2022 00:00:00",
+      146,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 13 2022 00:00:00",
+      70,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 14 2022 00:00:00",
+      63,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 15 2022 00:00:00",
+      20,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 16 2022 00:00:00",
+      10,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 17 2022 00:00:00",
+      36,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 18 2022 00:00:00",
+      12,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 19 2022 00:00:00",
+      110,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 20 2022 00:00:00",
+      22,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 21 2022 00:00:00",
+      11,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 22 2022 00:00:00",
+      7,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 23 2022 00:00:00",
+      6,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 24 2022 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 25 2022 00:00:00",
+      5,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 26 2022 00:00:00",
+      2,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 27 2022 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 28 2022 00:00:00",
+      3,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 29 2022 00:00:00",
+      3,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "September, 30 2022 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 01 2022 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 02 2022 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 03 2022 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 04 2022 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 05 2022 00:00:00",
+      2,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 06 2022 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 07 2022 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 08 2022 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 09 2022 00:00:00",
+      3,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 10 2022 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 11 2022 00:00:00",
+      1,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 12 2022 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ],
+    [
+      2022,
+      "October, 13 2022 00:00:00",
+      0,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 9,
+    "species_id": "430",
+    "year": "2022",
+    "totalRecords": 80,
+    "totalCount": 3303,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:14:58.622416"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      3,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      3,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      42,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      30,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      21,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      30,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      48,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      18,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 28 2011 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 37,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 10,
+    "totalCount": 195,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:17.756408"
+  }
+}

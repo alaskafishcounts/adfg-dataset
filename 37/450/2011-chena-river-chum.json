@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      0,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      3,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      0,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      6,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      12,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      6,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 25 2011 00:00:00",
+      150,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 26 2011 00:00:00",
+      117,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2011,
+      "July, 27 2011 00:00:00",
+      39,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 37,
+    "species_id": "450",
+    "year": "2011",
+    "totalRecords": 9,
+    "totalCount": 333,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:17.779608"
+  }
+}

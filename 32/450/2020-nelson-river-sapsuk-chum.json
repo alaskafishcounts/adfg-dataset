@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "July, 07 2020 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 08 2020 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 09 2020 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 10 2020 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 11 2020 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 12 2020 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 13 2020 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 14 2020 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 15 2020 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 16 2020 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 17 2020 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 18 2020 00:00:00",
+      2,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 19 2020 00:00:00",
+      0,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 20 2020 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 21 2020 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 22 2020 00:00:00",
+      3,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 23 2020 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 24 2020 00:00:00",
+      17,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 25 2020 00:00:00",
+      3,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 26 2020 00:00:00",
+      13,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "450",
+    "year": "2020",
+    "totalRecords": 20,
+    "totalCount": 44,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:45.622450"
+  }
+}

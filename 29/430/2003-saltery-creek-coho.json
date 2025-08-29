@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "August, 17 2003 00:00:00",
+      1,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 18 2003 00:00:00",
+      5,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 19 2003 00:00:00",
+      9,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 20 2003 00:00:00",
+      9,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 21 2003 00:00:00",
+      0,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 22 2003 00:00:00",
+      12,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 23 2003 00:00:00",
+      11,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 24 2003 00:00:00",
+      3,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 25 2003 00:00:00",
+      3,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 26 2003 00:00:00",
+      5,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 27 2003 00:00:00",
+      11,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 28 2003 00:00:00",
+      5,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2003,
+      "August, 29 2003 00:00:00",
+      400,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 29,
+    "species_id": "430",
+    "year": "2003",
+    "totalRecords": 13,
+    "totalCount": 474,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:20.227665"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      827,
+      440,
+      51,
+      "Nushagak River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      156,
+      440,
+      51,
+      "Nushagak River",
+      "Pink"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      1636,
+      440,
+      51,
+      "Nushagak River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "440",
+    "year": "2024",
+    "totalRecords": 3,
+    "totalCount": 2619,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:50.785784"
+  }
+}

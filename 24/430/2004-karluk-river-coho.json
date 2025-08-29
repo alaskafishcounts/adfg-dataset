@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "August, 08 2004 00:00:00",
+      17,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 09 2004 00:00:00",
+      44,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 10 2004 00:00:00",
+      9,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 11 2004 00:00:00",
+      7,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 12 2004 00:00:00",
+      10,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 13 2004 00:00:00",
+      3,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 14 2004 00:00:00",
+      4,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 15 2004 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 16 2004 00:00:00",
+      4,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 17 2004 00:00:00",
+      6,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 18 2004 00:00:00",
+      6,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 19 2004 00:00:00",
+      21,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 20 2004 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 21 2004 00:00:00",
+      6,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 22 2004 00:00:00",
+      13,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 23 2004 00:00:00",
+      16,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 24 2004 00:00:00",
+      69,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 25 2004 00:00:00",
+      60,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 26 2004 00:00:00",
+      32,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 27 2004 00:00:00",
+      35,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 28 2004 00:00:00",
+      15,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 29 2004 00:00:00",
+      9,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 30 2004 00:00:00",
+      27,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "August, 31 2004 00:00:00",
+      1,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 01 2004 00:00:00",
+      21,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 02 2004 00:00:00",
+      72,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 03 2004 00:00:00",
+      120,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 04 2004 00:00:00",
+      8,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 05 2004 00:00:00",
+      16,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 06 2004 00:00:00",
+      19,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 07 2004 00:00:00",
+      15,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 08 2004 00:00:00",
+      9,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 09 2004 00:00:00",
+      42,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 10 2004 00:00:00",
+      58,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 11 2004 00:00:00",
+      177,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 12 2004 00:00:00",
+      154,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 13 2004 00:00:00",
+      53,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 14 2004 00:00:00",
+      39,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 15 2004 00:00:00",
+      276,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 16 2004 00:00:00",
+      153,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 17 2004 00:00:00",
+      66,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 18 2004 00:00:00",
+      166,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 19 2004 00:00:00",
+      1012,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 20 2004 00:00:00",
+      3220,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 21 2004 00:00:00",
+      546,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 22 2004 00:00:00",
+      410,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 23 2004 00:00:00",
+      58,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 24 2004 00:00:00",
+      57,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 25 2004 00:00:00",
+      203,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 26 2004 00:00:00",
+      750,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 27 2004 00:00:00",
+      1264,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 28 2004 00:00:00",
+      756,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 29 2004 00:00:00",
+      976,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "September, 30 2004 00:00:00",
+      30,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 01 2004 00:00:00",
+      25,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 02 2004 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 03 2004 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 04 2004 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 05 2004 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ],
+    [
+      2004,
+      "October, 06 2004 00:00:00",
+      0,
+      430,
+      24,
+      "Karluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 24,
+    "species_id": "430",
+    "year": "2004",
+    "totalRecords": 60,
+    "totalCount": 11186,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:03:30.881157"
+  }
+}

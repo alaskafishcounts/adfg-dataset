@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "July, 01 2021 00:00:00",
+      140,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 02 2021 00:00:00",
+      113,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 03 2021 00:00:00",
+      116,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 04 2021 00:00:00",
+      146,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 05 2021 00:00:00",
+      91,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 06 2021 00:00:00",
+      103,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 07 2021 00:00:00",
+      103,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 08 2021 00:00:00",
+      182,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 09 2021 00:00:00",
+      127,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 10 2021 00:00:00",
+      182,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 11 2021 00:00:00",
+      120,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 12 2021 00:00:00",
+      115,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 13 2021 00:00:00",
+      176,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      157,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 15 2021 00:00:00",
+      242,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      250,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      218,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      291,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      335,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      510,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      236,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      189,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      128,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 24 2021 00:00:00",
+      182,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 25 2021 00:00:00",
+      158,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 26 2021 00:00:00",
+      254,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 27 2021 00:00:00",
+      213,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 28 2021 00:00:00",
+      219,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 29 2021 00:00:00",
+      340,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 30 2021 00:00:00",
+      182,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "July, 31 2021 00:00:00",
+      371,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 01 2021 00:00:00",
+      231,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 02 2021 00:00:00",
+      309,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 03 2021 00:00:00",
+      775,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 04 2021 00:00:00",
+      243,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 05 2021 00:00:00",
+      317,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 06 2021 00:00:00",
+      355,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 07 2021 00:00:00",
+      453,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 08 2021 00:00:00",
+      376,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 09 2021 00:00:00",
+      509,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 10 2021 00:00:00",
+      546,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 11 2021 00:00:00",
+      188,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 12 2021 00:00:00",
+      193,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 13 2021 00:00:00",
+      200,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 14 2021 00:00:00",
+      267,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 15 2021 00:00:00",
+      128,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 16 2021 00:00:00",
+      140,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 17 2021 00:00:00",
+      67,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 18 2021 00:00:00",
+      170,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 19 2021 00:00:00",
+      98,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2021,
+      "August, 20 2021 00:00:00",
+      78,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ]
+  ],
+  "metadata": {
+    "location_id": 72,
+    "species_id": "412",
+    "year": "2021",
+    "totalRecords": 51,
+    "totalCount": 11832,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:25.643653"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      970,
+      430,
+      51,
+      "Nushagak River",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      687,
+      430,
+      51,
+      "Nushagak River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "430",
+    "year": "2024",
+    "totalRecords": 2,
+    "totalCount": 1657,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:05:50.627548"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      1,
+      430,
+      75,
+      "Ninilchik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      1,
+      430,
+      75,
+      "Ninilchik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 75,
+    "species_id": "430",
+    "year": "2022",
+    "totalRecords": 2,
+    "totalCount": 2,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:06:53.657696"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "July, 10 2015 00:00:00",
+      9,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 11 2015 00:00:00",
+      2,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 12 2015 00:00:00",
+      2,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 13 2015 00:00:00",
+      5,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 14 2015 00:00:00",
+      77,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 15 2015 00:00:00",
+      91,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 16 2015 00:00:00",
+      269,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 17 2015 00:00:00",
+      17,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 18 2015 00:00:00",
+      370,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 19 2015 00:00:00",
+      115,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 20 2015 00:00:00",
+      159,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 21 2015 00:00:00",
+      184,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 22 2015 00:00:00",
+      82,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 23 2015 00:00:00",
+      219,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2015,
+      "July, 24 2015 00:00:00",
+      115,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 32,
+    "species_id": "450",
+    "year": "2015",
+    "totalRecords": 15,
+    "totalCount": 1716,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-29T15:04:47.719054"
+  }
+}
