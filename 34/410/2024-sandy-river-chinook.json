@@ -1,1 +1,214 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2024, "July, 05 2024 00:00:00", 1, 410, 34, "Sandy River", "Chinook"], [2024, "July, 06 2024 00:00:00", 9, 410, 34, "Sandy River", "Chinook"], [2024, "July, 07 2024 00:00:00", 8, 410, 34, "Sandy River", "Chinook"], [2024, "July, 08 2024 00:00:00", 16, 410, 34, "Sandy River", "Chinook"], [2024, "July, 09 2024 00:00:00", 7, 410, 34, "Sandy River", "Chinook"], [2024, "July, 10 2024 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2024, "July, 11 2024 00:00:00", 3, 410, 34, "Sandy River", "Chinook"], [2024, "July, 12 2024 00:00:00", 3, 410, 34, "Sandy River", "Chinook"], [2024, "July, 13 2024 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2024, "July, 14 2024 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2024, "July, 15 2024 00:00:00", 1, 410, 34, "Sandy River", "Chinook"], [2024, "July, 16 2024 00:00:00", 2, 410, 34, "Sandy River", "Chinook"], [2024, "July, 17 2024 00:00:00", 5, 410, 34, "Sandy River", "Chinook"], [2024, "July, 18 2024 00:00:00", 6, 410, 34, "Sandy River", "Chinook"], [2024, "July, 19 2024 00:00:00", 8, 410, 34, "Sandy River", "Chinook"], [2024, "July, 20 2024 00:00:00", 3, 410, 34, "Sandy River", "Chinook"], [2024, "July, 21 2024 00:00:00", 19, 410, 34, "Sandy River", "Chinook"], [2024, "July, 22 2024 00:00:00", 18, 410, 34, "Sandy River", "Chinook"], [2024, "July, 23 2024 00:00:00", 59, 410, 34, "Sandy River", "Chinook"], [2024, "July, 24 2024 00:00:00", 37, 410, 34, "Sandy River", "Chinook"], [2024, "July, 25 2024 00:00:00", 5, 410, 34, "Sandy River", "Chinook"], [2024, "July, 26 2024 00:00:00", null, 410, 34, "Sandy River", "Chinook"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "July, 05 2024 00:00:00",
+      1,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 06 2024 00:00:00",
+      9,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 07 2024 00:00:00",
+      8,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 08 2024 00:00:00",
+      16,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 09 2024 00:00:00",
+      7,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 10 2024 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 11 2024 00:00:00",
+      3,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      3,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      1,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      2,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      5,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      6,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      8,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      3,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      19,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      18,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      59,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      37,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      5,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      null,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

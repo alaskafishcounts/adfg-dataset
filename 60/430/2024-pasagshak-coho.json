@@ -1,1 +1,25 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2024, "August, 13 2024 00:00:00", 15, 430, 60, "Pasagshak", "Coho"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "August, 13 2024 00:00:00",
+      15,
+      430,
+      60,
+      "Pasagshak",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,196 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2024, "July, 20 2024 00:00:00", 1, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "July, 21 2024 00:00:00", 4, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "July, 22 2024 00:00:00", 0, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "July, 23 2024 00:00:00", 2, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "July, 24 2024 00:00:00", 1, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "July, 25 2024 00:00:00", 1, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "July, 26 2024 00:00:00", 1, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "July, 27 2024 00:00:00", 6, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "July, 28 2024 00:00:00", 2, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "July, 29 2024 00:00:00", 1, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "July, 30 2024 00:00:00", 12, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "July, 31 2024 00:00:00", 1, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "August, 01 2024 00:00:00", 2, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "August, 02 2024 00:00:00", 0, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "August, 03 2024 00:00:00", 3, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "August, 04 2024 00:00:00", 1, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "August, 05 2024 00:00:00", 7, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "August, 06 2024 00:00:00", 3, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "August, 07 2024 00:00:00", 1, 450, 23, "Afognak River (Litnik)", "Chum"], [2024, "August, 08 2024 00:00:00", 1, 450, 23, "Afognak River (Litnik)", "Chum"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      1,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      4,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      2,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      1,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      1,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      1,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      6,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 28 2024 00:00:00",
+      2,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 29 2024 00:00:00",
+      1,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 30 2024 00:00:00",
+      12,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "July, 31 2024 00:00:00",
+      1,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 01 2024 00:00:00",
+      2,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 02 2024 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 03 2024 00:00:00",
+      3,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 04 2024 00:00:00",
+      1,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 05 2024 00:00:00",
+      7,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 06 2024 00:00:00",
+      3,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 07 2024 00:00:00",
+      1,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2024,
+      "August, 08 2024 00:00:00",
+      1,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,655 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2024, "May, 16 2024 00:00:00", 0, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "May, 20 2024 00:00:00", 87, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "May, 21 2024 00:00:00", 83, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "May, 22 2024 00:00:00", 186, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "May, 23 2024 00:00:00", 992, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "May, 24 2024 00:00:00", 1460, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "May, 25 2024 00:00:00", 1562, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "May, 26 2024 00:00:00", 2133, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "May, 27 2024 00:00:00", 5340, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "May, 28 2024 00:00:00", 5200, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "May, 29 2024 00:00:00", 5515, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "May, 30 2024 00:00:00", 5090, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "May, 31 2024 00:00:00", 6889, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 01 2024 00:00:00", 9661, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 02 2024 00:00:00", 9272, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 03 2024 00:00:00", 9972, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 04 2024 00:00:00", 13195, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 05 2024 00:00:00", 12951, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 06 2024 00:00:00", 19946, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 07 2024 00:00:00", 30678, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 08 2024 00:00:00", 47407, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 09 2024 00:00:00", 61473, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 10 2024 00:00:00", 45181, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 11 2024 00:00:00", 29688, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 12 2024 00:00:00", 19444, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 13 2024 00:00:00", 18537, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 14 2024 00:00:00", 13712, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 15 2024 00:00:00", 11467, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 16 2024 00:00:00", 17621, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 17 2024 00:00:00", 19038, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 18 2024 00:00:00", 15269, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 19 2024 00:00:00", 11522, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 20 2024 00:00:00", 8726, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 21 2024 00:00:00", 6727, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 22 2024 00:00:00", 5028, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 23 2024 00:00:00", 6327, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 24 2024 00:00:00", 5238, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 25 2024 00:00:00", 3924, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 26 2024 00:00:00", 7227, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 27 2024 00:00:00", 10891, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 28 2024 00:00:00", 12399, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 29 2024 00:00:00", 11141, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "June, 30 2024 00:00:00", 11201, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 01 2024 00:00:00", 10006, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 02 2024 00:00:00", 10456, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 03 2024 00:00:00", 14902, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 04 2024 00:00:00", 29933, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 05 2024 00:00:00", 25737, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 06 2024 00:00:00", 21528, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 07 2024 00:00:00", 25481, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 08 2024 00:00:00", 25043, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 09 2024 00:00:00", 19725, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 10 2024 00:00:00", 19213, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 11 2024 00:00:00", 21097, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 12 2024 00:00:00", 18603, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 13 2024 00:00:00", 16701, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 14 2024 00:00:00", 14247, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 15 2024 00:00:00", 13382, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 16 2024 00:00:00", 9799, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 17 2024 00:00:00", 10689, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 18 2024 00:00:00", 15838, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 19 2024 00:00:00", 22729, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 20 2024 00:00:00", 16474, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 21 2024 00:00:00", 13221, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 22 2024 00:00:00", 8602, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 23 2024 00:00:00", 6539, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 24 2024 00:00:00", 4589, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 25 2024 00:00:00", 4842, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 26 2024 00:00:00", 4396, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 27 2024 00:00:00", 2195, 420, 39, "Copper River (Miles L)", "Sockeye"], [2024, "July, 28 2024 00:00:00", 2616, 420, 39, "Copper River (Miles L)", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "May, 16 2024 00:00:00",
+      0,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 20 2024 00:00:00",
+      87,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 21 2024 00:00:00",
+      83,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 22 2024 00:00:00",
+      186,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 23 2024 00:00:00",
+      992,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 24 2024 00:00:00",
+      1460,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 25 2024 00:00:00",
+      1562,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 26 2024 00:00:00",
+      2133,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 27 2024 00:00:00",
+      5340,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 28 2024 00:00:00",
+      5200,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 29 2024 00:00:00",
+      5515,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 30 2024 00:00:00",
+      5090,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "May, 31 2024 00:00:00",
+      6889,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 01 2024 00:00:00",
+      9661,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 02 2024 00:00:00",
+      9272,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 03 2024 00:00:00",
+      9972,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 04 2024 00:00:00",
+      13195,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 05 2024 00:00:00",
+      12951,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 06 2024 00:00:00",
+      19946,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 07 2024 00:00:00",
+      30678,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 08 2024 00:00:00",
+      47407,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 09 2024 00:00:00",
+      61473,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 10 2024 00:00:00",
+      45181,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 11 2024 00:00:00",
+      29688,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 12 2024 00:00:00",
+      19444,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 13 2024 00:00:00",
+      18537,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 14 2024 00:00:00",
+      13712,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 15 2024 00:00:00",
+      11467,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 16 2024 00:00:00",
+      17621,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 17 2024 00:00:00",
+      19038,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 18 2024 00:00:00",
+      15269,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 19 2024 00:00:00",
+      11522,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 20 2024 00:00:00",
+      8726,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 21 2024 00:00:00",
+      6727,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 22 2024 00:00:00",
+      5028,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 23 2024 00:00:00",
+      6327,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 24 2024 00:00:00",
+      5238,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 25 2024 00:00:00",
+      3924,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 26 2024 00:00:00",
+      7227,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 27 2024 00:00:00",
+      10891,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 28 2024 00:00:00",
+      12399,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 29 2024 00:00:00",
+      11141,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 30 2024 00:00:00",
+      11201,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 01 2024 00:00:00",
+      10006,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 02 2024 00:00:00",
+      10456,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 03 2024 00:00:00",
+      14902,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 04 2024 00:00:00",
+      29933,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 05 2024 00:00:00",
+      25737,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 06 2024 00:00:00",
+      21528,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 07 2024 00:00:00",
+      25481,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 08 2024 00:00:00",
+      25043,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 09 2024 00:00:00",
+      19725,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 10 2024 00:00:00",
+      19213,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 11 2024 00:00:00",
+      21097,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      18603,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      16701,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      14247,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      13382,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      9799,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      10689,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      15838,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      22729,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      16474,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      13221,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      8602,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      6539,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      4589,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      4842,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      4396,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      2195,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 28 2024 00:00:00",
+      2616,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

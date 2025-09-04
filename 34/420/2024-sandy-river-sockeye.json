@@ -1,1 +1,421 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2024, "June, 12 2024 00:00:00", null, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 13 2024 00:00:00", null, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 14 2024 00:00:00", 2, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 15 2024 00:00:00", 38, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 16 2024 00:00:00", 41, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 17 2024 00:00:00", 42, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 18 2024 00:00:00", 54, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 19 2024 00:00:00", 100, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 20 2024 00:00:00", 52, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 21 2024 00:00:00", 52, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 22 2024 00:00:00", 109, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 23 2024 00:00:00", 98, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 24 2024 00:00:00", 92, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 25 2024 00:00:00", 100, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 26 2024 00:00:00", 100, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 27 2024 00:00:00", 100, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 28 2024 00:00:00", 1000, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 29 2024 00:00:00", 1500, 420, 34, "Sandy River", "Sockeye"], [2024, "June, 30 2024 00:00:00", 2000, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 01 2024 00:00:00", 2000, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 02 2024 00:00:00", 1237, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 03 2024 00:00:00", 2827, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 04 2024 00:00:00", 1604, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 05 2024 00:00:00", 1156, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 06 2024 00:00:00", 1064, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 07 2024 00:00:00", 732, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 08 2024 00:00:00", 1653, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 09 2024 00:00:00", 1330, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 10 2024 00:00:00", 917, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 11 2024 00:00:00", 895, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 12 2024 00:00:00", 503, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 13 2024 00:00:00", 172, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 14 2024 00:00:00", 1016, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 15 2024 00:00:00", 880, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 16 2024 00:00:00", 1074, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 17 2024 00:00:00", 1160, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 18 2024 00:00:00", 1418, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 19 2024 00:00:00", 1326, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 20 2024 00:00:00", 1378, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 21 2024 00:00:00", 1581, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 22 2024 00:00:00", 825, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 23 2024 00:00:00", 643, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 24 2024 00:00:00", 581, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 25 2024 00:00:00", 55, 420, 34, "Sandy River", "Sockeye"], [2024, "July, 26 2024 00:00:00", null, 420, 34, "Sandy River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "June, 12 2024 00:00:00",
+      null,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 13 2024 00:00:00",
+      null,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 14 2024 00:00:00",
+      2,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 15 2024 00:00:00",
+      38,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 16 2024 00:00:00",
+      41,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 17 2024 00:00:00",
+      42,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 18 2024 00:00:00",
+      54,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 19 2024 00:00:00",
+      100,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 20 2024 00:00:00",
+      52,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 21 2024 00:00:00",
+      52,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 22 2024 00:00:00",
+      109,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 23 2024 00:00:00",
+      98,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 24 2024 00:00:00",
+      92,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 25 2024 00:00:00",
+      100,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 26 2024 00:00:00",
+      100,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 27 2024 00:00:00",
+      100,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 28 2024 00:00:00",
+      1000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 29 2024 00:00:00",
+      1500,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "June, 30 2024 00:00:00",
+      2000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 01 2024 00:00:00",
+      2000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 02 2024 00:00:00",
+      1237,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 03 2024 00:00:00",
+      2827,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 04 2024 00:00:00",
+      1604,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 05 2024 00:00:00",
+      1156,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 06 2024 00:00:00",
+      1064,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 07 2024 00:00:00",
+      732,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 08 2024 00:00:00",
+      1653,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 09 2024 00:00:00",
+      1330,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 10 2024 00:00:00",
+      917,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 11 2024 00:00:00",
+      895,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 12 2024 00:00:00",
+      503,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 13 2024 00:00:00",
+      172,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 14 2024 00:00:00",
+      1016,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 15 2024 00:00:00",
+      880,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 16 2024 00:00:00",
+      1074,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 17 2024 00:00:00",
+      1160,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 18 2024 00:00:00",
+      1418,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 19 2024 00:00:00",
+      1326,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 20 2024 00:00:00",
+      1378,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 21 2024 00:00:00",
+      1581,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 22 2024 00:00:00",
+      825,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 23 2024 00:00:00",
+      643,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      581,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      55,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2024,
+      "July, 26 2024 00:00:00",
+      null,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}
