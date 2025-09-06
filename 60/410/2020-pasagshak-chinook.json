@@ -1,1 +1,103 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2020, "August, 06 2020 00:00:00", 1, 410, 60, "Pasagshak", "Chinook"], [2020, "August, 07 2020 00:00:00", 0, 410, 60, "Pasagshak", "Chinook"], [2020, "August, 08 2020 00:00:00", 0, 410, 60, "Pasagshak", "Chinook"], [2020, "August, 09 2020 00:00:00", 0, 410, 60, "Pasagshak", "Chinook"], [2020, "August, 10 2020 00:00:00", 0, 410, 60, "Pasagshak", "Chinook"], [2020, "August, 11 2020 00:00:00", 0, 410, 60, "Pasagshak", "Chinook"], [2020, "August, 12 2020 00:00:00", 0, 410, 60, "Pasagshak", "Chinook"], [2020, "August, 13 2020 00:00:00", 0, 410, 60, "Pasagshak", "Chinook"], [2020, "August, 16 2020 00:00:00", 0, 410, 60, "Pasagshak", "Chinook"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "August, 06 2020 00:00:00",
+      1,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 07 2020 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 08 2020 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 09 2020 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 10 2020 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 11 2020 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 12 2020 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 13 2020 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ],
+    [
+      2020,
+      "August, 16 2020 00:00:00",
+      0,
+      410,
+      60,
+      "Pasagshak",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 60,
+    "species_id": "410",
+    "year": "2020",
+    "totalRecords": 9,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}
