@@ -7,167 +7,200 @@
     "source": "Historical weir operations",
     "notes": "Transition to scientific monitoring",
     "total_count": 16268,
-    "data_points": 27
+    "data_points": 27,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=88&SpeciesID=420",
+        "description": "Official ADF&G fish count data for Upper Station Weir"
+      },
+      "secondary_sources": [
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.4K.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Commercial Fishing Information",
+          "url": "https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByAreaKodiak.salmon_weirs_mobile",
+          "description": "ADF&G commercial fishing management information"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/kodiak-region/kodiak-regional-information-report-2023.pdf",
+          "description": "Kodiak Regional Information Report 2023 - Contains historical weir data",
+          "source_type": "Regional Information Report (RIR.4K.2023.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-15",
+      "1938-06-15",
       "Upper Station Weir",
       "286",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-16",
+      "1938-06-16",
       "Upper Station Weir",
       "360",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-17",
+      "1938-06-17",
       "Upper Station Weir",
       "290",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-18",
+      "1938-06-18",
       "Upper Station Weir",
       "322",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-19",
+      "1938-06-19",
       "Upper Station Weir",
       "362",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-20",
+      "1938-06-20",
       "Upper Station Weir",
       "280",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-21",
+      "1938-06-21",
       "Upper Station Weir",
       "287",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-22",
+      "1938-06-22",
       "Upper Station Weir",
       "291",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-23",
+      "1938-06-23",
       "Upper Station Weir",
       "289",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-24",
+      "1938-06-24",
       "Upper Station Weir",
       "327",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-25",
+      "1938-06-25",
       "Upper Station Weir",
       "329",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-26",
+      "1938-06-26",
       "Upper Station Weir",
       "285",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-27",
+      "1938-06-27",
       "Upper Station Weir",
       "310",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-28",
+      "1938-06-28",
       "Upper Station Weir",
       "319",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-29",
+      "1938-06-29",
       "Upper Station Weir",
       "290",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-30",
+      "1938-06-30",
       "Upper Station Weir",
       "302",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-01",
+      "1938-07-01",
       "Upper Station Weir",
       "351",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-02",
+      "1938-07-02",
       "Upper Station Weir",
       "331",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-03",
+      "1938-07-03",
       "Upper Station Weir",
       "771",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-04",
+      "1938-07-04",
       "Upper Station Weir",
       "796",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-05",
+      "1938-07-05",
       "Upper Station Weir",
       "886",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-06",
+      "1938-07-06",
       "Upper Station Weir",
       "781",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-07",
+      "1938-07-07",
       "Upper Station Weir",
       "1485",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-08",
+      "1938-07-08",
       "Upper Station Weir",
       "1763",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-09",
+      "1938-07-09",
       "Upper Station Weir",
       "1758",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-10",
+      "1938-07-10",
       "Upper Station Weir",
       "2403",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-11",
+      "1938-07-11",
       "Upper Station Weir",
       "1592",
       "Daily count - Transition to scientific monitoring"

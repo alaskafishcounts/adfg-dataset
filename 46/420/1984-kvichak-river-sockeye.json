@@ -1,1 +1,346 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1984, "June, 20 1984 00:00:00", 168, 420, 46, "Kvichak River", "Sockeye"], [1984, "June, 21 1984 00:00:00", 42, 420, 46, "Kvichak River", "Sockeye"], [1984, "June, 22 1984 00:00:00", 6, 420, 46, "Kvichak River", "Sockeye"], [1984, "June, 23 1984 00:00:00", 258, 420, 46, "Kvichak River", "Sockeye"], [1984, "June, 24 1984 00:00:00", 426, 420, 46, "Kvichak River", "Sockeye"], [1984, "June, 25 1984 00:00:00", 16578, 420, 46, "Kvichak River", "Sockeye"], [1984, "June, 26 1984 00:00:00", 68946, 420, 46, "Kvichak River", "Sockeye"], [1984, "June, 27 1984 00:00:00", 34206, 420, 46, "Kvichak River", "Sockeye"], [1984, "June, 28 1984 00:00:00", 12504, 420, 46, "Kvichak River", "Sockeye"], [1984, "June, 29 1984 00:00:00", 671250, 420, 46, "Kvichak River", "Sockeye"], [1984, "June, 30 1984 00:00:00", 1017054, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 01 1984 00:00:00", 778200, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 02 1984 00:00:00", 516378, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 03 1984 00:00:00", 514080, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 04 1984 00:00:00", 689580, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 05 1984 00:00:00", 793596, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 06 1984 00:00:00", 854580, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 07 1984 00:00:00", 819480, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 08 1984 00:00:00", 794136, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 09 1984 00:00:00", 855420, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 10 1984 00:00:00", 555960, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 11 1984 00:00:00", 229194, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 12 1984 00:00:00", 136014, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 13 1984 00:00:00", 390366, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 14 1984 00:00:00", 283446, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 15 1984 00:00:00", 79284, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 16 1984 00:00:00", 60756, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 17 1984 00:00:00", 98478, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 18 1984 00:00:00", 89448, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 19 1984 00:00:00", 70332, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 20 1984 00:00:00", 24918, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 21 1984 00:00:00", 11880, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 22 1984 00:00:00", 8508, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 23 1984 00:00:00", 8712, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 24 1984 00:00:00", 5202, 420, 46, "Kvichak River", "Sockeye"], [1984, "July, 25 1984 00:00:00", 1260, 420, 46, "Kvichak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "June, 20 1984 00:00:00",
+      168,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 21 1984 00:00:00",
+      42,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 22 1984 00:00:00",
+      6,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 23 1984 00:00:00",
+      258,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 24 1984 00:00:00",
+      426,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 25 1984 00:00:00",
+      16578,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 26 1984 00:00:00",
+      68946,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 27 1984 00:00:00",
+      34206,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 28 1984 00:00:00",
+      12504,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 29 1984 00:00:00",
+      671250,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 30 1984 00:00:00",
+      1017054,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 01 1984 00:00:00",
+      778200,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 02 1984 00:00:00",
+      516378,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 03 1984 00:00:00",
+      514080,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 04 1984 00:00:00",
+      689580,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 05 1984 00:00:00",
+      793596,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 06 1984 00:00:00",
+      854580,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 07 1984 00:00:00",
+      819480,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 08 1984 00:00:00",
+      794136,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 09 1984 00:00:00",
+      855420,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 10 1984 00:00:00",
+      555960,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 11 1984 00:00:00",
+      229194,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 12 1984 00:00:00",
+      136014,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 13 1984 00:00:00",
+      390366,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 14 1984 00:00:00",
+      283446,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 15 1984 00:00:00",
+      79284,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 16 1984 00:00:00",
+      60756,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 17 1984 00:00:00",
+      98478,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 18 1984 00:00:00",
+      89448,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 19 1984 00:00:00",
+      70332,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 20 1984 00:00:00",
+      24918,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 21 1984 00:00:00",
+      11880,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 22 1984 00:00:00",
+      8508,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 23 1984 00:00:00",
+      8712,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 24 1984 00:00:00",
+      5202,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 25 1984 00:00:00",
+      1260,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 46,
+    "species_id": "420",
+    "year": "1984",
+    "totalRecords": 36,
+    "totalCount": 10490646,
+    "source": "ADFG JSON API",
+    "last_updated": "1984-12-31T00:00:00"
+  }
+}

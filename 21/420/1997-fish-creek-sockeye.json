@@ -1,1 +1,598 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1997, "July, 07 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 08 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 09 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 10 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 11 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 12 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 13 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 14 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 15 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 16 1997 00:00:00", 1579, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 17 1997 00:00:00", 38, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 18 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 19 1997 00:00:00", 4, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 20 1997 00:00:00", 26, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 21 1997 00:00:00", 184, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 22 1997 00:00:00", 2034, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 23 1997 00:00:00", 3125, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 24 1997 00:00:00", 5109, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 25 1997 00:00:00", 3294, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 26 1997 00:00:00", 2563, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 27 1997 00:00:00", 1177, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 28 1997 00:00:00", 2306, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 29 1997 00:00:00", 2230, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 30 1997 00:00:00", 1341, 420, 21, "Fish Creek", "Sockeye"], [1997, "July, 31 1997 00:00:00", 2486, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 01 1997 00:00:00", 2197, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 02 1997 00:00:00", 1716, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 03 1997 00:00:00", 1919, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 04 1997 00:00:00", 3768, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 05 1997 00:00:00", 3190, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 06 1997 00:00:00", 1349, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 07 1997 00:00:00", 1723, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 08 1997 00:00:00", 1602, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 09 1997 00:00:00", 465, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 10 1997 00:00:00", 663, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 11 1997 00:00:00", 532, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 12 1997 00:00:00", 1169, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 13 1997 00:00:00", 2488, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 14 1997 00:00:00", 899, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 15 1997 00:00:00", 457, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 16 1997 00:00:00", 654, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 17 1997 00:00:00", 251, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 18 1997 00:00:00", 157, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 19 1997 00:00:00", 143, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 20 1997 00:00:00", 326, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 21 1997 00:00:00", 257, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 22 1997 00:00:00", 787, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 23 1997 00:00:00", 160, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 24 1997 00:00:00", 99, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 25 1997 00:00:00", 99, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 26 1997 00:00:00", 176, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 27 1997 00:00:00", 101, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 28 1997 00:00:00", 68, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 29 1997 00:00:00", 77, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 30 1997 00:00:00", 45, 420, 21, "Fish Creek", "Sockeye"], [1997, "August, 31 1997 00:00:00", 2, 420, 21, "Fish Creek", "Sockeye"], [1997, "September, 01 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "September, 02 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "September, 03 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "September, 04 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "September, 05 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "September, 06 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "September, 07 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"], [1997, "September, 08 1997 00:00:00", 0, 420, 21, "Fish Creek", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "July, 07 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 08 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 09 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 10 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 11 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 12 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 13 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 14 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 15 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 16 1997 00:00:00",
+      1579,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 17 1997 00:00:00",
+      38,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 18 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 19 1997 00:00:00",
+      4,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 20 1997 00:00:00",
+      26,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 21 1997 00:00:00",
+      184,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 22 1997 00:00:00",
+      2034,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 23 1997 00:00:00",
+      3125,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 24 1997 00:00:00",
+      5109,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 25 1997 00:00:00",
+      3294,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 26 1997 00:00:00",
+      2563,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 27 1997 00:00:00",
+      1177,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 28 1997 00:00:00",
+      2306,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 29 1997 00:00:00",
+      2230,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 30 1997 00:00:00",
+      1341,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 31 1997 00:00:00",
+      2486,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 01 1997 00:00:00",
+      2197,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 02 1997 00:00:00",
+      1716,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 03 1997 00:00:00",
+      1919,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 04 1997 00:00:00",
+      3768,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 05 1997 00:00:00",
+      3190,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 06 1997 00:00:00",
+      1349,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 07 1997 00:00:00",
+      1723,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 08 1997 00:00:00",
+      1602,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 09 1997 00:00:00",
+      465,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 10 1997 00:00:00",
+      663,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 11 1997 00:00:00",
+      532,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 12 1997 00:00:00",
+      1169,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 13 1997 00:00:00",
+      2488,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 14 1997 00:00:00",
+      899,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 15 1997 00:00:00",
+      457,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 16 1997 00:00:00",
+      654,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 17 1997 00:00:00",
+      251,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 18 1997 00:00:00",
+      157,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 19 1997 00:00:00",
+      143,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 20 1997 00:00:00",
+      326,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 21 1997 00:00:00",
+      257,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 22 1997 00:00:00",
+      787,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 23 1997 00:00:00",
+      160,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 24 1997 00:00:00",
+      99,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 25 1997 00:00:00",
+      99,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 26 1997 00:00:00",
+      176,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 27 1997 00:00:00",
+      101,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 28 1997 00:00:00",
+      68,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 29 1997 00:00:00",
+      77,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 30 1997 00:00:00",
+      45,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "August, 31 1997 00:00:00",
+      2,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 01 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 02 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 03 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 04 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 05 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 06 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 07 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "September, 08 1997 00:00:00",
+      0,
+      420,
+      21,
+      "Fish Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "420",
+    "year": "1997",
+    "totalRecords": 64,
+    "totalCount": 55035,
+    "source": "ADFG JSON API",
+    "last_updated": "1997-12-31T00:00:00"
+  }
+}

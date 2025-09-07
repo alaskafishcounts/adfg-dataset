@@ -1,1 +1,436 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1996, "August, 07 1996 00:00:00", 0, 430, 16, "Little Susitna", "Coho"], [1996, "August, 08 1996 00:00:00", 0, 430, 16, "Little Susitna", "Coho"], [1996, "August, 09 1996 00:00:00", 0, 430, 16, "Little Susitna", "Coho"], [1996, "August, 10 1996 00:00:00", 60, 430, 16, "Little Susitna", "Coho"], [1996, "August, 11 1996 00:00:00", 523, 430, 16, "Little Susitna", "Coho"], [1996, "August, 12 1996 00:00:00", 261, 430, 16, "Little Susitna", "Coho"], [1996, "August, 13 1996 00:00:00", 2920, 430, 16, "Little Susitna", "Coho"], [1996, "August, 14 1996 00:00:00", 23, 430, 16, "Little Susitna", "Coho"], [1996, "August, 15 1996 00:00:00", 88, 430, 16, "Little Susitna", "Coho"], [1996, "August, 16 1996 00:00:00", 776, 430, 16, "Little Susitna", "Coho"], [1996, "August, 17 1996 00:00:00", 1078, 430, 16, "Little Susitna", "Coho"], [1996, "August, 18 1996 00:00:00", 76, 430, 16, "Little Susitna", "Coho"], [1996, "August, 19 1996 00:00:00", 0, 430, 16, "Little Susitna", "Coho"], [1996, "August, 20 1996 00:00:00", 15, 430, 16, "Little Susitna", "Coho"], [1996, "August, 21 1996 00:00:00", 105, 430, 16, "Little Susitna", "Coho"], [1996, "August, 22 1996 00:00:00", 334, 430, 16, "Little Susitna", "Coho"], [1996, "August, 23 1996 00:00:00", 368, 430, 16, "Little Susitna", "Coho"], [1996, "August, 24 1996 00:00:00", 34, 430, 16, "Little Susitna", "Coho"], [1996, "August, 25 1996 00:00:00", 1102, 430, 16, "Little Susitna", "Coho"], [1996, "August, 26 1996 00:00:00", 210, 430, 16, "Little Susitna", "Coho"], [1996, "August, 27 1996 00:00:00", 87, 430, 16, "Little Susitna", "Coho"], [1996, "August, 28 1996 00:00:00", 185, 430, 16, "Little Susitna", "Coho"], [1996, "August, 29 1996 00:00:00", 1302, 430, 16, "Little Susitna", "Coho"], [1996, "August, 30 1996 00:00:00", 956, 430, 16, "Little Susitna", "Coho"], [1996, "August, 31 1996 00:00:00", 478, 430, 16, "Little Susitna", "Coho"], [1996, "September, 01 1996 00:00:00", 833, 430, 16, "Little Susitna", "Coho"], [1996, "September, 02 1996 00:00:00", 226, 430, 16, "Little Susitna", "Coho"], [1996, "September, 03 1996 00:00:00", 383, 430, 16, "Little Susitna", "Coho"], [1996, "September, 04 1996 00:00:00", 507, 430, 16, "Little Susitna", "Coho"], [1996, "September, 05 1996 00:00:00", 216, 430, 16, "Little Susitna", "Coho"], [1996, "September, 06 1996 00:00:00", 186, 430, 16, "Little Susitna", "Coho"], [1996, "September, 07 1996 00:00:00", 47, 430, 16, "Little Susitna", "Coho"], [1996, "September, 08 1996 00:00:00", 207, 430, 16, "Little Susitna", "Coho"], [1996, "September, 09 1996 00:00:00", 529, 430, 16, "Little Susitna", "Coho"], [1996, "September, 10 1996 00:00:00", 155, 430, 16, "Little Susitna", "Coho"], [1996, "September, 11 1996 00:00:00", 415, 430, 16, "Little Susitna", "Coho"], [1996, "September, 12 1996 00:00:00", 243, 430, 16, "Little Susitna", "Coho"], [1996, "September, 13 1996 00:00:00", 195, 430, 16, "Little Susitna", "Coho"], [1996, "September, 14 1996 00:00:00", 43, 430, 16, "Little Susitna", "Coho"], [1996, "September, 15 1996 00:00:00", 173, 430, 16, "Little Susitna", "Coho"], [1996, "September, 16 1996 00:00:00", 168, 430, 16, "Little Susitna", "Coho"], [1996, "September, 17 1996 00:00:00", 177, 430, 16, "Little Susitna", "Coho"], [1996, "September, 18 1996 00:00:00", 35, 430, 16, "Little Susitna", "Coho"], [1996, "September, 19 1996 00:00:00", 1, 430, 16, "Little Susitna", "Coho"], [1996, "September, 20 1996 00:00:00", 64, 430, 16, "Little Susitna", "Coho"], [1996, "September, 21 1996 00:00:00", 19, 430, 16, "Little Susitna", "Coho"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "August, 07 1996 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 08 1996 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 09 1996 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 10 1996 00:00:00",
+      60,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 11 1996 00:00:00",
+      523,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 12 1996 00:00:00",
+      261,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 13 1996 00:00:00",
+      2920,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 14 1996 00:00:00",
+      23,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 15 1996 00:00:00",
+      88,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 16 1996 00:00:00",
+      776,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 17 1996 00:00:00",
+      1078,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 18 1996 00:00:00",
+      76,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 19 1996 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 20 1996 00:00:00",
+      15,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 21 1996 00:00:00",
+      105,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 22 1996 00:00:00",
+      334,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 23 1996 00:00:00",
+      368,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 24 1996 00:00:00",
+      34,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 25 1996 00:00:00",
+      1102,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 26 1996 00:00:00",
+      210,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 27 1996 00:00:00",
+      87,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 28 1996 00:00:00",
+      185,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 29 1996 00:00:00",
+      1302,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 30 1996 00:00:00",
+      956,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 31 1996 00:00:00",
+      478,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 01 1996 00:00:00",
+      833,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 02 1996 00:00:00",
+      226,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 03 1996 00:00:00",
+      383,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 04 1996 00:00:00",
+      507,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 05 1996 00:00:00",
+      216,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 06 1996 00:00:00",
+      186,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 07 1996 00:00:00",
+      47,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 08 1996 00:00:00",
+      207,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 09 1996 00:00:00",
+      529,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 10 1996 00:00:00",
+      155,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 11 1996 00:00:00",
+      415,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 12 1996 00:00:00",
+      243,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 13 1996 00:00:00",
+      195,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 14 1996 00:00:00",
+      43,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 15 1996 00:00:00",
+      173,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 16 1996 00:00:00",
+      168,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 17 1996 00:00:00",
+      177,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 18 1996 00:00:00",
+      35,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 19 1996 00:00:00",
+      1,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 20 1996 00:00:00",
+      64,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      1996,
+      "September, 21 1996 00:00:00",
+      19,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 16,
+    "species_id": "430",
+    "year": "1996",
+    "totalRecords": 46,
+    "totalCount": 15803,
+    "source": "ADFG JSON API",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

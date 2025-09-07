@@ -1,1 +1,310 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1995, "June, 21 1995 00:00:00", 126, 420, 50, "Wood River", "Sockeye"], [1995, "June, 22 1995 00:00:00", 450, 420, 50, "Wood River", "Sockeye"], [1995, "June, 23 1995 00:00:00", 600, 420, 50, "Wood River", "Sockeye"], [1995, "June, 24 1995 00:00:00", 2136, 420, 50, "Wood River", "Sockeye"], [1995, "June, 25 1995 00:00:00", 16602, 420, 50, "Wood River", "Sockeye"], [1995, "June, 26 1995 00:00:00", 94710, 420, 50, "Wood River", "Sockeye"], [1995, "June, 27 1995 00:00:00", 104196, 420, 50, "Wood River", "Sockeye"], [1995, "June, 28 1995 00:00:00", 23502, 420, 50, "Wood River", "Sockeye"], [1995, "June, 29 1995 00:00:00", 104904, 420, 50, "Wood River", "Sockeye"], [1995, "June, 30 1995 00:00:00", 99630, 420, 50, "Wood River", "Sockeye"], [1995, "July, 01 1995 00:00:00", 36390, 420, 50, "Wood River", "Sockeye"], [1995, "July, 02 1995 00:00:00", 27990, 420, 50, "Wood River", "Sockeye"], [1995, "July, 03 1995 00:00:00", 20454, 420, 50, "Wood River", "Sockeye"], [1995, "July, 04 1995 00:00:00", 12690, 420, 50, "Wood River", "Sockeye"], [1995, "July, 05 1995 00:00:00", 40284, 420, 50, "Wood River", "Sockeye"], [1995, "July, 06 1995 00:00:00", 56040, 420, 50, "Wood River", "Sockeye"], [1995, "July, 07 1995 00:00:00", 238458, 420, 50, "Wood River", "Sockeye"], [1995, "July, 08 1995 00:00:00", 240792, 420, 50, "Wood River", "Sockeye"], [1995, "July, 09 1995 00:00:00", 145896, 420, 50, "Wood River", "Sockeye"], [1995, "July, 10 1995 00:00:00", 47496, 420, 50, "Wood River", "Sockeye"], [1995, "July, 11 1995 00:00:00", 29226, 420, 50, "Wood River", "Sockeye"], [1995, "July, 12 1995 00:00:00", 22488, 420, 50, "Wood River", "Sockeye"], [1995, "July, 13 1995 00:00:00", 22512, 420, 50, "Wood River", "Sockeye"], [1995, "July, 14 1995 00:00:00", 13722, 420, 50, "Wood River", "Sockeye"], [1995, "July, 15 1995 00:00:00", 14346, 420, 50, "Wood River", "Sockeye"], [1995, "July, 16 1995 00:00:00", 29352, 420, 50, "Wood River", "Sockeye"], [1995, "July, 17 1995 00:00:00", 14310, 420, 50, "Wood River", "Sockeye"], [1995, "July, 18 1995 00:00:00", 7332, 420, 50, "Wood River", "Sockeye"], [1995, "July, 19 1995 00:00:00", 5682, 420, 50, "Wood River", "Sockeye"], [1995, "July, 20 1995 00:00:00", 4284, 420, 50, "Wood River", "Sockeye"], [1995, "July, 21 1995 00:00:00", 3798, 420, 50, "Wood River", "Sockeye"], [1995, "July, 22 1995 00:00:00", 1764, 420, 50, "Wood River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "June, 21 1995 00:00:00",
+      126,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 22 1995 00:00:00",
+      450,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 23 1995 00:00:00",
+      600,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 24 1995 00:00:00",
+      2136,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 25 1995 00:00:00",
+      16602,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 26 1995 00:00:00",
+      94710,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 27 1995 00:00:00",
+      104196,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 28 1995 00:00:00",
+      23502,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 29 1995 00:00:00",
+      104904,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 30 1995 00:00:00",
+      99630,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 01 1995 00:00:00",
+      36390,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 02 1995 00:00:00",
+      27990,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 03 1995 00:00:00",
+      20454,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 04 1995 00:00:00",
+      12690,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 05 1995 00:00:00",
+      40284,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 06 1995 00:00:00",
+      56040,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 07 1995 00:00:00",
+      238458,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 08 1995 00:00:00",
+      240792,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 09 1995 00:00:00",
+      145896,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 10 1995 00:00:00",
+      47496,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 11 1995 00:00:00",
+      29226,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 12 1995 00:00:00",
+      22488,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 13 1995 00:00:00",
+      22512,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 14 1995 00:00:00",
+      13722,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 15 1995 00:00:00",
+      14346,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 16 1995 00:00:00",
+      29352,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 17 1995 00:00:00",
+      14310,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 18 1995 00:00:00",
+      7332,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 19 1995 00:00:00",
+      5682,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 20 1995 00:00:00",
+      4284,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 21 1995 00:00:00",
+      3798,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 22 1995 00:00:00",
+      1764,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 50,
+    "species_id": "420",
+    "year": "1995",
+    "totalRecords": 32,
+    "totalCount": 1482162,
+    "source": "ADFG JSON API",
+    "last_updated": "1995-12-31T00:00:00"
+  }
+}

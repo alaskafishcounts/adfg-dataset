@@ -1,1 +1,445 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1985, "June, 15 1985 00:00:00", 6, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 16 1985 00:00:00", 24, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 17 1985 00:00:00", 19, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 18 1985 00:00:00", 7, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 19 1985 00:00:00", 5, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 20 1985 00:00:00", 19, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 21 1985 00:00:00", 8, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 22 1985 00:00:00", 4, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 23 1985 00:00:00", 20, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 24 1985 00:00:00", 19, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 25 1985 00:00:00", 16, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 26 1985 00:00:00", 32, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 27 1985 00:00:00", 64, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 28 1985 00:00:00", 68, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 29 1985 00:00:00", 377, 420, 42, "Crescent River", "Sockeye"], [1985, "June, 30 1985 00:00:00", 169, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 01 1985 00:00:00", 210, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 02 1985 00:00:00", 480, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 03 1985 00:00:00", 490, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 04 1985 00:00:00", 5300, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 05 1985 00:00:00", 10409, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 06 1985 00:00:00", 6480, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 07 1985 00:00:00", 1035, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 08 1985 00:00:00", 3764, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 09 1985 00:00:00", 3222, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 10 1985 00:00:00", 3005, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 11 1985 00:00:00", 2444, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 12 1985 00:00:00", 3364, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 13 1985 00:00:00", 5769, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 14 1985 00:00:00", 3123, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 15 1985 00:00:00", 3459, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 16 1985 00:00:00", 3779, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 17 1985 00:00:00", 4610, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 18 1985 00:00:00", 3235, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 19 1985 00:00:00", 2491, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 20 1985 00:00:00", 2761, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 21 1985 00:00:00", 3407, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 22 1985 00:00:00", 2986, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 23 1985 00:00:00", 4554, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 24 1985 00:00:00", 4246, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 25 1985 00:00:00", 4339, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 26 1985 00:00:00", 3925, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 27 1985 00:00:00", 3554, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 28 1985 00:00:00", 2428, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 29 1985 00:00:00", 2386, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 30 1985 00:00:00", 3483, 420, 42, "Crescent River", "Sockeye"], [1985, "July, 31 1985 00:00:00", 23033, 420, 42, "Crescent River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "June, 15 1985 00:00:00",
+      6,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 16 1985 00:00:00",
+      24,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 17 1985 00:00:00",
+      19,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 18 1985 00:00:00",
+      7,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 19 1985 00:00:00",
+      5,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 20 1985 00:00:00",
+      19,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 21 1985 00:00:00",
+      8,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 22 1985 00:00:00",
+      4,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 23 1985 00:00:00",
+      20,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 24 1985 00:00:00",
+      19,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 25 1985 00:00:00",
+      16,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 26 1985 00:00:00",
+      32,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 27 1985 00:00:00",
+      64,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 28 1985 00:00:00",
+      68,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 29 1985 00:00:00",
+      377,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 30 1985 00:00:00",
+      169,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 01 1985 00:00:00",
+      210,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 02 1985 00:00:00",
+      480,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 03 1985 00:00:00",
+      490,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 04 1985 00:00:00",
+      5300,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 05 1985 00:00:00",
+      10409,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 06 1985 00:00:00",
+      6480,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 07 1985 00:00:00",
+      1035,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 08 1985 00:00:00",
+      3764,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 09 1985 00:00:00",
+      3222,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 10 1985 00:00:00",
+      3005,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 11 1985 00:00:00",
+      2444,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 12 1985 00:00:00",
+      3364,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 13 1985 00:00:00",
+      5769,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 14 1985 00:00:00",
+      3123,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 15 1985 00:00:00",
+      3459,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 16 1985 00:00:00",
+      3779,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 17 1985 00:00:00",
+      4610,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 18 1985 00:00:00",
+      3235,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 19 1985 00:00:00",
+      2491,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 20 1985 00:00:00",
+      2761,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 21 1985 00:00:00",
+      3407,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 22 1985 00:00:00",
+      2986,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 23 1985 00:00:00",
+      4554,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 24 1985 00:00:00",
+      4246,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 25 1985 00:00:00",
+      4339,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 26 1985 00:00:00",
+      3925,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 27 1985 00:00:00",
+      3554,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 28 1985 00:00:00",
+      2428,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 29 1985 00:00:00",
+      2386,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 30 1985 00:00:00",
+      3483,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 31 1985 00:00:00",
+      23033,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 42,
+    "species_id": "420",
+    "year": "1985",
+    "totalRecords": 47,
+    "totalCount": 128628,
+    "source": "ADFG JSON API",
+    "last_updated": "1985-12-31T00:00:00"
+  }
+}

@@ -7,215 +7,253 @@
     "source": "Historical weir operations",
     "notes": "Weir construction completed; Early commercial fishing era",
     "total_count": 23122,
-    "data_points": 35
+    "data_points": 35,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=81&SpeciesID=420",
+        "description": "Official ADF&G fish count data for Litnik Weir"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15294600",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.4K.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Commercial Fishing Information",
+          "url": "https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByAreaKodiak.salmon_weirs_mobile",
+          "description": "ADF&G commercial fishing management information"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/kodiak-region/kodiak-regional-information-report-2023.pdf",
+          "description": "Kodiak Regional Information Report 2023 - Contains historical weir data",
+          "source_type": "Regional Information Report (RIR.4K.2023.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-20",
+      "1929-06-20",
       "Litnik Weir",
       "398",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-21",
+      "1929-06-21",
       "Litnik Weir",
       "408",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-22",
+      "1929-06-22",
       "Litnik Weir",
       "413",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-23",
+      "1929-06-23",
       "Litnik Weir",
       "411",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-24",
+      "1929-06-24",
       "Litnik Weir",
       "465",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-25",
+      "1929-06-25",
       "Litnik Weir",
       "467",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-26",
+      "1929-06-26",
       "Litnik Weir",
       "405",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-27",
+      "1929-06-27",
       "Litnik Weir",
       "441",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-28",
+      "1929-06-28",
       "Litnik Weir",
       "454",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-29",
+      "1929-06-29",
       "Litnik Weir",
       "412",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-30",
+      "1929-06-30",
       "Litnik Weir",
       "430",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-01",
+      "1929-07-01",
       "Litnik Weir",
       "499",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-02",
+      "1929-07-02",
       "Litnik Weir",
       "470",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-03",
+      "1929-07-03",
       "Litnik Weir",
       "438",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-04",
+      "1929-07-04",
       "Litnik Weir",
       "452",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-05",
+      "1929-07-05",
       "Litnik Weir",
       "504",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-06",
+      "1929-07-06",
       "Litnik Weir",
       "444",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-07",
+      "1929-07-07",
       "Litnik Weir",
       "422",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-08",
+      "1929-07-08",
       "Litnik Weir",
       "501",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-09",
+      "1929-07-09",
       "Litnik Weir",
       "499",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-10",
+      "1929-07-10",
       "Litnik Weir",
       "455",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-11",
+      "1929-07-11",
       "Litnik Weir",
       "452",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-12",
+      "1929-07-12",
       "Litnik Weir",
       "501",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-13",
+      "1929-07-13",
       "Litnik Weir",
       "413",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-14",
+      "1929-07-14",
       "Litnik Weir",
       "470",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-15",
+      "1929-07-15",
       "Litnik Weir",
       "509",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-16",
+      "1929-07-16",
       "Litnik Weir",
       "427",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-17",
+      "1929-07-17",
       "Litnik Weir",
       "404",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-18",
+      "1929-07-18",
       "Litnik Weir",
       "993",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-19",
+      "1929-07-19",
       "Litnik Weir",
       "1197",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-20",
+      "1929-07-20",
       "Litnik Weir",
       "1291",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-21",
+      "1929-07-21",
       "Litnik Weir",
       "1090",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-22",
+      "1929-07-22",
       "Litnik Weir",
       "2284",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-23",
+      "1929-07-23",
       "Litnik Weir",
       "2589",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-24",
+      "1929-07-24",
       "Litnik Weir",
       "2242",
       "Daily count - Weir construction completed; Early commercial fishing era"

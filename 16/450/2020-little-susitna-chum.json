@@ -1,1 +1,472 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2020, "July, 09 2020 00:00:00", 7, 450, 16, "Little Susitna", "Chum"], [2020, "July, 11 2020 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [2020, "July, 12 2020 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [2020, "July, 13 2020 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [2020, "July, 16 2020 00:00:00", 33, 450, 16, "Little Susitna", "Chum"], [2020, "July, 17 2020 00:00:00", 62, 450, 16, "Little Susitna", "Chum"], [2020, "July, 18 2020 00:00:00", 142, 450, 16, "Little Susitna", "Chum"], [2020, "July, 19 2020 00:00:00", 89, 450, 16, "Little Susitna", "Chum"], [2020, "July, 20 2020 00:00:00", 400, 450, 16, "Little Susitna", "Chum"], [2020, "July, 21 2020 00:00:00", 282, 450, 16, "Little Susitna", "Chum"], [2020, "July, 22 2020 00:00:00", 199, 450, 16, "Little Susitna", "Chum"], [2020, "July, 23 2020 00:00:00", 175, 450, 16, "Little Susitna", "Chum"], [2020, "July, 24 2020 00:00:00", 294, 450, 16, "Little Susitna", "Chum"], [2020, "July, 25 2020 00:00:00", 112, 450, 16, "Little Susitna", "Chum"], [2020, "July, 26 2020 00:00:00", 1596, 450, 16, "Little Susitna", "Chum"], [2020, "July, 27 2020 00:00:00", 141, 450, 16, "Little Susitna", "Chum"], [2020, "July, 28 2020 00:00:00", 668, 450, 16, "Little Susitna", "Chum"], [2020, "July, 29 2020 00:00:00", 2298, 450, 16, "Little Susitna", "Chum"], [2020, "July, 30 2020 00:00:00", 825, 450, 16, "Little Susitna", "Chum"], [2020, "July, 31 2020 00:00:00", 1063, 450, 16, "Little Susitna", "Chum"], [2020, "August, 01 2020 00:00:00", 1114, 450, 16, "Little Susitna", "Chum"], [2020, "August, 02 2020 00:00:00", 349, 450, 16, "Little Susitna", "Chum"], [2020, "August, 03 2020 00:00:00", 350, 450, 16, "Little Susitna", "Chum"], [2020, "August, 04 2020 00:00:00", 809, 450, 16, "Little Susitna", "Chum"], [2020, "August, 05 2020 00:00:00", 837, 450, 16, "Little Susitna", "Chum"], [2020, "August, 06 2020 00:00:00", 638, 450, 16, "Little Susitna", "Chum"], [2020, "August, 07 2020 00:00:00", 192, 450, 16, "Little Susitna", "Chum"], [2020, "August, 08 2020 00:00:00", 413, 450, 16, "Little Susitna", "Chum"], [2020, "August, 09 2020 00:00:00", 383, 450, 16, "Little Susitna", "Chum"], [2020, "August, 10 2020 00:00:00", 367, 450, 16, "Little Susitna", "Chum"], [2020, "August, 11 2020 00:00:00", 265, 450, 16, "Little Susitna", "Chum"], [2020, "August, 12 2020 00:00:00", 362, 450, 16, "Little Susitna", "Chum"], [2020, "August, 13 2020 00:00:00", 315, 450, 16, "Little Susitna", "Chum"], [2020, "August, 14 2020 00:00:00", 251, 450, 16, "Little Susitna", "Chum"], [2020, "August, 15 2020 00:00:00", 271, 450, 16, "Little Susitna", "Chum"], [2020, "August, 16 2020 00:00:00", 231, 450, 16, "Little Susitna", "Chum"], [2020, "August, 17 2020 00:00:00", 122, 450, 16, "Little Susitna", "Chum"], [2020, "August, 18 2020 00:00:00", 102, 450, 16, "Little Susitna", "Chum"], [2020, "August, 19 2020 00:00:00", 45, 450, 16, "Little Susitna", "Chum"], [2020, "August, 20 2020 00:00:00", 53, 450, 16, "Little Susitna", "Chum"], [2020, "August, 21 2020 00:00:00", 83, 450, 16, "Little Susitna", "Chum"], [2020, "August, 22 2020 00:00:00", 79, 450, 16, "Little Susitna", "Chum"], [2020, "August, 23 2020 00:00:00", 34, 450, 16, "Little Susitna", "Chum"], [2020, "August, 24 2020 00:00:00", 39, 450, 16, "Little Susitna", "Chum"], [2020, "August, 25 2020 00:00:00", 12, 450, 16, "Little Susitna", "Chum"], [2020, "August, 26 2020 00:00:00", 12, 450, 16, "Little Susitna", "Chum"], [2020, "August, 27 2020 00:00:00", 9, 450, 16, "Little Susitna", "Chum"], [2020, "August, 28 2020 00:00:00", 14, 450, 16, "Little Susitna", "Chum"], [2020, "August, 29 2020 00:00:00", 7, 450, 16, "Little Susitna", "Chum"], [2020, "August, 30 2020 00:00:00", 1, 450, 16, "Little Susitna", "Chum"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "July, 09 2020 00:00:00",
+      7,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 11 2020 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 12 2020 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 13 2020 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 16 2020 00:00:00",
+      33,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 17 2020 00:00:00",
+      62,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 18 2020 00:00:00",
+      142,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 19 2020 00:00:00",
+      89,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 20 2020 00:00:00",
+      400,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 21 2020 00:00:00",
+      282,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 22 2020 00:00:00",
+      199,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 23 2020 00:00:00",
+      175,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 24 2020 00:00:00",
+      294,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 25 2020 00:00:00",
+      112,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 26 2020 00:00:00",
+      1596,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 27 2020 00:00:00",
+      141,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 28 2020 00:00:00",
+      668,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 29 2020 00:00:00",
+      2298,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 30 2020 00:00:00",
+      825,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 31 2020 00:00:00",
+      1063,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 01 2020 00:00:00",
+      1114,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 02 2020 00:00:00",
+      349,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 03 2020 00:00:00",
+      350,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 04 2020 00:00:00",
+      809,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 05 2020 00:00:00",
+      837,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 06 2020 00:00:00",
+      638,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 07 2020 00:00:00",
+      192,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 08 2020 00:00:00",
+      413,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 09 2020 00:00:00",
+      383,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 10 2020 00:00:00",
+      367,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 11 2020 00:00:00",
+      265,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 12 2020 00:00:00",
+      362,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 13 2020 00:00:00",
+      315,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 14 2020 00:00:00",
+      251,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 15 2020 00:00:00",
+      271,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 16 2020 00:00:00",
+      231,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 17 2020 00:00:00",
+      122,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 18 2020 00:00:00",
+      102,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 19 2020 00:00:00",
+      45,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 20 2020 00:00:00",
+      53,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 21 2020 00:00:00",
+      83,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 22 2020 00:00:00",
+      79,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 23 2020 00:00:00",
+      34,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 24 2020 00:00:00",
+      39,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 25 2020 00:00:00",
+      12,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 26 2020 00:00:00",
+      12,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 27 2020 00:00:00",
+      9,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 28 2020 00:00:00",
+      14,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 29 2020 00:00:00",
+      7,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 30 2020 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 16,
+    "species_id": "450",
+    "year": "2020",
+    "totalRecords": 50,
+    "totalCount": 16145,
+    "source": "ADFG JSON API",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,292 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1957, "July, 01 1957 00:00:00", 9960, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 02 1957 00:00:00", 20136, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 03 1957 00:00:00", 3042, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 04 1957 00:00:00", 7524, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 05 1957 00:00:00", 8848, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 06 1957 00:00:00", 5632, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 07 1957 00:00:00", 7552, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 08 1957 00:00:00", 13656, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 09 1957 00:00:00", 20826, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 10 1957 00:00:00", 44664, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 11 1957 00:00:00", 85639, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 12 1957 00:00:00", 64132, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 13 1957 00:00:00", 35985, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 14 1957 00:00:00", 8722, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 15 1957 00:00:00", 17179, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 16 1957 00:00:00", 21302, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 17 1957 00:00:00", 361, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 18 1957 00:00:00", 3783, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 19 1957 00:00:00", 4596, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 20 1957 00:00:00", 3063, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 21 1957 00:00:00", 120, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 22 1957 00:00:00", 1169, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 23 1957 00:00:00", 681, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 24 1957 00:00:00", 1205, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 25 1957 00:00:00", 801, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 26 1957 00:00:00", 154, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 27 1957 00:00:00", 295, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 28 1957 00:00:00", 42, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 29 1957 00:00:00", 42, 420, 45, "Egegik River", "Sockeye"], [1957, "July, 30 1957 00:00:00", 96, 420, 45, "Egegik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1957,
+      "July, 01 1957 00:00:00",
+      9960,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 02 1957 00:00:00",
+      20136,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 03 1957 00:00:00",
+      3042,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 04 1957 00:00:00",
+      7524,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 05 1957 00:00:00",
+      8848,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 06 1957 00:00:00",
+      5632,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 07 1957 00:00:00",
+      7552,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 08 1957 00:00:00",
+      13656,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 09 1957 00:00:00",
+      20826,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 10 1957 00:00:00",
+      44664,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 11 1957 00:00:00",
+      85639,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 12 1957 00:00:00",
+      64132,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 13 1957 00:00:00",
+      35985,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 14 1957 00:00:00",
+      8722,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 15 1957 00:00:00",
+      17179,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 16 1957 00:00:00",
+      21302,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 17 1957 00:00:00",
+      361,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 18 1957 00:00:00",
+      3783,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 19 1957 00:00:00",
+      4596,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 20 1957 00:00:00",
+      3063,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 21 1957 00:00:00",
+      120,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 22 1957 00:00:00",
+      1169,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 23 1957 00:00:00",
+      681,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 24 1957 00:00:00",
+      1205,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 25 1957 00:00:00",
+      801,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 26 1957 00:00:00",
+      154,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 27 1957 00:00:00",
+      295,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 28 1957 00:00:00",
+      42,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 29 1957 00:00:00",
+      42,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1957,
+      "July, 30 1957 00:00:00",
+      96,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 45,
+    "species_id": "420",
+    "year": "1957",
+    "totalRecords": 30,
+    "totalCount": 391207,
+    "source": "ADFG JSON API",
+    "last_updated": "1957-12-31T00:00:00"
+  }
+}

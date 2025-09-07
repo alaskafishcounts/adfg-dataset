@@ -1,1 +1,310 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1997, "June, 23 1997 00:00:00", 474, 420, 49, "Igushik River", "Sockeye"], [1997, "June, 24 1997 00:00:00", 804, 420, 49, "Igushik River", "Sockeye"], [1997, "June, 25 1997 00:00:00", 972, 420, 49, "Igushik River", "Sockeye"], [1997, "June, 26 1997 00:00:00", 738, 420, 49, "Igushik River", "Sockeye"], [1997, "June, 27 1997 00:00:00", 1872, 420, 49, "Igushik River", "Sockeye"], [1997, "June, 28 1997 00:00:00", 2364, 420, 49, "Igushik River", "Sockeye"], [1997, "June, 29 1997 00:00:00", 2640, 420, 49, "Igushik River", "Sockeye"], [1997, "June, 30 1997 00:00:00", 1626, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 01 1997 00:00:00", 1044, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 02 1997 00:00:00", 1074, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 03 1997 00:00:00", 1062, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 04 1997 00:00:00", 2094, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 05 1997 00:00:00", 2694, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 06 1997 00:00:00", 4638, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 07 1997 00:00:00", 2622, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 08 1997 00:00:00", 3132, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 09 1997 00:00:00", 5220, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 10 1997 00:00:00", 6954, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 11 1997 00:00:00", 8706, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 12 1997 00:00:00", 8346, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 13 1997 00:00:00", 7158, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 14 1997 00:00:00", 6786, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 15 1997 00:00:00", 7428, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 16 1997 00:00:00", 8622, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 17 1997 00:00:00", 8532, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 18 1997 00:00:00", 8526, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 19 1997 00:00:00", 6114, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 20 1997 00:00:00", 4356, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 21 1997 00:00:00", 3732, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 22 1997 00:00:00", 2598, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 23 1997 00:00:00", 2256, 420, 49, "Igushik River", "Sockeye"], [1997, "July, 24 1997 00:00:00", 2520, 420, 49, "Igushik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "June, 23 1997 00:00:00",
+      474,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "June, 24 1997 00:00:00",
+      804,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "June, 25 1997 00:00:00",
+      972,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "June, 26 1997 00:00:00",
+      738,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "June, 27 1997 00:00:00",
+      1872,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "June, 28 1997 00:00:00",
+      2364,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "June, 29 1997 00:00:00",
+      2640,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "June, 30 1997 00:00:00",
+      1626,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 01 1997 00:00:00",
+      1044,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 02 1997 00:00:00",
+      1074,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 03 1997 00:00:00",
+      1062,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 04 1997 00:00:00",
+      2094,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 05 1997 00:00:00",
+      2694,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 06 1997 00:00:00",
+      4638,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 07 1997 00:00:00",
+      2622,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 08 1997 00:00:00",
+      3132,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 09 1997 00:00:00",
+      5220,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 10 1997 00:00:00",
+      6954,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 11 1997 00:00:00",
+      8706,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 12 1997 00:00:00",
+      8346,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 13 1997 00:00:00",
+      7158,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 14 1997 00:00:00",
+      6786,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 15 1997 00:00:00",
+      7428,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 16 1997 00:00:00",
+      8622,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 17 1997 00:00:00",
+      8532,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 18 1997 00:00:00",
+      8526,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 19 1997 00:00:00",
+      6114,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 20 1997 00:00:00",
+      4356,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 21 1997 00:00:00",
+      3732,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 22 1997 00:00:00",
+      2598,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 23 1997 00:00:00",
+      2256,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1997,
+      "July, 24 1997 00:00:00",
+      2520,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 49,
+    "species_id": "420",
+    "year": "1997",
+    "totalRecords": 32,
+    "totalCount": 127704,
+    "source": "ADFG JSON API",
+    "last_updated": "1997-12-31T00:00:00"
+  }
+}

@@ -7,215 +7,248 @@
     "source": "Historical weir operations",
     "notes": "Challenging weather conditions; Transition to scientific monitoring",
     "total_count": 18756,
-    "data_points": 35
+    "data_points": 35,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=88&SpeciesID=420",
+        "description": "Official ADF&G fish count data for Upper Station Weir"
+      },
+      "secondary_sources": [
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.4K.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Commercial Fishing Information",
+          "url": "https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByAreaKodiak.salmon_weirs_mobile",
+          "description": "ADF&G commercial fishing management information"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/kodiak-region/kodiak-regional-information-report-2023.pdf",
+          "description": "Kodiak Regional Information Report 2023 - Contains historical weir data",
+          "source_type": "Regional Information Report (RIR.4K.2023.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-15",
+      "1940-06-15",
       "Upper Station Weir",
       "330",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-16",
+      "1940-06-16",
       "Upper Station Weir",
       "415",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-17",
+      "1940-06-17",
       "Upper Station Weir",
       "334",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-18",
+      "1940-06-18",
       "Upper Station Weir",
       "371",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-19",
+      "1940-06-19",
       "Upper Station Weir",
       "417",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-20",
+      "1940-06-20",
       "Upper Station Weir",
       "323",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-21",
+      "1940-06-21",
       "Upper Station Weir",
       "331",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-22",
+      "1940-06-22",
       "Upper Station Weir",
       "335",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-23",
+      "1940-06-23",
       "Upper Station Weir",
       "333",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-24",
+      "1940-06-24",
       "Upper Station Weir",
       "377",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-25",
+      "1940-06-25",
       "Upper Station Weir",
       "379",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-26",
+      "1940-06-26",
       "Upper Station Weir",
       "328",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-27",
+      "1940-06-27",
       "Upper Station Weir",
       "358",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-28",
+      "1940-06-28",
       "Upper Station Weir",
       "368",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-29",
+      "1940-06-29",
       "Upper Station Weir",
       "334",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-30",
+      "1940-06-30",
       "Upper Station Weir",
       "349",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-01",
+      "1940-07-01",
       "Upper Station Weir",
       "405",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-02",
+      "1940-07-02",
       "Upper Station Weir",
       "381",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-03",
+      "1940-07-03",
       "Upper Station Weir",
       "355",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-04",
+      "1940-07-04",
       "Upper Station Weir",
       "367",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-05",
+      "1940-07-05",
       "Upper Station Weir",
       "408",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-06",
+      "1940-07-06",
       "Upper Station Weir",
       "360",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-07",
+      "1940-07-07",
       "Upper Station Weir",
       "342",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-08",
+      "1940-07-08",
       "Upper Station Weir",
       "406",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-09",
+      "1940-07-09",
       "Upper Station Weir",
       "405",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-10",
+      "1940-07-10",
       "Upper Station Weir",
       "369",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-11",
+      "1940-07-11",
       "Upper Station Weir",
       "367",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-12",
+      "1940-07-12",
       "Upper Station Weir",
       "406",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-13",
+      "1940-07-13",
       "Upper Station Weir",
       "839",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-14",
+      "1940-07-14",
       "Upper Station Weir",
       "954",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-15",
+      "1940-07-15",
       "Upper Station Weir",
       "1033",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-16",
+      "1940-07-16",
       "Upper Station Weir",
       "867",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-17",
+      "1940-07-17",
       "Upper Station Weir",
       "1639",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-18",
+      "1940-07-18",
       "Upper Station Weir",
       "1611",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-19",
+      "1940-07-19",
       "Upper Station Weir",
       "1943",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"

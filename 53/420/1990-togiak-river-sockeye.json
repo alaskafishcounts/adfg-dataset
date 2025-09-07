@@ -1,1 +1,373 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1990, "July, 03 1990 00:00:00", 84, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 04 1990 00:00:00", 1062, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 05 1990 00:00:00", 2142, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 06 1990 00:00:00", 852, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 07 1990 00:00:00", 516, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 08 1990 00:00:00", 1206, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 09 1990 00:00:00", 1950, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 10 1990 00:00:00", 2220, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 11 1990 00:00:00", 4344, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 12 1990 00:00:00", 4770, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 13 1990 00:00:00", 5424, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 14 1990 00:00:00", 3384, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 15 1990 00:00:00", 1392, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 16 1990 00:00:00", 3414, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 17 1990 00:00:00", 4164, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 18 1990 00:00:00", 5328, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 19 1990 00:00:00", 4122, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 20 1990 00:00:00", 5118, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 21 1990 00:00:00", 4728, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 22 1990 00:00:00", 4998, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 23 1990 00:00:00", 5244, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 24 1990 00:00:00", 4824, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 25 1990 00:00:00", 9414, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 26 1990 00:00:00", 6660, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 27 1990 00:00:00", 2832, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 28 1990 00:00:00", 4284, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 29 1990 00:00:00", 6282, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 30 1990 00:00:00", 3642, 420, 53, "Togiak River", "Sockeye"], [1990, "July, 31 1990 00:00:00", 3708, 420, 53, "Togiak River", "Sockeye"], [1990, "August, 01 1990 00:00:00", 3702, 420, 53, "Togiak River", "Sockeye"], [1990, "August, 02 1990 00:00:00", 5370, 420, 53, "Togiak River", "Sockeye"], [1990, "August, 03 1990 00:00:00", 5136, 420, 53, "Togiak River", "Sockeye"], [1990, "August, 04 1990 00:00:00", 4056, 420, 53, "Togiak River", "Sockeye"], [1990, "August, 05 1990 00:00:00", 2118, 420, 53, "Togiak River", "Sockeye"], [1990, "August, 06 1990 00:00:00", 3084, 420, 53, "Togiak River", "Sockeye"], [1990, "August, 07 1990 00:00:00", 2046, 420, 53, "Togiak River", "Sockeye"], [1990, "August, 08 1990 00:00:00", 1620, 420, 53, "Togiak River", "Sockeye"], [1990, "August, 09 1990 00:00:00", 2904, 420, 53, "Togiak River", "Sockeye"], [1990, "August, 10 1990 00:00:00", 3833, 420, 53, "Togiak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "July, 03 1990 00:00:00",
+      84,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 04 1990 00:00:00",
+      1062,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 05 1990 00:00:00",
+      2142,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 06 1990 00:00:00",
+      852,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 07 1990 00:00:00",
+      516,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 08 1990 00:00:00",
+      1206,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 09 1990 00:00:00",
+      1950,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 10 1990 00:00:00",
+      2220,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 11 1990 00:00:00",
+      4344,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 12 1990 00:00:00",
+      4770,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 13 1990 00:00:00",
+      5424,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 14 1990 00:00:00",
+      3384,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 15 1990 00:00:00",
+      1392,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 16 1990 00:00:00",
+      3414,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 17 1990 00:00:00",
+      4164,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 18 1990 00:00:00",
+      5328,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 19 1990 00:00:00",
+      4122,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 20 1990 00:00:00",
+      5118,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 21 1990 00:00:00",
+      4728,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 22 1990 00:00:00",
+      4998,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 23 1990 00:00:00",
+      5244,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 24 1990 00:00:00",
+      4824,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 25 1990 00:00:00",
+      9414,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 26 1990 00:00:00",
+      6660,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 27 1990 00:00:00",
+      2832,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 28 1990 00:00:00",
+      4284,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 29 1990 00:00:00",
+      6282,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 30 1990 00:00:00",
+      3642,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 31 1990 00:00:00",
+      3708,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 01 1990 00:00:00",
+      3702,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 02 1990 00:00:00",
+      5370,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 03 1990 00:00:00",
+      5136,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 04 1990 00:00:00",
+      4056,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 05 1990 00:00:00",
+      2118,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 06 1990 00:00:00",
+      3084,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 07 1990 00:00:00",
+      2046,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 08 1990 00:00:00",
+      1620,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 09 1990 00:00:00",
+      2904,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 10 1990 00:00:00",
+      3833,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 53,
+    "species_id": "420",
+    "year": "1990",
+    "totalRecords": 39,
+    "totalCount": 141977,
+    "source": "ADFG JSON API",
+    "last_updated": "1990-12-31T00:00:00"
+  }
+}

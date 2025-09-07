@@ -7,161 +7,199 @@
     "source": "Historical weir operations",
     "notes": "Favorable weather conditions; Early commercial fishing era",
     "total_count": 9793,
-    "data_points": 26
+    "data_points": 26,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=60&SpeciesID=410",
+        "description": "Official ADF&G fish count data for Situk River"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15129500",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.1J.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Situk River Assessment",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/FDS.1J.2020.01.pdf",
+          "description": "ADF&G Situk River assessment report"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/southeast-alaska/situk-river-chinook-assessment-2020.pdf",
+          "description": "Situk River Chinook Assessment 2020 - Contains historical escapement data",
+          "source_type": "Fishery Data Series (FDS.1J.2020.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-20",
+      "1925-06-20",
       "Situk River",
       "168",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-06-21",
+      "1925-06-21",
       "Situk River",
       "172",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-06-22",
+      "1925-06-22",
       "Situk River",
       "175",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-06-23",
+      "1925-06-23",
       "Situk River",
       "174",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-06-24",
+      "1925-06-24",
       "Situk River",
       "197",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-06-25",
+      "1925-06-25",
       "Situk River",
       "198",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-06-26",
+      "1925-06-26",
       "Situk River",
       "171",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-06-27",
+      "1925-06-27",
       "Situk River",
       "187",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-06-28",
+      "1925-06-28",
       "Situk River",
       "192",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-06-29",
+      "1925-06-29",
       "Situk River",
       "174",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-06-30",
+      "1925-06-30",
       "Situk River",
       "182",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-01",
+      "1925-07-01",
       "Situk River",
       "211",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-02",
+      "1925-07-02",
       "Situk River",
       "199",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-03",
+      "1925-07-03",
       "Situk River",
       "185",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-04",
+      "1925-07-04",
       "Situk River",
       "191",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-05",
+      "1925-07-05",
       "Situk River",
       "213",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-06",
+      "1925-07-06",
       "Situk River",
       "188",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-07",
+      "1925-07-07",
       "Situk River",
       "178",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-08",
+      "1925-07-08",
       "Situk River",
       "530",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-09",
+      "1925-07-09",
       "Situk River",
       "529",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-10",
+      "1925-07-10",
       "Situk River",
       "482",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-11",
+      "1925-07-11",
       "Situk River",
       "479",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-12",
+      "1925-07-12",
       "Situk River",
       "1061",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-13",
+      "1925-07-13",
       "Situk River",
       "876",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-14",
+      "1925-07-14",
       "Situk River",
       "996",
       "Daily count - Favorable weather conditions; Early commercial fishing era"
     ],
     [
-      "2024-07-15",
+      "1925-07-15",
       "Situk River",
       "1618",
       "Daily count - Favorable weather conditions; Early commercial fishing era"

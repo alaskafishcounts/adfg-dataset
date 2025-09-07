@@ -1,1 +1,526 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1987, "June, 13 1987 00:00:00", 2221, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 14 1987 00:00:00", 3238, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 15 1987 00:00:00", 3526, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 16 1987 00:00:00", 4944, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 17 1987 00:00:00", 4021, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 18 1987 00:00:00", 3628, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 19 1987 00:00:00", 6588, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 20 1987 00:00:00", 5972, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 21 1987 00:00:00", 4729, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 22 1987 00:00:00", 2229, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 23 1987 00:00:00", 1353, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 24 1987 00:00:00", 1504, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 25 1987 00:00:00", 2119, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 26 1987 00:00:00", 1899, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 27 1987 00:00:00", 1423, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 28 1987 00:00:00", 1566, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 29 1987 00:00:00", 3450, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "June, 30 1987 00:00:00", 3110, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 01 1987 00:00:00", 4974, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 02 1987 00:00:00", 6997, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 03 1987 00:00:00", 5375, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 04 1987 00:00:00", 4626, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 05 1987 00:00:00", 5979, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 06 1987 00:00:00", 7110, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 07 1987 00:00:00", 4746, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 08 1987 00:00:00", 4688, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 09 1987 00:00:00", 3799, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 10 1987 00:00:00", 2883, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 11 1987 00:00:00", 1847, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 12 1987 00:00:00", 6051, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 13 1987 00:00:00", 6802, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 14 1987 00:00:00", 3255, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 15 1987 00:00:00", 15976, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 16 1987 00:00:00", 4438, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 17 1987 00:00:00", 2410, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 18 1987 00:00:00", 3163, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 19 1987 00:00:00", 17867, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 20 1987 00:00:00", 7653, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 21 1987 00:00:00", 7964, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 22 1987 00:00:00", 10700, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 23 1987 00:00:00", 10523, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 24 1987 00:00:00", 5634, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 25 1987 00:00:00", 4429, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 26 1987 00:00:00", 2503, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 27 1987 00:00:00", 3113, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 28 1987 00:00:00", 3259, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 29 1987 00:00:00", 3000, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 30 1987 00:00:00", 4007, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "July, 31 1987 00:00:00", 6233, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "August, 01 1987 00:00:00", 3365, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "August, 02 1987 00:00:00", 1298, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "August, 03 1987 00:00:00", 1162, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "August, 04 1987 00:00:00", 1066, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "August, 05 1987 00:00:00", 723, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "August, 06 1987 00:00:00", 446, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1987, "August, 07 1987 00:00:00", 1277, 420, 41, "Kasilof River (sockeye)", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "June, 13 1987 00:00:00",
+      2221,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 14 1987 00:00:00",
+      3238,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 15 1987 00:00:00",
+      3526,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 16 1987 00:00:00",
+      4944,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 17 1987 00:00:00",
+      4021,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 18 1987 00:00:00",
+      3628,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 19 1987 00:00:00",
+      6588,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 20 1987 00:00:00",
+      5972,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 21 1987 00:00:00",
+      4729,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 22 1987 00:00:00",
+      2229,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 23 1987 00:00:00",
+      1353,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 24 1987 00:00:00",
+      1504,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 25 1987 00:00:00",
+      2119,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 26 1987 00:00:00",
+      1899,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 27 1987 00:00:00",
+      1423,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 28 1987 00:00:00",
+      1566,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 29 1987 00:00:00",
+      3450,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 30 1987 00:00:00",
+      3110,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 01 1987 00:00:00",
+      4974,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 02 1987 00:00:00",
+      6997,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 03 1987 00:00:00",
+      5375,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 04 1987 00:00:00",
+      4626,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 05 1987 00:00:00",
+      5979,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 06 1987 00:00:00",
+      7110,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 07 1987 00:00:00",
+      4746,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 08 1987 00:00:00",
+      4688,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 09 1987 00:00:00",
+      3799,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 10 1987 00:00:00",
+      2883,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 11 1987 00:00:00",
+      1847,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 12 1987 00:00:00",
+      6051,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 13 1987 00:00:00",
+      6802,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 14 1987 00:00:00",
+      3255,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 15 1987 00:00:00",
+      15976,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 16 1987 00:00:00",
+      4438,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 17 1987 00:00:00",
+      2410,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 18 1987 00:00:00",
+      3163,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 19 1987 00:00:00",
+      17867,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 20 1987 00:00:00",
+      7653,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 21 1987 00:00:00",
+      7964,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 22 1987 00:00:00",
+      10700,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 23 1987 00:00:00",
+      10523,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 24 1987 00:00:00",
+      5634,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 25 1987 00:00:00",
+      4429,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 26 1987 00:00:00",
+      2503,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 27 1987 00:00:00",
+      3113,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 28 1987 00:00:00",
+      3259,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 29 1987 00:00:00",
+      3000,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 30 1987 00:00:00",
+      4007,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 31 1987 00:00:00",
+      6233,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 01 1987 00:00:00",
+      3365,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 02 1987 00:00:00",
+      1298,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 03 1987 00:00:00",
+      1162,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 04 1987 00:00:00",
+      1066,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 05 1987 00:00:00",
+      723,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 06 1987 00:00:00",
+      446,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "August, 07 1987 00:00:00",
+      1277,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 41,
+    "species_id": "420",
+    "year": "1987",
+    "totalRecords": 56,
+    "totalCount": 248861,
+    "source": "ADFG JSON API",
+    "last_updated": "1987-12-31T00:00:00"
+  }
+}

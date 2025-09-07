@@ -1,1 +1,463 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1993, "June, 23 1993 00:00:00", 450, 420, 29, "Saltery Creek", "Sockeye"], [1993, "June, 24 1993 00:00:00", 213, 420, 29, "Saltery Creek", "Sockeye"], [1993, "June, 25 1993 00:00:00", 1012, 420, 29, "Saltery Creek", "Sockeye"], [1993, "June, 26 1993 00:00:00", 587, 420, 29, "Saltery Creek", "Sockeye"], [1993, "June, 27 1993 00:00:00", 797, 420, 29, "Saltery Creek", "Sockeye"], [1993, "June, 28 1993 00:00:00", 345, 420, 29, "Saltery Creek", "Sockeye"], [1993, "June, 29 1993 00:00:00", 1407, 420, 29, "Saltery Creek", "Sockeye"], [1993, "June, 30 1993 00:00:00", 2460, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 01 1993 00:00:00", 2215, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 02 1993 00:00:00", 5548, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 03 1993 00:00:00", 3804, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 04 1993 00:00:00", 1254, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 05 1993 00:00:00", 1584, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 06 1993 00:00:00", 4606, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 07 1993 00:00:00", 8557, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 08 1993 00:00:00", 799, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 09 1993 00:00:00", 445, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 10 1993 00:00:00", 337, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 11 1993 00:00:00", 2006, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 12 1993 00:00:00", 1515, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 13 1993 00:00:00", 2542, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 14 1993 00:00:00", 2536, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 15 1993 00:00:00", 1342, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 16 1993 00:00:00", 1221, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 17 1993 00:00:00", 1116, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 18 1993 00:00:00", 815, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 19 1993 00:00:00", 1426, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 20 1993 00:00:00", 2378, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 21 1993 00:00:00", 1962, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 22 1993 00:00:00", 1208, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 23 1993 00:00:00", 2022, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 24 1993 00:00:00", 1186, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 25 1993 00:00:00", 726, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 26 1993 00:00:00", 1904, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 27 1993 00:00:00", 1102, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 28 1993 00:00:00", 860, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 29 1993 00:00:00", 2165, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 30 1993 00:00:00", 1294, 420, 29, "Saltery Creek", "Sockeye"], [1993, "July, 31 1993 00:00:00", 1051, 420, 29, "Saltery Creek", "Sockeye"], [1993, "August, 01 1993 00:00:00", 1342, 420, 29, "Saltery Creek", "Sockeye"], [1993, "August, 02 1993 00:00:00", 833, 420, 29, "Saltery Creek", "Sockeye"], [1993, "August, 03 1993 00:00:00", 703, 420, 29, "Saltery Creek", "Sockeye"], [1993, "August, 04 1993 00:00:00", 919, 420, 29, "Saltery Creek", "Sockeye"], [1993, "August, 05 1993 00:00:00", 351, 420, 29, "Saltery Creek", "Sockeye"], [1993, "August, 06 1993 00:00:00", 515, 420, 29, "Saltery Creek", "Sockeye"], [1993, "August, 07 1993 00:00:00", 505, 420, 29, "Saltery Creek", "Sockeye"], [1993, "August, 08 1993 00:00:00", 421, 420, 29, "Saltery Creek", "Sockeye"], [1993, "August, 09 1993 00:00:00", 921, 420, 29, "Saltery Creek", "Sockeye"], [1993, "August, 10 1993 00:00:00", 1879, 420, 29, "Saltery Creek", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "June, 23 1993 00:00:00",
+      450,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 24 1993 00:00:00",
+      213,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 25 1993 00:00:00",
+      1012,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 26 1993 00:00:00",
+      587,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 27 1993 00:00:00",
+      797,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 28 1993 00:00:00",
+      345,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 29 1993 00:00:00",
+      1407,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 30 1993 00:00:00",
+      2460,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 01 1993 00:00:00",
+      2215,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 02 1993 00:00:00",
+      5548,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 03 1993 00:00:00",
+      3804,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 04 1993 00:00:00",
+      1254,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 05 1993 00:00:00",
+      1584,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 06 1993 00:00:00",
+      4606,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 07 1993 00:00:00",
+      8557,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 08 1993 00:00:00",
+      799,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 09 1993 00:00:00",
+      445,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 10 1993 00:00:00",
+      337,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 11 1993 00:00:00",
+      2006,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 12 1993 00:00:00",
+      1515,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 13 1993 00:00:00",
+      2542,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 14 1993 00:00:00",
+      2536,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 15 1993 00:00:00",
+      1342,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 16 1993 00:00:00",
+      1221,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 17 1993 00:00:00",
+      1116,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 18 1993 00:00:00",
+      815,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 19 1993 00:00:00",
+      1426,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 20 1993 00:00:00",
+      2378,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 21 1993 00:00:00",
+      1962,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 22 1993 00:00:00",
+      1208,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 23 1993 00:00:00",
+      2022,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 24 1993 00:00:00",
+      1186,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 25 1993 00:00:00",
+      726,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 26 1993 00:00:00",
+      1904,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 27 1993 00:00:00",
+      1102,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 28 1993 00:00:00",
+      860,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 29 1993 00:00:00",
+      2165,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 30 1993 00:00:00",
+      1294,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 31 1993 00:00:00",
+      1051,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 01 1993 00:00:00",
+      1342,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 02 1993 00:00:00",
+      833,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 03 1993 00:00:00",
+      703,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 04 1993 00:00:00",
+      919,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 05 1993 00:00:00",
+      351,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 06 1993 00:00:00",
+      515,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 07 1993 00:00:00",
+      505,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 08 1993 00:00:00",
+      421,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 09 1993 00:00:00",
+      921,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 10 1993 00:00:00",
+      1879,
+      420,
+      29,
+      "Saltery Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 29,
+    "species_id": "420",
+    "year": "1993",
+    "totalRecords": 49,
+    "totalCount": 77186,
+    "source": "ADFG JSON API",
+    "last_updated": "1993-12-31T00:00:00"
+  }
+}

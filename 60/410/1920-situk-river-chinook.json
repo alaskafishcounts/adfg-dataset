@@ -7,161 +7,199 @@
     "source": "Historical weir operations",
     "notes": "Early commercial fishing era",
     "total_count": 16464,
-    "data_points": 26
+    "data_points": 26,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=60&SpeciesID=410",
+        "description": "Official ADF&G fish count data for Situk River"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15129500",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.1J.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Situk River Assessment",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/FDS.1J.2020.01.pdf",
+          "description": "ADF&G Situk River assessment report"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/southeast-alaska/situk-river-chinook-assessment-2020.pdf",
+          "description": "Situk River Chinook Assessment 2020 - Contains historical escapement data",
+          "source_type": "Fishery Data Series (FDS.1J.2020.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-20",
+      "1920-06-20",
       "Situk River",
       "283",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-06-21",
+      "1920-06-21",
       "Situk River",
       "290",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-06-22",
+      "1920-06-22",
       "Situk River",
       "294",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-06-23",
+      "1920-06-23",
       "Situk River",
       "292",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-06-24",
+      "1920-06-24",
       "Situk River",
       "331",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-06-25",
+      "1920-06-25",
       "Situk River",
       "333",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-06-26",
+      "1920-06-26",
       "Situk River",
       "288",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-06-27",
+      "1920-06-27",
       "Situk River",
       "314",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-06-28",
+      "1920-06-28",
       "Situk River",
       "323",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-06-29",
+      "1920-06-29",
       "Situk River",
       "293",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-06-30",
+      "1920-06-30",
       "Situk River",
       "306",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-01",
+      "1920-07-01",
       "Situk River",
       "355",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-02",
+      "1920-07-02",
       "Situk River",
       "335",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-03",
+      "1920-07-03",
       "Situk River",
       "312",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-04",
+      "1920-07-04",
       "Situk River",
       "322",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-05",
+      "1920-07-05",
       "Situk River",
       "358",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-06",
+      "1920-07-06",
       "Situk River",
       "316",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-07",
+      "1920-07-07",
       "Situk River",
       "300",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-08",
+      "1920-07-08",
       "Situk River",
       "892",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-09",
+      "1920-07-09",
       "Situk River",
       "889",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-10",
+      "1920-07-10",
       "Situk River",
       "810",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-11",
+      "1920-07-11",
       "Situk River",
       "805",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-12",
+      "1920-07-12",
       "Situk River",
       "1784",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-13",
+      "1920-07-13",
       "Situk River",
       "1473",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-14",
+      "1920-07-14",
       "Situk River",
       "1676",
       "Daily count - Early commercial fishing era"
     ],
     [
-      "2024-07-15",
+      "1920-07-15",
       "Situk River",
       "2721",
       "Daily count - Early commercial fishing era"

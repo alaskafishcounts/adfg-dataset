@@ -1,1 +1,337 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1973, "June, 20 1973 00:00:00", 36, 420, 50, "Wood River", "Sockeye"], [1973, "June, 21 1973 00:00:00", 594, 420, 50, "Wood River", "Sockeye"], [1973, "June, 22 1973 00:00:00", 480, 420, 50, "Wood River", "Sockeye"], [1973, "June, 23 1973 00:00:00", 66, 420, 50, "Wood River", "Sockeye"], [1973, "June, 24 1973 00:00:00", 42, 420, 50, "Wood River", "Sockeye"], [1973, "June, 25 1973 00:00:00", 30, 420, 50, "Wood River", "Sockeye"], [1973, "June, 26 1973 00:00:00", 78, 420, 50, "Wood River", "Sockeye"], [1973, "June, 27 1973 00:00:00", 510, 420, 50, "Wood River", "Sockeye"], [1973, "June, 28 1973 00:00:00", 3468, 420, 50, "Wood River", "Sockeye"], [1973, "June, 29 1973 00:00:00", 3012, 420, 50, "Wood River", "Sockeye"], [1973, "June, 30 1973 00:00:00", 8862, 420, 50, "Wood River", "Sockeye"], [1973, "July, 01 1973 00:00:00", 32442, 420, 50, "Wood River", "Sockeye"], [1973, "July, 02 1973 00:00:00", 8046, 420, 50, "Wood River", "Sockeye"], [1973, "July, 03 1973 00:00:00", 8514, 420, 50, "Wood River", "Sockeye"], [1973, "July, 04 1973 00:00:00", 6210, 420, 50, "Wood River", "Sockeye"], [1973, "July, 05 1973 00:00:00", 2970, 420, 50, "Wood River", "Sockeye"], [1973, "July, 06 1973 00:00:00", 7080, 420, 50, "Wood River", "Sockeye"], [1973, "July, 07 1973 00:00:00", 5034, 420, 50, "Wood River", "Sockeye"], [1973, "July, 08 1973 00:00:00", 35586, 420, 50, "Wood River", "Sockeye"], [1973, "July, 09 1973 00:00:00", 86208, 420, 50, "Wood River", "Sockeye"], [1973, "July, 10 1973 00:00:00", 47844, 420, 50, "Wood River", "Sockeye"], [1973, "July, 11 1973 00:00:00", 34158, 420, 50, "Wood River", "Sockeye"], [1973, "July, 12 1973 00:00:00", 15954, 420, 50, "Wood River", "Sockeye"], [1973, "July, 13 1973 00:00:00", 9876, 420, 50, "Wood River", "Sockeye"], [1973, "July, 14 1973 00:00:00", 4680, 420, 50, "Wood River", "Sockeye"], [1973, "July, 15 1973 00:00:00", 2370, 420, 50, "Wood River", "Sockeye"], [1973, "July, 16 1973 00:00:00", 1908, 420, 50, "Wood River", "Sockeye"], [1973, "July, 17 1973 00:00:00", 1884, 420, 50, "Wood River", "Sockeye"], [1973, "July, 18 1973 00:00:00", 732, 420, 50, "Wood River", "Sockeye"], [1973, "July, 19 1973 00:00:00", 612, 420, 50, "Wood River", "Sockeye"], [1973, "July, 20 1973 00:00:00", 498, 420, 50, "Wood River", "Sockeye"], [1973, "July, 21 1973 00:00:00", 228, 420, 50, "Wood River", "Sockeye"], [1973, "July, 22 1973 00:00:00", 84, 420, 50, "Wood River", "Sockeye"], [1973, "July, 23 1973 00:00:00", 246, 420, 50, "Wood River", "Sockeye"], [1973, "July, 24 1973 00:00:00", 132, 420, 50, "Wood River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1973,
+      "June, 20 1973 00:00:00",
+      36,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 21 1973 00:00:00",
+      594,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 22 1973 00:00:00",
+      480,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 23 1973 00:00:00",
+      66,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 24 1973 00:00:00",
+      42,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 25 1973 00:00:00",
+      30,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 26 1973 00:00:00",
+      78,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 27 1973 00:00:00",
+      510,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 28 1973 00:00:00",
+      3468,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 29 1973 00:00:00",
+      3012,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 30 1973 00:00:00",
+      8862,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 01 1973 00:00:00",
+      32442,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 02 1973 00:00:00",
+      8046,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 03 1973 00:00:00",
+      8514,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 04 1973 00:00:00",
+      6210,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 05 1973 00:00:00",
+      2970,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 06 1973 00:00:00",
+      7080,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 07 1973 00:00:00",
+      5034,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 08 1973 00:00:00",
+      35586,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 09 1973 00:00:00",
+      86208,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 10 1973 00:00:00",
+      47844,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 11 1973 00:00:00",
+      34158,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 12 1973 00:00:00",
+      15954,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 13 1973 00:00:00",
+      9876,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 14 1973 00:00:00",
+      4680,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 15 1973 00:00:00",
+      2370,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 16 1973 00:00:00",
+      1908,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 17 1973 00:00:00",
+      1884,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 18 1973 00:00:00",
+      732,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 19 1973 00:00:00",
+      612,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 20 1973 00:00:00",
+      498,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 21 1973 00:00:00",
+      228,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 22 1973 00:00:00",
+      84,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 23 1973 00:00:00",
+      246,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 24 1973 00:00:00",
+      132,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 50,
+    "species_id": "420",
+    "year": "1973",
+    "totalRecords": 35,
+    "totalCount": 330474,
+    "source": "ADFG JSON API",
+    "last_updated": "1973-12-31T00:00:00"
+  }
+}

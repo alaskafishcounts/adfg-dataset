@@ -1,1 +1,328 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1993, "June, 22 1993 00:00:00", 13350, 420, 46, "Kvichak River", "Sockeye"], [1993, "June, 23 1993 00:00:00", 11016, 420, 46, "Kvichak River", "Sockeye"], [1993, "June, 24 1993 00:00:00", 9828, 420, 46, "Kvichak River", "Sockeye"], [1993, "June, 25 1993 00:00:00", 17148, 420, 46, "Kvichak River", "Sockeye"], [1993, "June, 26 1993 00:00:00", 69912, 420, 46, "Kvichak River", "Sockeye"], [1993, "June, 27 1993 00:00:00", 195312, 420, 46, "Kvichak River", "Sockeye"], [1993, "June, 28 1993 00:00:00", 242394, 420, 46, "Kvichak River", "Sockeye"], [1993, "June, 29 1993 00:00:00", 287724, 420, 46, "Kvichak River", "Sockeye"], [1993, "June, 30 1993 00:00:00", 84936, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 01 1993 00:00:00", 82140, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 02 1993 00:00:00", 67596, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 03 1993 00:00:00", 101010, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 04 1993 00:00:00", 124632, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 05 1993 00:00:00", 371016, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 06 1993 00:00:00", 694122, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 07 1993 00:00:00", 360738, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 08 1993 00:00:00", 198834, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 09 1993 00:00:00", 169782, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 10 1993 00:00:00", 162930, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 11 1993 00:00:00", 138030, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 12 1993 00:00:00", 171300, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 13 1993 00:00:00", 177228, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 14 1993 00:00:00", 67488, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 15 1993 00:00:00", 45870, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 16 1993 00:00:00", 29250, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 17 1993 00:00:00", 27078, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 18 1993 00:00:00", 37260, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 19 1993 00:00:00", 28152, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 20 1993 00:00:00", 10302, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 21 1993 00:00:00", 11334, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 22 1993 00:00:00", 8082, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 23 1993 00:00:00", 5178, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 24 1993 00:00:00", 3084, 420, 46, "Kvichak River", "Sockeye"], [1993, "July, 25 1993 00:00:00", 1110, 420, 46, "Kvichak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "June, 22 1993 00:00:00",
+      13350,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 23 1993 00:00:00",
+      11016,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 24 1993 00:00:00",
+      9828,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 25 1993 00:00:00",
+      17148,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 26 1993 00:00:00",
+      69912,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 27 1993 00:00:00",
+      195312,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 28 1993 00:00:00",
+      242394,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 29 1993 00:00:00",
+      287724,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 30 1993 00:00:00",
+      84936,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 01 1993 00:00:00",
+      82140,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 02 1993 00:00:00",
+      67596,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 03 1993 00:00:00",
+      101010,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 04 1993 00:00:00",
+      124632,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 05 1993 00:00:00",
+      371016,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 06 1993 00:00:00",
+      694122,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 07 1993 00:00:00",
+      360738,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 08 1993 00:00:00",
+      198834,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 09 1993 00:00:00",
+      169782,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 10 1993 00:00:00",
+      162930,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 11 1993 00:00:00",
+      138030,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 12 1993 00:00:00",
+      171300,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 13 1993 00:00:00",
+      177228,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 14 1993 00:00:00",
+      67488,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 15 1993 00:00:00",
+      45870,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 16 1993 00:00:00",
+      29250,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 17 1993 00:00:00",
+      27078,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 18 1993 00:00:00",
+      37260,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 19 1993 00:00:00",
+      28152,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 20 1993 00:00:00",
+      10302,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 21 1993 00:00:00",
+      11334,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 22 1993 00:00:00",
+      8082,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 23 1993 00:00:00",
+      5178,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 24 1993 00:00:00",
+      3084,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 25 1993 00:00:00",
+      1110,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 46,
+    "species_id": "420",
+    "year": "1993",
+    "totalRecords": 34,
+    "totalCount": 4025166,
+    "source": "ADFG JSON API",
+    "last_updated": "1993-12-31T00:00:00"
+  }
+}

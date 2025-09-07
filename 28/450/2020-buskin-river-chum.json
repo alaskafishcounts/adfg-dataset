@@ -1,1 +1,355 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2020, "August, 13 2020 00:00:00", 2, 450, 28, "Buskin River", "Chum"], [2020, "August, 14 2020 00:00:00", 2, 450, 28, "Buskin River", "Chum"], [2020, "August, 15 2020 00:00:00", 2, 450, 28, "Buskin River", "Chum"], [2020, "August, 16 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "August, 17 2020 00:00:00", 1, 450, 28, "Buskin River", "Chum"], [2020, "August, 18 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "August, 19 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "August, 20 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "August, 21 2020 00:00:00", 1, 450, 28, "Buskin River", "Chum"], [2020, "August, 22 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "August, 23 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "August, 24 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "August, 25 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "August, 26 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "August, 27 2020 00:00:00", 1, 450, 28, "Buskin River", "Chum"], [2020, "August, 28 2020 00:00:00", 1, 450, 28, "Buskin River", "Chum"], [2020, "August, 29 2020 00:00:00", 3, 450, 28, "Buskin River", "Chum"], [2020, "August, 30 2020 00:00:00", 5, 450, 28, "Buskin River", "Chum"], [2020, "August, 31 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 01 2020 00:00:00", 1, 450, 28, "Buskin River", "Chum"], [2020, "September, 02 2020 00:00:00", 1, 450, 28, "Buskin River", "Chum"], [2020, "September, 03 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 04 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 05 2020 00:00:00", 1, 450, 28, "Buskin River", "Chum"], [2020, "September, 06 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 07 2020 00:00:00", 1, 450, 28, "Buskin River", "Chum"], [2020, "September, 08 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 09 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 10 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 14 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 15 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 16 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 17 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 18 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 19 2020 00:00:00", 1, 450, 28, "Buskin River", "Chum"], [2020, "September, 20 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"], [2020, "September, 21 2020 00:00:00", 0, 450, 28, "Buskin River", "Chum"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "August, 13 2020 00:00:00",
+      2,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 14 2020 00:00:00",
+      2,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 15 2020 00:00:00",
+      2,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 16 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 17 2020 00:00:00",
+      1,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 18 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 19 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 20 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 21 2020 00:00:00",
+      1,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 22 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 23 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 24 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 25 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 26 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 27 2020 00:00:00",
+      1,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 28 2020 00:00:00",
+      1,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 29 2020 00:00:00",
+      3,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 30 2020 00:00:00",
+      5,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "August, 31 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 01 2020 00:00:00",
+      1,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 02 2020 00:00:00",
+      1,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 03 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 04 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 05 2020 00:00:00",
+      1,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 06 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 07 2020 00:00:00",
+      1,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 08 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 09 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 10 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 14 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 15 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 16 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 17 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 18 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 19 2020 00:00:00",
+      1,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 20 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ],
+    [
+      2020,
+      "September, 21 2020 00:00:00",
+      0,
+      450,
+      28,
+      "Buskin River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 28,
+    "species_id": "450",
+    "year": "2020",
+    "totalRecords": 37,
+    "totalCount": 23,
+    "source": "ADFG JSON API",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

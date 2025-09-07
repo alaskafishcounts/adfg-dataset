@@ -1,1 +1,166 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1986, "June, 30 1986 00:00:00", 78, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 01 1986 00:00:00", 2166, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 02 1986 00:00:00", 1968, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 03 1986 00:00:00", 612, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 04 1986 00:00:00", 1854, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 05 1986 00:00:00", 7134, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 06 1986 00:00:00", 23484, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 07 1986 00:00:00", 24432, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 08 1986 00:00:00", 8856, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 09 1986 00:00:00", 19896, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 10 1986 00:00:00", 44622, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 11 1986 00:00:00", 29634, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 12 1986 00:00:00", 18036, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 13 1986 00:00:00", 13800, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 14 1986 00:00:00", 8802, 420, 49, "Igushik River", "Sockeye"], [1986, "July, 15 1986 00:00:00", 9888, 420, 49, "Igushik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "June, 30 1986 00:00:00",
+      78,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 01 1986 00:00:00",
+      2166,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 02 1986 00:00:00",
+      1968,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 03 1986 00:00:00",
+      612,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 04 1986 00:00:00",
+      1854,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 05 1986 00:00:00",
+      7134,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 06 1986 00:00:00",
+      23484,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 07 1986 00:00:00",
+      24432,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 08 1986 00:00:00",
+      8856,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 09 1986 00:00:00",
+      19896,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 10 1986 00:00:00",
+      44622,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 11 1986 00:00:00",
+      29634,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 12 1986 00:00:00",
+      18036,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 13 1986 00:00:00",
+      13800,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 14 1986 00:00:00",
+      8802,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 15 1986 00:00:00",
+      9888,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 49,
+    "species_id": "420",
+    "year": "1986",
+    "totalRecords": 16,
+    "totalCount": 215262,
+    "source": "ADFG JSON API",
+    "last_updated": "1986-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,211 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2020, "June, 11 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "June, 12 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "June, 13 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "June, 14 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 03 2020 00:00:00", 5, 450, 34, "Sandy River", "Chum"], [2020, "July, 04 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 05 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 06 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 07 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 08 2020 00:00:00", 1, 450, 34, "Sandy River", "Chum"], [2020, "July, 09 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 10 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 11 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 12 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 13 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 14 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 15 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 16 2020 00:00:00", 0, 450, 34, "Sandy River", "Chum"], [2020, "July, 17 2020 00:00:00", 1, 450, 34, "Sandy River", "Chum"], [2020, "July, 18 2020 00:00:00", 1, 450, 34, "Sandy River", "Chum"], [2020, "July, 19 2020 00:00:00", 1, 450, 34, "Sandy River", "Chum"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "June, 11 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 12 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 13 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "June, 14 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 03 2020 00:00:00",
+      5,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 04 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 05 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 06 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 07 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 08 2020 00:00:00",
+      1,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 09 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 10 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 11 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 12 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 13 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 14 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 15 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 16 2020 00:00:00",
+      0,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 17 2020 00:00:00",
+      1,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 18 2020 00:00:00",
+      1,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ],
+    [
+      2020,
+      "July, 19 2020 00:00:00",
+      1,
+      450,
+      34,
+      "Sandy River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 34,
+    "species_id": "450",
+    "year": "2020",
+    "totalRecords": 21,
+    "totalCount": 9,
+    "source": "ADFG JSON API",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

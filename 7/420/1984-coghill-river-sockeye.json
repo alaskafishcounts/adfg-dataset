@@ -1,1 +1,895 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1984, "June, 01 1984 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 02 1984 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 03 1984 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 04 1984 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 05 1984 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 06 1984 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 07 1984 00:00:00", 8, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 07 1984 00:00:00", 8, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 08 1984 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 09 1984 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 10 1984 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 11 1984 00:00:00", 110, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 11 1984 00:00:00", 110, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 12 1984 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 13 1984 00:00:00", 109, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 13 1984 00:00:00", 109, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 14 1984 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 15 1984 00:00:00", 273, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 15 1984 00:00:00", 273, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 16 1984 00:00:00", 1504, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 16 1984 00:00:00", 1504, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 17 1984 00:00:00", 1604, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 17 1984 00:00:00", 1604, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 18 1984 00:00:00", 1870, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 18 1984 00:00:00", 1870, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 19 1984 00:00:00", 2045, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 19 1984 00:00:00", 2045, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 20 1984 00:00:00", 708, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 20 1984 00:00:00", 708, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 21 1984 00:00:00", 1153, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 21 1984 00:00:00", 1153, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 22 1984 00:00:00", 1211, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 22 1984 00:00:00", 1211, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 23 1984 00:00:00", 2432, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 23 1984 00:00:00", 2432, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 24 1984 00:00:00", 4176, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 24 1984 00:00:00", 4176, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 25 1984 00:00:00", 3708, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 25 1984 00:00:00", 3708, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 26 1984 00:00:00", 1465, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 26 1984 00:00:00", 1465, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 27 1984 00:00:00", 1412, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 27 1984 00:00:00", 1412, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 28 1984 00:00:00", 1499, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 28 1984 00:00:00", 1499, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 29 1984 00:00:00", 2395, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 29 1984 00:00:00", 2395, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 30 1984 00:00:00", 1413, 420, 7, "Coghill River", "Sockeye"], [1984, "June, 30 1984 00:00:00", 1413, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 01 1984 00:00:00", 1690, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 01 1984 00:00:00", 1690, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 02 1984 00:00:00", 2463, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 02 1984 00:00:00", 2463, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 03 1984 00:00:00", 1562, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 03 1984 00:00:00", 1562, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 04 1984 00:00:00", 1283, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 04 1984 00:00:00", 1283, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 05 1984 00:00:00", 3700, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 05 1984 00:00:00", 3700, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 06 1984 00:00:00", 3474, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 06 1984 00:00:00", 3474, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 07 1984 00:00:00", 1591, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 07 1984 00:00:00", 1591, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 08 1984 00:00:00", 3159, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 08 1984 00:00:00", 3159, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 09 1984 00:00:00", 4238, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 09 1984 00:00:00", 4238, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 10 1984 00:00:00", 904, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 10 1984 00:00:00", 904, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 11 1984 00:00:00", 1222, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 11 1984 00:00:00", 1222, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 12 1984 00:00:00", 414, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 12 1984 00:00:00", 414, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 13 1984 00:00:00", 686, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 13 1984 00:00:00", 686, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 14 1984 00:00:00", 403, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 14 1984 00:00:00", 403, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 15 1984 00:00:00", 2189, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 15 1984 00:00:00", 2189, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 16 1984 00:00:00", 2856, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 16 1984 00:00:00", 2856, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 17 1984 00:00:00", 1341, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 17 1984 00:00:00", 1341, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 18 1984 00:00:00", 482, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 18 1984 00:00:00", 482, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 19 1984 00:00:00", 221, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 19 1984 00:00:00", 221, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 20 1984 00:00:00", 207, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 20 1984 00:00:00", 207, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 21 1984 00:00:00", 146, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 21 1984 00:00:00", 146, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 22 1984 00:00:00", 117, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 22 1984 00:00:00", 117, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 23 1984 00:00:00", 130, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 23 1984 00:00:00", 130, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 24 1984 00:00:00", 47, 420, 7, "Coghill River", "Sockeye"], [1984, "July, 24 1984 00:00:00", 47, 420, 7, "Coghill River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "June, 01 1984 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 02 1984 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 03 1984 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 04 1984 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 05 1984 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 06 1984 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 07 1984 00:00:00",
+      8,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 07 1984 00:00:00",
+      8,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 08 1984 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 09 1984 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 10 1984 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 11 1984 00:00:00",
+      110,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 11 1984 00:00:00",
+      110,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 12 1984 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 13 1984 00:00:00",
+      109,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 13 1984 00:00:00",
+      109,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 14 1984 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 15 1984 00:00:00",
+      273,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 15 1984 00:00:00",
+      273,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 16 1984 00:00:00",
+      1504,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 16 1984 00:00:00",
+      1504,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 17 1984 00:00:00",
+      1604,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 17 1984 00:00:00",
+      1604,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 18 1984 00:00:00",
+      1870,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 18 1984 00:00:00",
+      1870,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 19 1984 00:00:00",
+      2045,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 19 1984 00:00:00",
+      2045,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 20 1984 00:00:00",
+      708,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 20 1984 00:00:00",
+      708,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 21 1984 00:00:00",
+      1153,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 21 1984 00:00:00",
+      1153,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 22 1984 00:00:00",
+      1211,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 22 1984 00:00:00",
+      1211,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 23 1984 00:00:00",
+      2432,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 23 1984 00:00:00",
+      2432,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 24 1984 00:00:00",
+      4176,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 24 1984 00:00:00",
+      4176,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 25 1984 00:00:00",
+      3708,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 25 1984 00:00:00",
+      3708,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 26 1984 00:00:00",
+      1465,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 26 1984 00:00:00",
+      1465,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 27 1984 00:00:00",
+      1412,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 27 1984 00:00:00",
+      1412,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 28 1984 00:00:00",
+      1499,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 28 1984 00:00:00",
+      1499,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 29 1984 00:00:00",
+      2395,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 29 1984 00:00:00",
+      2395,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 30 1984 00:00:00",
+      1413,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 30 1984 00:00:00",
+      1413,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 01 1984 00:00:00",
+      1690,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 01 1984 00:00:00",
+      1690,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 02 1984 00:00:00",
+      2463,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 02 1984 00:00:00",
+      2463,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 03 1984 00:00:00",
+      1562,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 03 1984 00:00:00",
+      1562,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 04 1984 00:00:00",
+      1283,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 04 1984 00:00:00",
+      1283,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 05 1984 00:00:00",
+      3700,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 05 1984 00:00:00",
+      3700,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 06 1984 00:00:00",
+      3474,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 06 1984 00:00:00",
+      3474,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 07 1984 00:00:00",
+      1591,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 07 1984 00:00:00",
+      1591,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 08 1984 00:00:00",
+      3159,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 08 1984 00:00:00",
+      3159,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 09 1984 00:00:00",
+      4238,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 09 1984 00:00:00",
+      4238,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 10 1984 00:00:00",
+      904,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 10 1984 00:00:00",
+      904,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 11 1984 00:00:00",
+      1222,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 11 1984 00:00:00",
+      1222,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 12 1984 00:00:00",
+      414,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 12 1984 00:00:00",
+      414,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 13 1984 00:00:00",
+      686,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 13 1984 00:00:00",
+      686,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 14 1984 00:00:00",
+      403,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 14 1984 00:00:00",
+      403,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 15 1984 00:00:00",
+      2189,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 15 1984 00:00:00",
+      2189,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 16 1984 00:00:00",
+      2856,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 16 1984 00:00:00",
+      2856,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 17 1984 00:00:00",
+      1341,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 17 1984 00:00:00",
+      1341,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 18 1984 00:00:00",
+      482,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 18 1984 00:00:00",
+      482,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 19 1984 00:00:00",
+      221,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 19 1984 00:00:00",
+      221,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 20 1984 00:00:00",
+      207,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 20 1984 00:00:00",
+      207,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 21 1984 00:00:00",
+      146,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 21 1984 00:00:00",
+      146,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 22 1984 00:00:00",
+      117,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 22 1984 00:00:00",
+      117,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 23 1984 00:00:00",
+      130,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 23 1984 00:00:00",
+      130,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 24 1984 00:00:00",
+      47,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 24 1984 00:00:00",
+      47,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 7,
+    "species_id": "420",
+    "year": "1984",
+    "totalRecords": 97,
+    "totalCount": 127240,
+    "source": "ADFG JSON API",
+    "last_updated": "1984-12-31T00:00:00"
+  }
+}

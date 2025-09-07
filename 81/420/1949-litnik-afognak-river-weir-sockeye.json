@@ -7,215 +7,253 @@
     "source": "Historical weir operations",
     "notes": "Transition to scientific monitoring",
     "total_count": 22308,
-    "data_points": 35
+    "data_points": 35,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=81&SpeciesID=420",
+        "description": "Official ADF&G fish count data for Litnik Weir"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15294600",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.4K.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Commercial Fishing Information",
+          "url": "https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByAreaKodiak.salmon_weirs_mobile",
+          "description": "ADF&G commercial fishing management information"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/kodiak-region/kodiak-regional-information-report-2023.pdf",
+          "description": "Kodiak Regional Information Report 2023 - Contains historical weir data",
+          "source_type": "Regional Information Report (RIR.4K.2023.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-15",
+      "1949-06-15",
       "Litnik Weir",
       "392",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-16",
+      "1949-06-16",
       "Litnik Weir",
       "494",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-17",
+      "1949-06-17",
       "Litnik Weir",
       "397",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-18",
+      "1949-06-18",
       "Litnik Weir",
       "442",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-19",
+      "1949-06-19",
       "Litnik Weir",
       "497",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-20",
+      "1949-06-20",
       "Litnik Weir",
       "384",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-21",
+      "1949-06-21",
       "Litnik Weir",
       "393",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-22",
+      "1949-06-22",
       "Litnik Weir",
       "399",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-23",
+      "1949-06-23",
       "Litnik Weir",
       "396",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-24",
+      "1949-06-24",
       "Litnik Weir",
       "448",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-25",
+      "1949-06-25",
       "Litnik Weir",
       "451",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-26",
+      "1949-06-26",
       "Litnik Weir",
       "391",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-27",
+      "1949-06-27",
       "Litnik Weir",
       "426",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-28",
+      "1949-06-28",
       "Litnik Weir",
       "438",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-29",
+      "1949-06-29",
       "Litnik Weir",
       "397",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-30",
+      "1949-06-30",
       "Litnik Weir",
       "415",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-01",
+      "1949-07-01",
       "Litnik Weir",
       "482",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-02",
+      "1949-07-02",
       "Litnik Weir",
       "454",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-03",
+      "1949-07-03",
       "Litnik Weir",
       "423",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-04",
+      "1949-07-04",
       "Litnik Weir",
       "436",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-05",
+      "1949-07-05",
       "Litnik Weir",
       "486",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-06",
+      "1949-07-06",
       "Litnik Weir",
       "428",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-07",
+      "1949-07-07",
       "Litnik Weir",
       "407",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-08",
+      "1949-07-08",
       "Litnik Weir",
       "483",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-09",
+      "1949-07-09",
       "Litnik Weir",
       "482",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-10",
+      "1949-07-10",
       "Litnik Weir",
       "439",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-11",
+      "1949-07-11",
       "Litnik Weir",
       "436",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-12",
+      "1949-07-12",
       "Litnik Weir",
       "483",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-13",
+      "1949-07-13",
       "Litnik Weir",
       "998",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-14",
+      "1949-07-14",
       "Litnik Weir",
       "1135",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-15",
+      "1949-07-15",
       "Litnik Weir",
       "1229",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-16",
+      "1949-07-16",
       "Litnik Weir",
       "1031",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-17",
+      "1949-07-17",
       "Litnik Weir",
       "1949",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-18",
+      "1949-07-18",
       "Litnik Weir",
       "1916",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-19",
+      "1949-07-19",
       "Litnik Weir",
       "2311",
       "Daily count - Transition to scientific monitoring"

@@ -1,1 +1,715 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1977, "June, 01 1977 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 02 1977 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 03 1977 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 04 1977 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 05 1977 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 06 1977 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 07 1977 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 08 1977 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 09 1977 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 10 1977 00:00:00", 10, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 10 1977 00:00:00", 10, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 11 1977 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 12 1977 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 13 1977 00:00:00", 22, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 13 1977 00:00:00", 22, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 14 1977 00:00:00", 407, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 14 1977 00:00:00", 407, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 15 1977 00:00:00", 594, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 15 1977 00:00:00", 594, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 16 1977 00:00:00", 464, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 16 1977 00:00:00", 464, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 17 1977 00:00:00", 19, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 17 1977 00:00:00", 19, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 18 1977 00:00:00", 5, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 18 1977 00:00:00", 5, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 19 1977 00:00:00", 56, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 19 1977 00:00:00", 56, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 20 1977 00:00:00", 1342, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 20 1977 00:00:00", 1342, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 21 1977 00:00:00", 449, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 21 1977 00:00:00", 449, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 22 1977 00:00:00", 665, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 22 1977 00:00:00", 665, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 23 1977 00:00:00", 1250, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 23 1977 00:00:00", 1250, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 24 1977 00:00:00", 1111, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 24 1977 00:00:00", 1111, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 25 1977 00:00:00", 3039, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 25 1977 00:00:00", 3039, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 26 1977 00:00:00", 3708, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 26 1977 00:00:00", 3708, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 27 1977 00:00:00", 7036, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 27 1977 00:00:00", 7036, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 28 1977 00:00:00", 1710, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 28 1977 00:00:00", 1710, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 29 1977 00:00:00", 1620, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 29 1977 00:00:00", 1620, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 30 1977 00:00:00", 200, 420, 7, "Coghill River", "Sockeye"], [1977, "June, 30 1977 00:00:00", 200, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 01 1977 00:00:00", 835, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 01 1977 00:00:00", 835, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 02 1977 00:00:00", 982, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 02 1977 00:00:00", 982, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 03 1977 00:00:00", 1516, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 03 1977 00:00:00", 1516, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 04 1977 00:00:00", 2300, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 04 1977 00:00:00", 2300, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 05 1977 00:00:00", 404, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 05 1977 00:00:00", 404, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 06 1977 00:00:00", 262, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 06 1977 00:00:00", 262, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 07 1977 00:00:00", 116, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 07 1977 00:00:00", 116, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 08 1977 00:00:00", 122, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 08 1977 00:00:00", 122, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 09 1977 00:00:00", 297, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 09 1977 00:00:00", 297, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 10 1977 00:00:00", 349, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 10 1977 00:00:00", 349, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 11 1977 00:00:00", 415, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 11 1977 00:00:00", 415, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 12 1977 00:00:00", 179, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 12 1977 00:00:00", 179, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 13 1977 00:00:00", 70, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 13 1977 00:00:00", 70, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 14 1977 00:00:00", 8, 420, 7, "Coghill River", "Sockeye"], [1977, "July, 14 1977 00:00:00", 8, 420, 7, "Coghill River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1977,
+      "June, 01 1977 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 02 1977 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 03 1977 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 04 1977 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 05 1977 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 06 1977 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 07 1977 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 08 1977 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 09 1977 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 10 1977 00:00:00",
+      10,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 10 1977 00:00:00",
+      10,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 11 1977 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 12 1977 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 13 1977 00:00:00",
+      22,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 13 1977 00:00:00",
+      22,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 14 1977 00:00:00",
+      407,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 14 1977 00:00:00",
+      407,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 15 1977 00:00:00",
+      594,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 15 1977 00:00:00",
+      594,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 16 1977 00:00:00",
+      464,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 16 1977 00:00:00",
+      464,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 17 1977 00:00:00",
+      19,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 17 1977 00:00:00",
+      19,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 18 1977 00:00:00",
+      5,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 18 1977 00:00:00",
+      5,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 19 1977 00:00:00",
+      56,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 19 1977 00:00:00",
+      56,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 20 1977 00:00:00",
+      1342,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 20 1977 00:00:00",
+      1342,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 21 1977 00:00:00",
+      449,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 21 1977 00:00:00",
+      449,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 22 1977 00:00:00",
+      665,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 22 1977 00:00:00",
+      665,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 23 1977 00:00:00",
+      1250,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 23 1977 00:00:00",
+      1250,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 24 1977 00:00:00",
+      1111,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 24 1977 00:00:00",
+      1111,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 25 1977 00:00:00",
+      3039,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 25 1977 00:00:00",
+      3039,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 26 1977 00:00:00",
+      3708,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 26 1977 00:00:00",
+      3708,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 27 1977 00:00:00",
+      7036,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 27 1977 00:00:00",
+      7036,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 28 1977 00:00:00",
+      1710,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 28 1977 00:00:00",
+      1710,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 29 1977 00:00:00",
+      1620,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 29 1977 00:00:00",
+      1620,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 30 1977 00:00:00",
+      200,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "June, 30 1977 00:00:00",
+      200,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 01 1977 00:00:00",
+      835,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 01 1977 00:00:00",
+      835,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 02 1977 00:00:00",
+      982,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 02 1977 00:00:00",
+      982,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 03 1977 00:00:00",
+      1516,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 03 1977 00:00:00",
+      1516,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 04 1977 00:00:00",
+      2300,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 04 1977 00:00:00",
+      2300,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 05 1977 00:00:00",
+      404,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 05 1977 00:00:00",
+      404,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 06 1977 00:00:00",
+      262,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 06 1977 00:00:00",
+      262,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 07 1977 00:00:00",
+      116,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 07 1977 00:00:00",
+      116,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 08 1977 00:00:00",
+      122,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 08 1977 00:00:00",
+      122,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 09 1977 00:00:00",
+      297,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 09 1977 00:00:00",
+      297,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 10 1977 00:00:00",
+      349,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 10 1977 00:00:00",
+      349,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 11 1977 00:00:00",
+      415,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 11 1977 00:00:00",
+      415,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 12 1977 00:00:00",
+      179,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 12 1977 00:00:00",
+      179,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 13 1977 00:00:00",
+      70,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 13 1977 00:00:00",
+      70,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 14 1977 00:00:00",
+      8,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1977,
+      "July, 14 1977 00:00:00",
+      8,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 7,
+    "species_id": "420",
+    "year": "1977",
+    "totalRecords": 77,
+    "totalCount": 63124,
+    "source": "ADFG JSON API",
+    "last_updated": "1977-12-31T00:00:00"
+  }
+}

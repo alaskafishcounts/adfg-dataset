@@ -1,1 +1,661 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2001, "July, 16 2001 00:00:00", 2, 450, 16, "Little Susitna", "Chum"], [2001, "July, 17 2001 00:00:00", 15, 450, 16, "Little Susitna", "Chum"], [2001, "July, 18 2001 00:00:00", 14, 450, 16, "Little Susitna", "Chum"], [2001, "July, 19 2001 00:00:00", 31, 450, 16, "Little Susitna", "Chum"], [2001, "July, 20 2001 00:00:00", 129, 450, 16, "Little Susitna", "Chum"], [2001, "July, 21 2001 00:00:00", 2, 450, 16, "Little Susitna", "Chum"], [2001, "July, 22 2001 00:00:00", 146, 450, 16, "Little Susitna", "Chum"], [2001, "July, 23 2001 00:00:00", 9, 450, 16, "Little Susitna", "Chum"], [2001, "July, 24 2001 00:00:00", 121, 450, 16, "Little Susitna", "Chum"], [2001, "July, 25 2001 00:00:00", 1294, 450, 16, "Little Susitna", "Chum"], [2001, "July, 26 2001 00:00:00", 1290, 450, 16, "Little Susitna", "Chum"], [2001, "July, 27 2001 00:00:00", 1681, 450, 16, "Little Susitna", "Chum"], [2001, "July, 28 2001 00:00:00", 914, 450, 16, "Little Susitna", "Chum"], [2001, "July, 29 2001 00:00:00", 1216, 450, 16, "Little Susitna", "Chum"], [2001, "July, 30 2001 00:00:00", 900, 450, 16, "Little Susitna", "Chum"], [2001, "July, 31 2001 00:00:00", 1722, 450, 16, "Little Susitna", "Chum"], [2001, "August, 01 2001 00:00:00", 1844, 450, 16, "Little Susitna", "Chum"], [2001, "August, 02 2001 00:00:00", 1810, 450, 16, "Little Susitna", "Chum"], [2001, "August, 03 2001 00:00:00", 1184, 450, 16, "Little Susitna", "Chum"], [2001, "August, 04 2001 00:00:00", 1601, 450, 16, "Little Susitna", "Chum"], [2001, "August, 05 2001 00:00:00", 2448, 450, 16, "Little Susitna", "Chum"], [2001, "August, 06 2001 00:00:00", 1434, 450, 16, "Little Susitna", "Chum"], [2001, "August, 07 2001 00:00:00", 1694, 450, 16, "Little Susitna", "Chum"], [2001, "August, 08 2001 00:00:00", 1860, 450, 16, "Little Susitna", "Chum"], [2001, "August, 09 2001 00:00:00", 1189, 450, 16, "Little Susitna", "Chum"], [2001, "August, 10 2001 00:00:00", 923, 450, 16, "Little Susitna", "Chum"], [2001, "August, 11 2001 00:00:00", 895, 450, 16, "Little Susitna", "Chum"], [2001, "August, 12 2001 00:00:00", 1207, 450, 16, "Little Susitna", "Chum"], [2001, "August, 13 2001 00:00:00", 1042, 450, 16, "Little Susitna", "Chum"], [2001, "August, 14 2001 00:00:00", 716, 450, 16, "Little Susitna", "Chum"], [2001, "August, 15 2001 00:00:00", 481, 450, 16, "Little Susitna", "Chum"], [2001, "August, 16 2001 00:00:00", 416, 450, 16, "Little Susitna", "Chum"], [2001, "August, 17 2001 00:00:00", 330, 450, 16, "Little Susitna", "Chum"], [2001, "August, 18 2001 00:00:00", 455, 450, 16, "Little Susitna", "Chum"], [2001, "August, 19 2001 00:00:00", 298, 450, 16, "Little Susitna", "Chum"], [2001, "August, 20 2001 00:00:00", 179, 450, 16, "Little Susitna", "Chum"], [2001, "August, 21 2001 00:00:00", 297, 450, 16, "Little Susitna", "Chum"], [2001, "August, 22 2001 00:00:00", 248, 450, 16, "Little Susitna", "Chum"], [2001, "August, 23 2001 00:00:00", 155, 450, 16, "Little Susitna", "Chum"], [2001, "August, 24 2001 00:00:00", 135, 450, 16, "Little Susitna", "Chum"], [2001, "August, 25 2001 00:00:00", 93, 450, 16, "Little Susitna", "Chum"], [2001, "August, 26 2001 00:00:00", 37, 450, 16, "Little Susitna", "Chum"], [2001, "August, 27 2001 00:00:00", 32, 450, 16, "Little Susitna", "Chum"], [2001, "August, 28 2001 00:00:00", 26, 450, 16, "Little Susitna", "Chum"], [2001, "August, 29 2001 00:00:00", 24, 450, 16, "Little Susitna", "Chum"], [2001, "August, 30 2001 00:00:00", 32, 450, 16, "Little Susitna", "Chum"], [2001, "August, 31 2001 00:00:00", 38, 450, 16, "Little Susitna", "Chum"], [2001, "September, 01 2001 00:00:00", 17, 450, 16, "Little Susitna", "Chum"], [2001, "September, 02 2001 00:00:00", 24, 450, 16, "Little Susitna", "Chum"], [2001, "September, 03 2001 00:00:00", 33, 450, 16, "Little Susitna", "Chum"], [2001, "September, 04 2001 00:00:00", 24, 450, 16, "Little Susitna", "Chum"], [2001, "September, 05 2001 00:00:00", 10, 450, 16, "Little Susitna", "Chum"], [2001, "September, 06 2001 00:00:00", 4, 450, 16, "Little Susitna", "Chum"], [2001, "September, 07 2001 00:00:00", 1, 450, 16, "Little Susitna", "Chum"], [2001, "September, 08 2001 00:00:00", 1, 450, 16, "Little Susitna", "Chum"], [2001, "September, 09 2001 00:00:00", 6, 450, 16, "Little Susitna", "Chum"], [2001, "September, 10 2001 00:00:00", 9, 450, 16, "Little Susitna", "Chum"], [2001, "September, 11 2001 00:00:00", 6, 450, 16, "Little Susitna", "Chum"], [2001, "September, 12 2001 00:00:00", 5, 450, 16, "Little Susitna", "Chum"], [2001, "September, 13 2001 00:00:00", 5, 450, 16, "Little Susitna", "Chum"], [2001, "September, 14 2001 00:00:00", 11, 450, 16, "Little Susitna", "Chum"], [2001, "September, 15 2001 00:00:00", 13, 450, 16, "Little Susitna", "Chum"], [2001, "September, 16 2001 00:00:00", 4, 450, 16, "Little Susitna", "Chum"], [2001, "September, 17 2001 00:00:00", 5, 450, 16, "Little Susitna", "Chum"], [2001, "September, 18 2001 00:00:00", 4, 450, 16, "Little Susitna", "Chum"], [2001, "September, 19 2001 00:00:00", 1, 450, 16, "Little Susitna", "Chum"], [2001, "September, 20 2001 00:00:00", 3, 450, 16, "Little Susitna", "Chum"], [2001, "September, 21 2001 00:00:00", 3, 450, 16, "Little Susitna", "Chum"], [2001, "September, 22 2001 00:00:00", 2, 450, 16, "Little Susitna", "Chum"], [2001, "September, 23 2001 00:00:00", 3, 450, 16, "Little Susitna", "Chum"], [2001, "September, 24 2001 00:00:00", 0, 450, 16, "Little Susitna", "Chum"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "July, 16 2001 00:00:00",
+      2,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 17 2001 00:00:00",
+      15,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 18 2001 00:00:00",
+      14,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 19 2001 00:00:00",
+      31,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 20 2001 00:00:00",
+      129,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 21 2001 00:00:00",
+      2,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 22 2001 00:00:00",
+      146,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 23 2001 00:00:00",
+      9,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 24 2001 00:00:00",
+      121,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 25 2001 00:00:00",
+      1294,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 26 2001 00:00:00",
+      1290,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 27 2001 00:00:00",
+      1681,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 28 2001 00:00:00",
+      914,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 29 2001 00:00:00",
+      1216,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 30 2001 00:00:00",
+      900,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "July, 31 2001 00:00:00",
+      1722,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 01 2001 00:00:00",
+      1844,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 02 2001 00:00:00",
+      1810,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 03 2001 00:00:00",
+      1184,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 04 2001 00:00:00",
+      1601,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 05 2001 00:00:00",
+      2448,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 06 2001 00:00:00",
+      1434,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 07 2001 00:00:00",
+      1694,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 08 2001 00:00:00",
+      1860,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 09 2001 00:00:00",
+      1189,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 10 2001 00:00:00",
+      923,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 11 2001 00:00:00",
+      895,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 12 2001 00:00:00",
+      1207,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 13 2001 00:00:00",
+      1042,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 14 2001 00:00:00",
+      716,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 15 2001 00:00:00",
+      481,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 16 2001 00:00:00",
+      416,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 17 2001 00:00:00",
+      330,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 18 2001 00:00:00",
+      455,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 19 2001 00:00:00",
+      298,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 20 2001 00:00:00",
+      179,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 21 2001 00:00:00",
+      297,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 22 2001 00:00:00",
+      248,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 23 2001 00:00:00",
+      155,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 24 2001 00:00:00",
+      135,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 25 2001 00:00:00",
+      93,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 26 2001 00:00:00",
+      37,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 27 2001 00:00:00",
+      32,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 28 2001 00:00:00",
+      26,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 29 2001 00:00:00",
+      24,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 30 2001 00:00:00",
+      32,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "August, 31 2001 00:00:00",
+      38,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 01 2001 00:00:00",
+      17,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 02 2001 00:00:00",
+      24,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 03 2001 00:00:00",
+      33,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 04 2001 00:00:00",
+      24,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 05 2001 00:00:00",
+      10,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 06 2001 00:00:00",
+      4,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 07 2001 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 08 2001 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 09 2001 00:00:00",
+      6,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 10 2001 00:00:00",
+      9,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 11 2001 00:00:00",
+      6,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 12 2001 00:00:00",
+      5,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 13 2001 00:00:00",
+      5,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 14 2001 00:00:00",
+      11,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 15 2001 00:00:00",
+      13,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 16 2001 00:00:00",
+      4,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 17 2001 00:00:00",
+      5,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 18 2001 00:00:00",
+      4,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 19 2001 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 20 2001 00:00:00",
+      3,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 21 2001 00:00:00",
+      3,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 22 2001 00:00:00",
+      2,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 23 2001 00:00:00",
+      3,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2001,
+      "September, 24 2001 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 16,
+    "species_id": "450",
+    "year": "2001",
+    "totalRecords": 71,
+    "totalCount": 32803,
+    "source": "ADFG JSON API",
+    "last_updated": "2001-12-31T00:00:00"
+  }
+}

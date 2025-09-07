@@ -1,1 +1,310 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1992, "June, 20 1992 00:00:00", 6, 420, 49, "Igushik River", "Sockeye"], [1992, "June, 21 1992 00:00:00", 540, 420, 49, "Igushik River", "Sockeye"], [1992, "June, 22 1992 00:00:00", 1110, 420, 49, "Igushik River", "Sockeye"], [1992, "June, 23 1992 00:00:00", 5982, 420, 49, "Igushik River", "Sockeye"], [1992, "June, 24 1992 00:00:00", 3594, 420, 49, "Igushik River", "Sockeye"], [1992, "June, 25 1992 00:00:00", 1392, 420, 49, "Igushik River", "Sockeye"], [1992, "June, 26 1992 00:00:00", 1422, 420, 49, "Igushik River", "Sockeye"], [1992, "June, 27 1992 00:00:00", 3210, 420, 49, "Igushik River", "Sockeye"], [1992, "June, 28 1992 00:00:00", 11946, 420, 49, "Igushik River", "Sockeye"], [1992, "June, 29 1992 00:00:00", 11232, 420, 49, "Igushik River", "Sockeye"], [1992, "June, 30 1992 00:00:00", 13530, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 01 1992 00:00:00", 18186, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 02 1992 00:00:00", 18312, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 03 1992 00:00:00", 7872, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 04 1992 00:00:00", 2448, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 05 1992 00:00:00", 7446, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 06 1992 00:00:00", 9258, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 07 1992 00:00:00", 18294, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 08 1992 00:00:00", 23526, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 09 1992 00:00:00", 13608, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 10 1992 00:00:00", 29916, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 11 1992 00:00:00", 21708, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 12 1992 00:00:00", 26052, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 13 1992 00:00:00", 13860, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 14 1992 00:00:00", 11472, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 15 1992 00:00:00", 7458, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 16 1992 00:00:00", 6264, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 17 1992 00:00:00", 4236, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 18 1992 00:00:00", 3204, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 19 1992 00:00:00", 5382, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 20 1992 00:00:00", 1842, 420, 49, "Igushik River", "Sockeye"], [1992, "July, 21 1992 00:00:00", 612, 420, 49, "Igushik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "June, 20 1992 00:00:00",
+      6,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "June, 21 1992 00:00:00",
+      540,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "June, 22 1992 00:00:00",
+      1110,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "June, 23 1992 00:00:00",
+      5982,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "June, 24 1992 00:00:00",
+      3594,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "June, 25 1992 00:00:00",
+      1392,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "June, 26 1992 00:00:00",
+      1422,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "June, 27 1992 00:00:00",
+      3210,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "June, 28 1992 00:00:00",
+      11946,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "June, 29 1992 00:00:00",
+      11232,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "June, 30 1992 00:00:00",
+      13530,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 01 1992 00:00:00",
+      18186,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 02 1992 00:00:00",
+      18312,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 03 1992 00:00:00",
+      7872,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 04 1992 00:00:00",
+      2448,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 05 1992 00:00:00",
+      7446,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 06 1992 00:00:00",
+      9258,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 07 1992 00:00:00",
+      18294,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 08 1992 00:00:00",
+      23526,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 09 1992 00:00:00",
+      13608,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 10 1992 00:00:00",
+      29916,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 11 1992 00:00:00",
+      21708,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 12 1992 00:00:00",
+      26052,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 13 1992 00:00:00",
+      13860,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 14 1992 00:00:00",
+      11472,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 15 1992 00:00:00",
+      7458,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 16 1992 00:00:00",
+      6264,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 17 1992 00:00:00",
+      4236,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 18 1992 00:00:00",
+      3204,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 19 1992 00:00:00",
+      5382,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 20 1992 00:00:00",
+      1842,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "July, 21 1992 00:00:00",
+      612,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 49,
+    "species_id": "420",
+    "year": "1992",
+    "totalRecords": 32,
+    "totalCount": 304920,
+    "source": "ADFG JSON API",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

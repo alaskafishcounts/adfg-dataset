@@ -1,1 +1,211 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2011, "July, 04 2011 00:00:00", 7, 410, 34, "Sandy River", "Chinook"], [2011, "July, 05 2011 00:00:00", 2, 410, 34, "Sandy River", "Chinook"], [2011, "July, 06 2011 00:00:00", 2, 410, 34, "Sandy River", "Chinook"], [2011, "July, 07 2011 00:00:00", 10, 410, 34, "Sandy River", "Chinook"], [2011, "July, 08 2011 00:00:00", 2, 410, 34, "Sandy River", "Chinook"], [2011, "July, 09 2011 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2011, "July, 10 2011 00:00:00", 5, 410, 34, "Sandy River", "Chinook"], [2011, "July, 11 2011 00:00:00", 17, 410, 34, "Sandy River", "Chinook"], [2011, "July, 12 2011 00:00:00", 9, 410, 34, "Sandy River", "Chinook"], [2011, "July, 13 2011 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2011, "July, 14 2011 00:00:00", 1, 410, 34, "Sandy River", "Chinook"], [2011, "July, 15 2011 00:00:00", 1, 410, 34, "Sandy River", "Chinook"], [2011, "July, 16 2011 00:00:00", 1, 410, 34, "Sandy River", "Chinook"], [2011, "July, 17 2011 00:00:00", 3, 410, 34, "Sandy River", "Chinook"], [2011, "July, 18 2011 00:00:00", 2, 410, 34, "Sandy River", "Chinook"], [2011, "July, 19 2011 00:00:00", 31, 410, 34, "Sandy River", "Chinook"], [2011, "July, 20 2011 00:00:00", 18, 410, 34, "Sandy River", "Chinook"], [2011, "July, 21 2011 00:00:00", 5, 410, 34, "Sandy River", "Chinook"], [2011, "July, 22 2011 00:00:00", 5, 410, 34, "Sandy River", "Chinook"], [2011, "July, 23 2011 00:00:00", 14, 410, 34, "Sandy River", "Chinook"], [2011, "July, 24 2011 00:00:00", 0, 410, 34, "Sandy River", "Chinook"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "July, 04 2011 00:00:00",
+      7,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 05 2011 00:00:00",
+      2,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 06 2011 00:00:00",
+      2,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 07 2011 00:00:00",
+      10,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 08 2011 00:00:00",
+      2,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 09 2011 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 10 2011 00:00:00",
+      5,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 11 2011 00:00:00",
+      17,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 12 2011 00:00:00",
+      9,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 13 2011 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 14 2011 00:00:00",
+      1,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 15 2011 00:00:00",
+      1,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 16 2011 00:00:00",
+      1,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 17 2011 00:00:00",
+      3,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      2,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      31,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      18,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      5,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      5,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      14,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 34,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 21,
+    "totalCount": 135,
+    "source": "ADFG JSON API",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

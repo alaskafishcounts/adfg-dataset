@@ -1,1 +1,517 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1991, "June, 15 1991 00:00:00", 855, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 16 1991 00:00:00", 2085, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 17 1991 00:00:00", 1891, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 18 1991 00:00:00", 1555, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 19 1991 00:00:00", 1943, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 20 1991 00:00:00", 2066, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 21 1991 00:00:00", 3094, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 22 1991 00:00:00", 3312, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 23 1991 00:00:00", 3527, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 24 1991 00:00:00", 3962, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 25 1991 00:00:00", 2880, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 26 1991 00:00:00", 3680, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 27 1991 00:00:00", 5243, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 28 1991 00:00:00", 7231, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 29 1991 00:00:00", 6743, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "June, 30 1991 00:00:00", 7441, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 01 1991 00:00:00", 4919, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 02 1991 00:00:00", 3915, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 03 1991 00:00:00", 4259, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 04 1991 00:00:00", 9094, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 05 1991 00:00:00", 10047, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 06 1991 00:00:00", 3832, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 07 1991 00:00:00", 1942, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 08 1991 00:00:00", 2682, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 09 1991 00:00:00", 3414, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 10 1991 00:00:00", 4566, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 11 1991 00:00:00", 6312, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 12 1991 00:00:00", 2810, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 13 1991 00:00:00", 651, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 14 1991 00:00:00", 808, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 15 1991 00:00:00", 3712, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 16 1991 00:00:00", 3524, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 17 1991 00:00:00", 5031, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 18 1991 00:00:00", 14007, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 19 1991 00:00:00", 7915, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 20 1991 00:00:00", 3159, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 21 1991 00:00:00", 4425, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 22 1991 00:00:00", 7315, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 23 1991 00:00:00", 8770, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 24 1991 00:00:00", 6728, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 25 1991 00:00:00", 7055, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 26 1991 00:00:00", 7649, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 27 1991 00:00:00", 7188, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 28 1991 00:00:00", 7464, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 29 1991 00:00:00", 4972, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 30 1991 00:00:00", 2895, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "July, 31 1991 00:00:00", 2287, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "August, 01 1991 00:00:00", 1271, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "August, 02 1991 00:00:00", 1760, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "August, 03 1991 00:00:00", 1921, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "August, 04 1991 00:00:00", 1423, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "August, 05 1991 00:00:00", 1213, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "August, 06 1991 00:00:00", 1648, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "August, 07 1991 00:00:00", 1916, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1991, "August, 08 1991 00:00:00", 1640, 420, 41, "Kasilof River (sockeye)", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "June, 15 1991 00:00:00",
+      855,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 16 1991 00:00:00",
+      2085,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 17 1991 00:00:00",
+      1891,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 18 1991 00:00:00",
+      1555,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 19 1991 00:00:00",
+      1943,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 20 1991 00:00:00",
+      2066,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 21 1991 00:00:00",
+      3094,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 22 1991 00:00:00",
+      3312,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 23 1991 00:00:00",
+      3527,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 24 1991 00:00:00",
+      3962,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 25 1991 00:00:00",
+      2880,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 26 1991 00:00:00",
+      3680,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 27 1991 00:00:00",
+      5243,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 28 1991 00:00:00",
+      7231,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 29 1991 00:00:00",
+      6743,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 30 1991 00:00:00",
+      7441,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 01 1991 00:00:00",
+      4919,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 02 1991 00:00:00",
+      3915,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 03 1991 00:00:00",
+      4259,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 04 1991 00:00:00",
+      9094,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 05 1991 00:00:00",
+      10047,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 06 1991 00:00:00",
+      3832,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 07 1991 00:00:00",
+      1942,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 08 1991 00:00:00",
+      2682,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 09 1991 00:00:00",
+      3414,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 10 1991 00:00:00",
+      4566,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 11 1991 00:00:00",
+      6312,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 12 1991 00:00:00",
+      2810,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 13 1991 00:00:00",
+      651,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 14 1991 00:00:00",
+      808,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 15 1991 00:00:00",
+      3712,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 16 1991 00:00:00",
+      3524,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 17 1991 00:00:00",
+      5031,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 18 1991 00:00:00",
+      14007,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 19 1991 00:00:00",
+      7915,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 20 1991 00:00:00",
+      3159,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 21 1991 00:00:00",
+      4425,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 22 1991 00:00:00",
+      7315,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 23 1991 00:00:00",
+      8770,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 24 1991 00:00:00",
+      6728,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 25 1991 00:00:00",
+      7055,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 26 1991 00:00:00",
+      7649,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 27 1991 00:00:00",
+      7188,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 28 1991 00:00:00",
+      7464,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 29 1991 00:00:00",
+      4972,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 30 1991 00:00:00",
+      2895,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 31 1991 00:00:00",
+      2287,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 01 1991 00:00:00",
+      1271,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 02 1991 00:00:00",
+      1760,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 03 1991 00:00:00",
+      1921,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 04 1991 00:00:00",
+      1423,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 05 1991 00:00:00",
+      1213,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 06 1991 00:00:00",
+      1648,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 07 1991 00:00:00",
+      1916,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 08 1991 00:00:00",
+      1640,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 41,
+    "species_id": "420",
+    "year": "1991",
+    "totalRecords": 55,
+    "totalCount": 233647,
+    "source": "ADFG JSON API",
+    "last_updated": "1991-12-31T00:00:00"
+  }
+}

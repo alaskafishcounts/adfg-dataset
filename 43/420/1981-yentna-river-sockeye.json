@@ -1,1 +1,580 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1981, "June, 29 1981 00:00:00", 135, 420, 43, "Yentna River", "Sockeye"], [1981, "June, 30 1981 00:00:00", 414, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 01 1981 00:00:00", 529, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 02 1981 00:00:00", 786, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 03 1981 00:00:00", 350, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 04 1981 00:00:00", 187, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 05 1981 00:00:00", 117, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 06 1981 00:00:00", 220, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 07 1981 00:00:00", 235, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 08 1981 00:00:00", 264, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 09 1981 00:00:00", 411, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 10 1981 00:00:00", 4184, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 11 1981 00:00:00", 4930, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 12 1981 00:00:00", 8853, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 13 1981 00:00:00", 10436, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 14 1981 00:00:00", 15909, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 15 1981 00:00:00", 15360, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 16 1981 00:00:00", 9324, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 17 1981 00:00:00", 5774, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 18 1981 00:00:00", 5104, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 19 1981 00:00:00", 5423, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 20 1981 00:00:00", 5986, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 21 1981 00:00:00", 7081, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 22 1981 00:00:00", 9584, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 23 1981 00:00:00", 6343, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 24 1981 00:00:00", 4949, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 25 1981 00:00:00", 3234, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 26 1981 00:00:00", 2831, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 27 1981 00:00:00", 2078, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 28 1981 00:00:00", 1353, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 29 1981 00:00:00", 1152, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 30 1981 00:00:00", 1599, 420, 43, "Yentna River", "Sockeye"], [1981, "July, 31 1981 00:00:00", 872, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 01 1981 00:00:00", 623, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 02 1981 00:00:00", 813, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 03 1981 00:00:00", 316, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 04 1981 00:00:00", 187, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 05 1981 00:00:00", 226, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 06 1981 00:00:00", 87, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 07 1981 00:00:00", 54, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 08 1981 00:00:00", 42, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 09 1981 00:00:00", 106, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 10 1981 00:00:00", 131, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 11 1981 00:00:00", 129, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 12 1981 00:00:00", 154, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 13 1981 00:00:00", 72, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 14 1981 00:00:00", 99, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 15 1981 00:00:00", 32, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 16 1981 00:00:00", 27, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 17 1981 00:00:00", 28, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 18 1981 00:00:00", 32, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 19 1981 00:00:00", 21, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 20 1981 00:00:00", 31, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 21 1981 00:00:00", 39, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 22 1981 00:00:00", 35, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 23 1981 00:00:00", 29, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 24 1981 00:00:00", 13, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 25 1981 00:00:00", 10, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 26 1981 00:00:00", 13, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 27 1981 00:00:00", 20, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 28 1981 00:00:00", 16, 420, 43, "Yentna River", "Sockeye"], [1981, "August, 29 1981 00:00:00", 9, 420, 43, "Yentna River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "June, 29 1981 00:00:00",
+      135,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 30 1981 00:00:00",
+      414,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 01 1981 00:00:00",
+      529,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 02 1981 00:00:00",
+      786,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 03 1981 00:00:00",
+      350,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 04 1981 00:00:00",
+      187,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 05 1981 00:00:00",
+      117,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 06 1981 00:00:00",
+      220,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 07 1981 00:00:00",
+      235,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 08 1981 00:00:00",
+      264,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 09 1981 00:00:00",
+      411,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 10 1981 00:00:00",
+      4184,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 11 1981 00:00:00",
+      4930,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 12 1981 00:00:00",
+      8853,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 13 1981 00:00:00",
+      10436,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 14 1981 00:00:00",
+      15909,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 15 1981 00:00:00",
+      15360,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 16 1981 00:00:00",
+      9324,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 17 1981 00:00:00",
+      5774,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 18 1981 00:00:00",
+      5104,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 19 1981 00:00:00",
+      5423,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 20 1981 00:00:00",
+      5986,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 21 1981 00:00:00",
+      7081,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 22 1981 00:00:00",
+      9584,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 23 1981 00:00:00",
+      6343,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 24 1981 00:00:00",
+      4949,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 25 1981 00:00:00",
+      3234,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 26 1981 00:00:00",
+      2831,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 27 1981 00:00:00",
+      2078,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 28 1981 00:00:00",
+      1353,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 29 1981 00:00:00",
+      1152,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 30 1981 00:00:00",
+      1599,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 31 1981 00:00:00",
+      872,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 01 1981 00:00:00",
+      623,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 02 1981 00:00:00",
+      813,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 03 1981 00:00:00",
+      316,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 04 1981 00:00:00",
+      187,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 05 1981 00:00:00",
+      226,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 06 1981 00:00:00",
+      87,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 07 1981 00:00:00",
+      54,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 08 1981 00:00:00",
+      42,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 09 1981 00:00:00",
+      106,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 10 1981 00:00:00",
+      131,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 11 1981 00:00:00",
+      129,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 12 1981 00:00:00",
+      154,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 13 1981 00:00:00",
+      72,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 14 1981 00:00:00",
+      99,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 15 1981 00:00:00",
+      32,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 16 1981 00:00:00",
+      27,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 17 1981 00:00:00",
+      28,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 18 1981 00:00:00",
+      32,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 19 1981 00:00:00",
+      21,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 20 1981 00:00:00",
+      31,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 21 1981 00:00:00",
+      39,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 22 1981 00:00:00",
+      35,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 23 1981 00:00:00",
+      29,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 24 1981 00:00:00",
+      13,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 25 1981 00:00:00",
+      10,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 26 1981 00:00:00",
+      13,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 27 1981 00:00:00",
+      20,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 28 1981 00:00:00",
+      16,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "August, 29 1981 00:00:00",
+      9,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 43,
+    "species_id": "420",
+    "year": "1981",
+    "totalRecords": 62,
+    "totalCount": 139401,
+    "source": "ADFG JSON API",
+    "last_updated": "1981-12-31T00:00:00"
+  }
+}

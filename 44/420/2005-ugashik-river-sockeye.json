@@ -1,1 +1,265 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2005, "June, 30 2005 00:00:00", 60, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 01 2005 00:00:00", 2118, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 02 2005 00:00:00", 6318, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 03 2005 00:00:00", 46746, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 04 2005 00:00:00", 65040, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 05 2005 00:00:00", 27630, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 06 2005 00:00:00", 20430, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 07 2005 00:00:00", 10368, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 08 2005 00:00:00", 14424, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 09 2005 00:00:00", 89484, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 10 2005 00:00:00", 133350, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 11 2005 00:00:00", 56316, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 12 2005 00:00:00", 80796, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 13 2005 00:00:00", 50004, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 14 2005 00:00:00", 34746, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 15 2005 00:00:00", 25026, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 16 2005 00:00:00", 17424, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 17 2005 00:00:00", 9942, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 18 2005 00:00:00", 7902, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 19 2005 00:00:00", 12870, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 20 2005 00:00:00", 14526, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 21 2005 00:00:00", 15876, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 22 2005 00:00:00", 13032, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 23 2005 00:00:00", 6198, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 24 2005 00:00:00", 8094, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 25 2005 00:00:00", 5040, 420, 44, "Ugashik River", "Sockeye"], [2005, "July, 26 2005 00:00:00", 5412, 420, 44, "Ugashik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "June, 30 2005 00:00:00",
+      60,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 01 2005 00:00:00",
+      2118,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 02 2005 00:00:00",
+      6318,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 03 2005 00:00:00",
+      46746,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 04 2005 00:00:00",
+      65040,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 05 2005 00:00:00",
+      27630,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 06 2005 00:00:00",
+      20430,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 07 2005 00:00:00",
+      10368,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 08 2005 00:00:00",
+      14424,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 09 2005 00:00:00",
+      89484,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 10 2005 00:00:00",
+      133350,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 11 2005 00:00:00",
+      56316,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 12 2005 00:00:00",
+      80796,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 13 2005 00:00:00",
+      50004,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 14 2005 00:00:00",
+      34746,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 15 2005 00:00:00",
+      25026,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 16 2005 00:00:00",
+      17424,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 17 2005 00:00:00",
+      9942,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 18 2005 00:00:00",
+      7902,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 19 2005 00:00:00",
+      12870,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 20 2005 00:00:00",
+      14526,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 21 2005 00:00:00",
+      15876,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 22 2005 00:00:00",
+      13032,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 23 2005 00:00:00",
+      6198,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 24 2005 00:00:00",
+      8094,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 25 2005 00:00:00",
+      5040,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2005,
+      "July, 26 2005 00:00:00",
+      5412,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 44,
+    "species_id": "420",
+    "year": "2005",
+    "totalRecords": 27,
+    "totalCount": 779172,
+    "source": "ADFG JSON API",
+    "last_updated": "2005-12-31T00:00:00"
+  }
+}

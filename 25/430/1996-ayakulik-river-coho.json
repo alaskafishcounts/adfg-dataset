@@ -1,1 +1,301 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1996, "July, 26 1996 00:00:00", 0, 430, 25, "Ayakulik River", "Coho"], [1996, "July, 27 1996 00:00:00", 1, 430, 25, "Ayakulik River", "Coho"], [1996, "July, 28 1996 00:00:00", 3, 430, 25, "Ayakulik River", "Coho"], [1996, "July, 29 1996 00:00:00", 9, 430, 25, "Ayakulik River", "Coho"], [1996, "July, 30 1996 00:00:00", 27, 430, 25, "Ayakulik River", "Coho"], [1996, "July, 31 1996 00:00:00", 16, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 01 1996 00:00:00", 9, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 02 1996 00:00:00", 22, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 03 1996 00:00:00", 69, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 04 1996 00:00:00", 38, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 05 1996 00:00:00", 24, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 06 1996 00:00:00", 3, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 07 1996 00:00:00", 17, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 08 1996 00:00:00", 61, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 09 1996 00:00:00", 89, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 10 1996 00:00:00", 150, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 11 1996 00:00:00", 145, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 12 1996 00:00:00", 211, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 13 1996 00:00:00", 406, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 14 1996 00:00:00", 136, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 15 1996 00:00:00", 349, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 16 1996 00:00:00", 299, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 17 1996 00:00:00", 220, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 18 1996 00:00:00", 364, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 19 1996 00:00:00", 314, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 20 1996 00:00:00", 384, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 21 1996 00:00:00", 1407, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 22 1996 00:00:00", 682, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 23 1996 00:00:00", 884, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 24 1996 00:00:00", 724, 430, 25, "Ayakulik River", "Coho"], [1996, "August, 25 1996 00:00:00", 1090, 430, 25, "Ayakulik River", "Coho"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "July, 26 1996 00:00:00",
+      0,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "July, 27 1996 00:00:00",
+      1,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "July, 28 1996 00:00:00",
+      3,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "July, 29 1996 00:00:00",
+      9,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "July, 30 1996 00:00:00",
+      27,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "July, 31 1996 00:00:00",
+      16,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 01 1996 00:00:00",
+      9,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 02 1996 00:00:00",
+      22,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 03 1996 00:00:00",
+      69,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 04 1996 00:00:00",
+      38,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 05 1996 00:00:00",
+      24,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 06 1996 00:00:00",
+      3,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 07 1996 00:00:00",
+      17,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 08 1996 00:00:00",
+      61,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 09 1996 00:00:00",
+      89,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 10 1996 00:00:00",
+      150,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 11 1996 00:00:00",
+      145,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 12 1996 00:00:00",
+      211,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 13 1996 00:00:00",
+      406,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 14 1996 00:00:00",
+      136,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 15 1996 00:00:00",
+      349,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 16 1996 00:00:00",
+      299,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 17 1996 00:00:00",
+      220,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 18 1996 00:00:00",
+      364,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 19 1996 00:00:00",
+      314,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 20 1996 00:00:00",
+      384,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 21 1996 00:00:00",
+      1407,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 22 1996 00:00:00",
+      682,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 23 1996 00:00:00",
+      884,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 24 1996 00:00:00",
+      724,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "August, 25 1996 00:00:00",
+      1090,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 25,
+    "species_id": "430",
+    "year": "1996",
+    "totalRecords": 31,
+    "totalCount": 8153,
+    "source": "ADFG JSON API",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

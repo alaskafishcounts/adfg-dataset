@@ -1,1 +1,1120 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1987, "June, 01 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 02 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 03 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 04 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 05 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 06 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 07 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 08 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 09 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 10 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 11 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 12 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 13 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 14 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 15 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 16 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 17 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 18 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 19 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 20 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 21 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 22 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 23 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 24 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 25 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 26 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 27 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 28 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 29 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "June, 30 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 01 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 02 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 03 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 04 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 05 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 06 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 07 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 08 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 09 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 10 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 11 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 12 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 13 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 14 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 15 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 16 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 17 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 18 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 19 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 20 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 21 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 22 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 23 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 24 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 25 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 26 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 27 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 28 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 29 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 30 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "July, 31 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 01 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 02 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 03 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 04 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 05 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 06 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 07 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 08 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 09 1987 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1987, "August, 10 1987 00:00:00", 5, 430, 13, "Russian River", "Coho"], [1987, "August, 11 1987 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1987, "August, 12 1987 00:00:00", 10, 430, 13, "Russian River", "Coho"], [1987, "August, 13 1987 00:00:00", 4, 430, 13, "Russian River", "Coho"], [1987, "August, 14 1987 00:00:00", 4, 430, 13, "Russian River", "Coho"], [1987, "August, 15 1987 00:00:00", 5, 430, 13, "Russian River", "Coho"], [1987, "August, 16 1987 00:00:00", 5, 430, 13, "Russian River", "Coho"], [1987, "August, 17 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 18 1987 00:00:00", 9, 430, 13, "Russian River", "Coho"], [1987, "August, 19 1987 00:00:00", 2, 430, 13, "Russian River", "Coho"], [1987, "August, 20 1987 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1987, "August, 21 1987 00:00:00", 7, 430, 13, "Russian River", "Coho"], [1987, "August, 22 1987 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1987, "August, 23 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 24 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 25 1987 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1987, "August, 26 1987 00:00:00", 3, 430, 13, "Russian River", "Coho"], [1987, "August, 27 1987 00:00:00", 9, 430, 13, "Russian River", "Coho"], [1987, "August, 28 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 29 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 30 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "August, 31 1987 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1987, "September, 01 1987 00:00:00", 4, 430, 13, "Russian River", "Coho"], [1987, "September, 02 1987 00:00:00", 3, 430, 13, "Russian River", "Coho"], [1987, "September, 03 1987 00:00:00", 4, 430, 13, "Russian River", "Coho"], [1987, "September, 04 1987 00:00:00", 4, 430, 13, "Russian River", "Coho"], [1987, "September, 05 1987 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1987, "September, 06 1987 00:00:00", 4, 430, 13, "Russian River", "Coho"], [1987, "September, 07 1987 00:00:00", 27, 430, 13, "Russian River", "Coho"], [1987, "September, 08 1987 00:00:00", 27, 430, 13, "Russian River", "Coho"], [1987, "September, 09 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 10 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 11 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 12 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 13 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 14 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 15 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 16 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 17 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 18 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 19 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 20 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 21 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 22 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 23 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 24 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 25 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 26 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 27 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 28 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 29 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1987, "September, 30 1987 00:00:00", 0, 430, 13, "Russian River", "Coho"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "June, 01 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 02 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 03 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 04 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 05 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 06 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 07 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 08 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 09 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 10 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 11 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 12 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 13 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 14 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 15 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 16 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 17 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 18 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 19 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 20 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 21 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 22 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 23 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 24 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 25 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 26 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 27 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 28 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 29 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "June, 30 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 01 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 02 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 03 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 04 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 05 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 06 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 07 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 08 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 09 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 10 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 11 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 12 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 13 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 14 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 15 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 16 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 17 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 18 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 19 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 20 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 21 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 22 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 23 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 24 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 25 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 26 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 27 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 28 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 29 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 30 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "July, 31 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 01 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 02 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 03 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 04 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 05 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 06 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 07 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 08 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 09 1987 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 10 1987 00:00:00",
+      5,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 11 1987 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 12 1987 00:00:00",
+      10,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 13 1987 00:00:00",
+      4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 14 1987 00:00:00",
+      4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 15 1987 00:00:00",
+      5,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 16 1987 00:00:00",
+      5,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 17 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 18 1987 00:00:00",
+      9,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 19 1987 00:00:00",
+      2,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 20 1987 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 21 1987 00:00:00",
+      7,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 22 1987 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 23 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 24 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 25 1987 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 26 1987 00:00:00",
+      3,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 27 1987 00:00:00",
+      9,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 28 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 29 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 30 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "August, 31 1987 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 01 1987 00:00:00",
+      4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 02 1987 00:00:00",
+      3,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 03 1987 00:00:00",
+      4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 04 1987 00:00:00",
+      4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 05 1987 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 06 1987 00:00:00",
+      4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 07 1987 00:00:00",
+      27,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 08 1987 00:00:00",
+      27,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 09 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 10 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 11 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 12 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 13 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 14 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 15 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 16 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 17 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 18 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 19 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 20 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 21 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 22 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 23 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 24 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 25 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 26 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 27 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 28 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 29 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1987,
+      "September, 30 1987 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 13,
+    "species_id": "430",
+    "year": "1987",
+    "totalRecords": 122,
+    "totalCount": 143,
+    "source": "ADFG JSON API",
+    "last_updated": "1987-12-31T00:00:00"
+  }
+}

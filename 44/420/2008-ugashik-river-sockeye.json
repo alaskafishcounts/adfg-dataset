@@ -1,1 +1,220 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2008, "July, 01 2008 00:00:00", 1944, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 02 2008 00:00:00", 726, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 03 2008 00:00:00", 6132, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 04 2008 00:00:00", 16146, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 05 2008 00:00:00", 21540, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 06 2008 00:00:00", 19434, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 07 2008 00:00:00", 54690, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 08 2008 00:00:00", 71232, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 09 2008 00:00:00", 104706, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 10 2008 00:00:00", 78336, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 11 2008 00:00:00", 89322, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 12 2008 00:00:00", 28026, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 13 2008 00:00:00", 9630, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 14 2008 00:00:00", 11028, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 15 2008 00:00:00", 1782, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 16 2008 00:00:00", 1524, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 17 2008 00:00:00", 9732, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 18 2008 00:00:00", 11274, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 19 2008 00:00:00", 13080, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 20 2008 00:00:00", 5592, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 21 2008 00:00:00", 4932, 420, 44, "Ugashik River", "Sockeye"], [2008, "July, 22 2008 00:00:00", 7824, 420, 44, "Ugashik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "July, 01 2008 00:00:00",
+      1944,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 02 2008 00:00:00",
+      726,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 03 2008 00:00:00",
+      6132,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 04 2008 00:00:00",
+      16146,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 05 2008 00:00:00",
+      21540,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 06 2008 00:00:00",
+      19434,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 07 2008 00:00:00",
+      54690,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 08 2008 00:00:00",
+      71232,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 09 2008 00:00:00",
+      104706,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 10 2008 00:00:00",
+      78336,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 11 2008 00:00:00",
+      89322,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 12 2008 00:00:00",
+      28026,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 13 2008 00:00:00",
+      9630,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 14 2008 00:00:00",
+      11028,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 15 2008 00:00:00",
+      1782,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 16 2008 00:00:00",
+      1524,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 17 2008 00:00:00",
+      9732,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 18 2008 00:00:00",
+      11274,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 19 2008 00:00:00",
+      13080,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 20 2008 00:00:00",
+      5592,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 21 2008 00:00:00",
+      4932,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 22 2008 00:00:00",
+      7824,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 44,
+    "species_id": "420",
+    "year": "2008",
+    "totalRecords": 22,
+    "totalCount": 568632,
+    "source": "ADFG JSON API",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

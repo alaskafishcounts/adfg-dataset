@@ -1,1 +1,247 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1987, "June, 30 1987 00:00:00", 36, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 01 1987 00:00:00", 30138, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 02 1987 00:00:00", 506616, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 03 1987 00:00:00", 581382, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 04 1987 00:00:00", 428826, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 05 1987 00:00:00", 155970, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 06 1987 00:00:00", 78786, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 07 1987 00:00:00", 85398, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 08 1987 00:00:00", 769230, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 09 1987 00:00:00", 1022298, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 10 1987 00:00:00", 867432, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 11 1987 00:00:00", 610434, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 12 1987 00:00:00", 267528, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 13 1987 00:00:00", 250356, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 14 1987 00:00:00", 118890, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 15 1987 00:00:00", 105150, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 16 1987 00:00:00", 67524, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 17 1987 00:00:00", 24576, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 18 1987 00:00:00", 14592, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 19 1987 00:00:00", 15072, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 20 1987 00:00:00", 12492, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 21 1987 00:00:00", 19122, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 22 1987 00:00:00", 22950, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 23 1987 00:00:00", 8508, 420, 46, "Kvichak River", "Sockeye"], [1987, "July, 24 1987 00:00:00", 2580, 420, 46, "Kvichak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "June, 30 1987 00:00:00",
+      36,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 01 1987 00:00:00",
+      30138,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 02 1987 00:00:00",
+      506616,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 03 1987 00:00:00",
+      581382,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 04 1987 00:00:00",
+      428826,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 05 1987 00:00:00",
+      155970,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 06 1987 00:00:00",
+      78786,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 07 1987 00:00:00",
+      85398,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 08 1987 00:00:00",
+      769230,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 09 1987 00:00:00",
+      1022298,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 10 1987 00:00:00",
+      867432,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 11 1987 00:00:00",
+      610434,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 12 1987 00:00:00",
+      267528,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 13 1987 00:00:00",
+      250356,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 14 1987 00:00:00",
+      118890,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 15 1987 00:00:00",
+      105150,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 16 1987 00:00:00",
+      67524,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 17 1987 00:00:00",
+      24576,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 18 1987 00:00:00",
+      14592,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 19 1987 00:00:00",
+      15072,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 20 1987 00:00:00",
+      12492,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 21 1987 00:00:00",
+      19122,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 22 1987 00:00:00",
+      22950,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 23 1987 00:00:00",
+      8508,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 24 1987 00:00:00",
+      2580,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 46,
+    "species_id": "420",
+    "year": "1987",
+    "totalRecords": 25,
+    "totalCount": 6065886,
+    "source": "ADFG JSON API",
+    "last_updated": "1987-12-31T00:00:00"
+  }
+}

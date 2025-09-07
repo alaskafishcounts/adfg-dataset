@@ -1,1 +1,283 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1991, "June, 24 1991 00:00:00", 54, 420, 49, "Igushik River", "Sockeye"], [1991, "June, 26 1991 00:00:00", 4602, 420, 49, "Igushik River", "Sockeye"], [1991, "June, 27 1991 00:00:00", 26238, 420, 49, "Igushik River", "Sockeye"], [1991, "June, 28 1991 00:00:00", 51342, 420, 49, "Igushik River", "Sockeye"], [1991, "June, 29 1991 00:00:00", 29220, 420, 49, "Igushik River", "Sockeye"], [1991, "June, 30 1991 00:00:00", 22680, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 01 1991 00:00:00", 20724, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 02 1991 00:00:00", 15702, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 03 1991 00:00:00", 18594, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 04 1991 00:00:00", 48234, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 05 1991 00:00:00", 105132, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 06 1991 00:00:00", 115884, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 07 1991 00:00:00", 60162, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 08 1991 00:00:00", 51186, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 09 1991 00:00:00", 33810, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 10 1991 00:00:00", 18174, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 11 1991 00:00:00", 16218, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 12 1991 00:00:00", 14220, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 13 1991 00:00:00", 11148, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 14 1991 00:00:00", 10062, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 15 1991 00:00:00", 11568, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 16 1991 00:00:00", 10308, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 17 1991 00:00:00", 13488, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 18 1991 00:00:00", 12564, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 19 1991 00:00:00", 13962, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 20 1991 00:00:00", 9348, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 21 1991 00:00:00", 5916, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 22 1991 00:00:00", 2130, 420, 49, "Igushik River", "Sockeye"], [1991, "July, 23 1991 00:00:00", 3708, 420, 49, "Igushik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "June, 24 1991 00:00:00",
+      54,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 26 1991 00:00:00",
+      4602,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 27 1991 00:00:00",
+      26238,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 28 1991 00:00:00",
+      51342,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 29 1991 00:00:00",
+      29220,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 30 1991 00:00:00",
+      22680,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 01 1991 00:00:00",
+      20724,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 02 1991 00:00:00",
+      15702,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 03 1991 00:00:00",
+      18594,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 04 1991 00:00:00",
+      48234,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 05 1991 00:00:00",
+      105132,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 06 1991 00:00:00",
+      115884,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 07 1991 00:00:00",
+      60162,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 08 1991 00:00:00",
+      51186,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 09 1991 00:00:00",
+      33810,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 10 1991 00:00:00",
+      18174,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 11 1991 00:00:00",
+      16218,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 12 1991 00:00:00",
+      14220,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 13 1991 00:00:00",
+      11148,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 14 1991 00:00:00",
+      10062,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 15 1991 00:00:00",
+      11568,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 16 1991 00:00:00",
+      10308,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 17 1991 00:00:00",
+      13488,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 18 1991 00:00:00",
+      12564,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 19 1991 00:00:00",
+      13962,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 20 1991 00:00:00",
+      9348,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 21 1991 00:00:00",
+      5916,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 22 1991 00:00:00",
+      2130,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 23 1991 00:00:00",
+      3708,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 49,
+    "species_id": "420",
+    "year": "1991",
+    "totalRecords": 29,
+    "totalCount": 756378,
+    "source": "ADFG JSON API",
+    "last_updated": "1991-12-31T00:00:00"
+  }
+}

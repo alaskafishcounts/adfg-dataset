@@ -1,1 +1,274 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1975, "July, 08 1975 00:00:00", 18, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 09 1975 00:00:00", 330, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 10 1975 00:00:00", 792, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 11 1975 00:00:00", 5886, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 12 1975 00:00:00", 12420, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 13 1975 00:00:00", 6768, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 14 1975 00:00:00", 9948, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 15 1975 00:00:00", 12618, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 16 1975 00:00:00", 20670, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 17 1975 00:00:00", 11790, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 18 1975 00:00:00", 17988, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 19 1975 00:00:00", 6684, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 20 1975 00:00:00", 10128, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 21 1975 00:00:00", 7500, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 22 1975 00:00:00", 5376, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 23 1975 00:00:00", 6126, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 24 1975 00:00:00", 5364, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 25 1975 00:00:00", 6030, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 26 1975 00:00:00", 2712, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 27 1975 00:00:00", 3096, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 28 1975 00:00:00", 1704, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 29 1975 00:00:00", 2292, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 30 1975 00:00:00", 1410, 420, 53, "Togiak River", "Sockeye"], [1975, "July, 31 1975 00:00:00", 1362, 420, 53, "Togiak River", "Sockeye"], [1975, "August, 01 1975 00:00:00", 462, 420, 53, "Togiak River", "Sockeye"], [1975, "August, 02 1975 00:00:00", 744, 420, 53, "Togiak River", "Sockeye"], [1975, "August, 03 1975 00:00:00", 396, 420, 53, "Togiak River", "Sockeye"], [1975, "August, 04 1975 00:00:00", 348, 420, 53, "Togiak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1975,
+      "July, 08 1975 00:00:00",
+      18,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 09 1975 00:00:00",
+      330,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 10 1975 00:00:00",
+      792,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 11 1975 00:00:00",
+      5886,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 12 1975 00:00:00",
+      12420,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 13 1975 00:00:00",
+      6768,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 14 1975 00:00:00",
+      9948,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 15 1975 00:00:00",
+      12618,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 16 1975 00:00:00",
+      20670,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 17 1975 00:00:00",
+      11790,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 18 1975 00:00:00",
+      17988,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 19 1975 00:00:00",
+      6684,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 20 1975 00:00:00",
+      10128,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 21 1975 00:00:00",
+      7500,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 22 1975 00:00:00",
+      5376,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 23 1975 00:00:00",
+      6126,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 24 1975 00:00:00",
+      5364,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 25 1975 00:00:00",
+      6030,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 26 1975 00:00:00",
+      2712,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 27 1975 00:00:00",
+      3096,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 28 1975 00:00:00",
+      1704,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 29 1975 00:00:00",
+      2292,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 30 1975 00:00:00",
+      1410,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 31 1975 00:00:00",
+      1362,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "August, 01 1975 00:00:00",
+      462,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "August, 02 1975 00:00:00",
+      744,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "August, 03 1975 00:00:00",
+      396,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "August, 04 1975 00:00:00",
+      348,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 53,
+    "species_id": "420",
+    "year": "1975",
+    "totalRecords": 28,
+    "totalCount": 160962,
+    "source": "ADFG JSON API",
+    "last_updated": "1975-12-31T00:00:00"
+  }
+}

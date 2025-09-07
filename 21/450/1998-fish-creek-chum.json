@@ -1,1 +1,769 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1998, "July, 07 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 08 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 09 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 10 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 11 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 12 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 13 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 14 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 15 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 16 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 17 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 18 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 19 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 20 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 21 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 22 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 23 1998 00:00:00", 15, 450, 21, "Fish Creek", "Chum"], [1998, "July, 24 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 25 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 26 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 27 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 28 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 29 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 30 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "July, 31 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 01 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 02 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 03 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 04 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 05 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 06 1998 00:00:00", 2, 450, 21, "Fish Creek", "Chum"], [1998, "August, 07 1998 00:00:00", 1, 450, 21, "Fish Creek", "Chum"], [1998, "August, 08 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 09 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 10 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 11 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 12 1998 00:00:00", 7, 450, 21, "Fish Creek", "Chum"], [1998, "August, 13 1998 00:00:00", 6, 450, 21, "Fish Creek", "Chum"], [1998, "August, 14 1998 00:00:00", 1, 450, 21, "Fish Creek", "Chum"], [1998, "August, 15 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 16 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 17 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 18 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 19 1998 00:00:00", 1, 450, 21, "Fish Creek", "Chum"], [1998, "August, 20 1998 00:00:00", 2, 450, 21, "Fish Creek", "Chum"], [1998, "August, 21 1998 00:00:00", 12, 450, 21, "Fish Creek", "Chum"], [1998, "August, 22 1998 00:00:00", 2, 450, 21, "Fish Creek", "Chum"], [1998, "August, 23 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 24 1998 00:00:00", 1, 450, 21, "Fish Creek", "Chum"], [1998, "August, 25 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 26 1998 00:00:00", 1, 450, 21, "Fish Creek", "Chum"], [1998, "August, 27 1998 00:00:00", 3, 450, 21, "Fish Creek", "Chum"], [1998, "August, 28 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 29 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 30 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "August, 31 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 01 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 02 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 03 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 04 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 05 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 06 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 07 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 08 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 09 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 10 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 11 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 12 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 13 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 14 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 15 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 16 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 17 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 18 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 19 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 20 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 21 1998 00:00:00", 1, 450, 21, "Fish Creek", "Chum"], [1998, "September, 22 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 23 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 24 1998 00:00:00", 1, 450, 21, "Fish Creek", "Chum"], [1998, "September, 25 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 26 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"], [1998, "September, 27 1998 00:00:00", 0, 450, 21, "Fish Creek", "Chum"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "July, 07 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 08 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 09 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 10 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 11 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 12 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 13 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 14 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 15 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 16 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 17 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 18 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 19 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 20 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 21 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 22 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 23 1998 00:00:00",
+      15,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 24 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 25 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 26 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 27 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 28 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 29 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 30 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "July, 31 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 01 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 02 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 03 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 04 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 05 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 06 1998 00:00:00",
+      2,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 07 1998 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 08 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 09 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 10 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 11 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 12 1998 00:00:00",
+      7,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 13 1998 00:00:00",
+      6,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 14 1998 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 15 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 16 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 17 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 18 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 19 1998 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 20 1998 00:00:00",
+      2,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 21 1998 00:00:00",
+      12,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 22 1998 00:00:00",
+      2,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 23 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 24 1998 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 25 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 26 1998 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 27 1998 00:00:00",
+      3,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 28 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 29 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 30 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "August, 31 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 01 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 02 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 03 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 04 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 05 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 06 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 07 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 08 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 09 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 10 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 11 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 12 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 13 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 14 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 15 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 16 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 17 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 18 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 19 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 20 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 21 1998 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 22 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 23 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 24 1998 00:00:00",
+      1,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 25 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 26 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ],
+    [
+      1998,
+      "September, 27 1998 00:00:00",
+      0,
+      450,
+      21,
+      "Fish Creek",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 21,
+    "species_id": "450",
+    "year": "1998",
+    "totalRecords": 83,
+    "totalCount": 56,
+    "source": "ADFG JSON API",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

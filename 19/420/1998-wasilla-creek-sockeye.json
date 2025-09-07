@@ -1,1 +1,733 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1998, "July, 25 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "July, 26 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "July, 27 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "July, 28 1998 00:00:00", 2, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "July, 29 1998 00:00:00", 1, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "July, 30 1998 00:00:00", 24, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "July, 31 1998 00:00:00", 32, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 01 1998 00:00:00", 42, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 02 1998 00:00:00", 74, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 03 1998 00:00:00", 18, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 04 1998 00:00:00", 26, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 05 1998 00:00:00", 16, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 06 1998 00:00:00", 16, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 07 1998 00:00:00", 51, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 08 1998 00:00:00", 51, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 09 1998 00:00:00", 34, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 10 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 11 1998 00:00:00", 44, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 12 1998 00:00:00", 30, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 13 1998 00:00:00", 48, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 14 1998 00:00:00", 19, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 15 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 16 1998 00:00:00", 16, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 17 1998 00:00:00", 23, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 18 1998 00:00:00", 5, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 19 1998 00:00:00", 3, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 20 1998 00:00:00", 1, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 21 1998 00:00:00", 12, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 22 1998 00:00:00", 64, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 23 1998 00:00:00", 5, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 24 1998 00:00:00", 10, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 25 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 26 1998 00:00:00", 1, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 27 1998 00:00:00", 1, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 28 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 29 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 30 1998 00:00:00", 2, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "August, 31 1998 00:00:00", 5, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 01 1998 00:00:00", 1, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 02 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 03 1998 00:00:00", 1, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 04 1998 00:00:00", 1, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 05 1998 00:00:00", 1, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 06 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 07 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 08 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 09 1998 00:00:00", 2, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 10 1998 00:00:00", 2, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 11 1998 00:00:00", 1, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 12 1998 00:00:00", 5, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 13 1998 00:00:00", 1, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 14 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 15 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 16 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 17 1998 00:00:00", 1, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 18 1998 00:00:00", 1, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 19 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 20 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 21 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 22 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 23 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 24 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 25 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 26 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 27 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 28 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 29 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "September, 30 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "October, 01 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "October, 02 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "October, 03 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "October, 04 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "October, 05 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "October, 06 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "October, 07 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "October, 08 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "October, 09 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "October, 10 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"], [1998, "October, 11 1998 00:00:00", 0, 420, 19, "Wasilla Creek", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "July, 25 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 26 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 27 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 28 1998 00:00:00",
+      2,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 29 1998 00:00:00",
+      1,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 30 1998 00:00:00",
+      24,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 31 1998 00:00:00",
+      32,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 01 1998 00:00:00",
+      42,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 02 1998 00:00:00",
+      74,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 03 1998 00:00:00",
+      18,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 04 1998 00:00:00",
+      26,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 05 1998 00:00:00",
+      16,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 06 1998 00:00:00",
+      16,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 07 1998 00:00:00",
+      51,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 08 1998 00:00:00",
+      51,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 09 1998 00:00:00",
+      34,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 10 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 11 1998 00:00:00",
+      44,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 12 1998 00:00:00",
+      30,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 13 1998 00:00:00",
+      48,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 14 1998 00:00:00",
+      19,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 15 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 16 1998 00:00:00",
+      16,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 17 1998 00:00:00",
+      23,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 18 1998 00:00:00",
+      5,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 19 1998 00:00:00",
+      3,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 20 1998 00:00:00",
+      1,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 21 1998 00:00:00",
+      12,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 22 1998 00:00:00",
+      64,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 23 1998 00:00:00",
+      5,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 24 1998 00:00:00",
+      10,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 25 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 26 1998 00:00:00",
+      1,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 27 1998 00:00:00",
+      1,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 28 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 29 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 30 1998 00:00:00",
+      2,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 31 1998 00:00:00",
+      5,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 01 1998 00:00:00",
+      1,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 02 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 03 1998 00:00:00",
+      1,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 04 1998 00:00:00",
+      1,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 05 1998 00:00:00",
+      1,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 06 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 07 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 08 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 09 1998 00:00:00",
+      2,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 10 1998 00:00:00",
+      2,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 11 1998 00:00:00",
+      1,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 12 1998 00:00:00",
+      5,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 13 1998 00:00:00",
+      1,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 14 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 15 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 16 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 17 1998 00:00:00",
+      1,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 18 1998 00:00:00",
+      1,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 19 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 20 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 21 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 22 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 23 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 24 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 25 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 26 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 27 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 28 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 29 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "September, 30 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "October, 01 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "October, 02 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "October, 03 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "October, 04 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "October, 05 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "October, 06 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "October, 07 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "October, 08 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "October, 09 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "October, 10 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "October, 11 1998 00:00:00",
+      0,
+      420,
+      19,
+      "Wasilla Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 19,
+    "species_id": "420",
+    "year": "1998",
+    "totalRecords": 79,
+    "totalCount": 693,
+    "source": "ADFG JSON API",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

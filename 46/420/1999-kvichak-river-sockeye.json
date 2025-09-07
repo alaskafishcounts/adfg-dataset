@@ -1,1 +1,283 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1999, "June, 25 1999 00:00:00", 54, 420, 46, "Kvichak River", "Sockeye"], [1999, "June, 26 1999 00:00:00", 36, 420, 46, "Kvichak River", "Sockeye"], [1999, "June, 27 1999 00:00:00", 90, 420, 46, "Kvichak River", "Sockeye"], [1999, "June, 28 1999 00:00:00", 24, 420, 46, "Kvichak River", "Sockeye"], [1999, "June, 29 1999 00:00:00", 234, 420, 46, "Kvichak River", "Sockeye"], [1999, "June, 30 1999 00:00:00", 16962, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 01 1999 00:00:00", 87450, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 02 1999 00:00:00", 232242, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 03 1999 00:00:00", 411228, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 04 1999 00:00:00", 338088, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 05 1999 00:00:00", 437124, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 06 1999 00:00:00", 304272, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 07 1999 00:00:00", 428358, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 08 1999 00:00:00", 532554, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 09 1999 00:00:00", 403932, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 10 1999 00:00:00", 395958, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 11 1999 00:00:00", 215850, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 12 1999 00:00:00", 228000, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 13 1999 00:00:00", 299562, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 14 1999 00:00:00", 317820, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 15 1999 00:00:00", 298842, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 16 1999 00:00:00", 162348, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 17 1999 00:00:00", 310638, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 18 1999 00:00:00", 428550, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 19 1999 00:00:00", 189006, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 20 1999 00:00:00", 70278, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 21 1999 00:00:00", 41988, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 22 1999 00:00:00", 24882, 420, 46, "Kvichak River", "Sockeye"], [1999, "July, 23 1999 00:00:00", 20544, 420, 46, "Kvichak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "June, 25 1999 00:00:00",
+      54,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 26 1999 00:00:00",
+      36,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 27 1999 00:00:00",
+      90,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 28 1999 00:00:00",
+      24,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 29 1999 00:00:00",
+      234,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 30 1999 00:00:00",
+      16962,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 01 1999 00:00:00",
+      87450,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 02 1999 00:00:00",
+      232242,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 03 1999 00:00:00",
+      411228,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 04 1999 00:00:00",
+      338088,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 05 1999 00:00:00",
+      437124,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 06 1999 00:00:00",
+      304272,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 07 1999 00:00:00",
+      428358,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 08 1999 00:00:00",
+      532554,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 09 1999 00:00:00",
+      403932,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 10 1999 00:00:00",
+      395958,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 11 1999 00:00:00",
+      215850,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 12 1999 00:00:00",
+      228000,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 13 1999 00:00:00",
+      299562,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 14 1999 00:00:00",
+      317820,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 15 1999 00:00:00",
+      298842,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 16 1999 00:00:00",
+      162348,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 17 1999 00:00:00",
+      310638,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 18 1999 00:00:00",
+      428550,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 19 1999 00:00:00",
+      189006,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 20 1999 00:00:00",
+      70278,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 21 1999 00:00:00",
+      41988,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 22 1999 00:00:00",
+      24882,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 23 1999 00:00:00",
+      20544,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 46,
+    "species_id": "420",
+    "year": "1999",
+    "totalRecords": 29,
+    "totalCount": 6196914,
+    "source": "ADFG JSON API",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

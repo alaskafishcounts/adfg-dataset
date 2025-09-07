@@ -1,1 +1,274 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1978, "June, 24 1978 00:00:00", 252, 420, 48, "Naknek River", "Sockeye"], [1978, "June, 25 1978 00:00:00", 90, 420, 48, "Naknek River", "Sockeye"], [1978, "June, 26 1978 00:00:00", 102, 420, 48, "Naknek River", "Sockeye"], [1978, "June, 27 1978 00:00:00", 1194, 420, 48, "Naknek River", "Sockeye"], [1978, "June, 28 1978 00:00:00", 28758, 420, 48, "Naknek River", "Sockeye"], [1978, "June, 29 1978 00:00:00", 28920, 420, 48, "Naknek River", "Sockeye"], [1978, "June, 30 1978 00:00:00", 42678, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 01 1978 00:00:00", 13002, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 02 1978 00:00:00", 4800, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 03 1978 00:00:00", 10728, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 04 1978 00:00:00", 55392, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 05 1978 00:00:00", 147426, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 06 1978 00:00:00", 160848, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 07 1978 00:00:00", 85320, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 08 1978 00:00:00", 75930, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 09 1978 00:00:00", 21516, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 10 1978 00:00:00", 30210, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 11 1978 00:00:00", 10938, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 12 1978 00:00:00", 41064, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 13 1978 00:00:00", 20082, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 14 1978 00:00:00", 5970, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 15 1978 00:00:00", 2658, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 16 1978 00:00:00", 8154, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 17 1978 00:00:00", 9912, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 18 1978 00:00:00", 2880, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 19 1978 00:00:00", 2880, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 20 1978 00:00:00", 966, 420, 48, "Naknek River", "Sockeye"], [1978, "July, 21 1978 00:00:00", 708, 420, 48, "Naknek River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1978,
+      "June, 24 1978 00:00:00",
+      252,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 25 1978 00:00:00",
+      90,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 26 1978 00:00:00",
+      102,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 27 1978 00:00:00",
+      1194,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 28 1978 00:00:00",
+      28758,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 29 1978 00:00:00",
+      28920,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 30 1978 00:00:00",
+      42678,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 01 1978 00:00:00",
+      13002,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 02 1978 00:00:00",
+      4800,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 03 1978 00:00:00",
+      10728,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 04 1978 00:00:00",
+      55392,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 05 1978 00:00:00",
+      147426,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 06 1978 00:00:00",
+      160848,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 07 1978 00:00:00",
+      85320,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 08 1978 00:00:00",
+      75930,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 09 1978 00:00:00",
+      21516,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 10 1978 00:00:00",
+      30210,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 11 1978 00:00:00",
+      10938,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 12 1978 00:00:00",
+      41064,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 13 1978 00:00:00",
+      20082,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 14 1978 00:00:00",
+      5970,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 15 1978 00:00:00",
+      2658,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 16 1978 00:00:00",
+      8154,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 17 1978 00:00:00",
+      9912,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 18 1978 00:00:00",
+      2880,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 19 1978 00:00:00",
+      2880,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 20 1978 00:00:00",
+      966,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 21 1978 00:00:00",
+      708,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 48,
+    "species_id": "420",
+    "year": "1978",
+    "totalRecords": 28,
+    "totalCount": 813378,
+    "source": "ADFG JSON API",
+    "last_updated": "1978-12-31T00:00:00"
+  }
+}

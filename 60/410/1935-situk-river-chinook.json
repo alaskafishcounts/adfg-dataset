@@ -7,191 +7,229 @@
     "source": "Historical weir operations",
     "notes": "Favorable weather conditions; Transition to scientific monitoring",
     "total_count": 7781,
-    "data_points": 31
+    "data_points": 31,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=60&SpeciesID=410",
+        "description": "Official ADF&G fish count data for Situk River"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15129500",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.1J.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Situk River Assessment",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/FDS.1J.2020.01.pdf",
+          "description": "ADF&G Situk River assessment report"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/southeast-alaska/situk-river-chinook-assessment-2020.pdf",
+          "description": "Situk River Chinook Assessment 2020 - Contains historical escapement data",
+          "source_type": "Fishery Data Series (FDS.1J.2020.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-15",
+      "1935-06-15",
       "Situk River",
       "136",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-16",
+      "1935-06-16",
       "Situk River",
       "172",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-17",
+      "1935-06-17",
       "Situk River",
       "138",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-18",
+      "1935-06-18",
       "Situk River",
       "154",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-19",
+      "1935-06-19",
       "Situk River",
       "173",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-20",
+      "1935-06-20",
       "Situk River",
       "134",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-21",
+      "1935-06-21",
       "Situk River",
       "137",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-22",
+      "1935-06-22",
       "Situk River",
       "139",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-23",
+      "1935-06-23",
       "Situk River",
       "138",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-24",
+      "1935-06-24",
       "Situk River",
       "156",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-25",
+      "1935-06-25",
       "Situk River",
       "157",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-26",
+      "1935-06-26",
       "Situk River",
       "136",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-27",
+      "1935-06-27",
       "Situk River",
       "148",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-28",
+      "1935-06-28",
       "Situk River",
       "152",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-29",
+      "1935-06-29",
       "Situk River",
       "138",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-30",
+      "1935-06-30",
       "Situk River",
       "144",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-01",
+      "1935-07-01",
       "Situk River",
       "168",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-02",
+      "1935-07-02",
       "Situk River",
       "158",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-03",
+      "1935-07-03",
       "Situk River",
       "147",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-04",
+      "1935-07-04",
       "Situk River",
       "152",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-05",
+      "1935-07-05",
       "Situk River",
       "169",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-06",
+      "1935-07-06",
       "Situk River",
       "149",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-07",
+      "1935-07-07",
       "Situk River",
       "142",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-08",
+      "1935-07-08",
       "Situk River",
       "421",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-09",
+      "1935-07-09",
       "Situk River",
       "420",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-10",
+      "1935-07-10",
       "Situk River",
       "383",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-11",
+      "1935-07-11",
       "Situk River",
       "380",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-12",
+      "1935-07-12",
       "Situk River",
       "843",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-13",
+      "1935-07-13",
       "Situk River",
       "696",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-14",
+      "1935-07-14",
       "Situk River",
       "792",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-15",
+      "1935-07-15",
       "Situk River",
       "1286",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"

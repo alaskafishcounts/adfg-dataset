@@ -1,1 +1,454 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2023, "July, 05 2023 00:00:00", 1, 450, 16, "Little Susitna", "Chum"], [2023, "July, 06 2023 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [2023, "July, 07 2023 00:00:00", 1, 450, 16, "Little Susitna", "Chum"], [2023, "July, 08 2023 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [2023, "July, 09 2023 00:00:00", 1, 450, 16, "Little Susitna", "Chum"], [2023, "July, 10 2023 00:00:00", 2, 450, 16, "Little Susitna", "Chum"], [2023, "July, 11 2023 00:00:00", 1, 450, 16, "Little Susitna", "Chum"], [2023, "July, 12 2023 00:00:00", 9, 450, 16, "Little Susitna", "Chum"], [2023, "July, 13 2023 00:00:00", 10, 450, 16, "Little Susitna", "Chum"], [2023, "July, 14 2023 00:00:00", 200, 450, 16, "Little Susitna", "Chum"], [2023, "July, 15 2023 00:00:00", 52, 450, 16, "Little Susitna", "Chum"], [2023, "July, 16 2023 00:00:00", 185, 450, 16, "Little Susitna", "Chum"], [2023, "July, 17 2023 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [2023, "July, 18 2023 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [2023, "July, 19 2023 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [2023, "July, 20 2023 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [2023, "July, 21 2023 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [2023, "July, 22 2023 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [2023, "July, 23 2023 00:00:00", 229, 450, 16, "Little Susitna", "Chum"], [2023, "July, 24 2023 00:00:00", 1147, 450, 16, "Little Susitna", "Chum"], [2023, "July, 25 2023 00:00:00", 747, 450, 16, "Little Susitna", "Chum"], [2023, "July, 26 2023 00:00:00", 1131, 450, 16, "Little Susitna", "Chum"], [2023, "July, 28 2023 00:00:00", 1748, 450, 16, "Little Susitna", "Chum"], [2023, "July, 29 2023 00:00:00", 983, 450, 16, "Little Susitna", "Chum"], [2023, "July, 30 2023 00:00:00", 1585, 450, 16, "Little Susitna", "Chum"], [2023, "July, 31 2023 00:00:00", 837, 450, 16, "Little Susitna", "Chum"], [2023, "August, 01 2023 00:00:00", 1648, 450, 16, "Little Susitna", "Chum"], [2023, "August, 02 2023 00:00:00", 1588, 450, 16, "Little Susitna", "Chum"], [2023, "August, 03 2023 00:00:00", 802, 450, 16, "Little Susitna", "Chum"], [2023, "August, 04 2023 00:00:00", 797, 450, 16, "Little Susitna", "Chum"], [2023, "August, 05 2023 00:00:00", 719, 450, 16, "Little Susitna", "Chum"], [2023, "August, 06 2023 00:00:00", 813, 450, 16, "Little Susitna", "Chum"], [2023, "August, 07 2023 00:00:00", 534, 450, 16, "Little Susitna", "Chum"], [2023, "August, 08 2023 00:00:00", 588, 450, 16, "Little Susitna", "Chum"], [2023, "August, 09 2023 00:00:00", 523, 450, 16, "Little Susitna", "Chum"], [2023, "August, 10 2023 00:00:00", 528, 450, 16, "Little Susitna", "Chum"], [2023, "August, 11 2023 00:00:00", 581, 450, 16, "Little Susitna", "Chum"], [2023, "August, 12 2023 00:00:00", 281, 450, 16, "Little Susitna", "Chum"], [2023, "August, 13 2023 00:00:00", 312, 450, 16, "Little Susitna", "Chum"], [2023, "August, 14 2023 00:00:00", 69, 450, 16, "Little Susitna", "Chum"], [2023, "August, 15 2023 00:00:00", 72, 450, 16, "Little Susitna", "Chum"], [2023, "August, 16 2023 00:00:00", 67, 450, 16, "Little Susitna", "Chum"], [2023, "August, 17 2023 00:00:00", 104, 450, 16, "Little Susitna", "Chum"], [2023, "August, 21 2023 00:00:00", 50, 450, 16, "Little Susitna", "Chum"], [2023, "August, 22 2023 00:00:00", 67, 450, 16, "Little Susitna", "Chum"], [2023, "August, 23 2023 00:00:00", 46, 450, 16, "Little Susitna", "Chum"], [2023, "August, 24 2023 00:00:00", 36, 450, 16, "Little Susitna", "Chum"], [2023, "August, 25 2023 00:00:00", 16, 450, 16, "Little Susitna", "Chum"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 05 2023 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 06 2023 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 07 2023 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 08 2023 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 09 2023 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      2,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      9,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      10,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      200,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      52,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      185,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      229,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      1147,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      747,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      1131,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      1748,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      983,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      1585,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      837,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 01 2023 00:00:00",
+      1648,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 02 2023 00:00:00",
+      1588,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 03 2023 00:00:00",
+      802,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 04 2023 00:00:00",
+      797,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 05 2023 00:00:00",
+      719,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 06 2023 00:00:00",
+      813,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 07 2023 00:00:00",
+      534,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 08 2023 00:00:00",
+      588,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 09 2023 00:00:00",
+      523,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      528,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 11 2023 00:00:00",
+      581,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 12 2023 00:00:00",
+      281,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 13 2023 00:00:00",
+      312,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      69,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      72,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      67,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      104,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 21 2023 00:00:00",
+      50,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 22 2023 00:00:00",
+      67,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 23 2023 00:00:00",
+      46,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 24 2023 00:00:00",
+      36,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2023,
+      "August, 25 2023 00:00:00",
+      16,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 16,
+    "species_id": "450",
+    "year": "2023",
+    "totalRecords": 48,
+    "totalCount": 19110,
+    "source": "ADFG JSON API",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

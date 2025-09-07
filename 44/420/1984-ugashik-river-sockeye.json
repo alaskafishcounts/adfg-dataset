@@ -1,1 +1,328 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1984, "June, 22 1984 00:00:00", 6, 420, 44, "Ugashik River", "Sockeye"], [1984, "June, 23 1984 00:00:00", 30, 420, 44, "Ugashik River", "Sockeye"], [1984, "June, 25 1984 00:00:00", 18, 420, 44, "Ugashik River", "Sockeye"], [1984, "June, 26 1984 00:00:00", 210, 420, 44, "Ugashik River", "Sockeye"], [1984, "June, 27 1984 00:00:00", 114, 420, 44, "Ugashik River", "Sockeye"], [1984, "June, 28 1984 00:00:00", 102, 420, 44, "Ugashik River", "Sockeye"], [1984, "June, 29 1984 00:00:00", 426, 420, 44, "Ugashik River", "Sockeye"], [1984, "June, 30 1984 00:00:00", 1758, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 01 1984 00:00:00", 4350, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 02 1984 00:00:00", 2706, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 03 1984 00:00:00", 72, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 05 1984 00:00:00", 24, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 07 1984 00:00:00", 18, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 09 1984 00:00:00", 24, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 10 1984 00:00:00", 150, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 11 1984 00:00:00", 145170, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 12 1984 00:00:00", 80616, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 13 1984 00:00:00", 63840, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 14 1984 00:00:00", 161292, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 15 1984 00:00:00", 135360, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 16 1984 00:00:00", 45534, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 17 1984 00:00:00", 231408, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 18 1984 00:00:00", 122700, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 19 1984 00:00:00", 91356, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 20 1984 00:00:00", 65748, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 21 1984 00:00:00", 23652, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 22 1984 00:00:00", 12582, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 23 1984 00:00:00", 15390, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 24 1984 00:00:00", 9414, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 25 1984 00:00:00", 9216, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 26 1984 00:00:00", 5988, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 27 1984 00:00:00", 6306, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 28 1984 00:00:00", 3540, 420, 44, "Ugashik River", "Sockeye"], [1984, "July, 29 1984 00:00:00", 2298, 420, 44, "Ugashik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "June, 22 1984 00:00:00",
+      6,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 23 1984 00:00:00",
+      30,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 25 1984 00:00:00",
+      18,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 26 1984 00:00:00",
+      210,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 27 1984 00:00:00",
+      114,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 28 1984 00:00:00",
+      102,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 29 1984 00:00:00",
+      426,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 30 1984 00:00:00",
+      1758,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 01 1984 00:00:00",
+      4350,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 02 1984 00:00:00",
+      2706,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 03 1984 00:00:00",
+      72,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 05 1984 00:00:00",
+      24,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 07 1984 00:00:00",
+      18,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 09 1984 00:00:00",
+      24,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 10 1984 00:00:00",
+      150,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 11 1984 00:00:00",
+      145170,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 12 1984 00:00:00",
+      80616,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 13 1984 00:00:00",
+      63840,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 14 1984 00:00:00",
+      161292,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 15 1984 00:00:00",
+      135360,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 16 1984 00:00:00",
+      45534,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 17 1984 00:00:00",
+      231408,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 18 1984 00:00:00",
+      122700,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 19 1984 00:00:00",
+      91356,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 20 1984 00:00:00",
+      65748,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 21 1984 00:00:00",
+      23652,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 22 1984 00:00:00",
+      12582,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 23 1984 00:00:00",
+      15390,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 24 1984 00:00:00",
+      9414,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 25 1984 00:00:00",
+      9216,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 26 1984 00:00:00",
+      5988,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 27 1984 00:00:00",
+      6306,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 28 1984 00:00:00",
+      3540,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 29 1984 00:00:00",
+      2298,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 44,
+    "species_id": "420",
+    "year": "1984",
+    "totalRecords": 34,
+    "totalCount": 1241418,
+    "source": "ADFG JSON API",
+    "last_updated": "1984-12-31T00:00:00"
+  }
+}

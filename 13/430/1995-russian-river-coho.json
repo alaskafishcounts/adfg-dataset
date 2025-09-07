@@ -1,1 +1,1120 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1995, "June, 01 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 02 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 03 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 04 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 05 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 06 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 07 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 08 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 09 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 10 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 11 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 12 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 13 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 14 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 15 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 16 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 17 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 18 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 19 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 20 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 21 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 22 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 23 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 24 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 25 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 26 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 27 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 28 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 29 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "June, 30 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 01 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 02 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 03 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 04 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 05 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 06 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 07 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 08 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 09 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 10 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 11 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 12 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 13 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 14 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 15 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 16 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 17 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 18 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 19 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 20 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 21 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 22 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 23 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 24 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 25 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 26 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 27 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 28 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 29 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 30 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "July, 31 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "August, 01 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "August, 02 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "August, 03 1995 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1995, "August, 04 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "August, 05 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "August, 06 1995 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1995, "August, 07 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "August, 08 1995 00:00:00", 6, 430, 13, "Russian River", "Coho"], [1995, "August, 09 1995 00:00:00", 6, 430, 13, "Russian River", "Coho"], [1995, "August, 10 1995 00:00:00", 3, 430, 13, "Russian River", "Coho"], [1995, "August, 11 1995 00:00:00", 6, 430, 13, "Russian River", "Coho"], [1995, "August, 12 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "August, 13 1995 00:00:00", 17, 430, 13, "Russian River", "Coho"], [1995, "August, 14 1995 00:00:00", 24, 430, 13, "Russian River", "Coho"], [1995, "August, 15 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "August, 16 1995 00:00:00", 38, 430, 13, "Russian River", "Coho"], [1995, "August, 17 1995 00:00:00", 20, 430, 13, "Russian River", "Coho"], [1995, "August, 18 1995 00:00:00", 27, 430, 13, "Russian River", "Coho"], [1995, "August, 19 1995 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1995, "August, 20 1995 00:00:00", 8, 430, 13, "Russian River", "Coho"], [1995, "August, 21 1995 00:00:00", 13, 430, 13, "Russian River", "Coho"], [1995, "August, 22 1995 00:00:00", 21, 430, 13, "Russian River", "Coho"], [1995, "August, 23 1995 00:00:00", 5, 430, 13, "Russian River", "Coho"], [1995, "August, 24 1995 00:00:00", 41, 430, 13, "Russian River", "Coho"], [1995, "August, 25 1995 00:00:00", 2, 430, 13, "Russian River", "Coho"], [1995, "August, 26 1995 00:00:00", 17, 430, 13, "Russian River", "Coho"], [1995, "August, 27 1995 00:00:00", 48, 430, 13, "Russian River", "Coho"], [1995, "August, 28 1995 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1995, "August, 29 1995 00:00:00", 43, 430, 13, "Russian River", "Coho"], [1995, "August, 30 1995 00:00:00", 11, 430, 13, "Russian River", "Coho"], [1995, "August, 31 1995 00:00:00", 4, 430, 13, "Russian River", "Coho"], [1995, "September, 01 1995 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1995, "September, 02 1995 00:00:00", 13, 430, 13, "Russian River", "Coho"], [1995, "September, 03 1995 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1995, "September, 04 1995 00:00:00", 4, 430, 13, "Russian River", "Coho"], [1995, "September, 05 1995 00:00:00", 10, 430, 13, "Russian River", "Coho"], [1995, "September, 06 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 07 1995 00:00:00", 307, 430, 13, "Russian River", "Coho"], [1995, "September, 08 1995 00:00:00", 358, 430, 13, "Russian River", "Coho"], [1995, "September, 09 1995 00:00:00", 56, 430, 13, "Russian River", "Coho"], [1995, "September, 10 1995 00:00:00", 259, 430, 13, "Russian River", "Coho"], [1995, "September, 11 1995 00:00:00", 300, 430, 13, "Russian River", "Coho"], [1995, "September, 12 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 13 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 14 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 15 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 16 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 17 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 18 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 19 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 20 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 21 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 22 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 23 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 24 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 25 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 26 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 27 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 28 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 29 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1995, "September, 30 1995 00:00:00", 0, 430, 13, "Russian River", "Coho"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "June, 01 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 02 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 03 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 04 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 05 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 06 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 07 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 08 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 09 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 10 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 11 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 12 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 13 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 14 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 15 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 16 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 17 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 18 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 19 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 20 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 21 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 22 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 23 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 24 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 25 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 26 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 27 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 28 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 29 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "June, 30 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 01 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 02 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 03 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 04 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 05 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 06 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 07 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 08 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 09 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 10 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 11 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 12 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 13 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 14 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 15 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 16 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 17 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 18 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 19 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 20 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 21 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 22 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 23 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 24 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 25 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 26 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 27 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 28 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 29 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 30 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "July, 31 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 01 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 02 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 03 1995 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 04 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 05 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 06 1995 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 07 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 08 1995 00:00:00",
+      6,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 09 1995 00:00:00",
+      6,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 10 1995 00:00:00",
+      3,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 11 1995 00:00:00",
+      6,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 12 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 13 1995 00:00:00",
+      17,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 14 1995 00:00:00",
+      24,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 15 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 16 1995 00:00:00",
+      38,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 17 1995 00:00:00",
+      20,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 18 1995 00:00:00",
+      27,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 19 1995 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 20 1995 00:00:00",
+      8,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 21 1995 00:00:00",
+      13,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 22 1995 00:00:00",
+      21,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 23 1995 00:00:00",
+      5,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 24 1995 00:00:00",
+      41,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 25 1995 00:00:00",
+      2,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 26 1995 00:00:00",
+      17,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 27 1995 00:00:00",
+      48,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 28 1995 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 29 1995 00:00:00",
+      43,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 30 1995 00:00:00",
+      11,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 31 1995 00:00:00",
+      4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 01 1995 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 02 1995 00:00:00",
+      13,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 03 1995 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 04 1995 00:00:00",
+      4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 05 1995 00:00:00",
+      10,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 06 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 07 1995 00:00:00",
+      307,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 08 1995 00:00:00",
+      358,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 09 1995 00:00:00",
+      56,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 10 1995 00:00:00",
+      259,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 11 1995 00:00:00",
+      300,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 12 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 13 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 14 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 15 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 16 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 17 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 18 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 19 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 20 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 21 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 22 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 23 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 24 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 25 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 26 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 27 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 28 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 29 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 30 1995 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 13,
+    "species_id": "430",
+    "year": "1995",
+    "totalRecords": 122,
+    "totalCount": 1673,
+    "source": "ADFG JSON API",
+    "last_updated": "1995-12-31T00:00:00"
+  }
+}

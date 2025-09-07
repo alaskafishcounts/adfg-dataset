@@ -1,1 +1,418 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2023, "July, 09 2023 00:00:00", 1, 440, 16, "Little Susitna", "Pink"], [2023, "July, 10 2023 00:00:00", 0, 440, 16, "Little Susitna", "Pink"], [2023, "July, 11 2023 00:00:00", 0, 440, 16, "Little Susitna", "Pink"], [2023, "July, 12 2023 00:00:00", 0, 440, 16, "Little Susitna", "Pink"], [2023, "July, 13 2023 00:00:00", 1, 440, 16, "Little Susitna", "Pink"], [2023, "July, 14 2023 00:00:00", 36, 440, 16, "Little Susitna", "Pink"], [2023, "July, 15 2023 00:00:00", 11, 440, 16, "Little Susitna", "Pink"], [2023, "July, 16 2023 00:00:00", 15, 440, 16, "Little Susitna", "Pink"], [2023, "July, 17 2023 00:00:00", 0, 440, 16, "Little Susitna", "Pink"], [2023, "July, 18 2023 00:00:00", 0, 440, 16, "Little Susitna", "Pink"], [2023, "July, 19 2023 00:00:00", 0, 440, 16, "Little Susitna", "Pink"], [2023, "July, 20 2023 00:00:00", 0, 440, 16, "Little Susitna", "Pink"], [2023, "July, 21 2023 00:00:00", 0, 440, 16, "Little Susitna", "Pink"], [2023, "July, 22 2023 00:00:00", 0, 440, 16, "Little Susitna", "Pink"], [2023, "July, 23 2023 00:00:00", 73, 440, 16, "Little Susitna", "Pink"], [2023, "July, 24 2023 00:00:00", 1218, 440, 16, "Little Susitna", "Pink"], [2023, "July, 25 2023 00:00:00", 577, 440, 16, "Little Susitna", "Pink"], [2023, "July, 26 2023 00:00:00", 905, 440, 16, "Little Susitna", "Pink"], [2023, "July, 27 2023 00:00:00", 1602, 440, 16, "Little Susitna", "Pink"], [2023, "July, 28 2023 00:00:00", 783, 440, 16, "Little Susitna", "Pink"], [2023, "July, 29 2023 00:00:00", 317, 440, 16, "Little Susitna", "Pink"], [2023, "July, 30 2023 00:00:00", 353, 440, 16, "Little Susitna", "Pink"], [2023, "July, 31 2023 00:00:00", 219, 440, 16, "Little Susitna", "Pink"], [2023, "August, 01 2023 00:00:00", 356, 440, 16, "Little Susitna", "Pink"], [2023, "August, 02 2023 00:00:00", 457, 440, 16, "Little Susitna", "Pink"], [2023, "August, 03 2023 00:00:00", 202, 440, 16, "Little Susitna", "Pink"], [2023, "August, 04 2023 00:00:00", 178, 440, 16, "Little Susitna", "Pink"], [2023, "August, 05 2023 00:00:00", 157, 440, 16, "Little Susitna", "Pink"], [2023, "August, 06 2023 00:00:00", 114, 440, 16, "Little Susitna", "Pink"], [2023, "August, 07 2023 00:00:00", 59, 440, 16, "Little Susitna", "Pink"], [2023, "August, 08 2023 00:00:00", 52, 440, 16, "Little Susitna", "Pink"], [2023, "August, 09 2023 00:00:00", 28, 440, 16, "Little Susitna", "Pink"], [2023, "August, 10 2023 00:00:00", 30, 440, 16, "Little Susitna", "Pink"], [2023, "August, 14 2023 00:00:00", 5, 440, 16, "Little Susitna", "Pink"], [2023, "August, 15 2023 00:00:00", 3, 440, 16, "Little Susitna", "Pink"], [2023, "August, 16 2023 00:00:00", 2, 440, 16, "Little Susitna", "Pink"], [2023, "August, 17 2023 00:00:00", 8, 440, 16, "Little Susitna", "Pink"], [2023, "August, 18 2023 00:00:00", 3, 440, 16, "Little Susitna", "Pink"], [2023, "August, 19 2023 00:00:00", 3, 440, 16, "Little Susitna", "Pink"], [2023, "August, 20 2023 00:00:00", 1, 440, 16, "Little Susitna", "Pink"], [2023, "August, 21 2023 00:00:00", 3, 440, 16, "Little Susitna", "Pink"], [2023, "August, 22 2023 00:00:00", 2, 440, 16, "Little Susitna", "Pink"], [2023, "August, 23 2023 00:00:00", 2, 440, 16, "Little Susitna", "Pink"], [2023, "August, 25 2023 00:00:00", 1, 440, 16, "Little Susitna", "Pink"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 09 2023 00:00:00",
+      1,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      0,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      0,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      0,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      1,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      36,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      11,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      15,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      0,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      0,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      0,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      0,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      0,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 22 2023 00:00:00",
+      0,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      73,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 24 2023 00:00:00",
+      1218,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 25 2023 00:00:00",
+      577,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 26 2023 00:00:00",
+      905,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 27 2023 00:00:00",
+      1602,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 28 2023 00:00:00",
+      783,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 29 2023 00:00:00",
+      317,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 30 2023 00:00:00",
+      353,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 31 2023 00:00:00",
+      219,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 01 2023 00:00:00",
+      356,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 02 2023 00:00:00",
+      457,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 03 2023 00:00:00",
+      202,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 04 2023 00:00:00",
+      178,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 05 2023 00:00:00",
+      157,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 06 2023 00:00:00",
+      114,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 07 2023 00:00:00",
+      59,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 08 2023 00:00:00",
+      52,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 09 2023 00:00:00",
+      28,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 10 2023 00:00:00",
+      30,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 14 2023 00:00:00",
+      5,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 15 2023 00:00:00",
+      3,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 16 2023 00:00:00",
+      2,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 17 2023 00:00:00",
+      8,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 18 2023 00:00:00",
+      3,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 19 2023 00:00:00",
+      3,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 20 2023 00:00:00",
+      1,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 21 2023 00:00:00",
+      3,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 22 2023 00:00:00",
+      2,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 23 2023 00:00:00",
+      2,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2023,
+      "August, 25 2023 00:00:00",
+      1,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 16,
+    "species_id": "440",
+    "year": "2023",
+    "totalRecords": 44,
+    "totalCount": 7777,
+    "source": "ADFG JSON API",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

@@ -7,215 +7,253 @@
     "source": "Historical weir operations",
     "notes": "Challenging weather conditions; Transition to scientific monitoring",
     "total_count": 24747,
-    "data_points": 35
+    "data_points": 35,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=81&SpeciesID=420",
+        "description": "Official ADF&G fish count data for Litnik Weir"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15294600",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.4K.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Commercial Fishing Information",
+          "url": "https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByAreaKodiak.salmon_weirs_mobile",
+          "description": "ADF&G commercial fishing management information"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/kodiak-region/kodiak-regional-information-report-2023.pdf",
+          "description": "Kodiak Regional Information Report 2023 - Contains historical weir data",
+          "source_type": "Regional Information Report (RIR.4K.2023.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-15",
+      "1930-06-15",
       "Litnik Weir",
       "435",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-16",
+      "1930-06-16",
       "Litnik Weir",
       "548",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-17",
+      "1930-06-17",
       "Litnik Weir",
       "441",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-18",
+      "1930-06-18",
       "Litnik Weir",
       "490",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-19",
+      "1930-06-19",
       "Litnik Weir",
       "551",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-20",
+      "1930-06-20",
       "Litnik Weir",
       "426",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-21",
+      "1930-06-21",
       "Litnik Weir",
       "437",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-22",
+      "1930-06-22",
       "Litnik Weir",
       "442",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-23",
+      "1930-06-23",
       "Litnik Weir",
       "440",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-24",
+      "1930-06-24",
       "Litnik Weir",
       "497",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-25",
+      "1930-06-25",
       "Litnik Weir",
       "500",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-26",
+      "1930-06-26",
       "Litnik Weir",
       "434",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-27",
+      "1930-06-27",
       "Litnik Weir",
       "472",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-28",
+      "1930-06-28",
       "Litnik Weir",
       "486",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-29",
+      "1930-06-29",
       "Litnik Weir",
       "441",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-30",
+      "1930-06-30",
       "Litnik Weir",
       "460",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-01",
+      "1930-07-01",
       "Litnik Weir",
       "535",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-02",
+      "1930-07-02",
       "Litnik Weir",
       "503",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-03",
+      "1930-07-03",
       "Litnik Weir",
       "469",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-04",
+      "1930-07-04",
       "Litnik Weir",
       "484",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-05",
+      "1930-07-05",
       "Litnik Weir",
       "539",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-06",
+      "1930-07-06",
       "Litnik Weir",
       "475",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-07",
+      "1930-07-07",
       "Litnik Weir",
       "451",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-08",
+      "1930-07-08",
       "Litnik Weir",
       "536",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-09",
+      "1930-07-09",
       "Litnik Weir",
       "535",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-10",
+      "1930-07-10",
       "Litnik Weir",
       "487",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-11",
+      "1930-07-11",
       "Litnik Weir",
       "484",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-12",
+      "1930-07-12",
       "Litnik Weir",
       "536",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-13",
+      "1930-07-13",
       "Litnik Weir",
       "1107",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-14",
+      "1930-07-14",
       "Litnik Weir",
       "1259",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-15",
+      "1930-07-15",
       "Litnik Weir",
       "1363",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-16",
+      "1930-07-16",
       "Litnik Weir",
       "1144",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-17",
+      "1930-07-17",
       "Litnik Weir",
       "2162",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-18",
+      "1930-07-18",
       "Litnik Weir",
       "2125",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-19",
+      "1930-07-19",
       "Litnik Weir",
       "2563",
       "Daily count - Challenging weather conditions; Transition to scientific monitoring"

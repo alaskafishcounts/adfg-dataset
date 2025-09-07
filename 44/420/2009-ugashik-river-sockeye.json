@@ -1,1 +1,238 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2009, "June, 29 2009 00:00:00", 4902, 420, 44, "Ugashik River", "Sockeye"], [2009, "June, 30 2009 00:00:00", 9180, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 01 2009 00:00:00", 27162, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 02 2009 00:00:00", 67212, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 03 2009 00:00:00", 67836, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 04 2009 00:00:00", 115404, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 05 2009 00:00:00", 96336, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 06 2009 00:00:00", 101328, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 07 2009 00:00:00", 135900, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 08 2009 00:00:00", 69372, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 09 2009 00:00:00", 127386, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 10 2009 00:00:00", 229758, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 11 2009 00:00:00", 167742, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 12 2009 00:00:00", 66840, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 13 2009 00:00:00", 10428, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 14 2009 00:00:00", 4062, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 15 2009 00:00:00", 12738, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 16 2009 00:00:00", 10104, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 17 2009 00:00:00", 4782, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 18 2009 00:00:00", 1482, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 19 2009 00:00:00", 5454, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 20 2009 00:00:00", 1890, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 21 2009 00:00:00", 5484, 420, 44, "Ugashik River", "Sockeye"], [2009, "July, 22 2009 00:00:00", 3336, 420, 44, "Ugashik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "June, 29 2009 00:00:00",
+      4902,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 30 2009 00:00:00",
+      9180,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 01 2009 00:00:00",
+      27162,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 02 2009 00:00:00",
+      67212,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 03 2009 00:00:00",
+      67836,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 04 2009 00:00:00",
+      115404,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 05 2009 00:00:00",
+      96336,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 06 2009 00:00:00",
+      101328,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 07 2009 00:00:00",
+      135900,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 08 2009 00:00:00",
+      69372,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 09 2009 00:00:00",
+      127386,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 10 2009 00:00:00",
+      229758,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 11 2009 00:00:00",
+      167742,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 12 2009 00:00:00",
+      66840,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 13 2009 00:00:00",
+      10428,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 14 2009 00:00:00",
+      4062,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 15 2009 00:00:00",
+      12738,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 16 2009 00:00:00",
+      10104,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 17 2009 00:00:00",
+      4782,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 18 2009 00:00:00",
+      1482,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 19 2009 00:00:00",
+      5454,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 20 2009 00:00:00",
+      1890,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 21 2009 00:00:00",
+      5484,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 22 2009 00:00:00",
+      3336,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 44,
+    "species_id": "420",
+    "year": "2009",
+    "totalRecords": 24,
+    "totalCount": 1346118,
+    "source": "ADFG JSON API",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

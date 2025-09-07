@@ -1,1 +1,625 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1993, "June, 04 1993 00:00:00", 443, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 05 1993 00:00:00", 585, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 06 1993 00:00:00", 1116, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 07 1993 00:00:00", 3486, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 08 1993 00:00:00", 2000, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 09 1993 00:00:00", 846, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 10 1993 00:00:00", 700, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 11 1993 00:00:00", 854, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 12 1993 00:00:00", 767, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 13 1993 00:00:00", 484, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 14 1993 00:00:00", 442, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 15 1993 00:00:00", 340, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 16 1993 00:00:00", 5392, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 17 1993 00:00:00", 8065, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 18 1993 00:00:00", 3289, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 19 1993 00:00:00", 1775, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 20 1993 00:00:00", 1470, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 21 1993 00:00:00", 868, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 22 1993 00:00:00", 657, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 23 1993 00:00:00", 27769, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 24 1993 00:00:00", 75213, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 25 1993 00:00:00", 28151, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 26 1993 00:00:00", 23364, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 27 1993 00:00:00", 76802, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 28 1993 00:00:00", 89085, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 29 1993 00:00:00", 39157, 420, 51, "Nushagak River", "Sockeye"], [1993, "June, 30 1993 00:00:00", 54250, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 01 1993 00:00:00", 42635, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 02 1993 00:00:00", 24302, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 03 1993 00:00:00", 80127, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 04 1993 00:00:00", 69330, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 05 1993 00:00:00", 45850, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 06 1993 00:00:00", 26839, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 07 1993 00:00:00", 15787, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 08 1993 00:00:00", 13982, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 09 1993 00:00:00", 7343, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 10 1993 00:00:00", 5874, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 11 1993 00:00:00", 3503, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 12 1993 00:00:00", 3361, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 13 1993 00:00:00", 3280, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 14 1993 00:00:00", 3866, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 15 1993 00:00:00", 2553, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 16 1993 00:00:00", 2891, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 17 1993 00:00:00", 4357, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 18 1993 00:00:00", 2212, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 19 1993 00:00:00", 2114, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 20 1993 00:00:00", 1116, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 21 1993 00:00:00", 917, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 22 1993 00:00:00", 627, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 23 1993 00:00:00", 607, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 24 1993 00:00:00", 554, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 25 1993 00:00:00", 457, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 26 1993 00:00:00", 71, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 27 1993 00:00:00", 56, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 28 1993 00:00:00", 42, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 29 1993 00:00:00", 43, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 30 1993 00:00:00", 48, 420, 51, "Nushagak River", "Sockeye"], [1993, "July, 31 1993 00:00:00", 30, 420, 51, "Nushagak River", "Sockeye"], [1993, "August, 01 1993 00:00:00", 56, 420, 51, "Nushagak River", "Sockeye"], [1993, "August, 02 1993 00:00:00", 51, 420, 51, "Nushagak River", "Sockeye"], [1993, "August, 03 1993 00:00:00", 35, 420, 51, "Nushagak River", "Sockeye"], [1993, "August, 04 1993 00:00:00", 58, 420, 51, "Nushagak River", "Sockeye"], [1993, "August, 05 1993 00:00:00", 78, 420, 51, "Nushagak River", "Sockeye"], [1993, "August, 06 1993 00:00:00", 36, 420, 51, "Nushagak River", "Sockeye"], [1993, "August, 07 1993 00:00:00", 282, 420, 51, "Nushagak River", "Sockeye"], [1993, "August, 08 1993 00:00:00", 130, 420, 51, "Nushagak River", "Sockeye"], [1993, "August, 09 1993 00:00:00", 41, 420, 51, "Nushagak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "June, 04 1993 00:00:00",
+      443,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 05 1993 00:00:00",
+      585,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 06 1993 00:00:00",
+      1116,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 07 1993 00:00:00",
+      3486,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 08 1993 00:00:00",
+      2000,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 09 1993 00:00:00",
+      846,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 10 1993 00:00:00",
+      700,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 11 1993 00:00:00",
+      854,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 12 1993 00:00:00",
+      767,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 13 1993 00:00:00",
+      484,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 14 1993 00:00:00",
+      442,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 15 1993 00:00:00",
+      340,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 16 1993 00:00:00",
+      5392,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 17 1993 00:00:00",
+      8065,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 18 1993 00:00:00",
+      3289,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 19 1993 00:00:00",
+      1775,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 20 1993 00:00:00",
+      1470,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 21 1993 00:00:00",
+      868,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 22 1993 00:00:00",
+      657,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 23 1993 00:00:00",
+      27769,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 24 1993 00:00:00",
+      75213,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 25 1993 00:00:00",
+      28151,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 26 1993 00:00:00",
+      23364,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 27 1993 00:00:00",
+      76802,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 28 1993 00:00:00",
+      89085,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 29 1993 00:00:00",
+      39157,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 30 1993 00:00:00",
+      54250,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 01 1993 00:00:00",
+      42635,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 02 1993 00:00:00",
+      24302,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 03 1993 00:00:00",
+      80127,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 04 1993 00:00:00",
+      69330,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 05 1993 00:00:00",
+      45850,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 06 1993 00:00:00",
+      26839,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 07 1993 00:00:00",
+      15787,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 08 1993 00:00:00",
+      13982,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 09 1993 00:00:00",
+      7343,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 10 1993 00:00:00",
+      5874,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 11 1993 00:00:00",
+      3503,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 12 1993 00:00:00",
+      3361,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 13 1993 00:00:00",
+      3280,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 14 1993 00:00:00",
+      3866,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 15 1993 00:00:00",
+      2553,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 16 1993 00:00:00",
+      2891,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 17 1993 00:00:00",
+      4357,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 18 1993 00:00:00",
+      2212,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 19 1993 00:00:00",
+      2114,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 20 1993 00:00:00",
+      1116,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 21 1993 00:00:00",
+      917,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 22 1993 00:00:00",
+      627,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 23 1993 00:00:00",
+      607,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 24 1993 00:00:00",
+      554,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 25 1993 00:00:00",
+      457,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 26 1993 00:00:00",
+      71,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 27 1993 00:00:00",
+      56,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 28 1993 00:00:00",
+      42,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 29 1993 00:00:00",
+      43,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 30 1993 00:00:00",
+      48,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 31 1993 00:00:00",
+      30,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 01 1993 00:00:00",
+      56,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 02 1993 00:00:00",
+      51,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 03 1993 00:00:00",
+      35,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 04 1993 00:00:00",
+      58,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 05 1993 00:00:00",
+      78,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 06 1993 00:00:00",
+      36,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 07 1993 00:00:00",
+      282,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 08 1993 00:00:00",
+      130,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 09 1993 00:00:00",
+      41,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "420",
+    "year": "1993",
+    "totalRecords": 67,
+    "totalCount": 812911,
+    "source": "ADFG JSON API",
+    "last_updated": "1993-12-31T00:00:00"
+  }
+}

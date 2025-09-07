@@ -1,1 +1,760 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1979, "May, 18 1979 00:00:00", 381, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 19 1979 00:00:00", 487, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 20 1979 00:00:00", 847, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 21 1979 00:00:00", 1199, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 22 1979 00:00:00", 1916, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 23 1979 00:00:00", 2901, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 24 1979 00:00:00", 3402, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 25 1979 00:00:00", 2397, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 26 1979 00:00:00", 4927, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 27 1979 00:00:00", 6821, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 28 1979 00:00:00", 2768, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 29 1979 00:00:00", 3905, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 30 1979 00:00:00", 7482, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "May, 31 1979 00:00:00", 8655, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 01 1979 00:00:00", 4078, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 02 1979 00:00:00", 3465, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 03 1979 00:00:00", 3536, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 04 1979 00:00:00", 2778, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 05 1979 00:00:00", 4352, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 06 1979 00:00:00", 6453, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 07 1979 00:00:00", 7031, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 08 1979 00:00:00", 11078, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 09 1979 00:00:00", 7985, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 10 1979 00:00:00", 5205, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 11 1979 00:00:00", 4426, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 12 1979 00:00:00", 2227, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 13 1979 00:00:00", 3903, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 14 1979 00:00:00", 2563, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 15 1979 00:00:00", 3351, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 16 1979 00:00:00", 3473, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 17 1979 00:00:00", 4640, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 18 1979 00:00:00", 3911, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 19 1979 00:00:00", 3413, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 20 1979 00:00:00", 1954, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 21 1979 00:00:00", 2223, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 22 1979 00:00:00", 2585, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 23 1979 00:00:00", 2865, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 24 1979 00:00:00", 1877, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 25 1979 00:00:00", 3013, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 26 1979 00:00:00", 1973, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 27 1979 00:00:00", 1315, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 28 1979 00:00:00", 1697, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 29 1979 00:00:00", 1450, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "June, 30 1979 00:00:00", 1899, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 01 1979 00:00:00", 2651, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 02 1979 00:00:00", 2524, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 03 1979 00:00:00", 2859, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 04 1979 00:00:00", 3806, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 05 1979 00:00:00", 3008, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 06 1979 00:00:00", 1996, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 07 1979 00:00:00", 892, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 08 1979 00:00:00", 2091, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 09 1979 00:00:00", 3190, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 10 1979 00:00:00", 4209, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 11 1979 00:00:00", 3684, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 12 1979 00:00:00", 3262, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 13 1979 00:00:00", 3144, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 14 1979 00:00:00", 4124, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 15 1979 00:00:00", 3535, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 16 1979 00:00:00", 5175, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 17 1979 00:00:00", 3555, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 18 1979 00:00:00", 3760, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 19 1979 00:00:00", 3344, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 20 1979 00:00:00", 2716, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 21 1979 00:00:00", 2583, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 22 1979 00:00:00", 2012, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 23 1979 00:00:00", 1915, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 24 1979 00:00:00", 2182, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 25 1979 00:00:00", 1112, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 26 1979 00:00:00", 771, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 27 1979 00:00:00", 318, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 28 1979 00:00:00", 387, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 29 1979 00:00:00", 365, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 30 1979 00:00:00", 491, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "July, 31 1979 00:00:00", 703, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "August, 01 1979 00:00:00", 758, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "August, 02 1979 00:00:00", 379, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "August, 03 1979 00:00:00", 227, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "August, 04 1979 00:00:00", 286, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "August, 05 1979 00:00:00", 173, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "August, 06 1979 00:00:00", 103, 420, 39, "Copper River (Miles L)", "Sockeye"], [1979, "August, 07 1979 00:00:00", 76, 420, 39, "Copper River (Miles L)", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1979,
+      "May, 18 1979 00:00:00",
+      381,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 19 1979 00:00:00",
+      487,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 20 1979 00:00:00",
+      847,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 21 1979 00:00:00",
+      1199,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 22 1979 00:00:00",
+      1916,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 23 1979 00:00:00",
+      2901,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 24 1979 00:00:00",
+      3402,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 25 1979 00:00:00",
+      2397,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 26 1979 00:00:00",
+      4927,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 27 1979 00:00:00",
+      6821,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 28 1979 00:00:00",
+      2768,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 29 1979 00:00:00",
+      3905,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 30 1979 00:00:00",
+      7482,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "May, 31 1979 00:00:00",
+      8655,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 01 1979 00:00:00",
+      4078,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 02 1979 00:00:00",
+      3465,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 03 1979 00:00:00",
+      3536,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 04 1979 00:00:00",
+      2778,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 05 1979 00:00:00",
+      4352,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 06 1979 00:00:00",
+      6453,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 07 1979 00:00:00",
+      7031,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 08 1979 00:00:00",
+      11078,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 09 1979 00:00:00",
+      7985,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 10 1979 00:00:00",
+      5205,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 11 1979 00:00:00",
+      4426,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 12 1979 00:00:00",
+      2227,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 13 1979 00:00:00",
+      3903,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 14 1979 00:00:00",
+      2563,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 15 1979 00:00:00",
+      3351,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 16 1979 00:00:00",
+      3473,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 17 1979 00:00:00",
+      4640,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 18 1979 00:00:00",
+      3911,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 19 1979 00:00:00",
+      3413,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 20 1979 00:00:00",
+      1954,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 21 1979 00:00:00",
+      2223,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 22 1979 00:00:00",
+      2585,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 23 1979 00:00:00",
+      2865,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 24 1979 00:00:00",
+      1877,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 25 1979 00:00:00",
+      3013,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 26 1979 00:00:00",
+      1973,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 27 1979 00:00:00",
+      1315,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 28 1979 00:00:00",
+      1697,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 29 1979 00:00:00",
+      1450,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "June, 30 1979 00:00:00",
+      1899,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 01 1979 00:00:00",
+      2651,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 02 1979 00:00:00",
+      2524,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 03 1979 00:00:00",
+      2859,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 04 1979 00:00:00",
+      3806,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 05 1979 00:00:00",
+      3008,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 06 1979 00:00:00",
+      1996,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 07 1979 00:00:00",
+      892,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 08 1979 00:00:00",
+      2091,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 09 1979 00:00:00",
+      3190,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 10 1979 00:00:00",
+      4209,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 11 1979 00:00:00",
+      3684,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 12 1979 00:00:00",
+      3262,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 13 1979 00:00:00",
+      3144,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 14 1979 00:00:00",
+      4124,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 15 1979 00:00:00",
+      3535,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 16 1979 00:00:00",
+      5175,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 17 1979 00:00:00",
+      3555,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 18 1979 00:00:00",
+      3760,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 19 1979 00:00:00",
+      3344,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 20 1979 00:00:00",
+      2716,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 21 1979 00:00:00",
+      2583,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 22 1979 00:00:00",
+      2012,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 23 1979 00:00:00",
+      1915,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 24 1979 00:00:00",
+      2182,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 25 1979 00:00:00",
+      1112,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 26 1979 00:00:00",
+      771,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 27 1979 00:00:00",
+      318,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 28 1979 00:00:00",
+      387,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 29 1979 00:00:00",
+      365,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 30 1979 00:00:00",
+      491,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "July, 31 1979 00:00:00",
+      703,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "August, 01 1979 00:00:00",
+      758,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "August, 02 1979 00:00:00",
+      379,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "August, 03 1979 00:00:00",
+      227,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "August, 04 1979 00:00:00",
+      286,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "August, 05 1979 00:00:00",
+      173,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "August, 06 1979 00:00:00",
+      103,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ],
+    [
+      1979,
+      "August, 07 1979 00:00:00",
+      76,
+      420,
+      39,
+      "Copper River (Miles L)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 39,
+    "species_id": "420",
+    "year": "1979",
+    "totalRecords": 82,
+    "totalCount": 237173,
+    "source": "ADFG JSON API",
+    "last_updated": "1979-12-31T00:00:00"
+  }
+}

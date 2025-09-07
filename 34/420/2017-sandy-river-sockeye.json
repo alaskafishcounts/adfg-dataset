@@ -1,1 +1,499 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2017, "June, 09 2017 00:00:00", 4, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 10 2017 00:00:00", 6, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 11 2017 00:00:00", 20, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 12 2017 00:00:00", 1, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 13 2017 00:00:00", 23, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 14 2017 00:00:00", 70, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 15 2017 00:00:00", 12, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 16 2017 00:00:00", 73, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 17 2017 00:00:00", 336, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 18 2017 00:00:00", 138, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 19 2017 00:00:00", 2, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 20 2017 00:00:00", 217, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 21 2017 00:00:00", 371, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 22 2017 00:00:00", 415, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 23 2017 00:00:00", 228, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 24 2017 00:00:00", 670, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 25 2017 00:00:00", 592, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 26 2017 00:00:00", 2296, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 27 2017 00:00:00", 547, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 28 2017 00:00:00", 1276, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 29 2017 00:00:00", 1356, 420, 34, "Sandy River", "Sockeye"], [2017, "June, 30 2017 00:00:00", 900, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 01 2017 00:00:00", 522, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 02 2017 00:00:00", 3776, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 03 2017 00:00:00", 2808, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 04 2017 00:00:00", 1491, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 05 2017 00:00:00", 4154, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 06 2017 00:00:00", 5327, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 07 2017 00:00:00", 5368, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 08 2017 00:00:00", 1879, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 09 2017 00:00:00", 3510, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 10 2017 00:00:00", 4463, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 11 2017 00:00:00", 3700, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 12 2017 00:00:00", 5502, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 13 2017 00:00:00", 6005, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 14 2017 00:00:00", 9849, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 15 2017 00:00:00", 3220, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 16 2017 00:00:00", 6936, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 17 2017 00:00:00", 8129, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 18 2017 00:00:00", 2974, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 19 2017 00:00:00", 8135, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 20 2017 00:00:00", 3612, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 21 2017 00:00:00", 7217, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 22 2017 00:00:00", 6320, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 23 2017 00:00:00", 5173, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 24 2017 00:00:00", 5377, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 25 2017 00:00:00", 5000, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 26 2017 00:00:00", 4000, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 27 2017 00:00:00", 3000, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 28 2017 00:00:00", 3000, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 29 2017 00:00:00", 2000, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 30 2017 00:00:00", 2000, 420, 34, "Sandy River", "Sockeye"], [2017, "July, 31 2017 00:00:00", 1000, 420, 34, "Sandy River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "June, 09 2017 00:00:00",
+      4,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 10 2017 00:00:00",
+      6,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 11 2017 00:00:00",
+      20,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 12 2017 00:00:00",
+      1,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 13 2017 00:00:00",
+      23,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 14 2017 00:00:00",
+      70,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 15 2017 00:00:00",
+      12,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 16 2017 00:00:00",
+      73,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 17 2017 00:00:00",
+      336,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 18 2017 00:00:00",
+      138,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 19 2017 00:00:00",
+      2,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 20 2017 00:00:00",
+      217,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 21 2017 00:00:00",
+      371,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 22 2017 00:00:00",
+      415,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 23 2017 00:00:00",
+      228,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 24 2017 00:00:00",
+      670,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 25 2017 00:00:00",
+      592,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 26 2017 00:00:00",
+      2296,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 27 2017 00:00:00",
+      547,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 28 2017 00:00:00",
+      1276,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 29 2017 00:00:00",
+      1356,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "June, 30 2017 00:00:00",
+      900,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 01 2017 00:00:00",
+      522,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 02 2017 00:00:00",
+      3776,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 03 2017 00:00:00",
+      2808,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 04 2017 00:00:00",
+      1491,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 05 2017 00:00:00",
+      4154,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 06 2017 00:00:00",
+      5327,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 07 2017 00:00:00",
+      5368,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 08 2017 00:00:00",
+      1879,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 09 2017 00:00:00",
+      3510,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 10 2017 00:00:00",
+      4463,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 11 2017 00:00:00",
+      3700,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 12 2017 00:00:00",
+      5502,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 13 2017 00:00:00",
+      6005,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 14 2017 00:00:00",
+      9849,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 15 2017 00:00:00",
+      3220,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 16 2017 00:00:00",
+      6936,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 17 2017 00:00:00",
+      8129,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 18 2017 00:00:00",
+      2974,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 19 2017 00:00:00",
+      8135,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 20 2017 00:00:00",
+      3612,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 21 2017 00:00:00",
+      7217,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 22 2017 00:00:00",
+      6320,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 23 2017 00:00:00",
+      5173,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 24 2017 00:00:00",
+      5377,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 25 2017 00:00:00",
+      5000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 26 2017 00:00:00",
+      4000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 27 2017 00:00:00",
+      3000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 28 2017 00:00:00",
+      3000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 29 2017 00:00:00",
+      2000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 30 2017 00:00:00",
+      2000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "July, 31 2017 00:00:00",
+      1000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 34,
+    "species_id": "420",
+    "year": "2017",
+    "totalRecords": 53,
+    "totalCount": 145000,
+    "source": "ADFG JSON API",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,517 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1988, "July, 25 1988 00:00:00", 14, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "July, 26 1988 00:00:00", 124, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "July, 27 1988 00:00:00", 54, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "July, 28 1988 00:00:00", 50, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "July, 29 1988 00:00:00", 38, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "July, 30 1988 00:00:00", 44, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "July, 31 1988 00:00:00", 5, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 01 1988 00:00:00", 24, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 02 1988 00:00:00", 33, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 03 1988 00:00:00", 114, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 04 1988 00:00:00", 136, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 05 1988 00:00:00", 81, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 06 1988 00:00:00", 73, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 07 1988 00:00:00", 63, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 08 1988 00:00:00", 58, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 09 1988 00:00:00", 5, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 10 1988 00:00:00", 6, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 11 1988 00:00:00", 4, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 12 1988 00:00:00", 37, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 13 1988 00:00:00", 42, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 14 1988 00:00:00", 34, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 15 1988 00:00:00", 46, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 16 1988 00:00:00", 96, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 17 1988 00:00:00", 57, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 18 1988 00:00:00", 116, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 19 1988 00:00:00", 61, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 20 1988 00:00:00", 0, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 21 1988 00:00:00", 13, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 22 1988 00:00:00", 37, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 23 1988 00:00:00", 12, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 24 1988 00:00:00", 38, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 25 1988 00:00:00", 22, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 26 1988 00:00:00", 24, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 27 1988 00:00:00", 9, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 28 1988 00:00:00", 42, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 29 1988 00:00:00", 31, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 30 1988 00:00:00", 26, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "August, 31 1988 00:00:00", 25, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 01 1988 00:00:00", 26, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 02 1988 00:00:00", 34, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 03 1988 00:00:00", 27, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 04 1988 00:00:00", 26, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 05 1988 00:00:00", 7, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 06 1988 00:00:00", 12, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 07 1988 00:00:00", 5, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 08 1988 00:00:00", 24, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 09 1988 00:00:00", 6, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 10 1988 00:00:00", 7, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 11 1988 00:00:00", 3, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 12 1988 00:00:00", 1, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 13 1988 00:00:00", 7, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 14 1988 00:00:00", 2, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 15 1988 00:00:00", 3, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 16 1988 00:00:00", 0, 420, 76, "Redoubt Lake", "Sockeye"], [1988, "September, 17 1988 00:00:00", 4, 420, 76, "Redoubt Lake", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "July, 25 1988 00:00:00",
+      14,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "July, 26 1988 00:00:00",
+      124,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "July, 27 1988 00:00:00",
+      54,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "July, 28 1988 00:00:00",
+      50,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "July, 29 1988 00:00:00",
+      38,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "July, 30 1988 00:00:00",
+      44,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "July, 31 1988 00:00:00",
+      5,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 01 1988 00:00:00",
+      24,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 02 1988 00:00:00",
+      33,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 03 1988 00:00:00",
+      114,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 04 1988 00:00:00",
+      136,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 05 1988 00:00:00",
+      81,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 06 1988 00:00:00",
+      73,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 07 1988 00:00:00",
+      63,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 08 1988 00:00:00",
+      58,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 09 1988 00:00:00",
+      5,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 10 1988 00:00:00",
+      6,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 11 1988 00:00:00",
+      4,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 12 1988 00:00:00",
+      37,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 13 1988 00:00:00",
+      42,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 14 1988 00:00:00",
+      34,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 15 1988 00:00:00",
+      46,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 16 1988 00:00:00",
+      96,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 17 1988 00:00:00",
+      57,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 18 1988 00:00:00",
+      116,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 19 1988 00:00:00",
+      61,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 20 1988 00:00:00",
+      0,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 21 1988 00:00:00",
+      13,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 22 1988 00:00:00",
+      37,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 23 1988 00:00:00",
+      12,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 24 1988 00:00:00",
+      38,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 25 1988 00:00:00",
+      22,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 26 1988 00:00:00",
+      24,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 27 1988 00:00:00",
+      9,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 28 1988 00:00:00",
+      42,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 29 1988 00:00:00",
+      31,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 30 1988 00:00:00",
+      26,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "August, 31 1988 00:00:00",
+      25,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 01 1988 00:00:00",
+      26,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 02 1988 00:00:00",
+      34,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 03 1988 00:00:00",
+      27,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 04 1988 00:00:00",
+      26,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 05 1988 00:00:00",
+      7,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 06 1988 00:00:00",
+      12,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 07 1988 00:00:00",
+      5,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 08 1988 00:00:00",
+      24,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 09 1988 00:00:00",
+      6,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 10 1988 00:00:00",
+      7,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 11 1988 00:00:00",
+      3,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 12 1988 00:00:00",
+      1,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 13 1988 00:00:00",
+      7,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 14 1988 00:00:00",
+      2,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 15 1988 00:00:00",
+      3,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 16 1988 00:00:00",
+      0,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1988,
+      "September, 17 1988 00:00:00",
+      4,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 76,
+    "species_id": "420",
+    "year": "1988",
+    "totalRecords": 55,
+    "totalCount": 1888,
+    "source": "ADFG JSON API",
+    "last_updated": "1988-12-31T00:00:00"
+  }
+}

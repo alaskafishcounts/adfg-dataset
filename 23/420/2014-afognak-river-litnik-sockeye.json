@@ -1,1 +1,958 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2014, "May, 11 2014 00:00:00", 1, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 12 2014 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 13 2014 00:00:00", 5, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 14 2014 00:00:00", 1, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 15 2014 00:00:00", 4, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 16 2014 00:00:00", 3, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 17 2014 00:00:00", 27, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 18 2014 00:00:00", 61, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 19 2014 00:00:00", 14, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 20 2014 00:00:00", 26, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 21 2014 00:00:00", 56, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 22 2014 00:00:00", 143, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 23 2014 00:00:00", 109, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 24 2014 00:00:00", 392, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 25 2014 00:00:00", 256, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 26 2014 00:00:00", 83, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 27 2014 00:00:00", 22, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 28 2014 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 29 2014 00:00:00", 1161, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 30 2014 00:00:00", 1387, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "May, 31 2014 00:00:00", 738, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 01 2014 00:00:00", 1204, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 02 2014 00:00:00", 2166, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 03 2014 00:00:00", 998, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 04 2014 00:00:00", 1086, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 05 2014 00:00:00", 916, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 06 2014 00:00:00", 10658, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 07 2014 00:00:00", 446, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 08 2014 00:00:00", 8, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 09 2014 00:00:00", 176, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 10 2014 00:00:00", 43, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 11 2014 00:00:00", 469, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 12 2014 00:00:00", 129, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 13 2014 00:00:00", 1260, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 14 2014 00:00:00", 24, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 15 2014 00:00:00", 244, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 16 2014 00:00:00", 902, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 17 2014 00:00:00", 11, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 18 2014 00:00:00", 15, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 19 2014 00:00:00", 430, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 20 2014 00:00:00", 206, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 21 2014 00:00:00", 1129, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 22 2014 00:00:00", 926, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 23 2014 00:00:00", 123, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 24 2014 00:00:00", 158, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 25 2014 00:00:00", 352, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 26 2014 00:00:00", 854, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 27 2014 00:00:00", 35, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 28 2014 00:00:00", 298, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 29 2014 00:00:00", 567, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "June, 30 2014 00:00:00", 283, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 01 2014 00:00:00", 105, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 02 2014 00:00:00", 126, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 03 2014 00:00:00", 57, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 04 2014 00:00:00", 180, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 05 2014 00:00:00", 88, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 06 2014 00:00:00", 234, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 07 2014 00:00:00", 433, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 08 2014 00:00:00", 305, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 09 2014 00:00:00", 138, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 10 2014 00:00:00", 78, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 11 2014 00:00:00", 759, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 12 2014 00:00:00", 78, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 13 2014 00:00:00", 354, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 14 2014 00:00:00", 360, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 15 2014 00:00:00", 67, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 16 2014 00:00:00", 94, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 17 2014 00:00:00", 363, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 18 2014 00:00:00", 186, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 19 2014 00:00:00", 87, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 20 2014 00:00:00", 79, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 21 2014 00:00:00", 5, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 22 2014 00:00:00", 2, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 23 2014 00:00:00", 223, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 24 2014 00:00:00", 42, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 25 2014 00:00:00", 41, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 26 2014 00:00:00", 256, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 27 2014 00:00:00", 77, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 28 2014 00:00:00", 19, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 29 2014 00:00:00", 70, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 30 2014 00:00:00", 109, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "July, 31 2014 00:00:00", 68, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 01 2014 00:00:00", 63, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 02 2014 00:00:00", 127, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 04 2014 00:00:00", 51, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 05 2014 00:00:00", 31, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 06 2014 00:00:00", 98, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 07 2014 00:00:00", 175, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 08 2014 00:00:00", 17, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 09 2014 00:00:00", 21, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 10 2014 00:00:00", 8, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 11 2014 00:00:00", 1, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 12 2014 00:00:00", 10, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 13 2014 00:00:00", 3, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 14 2014 00:00:00", 5, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 15 2014 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 16 2014 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 17 2014 00:00:00", 1, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 18 2014 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 19 2014 00:00:00", 1, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 20 2014 00:00:00", 1, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 21 2014 00:00:00", 3, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 22 2014 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2014, "August, 23 2014 00:00:00", 19, 420, 23, "Afognak River (Litnik)", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "May, 11 2014 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 12 2014 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 13 2014 00:00:00",
+      5,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 14 2014 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 15 2014 00:00:00",
+      4,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 16 2014 00:00:00",
+      3,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 17 2014 00:00:00",
+      27,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 18 2014 00:00:00",
+      61,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 19 2014 00:00:00",
+      14,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 20 2014 00:00:00",
+      26,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 21 2014 00:00:00",
+      56,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 22 2014 00:00:00",
+      143,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 23 2014 00:00:00",
+      109,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 24 2014 00:00:00",
+      392,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 25 2014 00:00:00",
+      256,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 26 2014 00:00:00",
+      83,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 27 2014 00:00:00",
+      22,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 28 2014 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 29 2014 00:00:00",
+      1161,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 30 2014 00:00:00",
+      1387,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "May, 31 2014 00:00:00",
+      738,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 01 2014 00:00:00",
+      1204,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 02 2014 00:00:00",
+      2166,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 03 2014 00:00:00",
+      998,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 04 2014 00:00:00",
+      1086,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 05 2014 00:00:00",
+      916,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 06 2014 00:00:00",
+      10658,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 07 2014 00:00:00",
+      446,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 08 2014 00:00:00",
+      8,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 09 2014 00:00:00",
+      176,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 10 2014 00:00:00",
+      43,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 11 2014 00:00:00",
+      469,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 12 2014 00:00:00",
+      129,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 13 2014 00:00:00",
+      1260,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 14 2014 00:00:00",
+      24,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 15 2014 00:00:00",
+      244,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 16 2014 00:00:00",
+      902,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 17 2014 00:00:00",
+      11,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 18 2014 00:00:00",
+      15,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 19 2014 00:00:00",
+      430,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 20 2014 00:00:00",
+      206,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 21 2014 00:00:00",
+      1129,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 22 2014 00:00:00",
+      926,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 23 2014 00:00:00",
+      123,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 24 2014 00:00:00",
+      158,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 25 2014 00:00:00",
+      352,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 26 2014 00:00:00",
+      854,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 27 2014 00:00:00",
+      35,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 28 2014 00:00:00",
+      298,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 29 2014 00:00:00",
+      567,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "June, 30 2014 00:00:00",
+      283,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 01 2014 00:00:00",
+      105,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 02 2014 00:00:00",
+      126,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 03 2014 00:00:00",
+      57,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 04 2014 00:00:00",
+      180,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 05 2014 00:00:00",
+      88,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 06 2014 00:00:00",
+      234,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 07 2014 00:00:00",
+      433,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 08 2014 00:00:00",
+      305,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 09 2014 00:00:00",
+      138,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 10 2014 00:00:00",
+      78,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 11 2014 00:00:00",
+      759,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 12 2014 00:00:00",
+      78,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 13 2014 00:00:00",
+      354,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 14 2014 00:00:00",
+      360,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 15 2014 00:00:00",
+      67,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 16 2014 00:00:00",
+      94,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      363,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      186,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      87,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      79,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      5,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      2,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      223,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      42,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 25 2014 00:00:00",
+      41,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 26 2014 00:00:00",
+      256,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 27 2014 00:00:00",
+      77,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 28 2014 00:00:00",
+      19,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 29 2014 00:00:00",
+      70,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 30 2014 00:00:00",
+      109,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "July, 31 2014 00:00:00",
+      68,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 01 2014 00:00:00",
+      63,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 02 2014 00:00:00",
+      127,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 04 2014 00:00:00",
+      51,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 05 2014 00:00:00",
+      31,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 06 2014 00:00:00",
+      98,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 07 2014 00:00:00",
+      175,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 08 2014 00:00:00",
+      17,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 09 2014 00:00:00",
+      21,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 10 2014 00:00:00",
+      8,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 11 2014 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 12 2014 00:00:00",
+      10,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 13 2014 00:00:00",
+      3,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 14 2014 00:00:00",
+      5,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 15 2014 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 16 2014 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 17 2014 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 18 2014 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 19 2014 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 20 2014 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 21 2014 00:00:00",
+      3,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 22 2014 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "August, 23 2014 00:00:00",
+      19,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 23,
+    "species_id": "420",
+    "year": "2014",
+    "totalRecords": 104,
+    "totalCount": 36323,
+    "source": "ADFG JSON API",
+    "last_updated": "2014-12-31T00:00:00"
+  }
+}

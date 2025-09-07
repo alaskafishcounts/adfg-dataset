@@ -1,1 +1,283 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1973, "June, 28 1973 00:00:00", 3330, 420, 45, "Egegik River", "Sockeye"], [1973, "June, 29 1973 00:00:00", 6252, 420, 45, "Egegik River", "Sockeye"], [1973, "June, 30 1973 00:00:00", 5616, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 01 1973 00:00:00", 15990, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 02 1973 00:00:00", 8646, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 03 1973 00:00:00", 10944, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 04 1973 00:00:00", 9360, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 05 1973 00:00:00", 15528, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 06 1973 00:00:00", 588, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 07 1973 00:00:00", 264, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 08 1973 00:00:00", 36, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 09 1973 00:00:00", 39924, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 10 1973 00:00:00", 28098, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 11 1973 00:00:00", 26622, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 12 1973 00:00:00", 48996, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 13 1973 00:00:00", 28506, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 14 1973 00:00:00", 39750, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 15 1973 00:00:00", 9552, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 16 1973 00:00:00", 9366, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 17 1973 00:00:00", 8790, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 18 1973 00:00:00", 2082, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 19 1973 00:00:00", 378, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 20 1973 00:00:00", 240, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 21 1973 00:00:00", 4152, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 22 1973 00:00:00", 1212, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 23 1973 00:00:00", 822, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 24 1973 00:00:00", 1266, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 25 1973 00:00:00", 2514, 420, 45, "Egegik River", "Sockeye"], [1973, "July, 26 1973 00:00:00", 24, 420, 45, "Egegik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1973,
+      "June, 28 1973 00:00:00",
+      3330,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 29 1973 00:00:00",
+      6252,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 30 1973 00:00:00",
+      5616,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 01 1973 00:00:00",
+      15990,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 02 1973 00:00:00",
+      8646,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 03 1973 00:00:00",
+      10944,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 04 1973 00:00:00",
+      9360,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 05 1973 00:00:00",
+      15528,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 06 1973 00:00:00",
+      588,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 07 1973 00:00:00",
+      264,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 08 1973 00:00:00",
+      36,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 09 1973 00:00:00",
+      39924,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 10 1973 00:00:00",
+      28098,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 11 1973 00:00:00",
+      26622,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 12 1973 00:00:00",
+      48996,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 13 1973 00:00:00",
+      28506,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 14 1973 00:00:00",
+      39750,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 15 1973 00:00:00",
+      9552,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 16 1973 00:00:00",
+      9366,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 17 1973 00:00:00",
+      8790,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 18 1973 00:00:00",
+      2082,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 19 1973 00:00:00",
+      378,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 20 1973 00:00:00",
+      240,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 21 1973 00:00:00",
+      4152,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 22 1973 00:00:00",
+      1212,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 23 1973 00:00:00",
+      822,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 24 1973 00:00:00",
+      1266,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 25 1973 00:00:00",
+      2514,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 26 1973 00:00:00",
+      24,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 45,
+    "species_id": "420",
+    "year": "1973",
+    "totalRecords": 29,
+    "totalCount": 328848,
+    "source": "ADFG JSON API",
+    "last_updated": "1973-12-31T00:00:00"
+  }
+}

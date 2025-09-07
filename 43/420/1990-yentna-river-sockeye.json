@@ -1,1 +1,355 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1990, "July, 07 1990 00:00:00", 300, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 08 1990 00:00:00", 363, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 09 1990 00:00:00", 414, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 10 1990 00:00:00", 371, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 11 1990 00:00:00", 333, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 12 1990 00:00:00", 244, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 13 1990 00:00:00", 196, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 14 1990 00:00:00", 224, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 15 1990 00:00:00", 184, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 16 1990 00:00:00", 221, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 17 1990 00:00:00", 220, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 18 1990 00:00:00", 484, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 19 1990 00:00:00", 11136, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 20 1990 00:00:00", 15811, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 21 1990 00:00:00", 9342, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 22 1990 00:00:00", 6035, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 23 1990 00:00:00", 7794, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 24 1990 00:00:00", 9762, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 25 1990 00:00:00", 7422, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 26 1990 00:00:00", 9547, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 27 1990 00:00:00", 13113, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 28 1990 00:00:00", 9500, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 29 1990 00:00:00", 4871, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 30 1990 00:00:00", 3807, 420, 43, "Yentna River", "Sockeye"], [1990, "July, 31 1990 00:00:00", 4039, 420, 43, "Yentna River", "Sockeye"], [1990, "August, 01 1990 00:00:00", 4846, 420, 43, "Yentna River", "Sockeye"], [1990, "August, 02 1990 00:00:00", 6658, 420, 43, "Yentna River", "Sockeye"], [1990, "August, 03 1990 00:00:00", 5569, 420, 43, "Yentna River", "Sockeye"], [1990, "August, 04 1990 00:00:00", 2194, 420, 43, "Yentna River", "Sockeye"], [1990, "August, 05 1990 00:00:00", 1227, 420, 43, "Yentna River", "Sockeye"], [1990, "August, 06 1990 00:00:00", 1039, 420, 43, "Yentna River", "Sockeye"], [1990, "August, 07 1990 00:00:00", 942, 420, 43, "Yentna River", "Sockeye"], [1990, "August, 08 1990 00:00:00", 660, 420, 43, "Yentna River", "Sockeye"], [1990, "August, 09 1990 00:00:00", 541, 420, 43, "Yentna River", "Sockeye"], [1990, "August, 10 1990 00:00:00", 229, 420, 43, "Yentna River", "Sockeye"], [1990, "August, 11 1990 00:00:00", 378, 420, 43, "Yentna River", "Sockeye"], [1990, "August, 12 1990 00:00:00", 274, 420, 43, "Yentna River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "July, 07 1990 00:00:00",
+      300,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 08 1990 00:00:00",
+      363,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 09 1990 00:00:00",
+      414,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 10 1990 00:00:00",
+      371,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 11 1990 00:00:00",
+      333,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 12 1990 00:00:00",
+      244,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 13 1990 00:00:00",
+      196,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 14 1990 00:00:00",
+      224,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 15 1990 00:00:00",
+      184,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 16 1990 00:00:00",
+      221,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 17 1990 00:00:00",
+      220,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 18 1990 00:00:00",
+      484,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 19 1990 00:00:00",
+      11136,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 20 1990 00:00:00",
+      15811,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 21 1990 00:00:00",
+      9342,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 22 1990 00:00:00",
+      6035,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 23 1990 00:00:00",
+      7794,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 24 1990 00:00:00",
+      9762,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 25 1990 00:00:00",
+      7422,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 26 1990 00:00:00",
+      9547,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 27 1990 00:00:00",
+      13113,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 28 1990 00:00:00",
+      9500,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 29 1990 00:00:00",
+      4871,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 30 1990 00:00:00",
+      3807,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 31 1990 00:00:00",
+      4039,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 01 1990 00:00:00",
+      4846,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 02 1990 00:00:00",
+      6658,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 03 1990 00:00:00",
+      5569,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 04 1990 00:00:00",
+      2194,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 05 1990 00:00:00",
+      1227,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 06 1990 00:00:00",
+      1039,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 07 1990 00:00:00",
+      942,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 08 1990 00:00:00",
+      660,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 09 1990 00:00:00",
+      541,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 10 1990 00:00:00",
+      229,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 11 1990 00:00:00",
+      378,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 12 1990 00:00:00",
+      274,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 43,
+    "species_id": "420",
+    "year": "1990",
+    "totalRecords": 37,
+    "totalCount": 140290,
+    "source": "ADFG JSON API",
+    "last_updated": "1990-12-31T00:00:00"
+  }
+}

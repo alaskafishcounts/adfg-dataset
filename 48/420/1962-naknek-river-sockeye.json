@@ -1,1 +1,265 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1962, "June, 25 1962 00:00:00", 6, 420, 48, "Naknek River", "Sockeye"], [1962, "June, 26 1962 00:00:00", 7122, 420, 48, "Naknek River", "Sockeye"], [1962, "June, 27 1962 00:00:00", 1578, 420, 48, "Naknek River", "Sockeye"], [1962, "June, 28 1962 00:00:00", 1434, 420, 48, "Naknek River", "Sockeye"], [1962, "June, 29 1962 00:00:00", 10974, 420, 48, "Naknek River", "Sockeye"], [1962, "June, 30 1962 00:00:00", 74286, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 01 1962 00:00:00", 20214, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 02 1962 00:00:00", 10956, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 03 1962 00:00:00", 20112, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 04 1962 00:00:00", 21666, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 05 1962 00:00:00", 293712, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 06 1962 00:00:00", 128514, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 07 1962 00:00:00", 115938, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 08 1962 00:00:00", 6024, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 09 1962 00:00:00", 2412, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 10 1962 00:00:00", 1116, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 11 1962 00:00:00", 1182, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 12 1962 00:00:00", 1194, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 13 1962 00:00:00", 2142, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 14 1962 00:00:00", 954, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 15 1962 00:00:00", 66, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 16 1962 00:00:00", 792, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 17 1962 00:00:00", 372, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 18 1962 00:00:00", 216, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 19 1962 00:00:00", 18, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 20 1962 00:00:00", 42, 420, 48, "Naknek River", "Sockeye"], [1962, "July, 21 1962 00:00:00", 24, 420, 48, "Naknek River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1962,
+      "June, 25 1962 00:00:00",
+      6,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 26 1962 00:00:00",
+      7122,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 27 1962 00:00:00",
+      1578,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 28 1962 00:00:00",
+      1434,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 29 1962 00:00:00",
+      10974,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "June, 30 1962 00:00:00",
+      74286,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 01 1962 00:00:00",
+      20214,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 02 1962 00:00:00",
+      10956,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 03 1962 00:00:00",
+      20112,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 04 1962 00:00:00",
+      21666,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 05 1962 00:00:00",
+      293712,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 06 1962 00:00:00",
+      128514,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 07 1962 00:00:00",
+      115938,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 08 1962 00:00:00",
+      6024,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 09 1962 00:00:00",
+      2412,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 10 1962 00:00:00",
+      1116,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 11 1962 00:00:00",
+      1182,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 12 1962 00:00:00",
+      1194,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 13 1962 00:00:00",
+      2142,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 14 1962 00:00:00",
+      954,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 15 1962 00:00:00",
+      66,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 16 1962 00:00:00",
+      792,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 17 1962 00:00:00",
+      372,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 18 1962 00:00:00",
+      216,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 19 1962 00:00:00",
+      18,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 20 1962 00:00:00",
+      42,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 21 1962 00:00:00",
+      24,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 48,
+    "species_id": "420",
+    "year": "1962",
+    "totalRecords": 27,
+    "totalCount": 723066,
+    "source": "ADFG JSON API",
+    "last_updated": "1962-12-31T00:00:00"
+  }
+}

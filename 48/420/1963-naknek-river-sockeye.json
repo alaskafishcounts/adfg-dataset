@@ -1,1 +1,355 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1963, "June, 24 1963 00:00:00", 36, 420, 48, "Naknek River", "Sockeye"], [1963, "June, 25 1963 00:00:00", 60, 420, 48, "Naknek River", "Sockeye"], [1963, "June, 26 1963 00:00:00", 126, 420, 48, "Naknek River", "Sockeye"], [1963, "June, 27 1963 00:00:00", 1512, 420, 48, "Naknek River", "Sockeye"], [1963, "June, 28 1963 00:00:00", 24786, 420, 48, "Naknek River", "Sockeye"], [1963, "June, 29 1963 00:00:00", 61968, 420, 48, "Naknek River", "Sockeye"], [1963, "June, 30 1963 00:00:00", 10734, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 01 1963 00:00:00", 93804, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 02 1963 00:00:00", 21306, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 03 1963 00:00:00", 57864, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 04 1963 00:00:00", 43500, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 05 1963 00:00:00", 206178, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 06 1963 00:00:00", 97116, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 07 1963 00:00:00", 52140, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 08 1963 00:00:00", 12780, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 09 1963 00:00:00", 34572, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 10 1963 00:00:00", 50814, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 11 1963 00:00:00", 50922, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 12 1963 00:00:00", 15246, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 13 1963 00:00:00", 11706, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 14 1963 00:00:00", 24192, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 15 1963 00:00:00", 9642, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 16 1963 00:00:00", 9762, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 17 1963 00:00:00", 2592, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 18 1963 00:00:00", 3060, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 19 1963 00:00:00", 900, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 20 1963 00:00:00", 654, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 21 1963 00:00:00", 2334, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 22 1963 00:00:00", 2178, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 23 1963 00:00:00", 1440, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 24 1963 00:00:00", 540, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 25 1963 00:00:00", 228, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 26 1963 00:00:00", 234, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 27 1963 00:00:00", 210, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 28 1963 00:00:00", 90, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 29 1963 00:00:00", 102, 420, 48, "Naknek River", "Sockeye"], [1963, "July, 30 1963 00:00:00", 30, 420, 48, "Naknek River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1963,
+      "June, 24 1963 00:00:00",
+      36,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 25 1963 00:00:00",
+      60,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 26 1963 00:00:00",
+      126,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 27 1963 00:00:00",
+      1512,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 28 1963 00:00:00",
+      24786,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 29 1963 00:00:00",
+      61968,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "June, 30 1963 00:00:00",
+      10734,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 01 1963 00:00:00",
+      93804,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 02 1963 00:00:00",
+      21306,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 03 1963 00:00:00",
+      57864,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 04 1963 00:00:00",
+      43500,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 05 1963 00:00:00",
+      206178,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 06 1963 00:00:00",
+      97116,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 07 1963 00:00:00",
+      52140,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 08 1963 00:00:00",
+      12780,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 09 1963 00:00:00",
+      34572,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 10 1963 00:00:00",
+      50814,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 11 1963 00:00:00",
+      50922,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 12 1963 00:00:00",
+      15246,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 13 1963 00:00:00",
+      11706,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 14 1963 00:00:00",
+      24192,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 15 1963 00:00:00",
+      9642,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 16 1963 00:00:00",
+      9762,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 17 1963 00:00:00",
+      2592,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 18 1963 00:00:00",
+      3060,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 19 1963 00:00:00",
+      900,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 20 1963 00:00:00",
+      654,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 21 1963 00:00:00",
+      2334,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 22 1963 00:00:00",
+      2178,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 23 1963 00:00:00",
+      1440,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 24 1963 00:00:00",
+      540,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 25 1963 00:00:00",
+      228,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 26 1963 00:00:00",
+      234,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 27 1963 00:00:00",
+      210,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 28 1963 00:00:00",
+      90,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 29 1963 00:00:00",
+      102,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1963,
+      "July, 30 1963 00:00:00",
+      30,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 48,
+    "species_id": "420",
+    "year": "1963",
+    "totalRecords": 37,
+    "totalCount": 905358,
+    "source": "ADFG JSON API",
+    "last_updated": "1963-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,229 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1966, "July, 02 1966 00:00:00", 842, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 03 1966 00:00:00", 1122, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 04 1966 00:00:00", 96, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 05 1966 00:00:00", 48, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 06 1966 00:00:00", 108, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 07 1966 00:00:00", 36138, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 08 1966 00:00:00", 35154, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 09 1966 00:00:00", 43002, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 10 1966 00:00:00", 16236, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 11 1966 00:00:00", 5868, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 12 1966 00:00:00", 4608, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 13 1966 00:00:00", 7506, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 14 1966 00:00:00", 18030, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 15 1966 00:00:00", 17856, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 16 1966 00:00:00", 9948, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 17 1966 00:00:00", 2940, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 18 1966 00:00:00", 1956, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 19 1966 00:00:00", 1146, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 20 1966 00:00:00", 1530, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 21 1966 00:00:00", 918, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 22 1966 00:00:00", 552, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 23 1966 00:00:00", 516, 420, 49, "Igushik River", "Sockeye"], [1966, "July, 24 1966 00:00:00", 240, 420, 49, "Igushik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1966,
+      "July, 02 1966 00:00:00",
+      842,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 03 1966 00:00:00",
+      1122,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 04 1966 00:00:00",
+      96,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 05 1966 00:00:00",
+      48,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 06 1966 00:00:00",
+      108,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 07 1966 00:00:00",
+      36138,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 08 1966 00:00:00",
+      35154,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 09 1966 00:00:00",
+      43002,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 10 1966 00:00:00",
+      16236,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 11 1966 00:00:00",
+      5868,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 12 1966 00:00:00",
+      4608,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 13 1966 00:00:00",
+      7506,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 14 1966 00:00:00",
+      18030,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 15 1966 00:00:00",
+      17856,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 16 1966 00:00:00",
+      9948,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 17 1966 00:00:00",
+      2940,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 18 1966 00:00:00",
+      1956,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 19 1966 00:00:00",
+      1146,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 20 1966 00:00:00",
+      1530,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 21 1966 00:00:00",
+      918,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 22 1966 00:00:00",
+      552,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 23 1966 00:00:00",
+      516,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 24 1966 00:00:00",
+      240,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 49,
+    "species_id": "420",
+    "year": "1966",
+    "totalRecords": 23,
+    "totalCount": 206360,
+    "source": "ADFG JSON API",
+    "last_updated": "1966-12-31T00:00:00"
+  }
+}

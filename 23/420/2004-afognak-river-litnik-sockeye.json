@@ -1,1 +1,823 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2004, "May, 10 2004 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 11 2004 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 12 2004 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 13 2004 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 14 2004 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 15 2004 00:00:00", 4, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 16 2004 00:00:00", 17, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 17 2004 00:00:00", 1, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 18 2004 00:00:00", 3, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 19 2004 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 20 2004 00:00:00", 3, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 21 2004 00:00:00", 7, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 22 2004 00:00:00", 39, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 23 2004 00:00:00", 121, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 24 2004 00:00:00", 792, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 25 2004 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 26 2004 00:00:00", 2, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 27 2004 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 28 2004 00:00:00", 500, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 29 2004 00:00:00", 159, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 30 2004 00:00:00", 7, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "May, 31 2004 00:00:00", 8, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 01 2004 00:00:00", 1, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 02 2004 00:00:00", 163, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 03 2004 00:00:00", 2488, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 04 2004 00:00:00", 4, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 05 2004 00:00:00", 712, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 06 2004 00:00:00", 325, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 07 2004 00:00:00", 498, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 08 2004 00:00:00", 117, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 09 2004 00:00:00", 18, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 10 2004 00:00:00", 1064, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 11 2004 00:00:00", 2146, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 12 2004 00:00:00", 378, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 13 2004 00:00:00", 118, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 14 2004 00:00:00", 23, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 15 2004 00:00:00", 601, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 16 2004 00:00:00", 928, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 17 2004 00:00:00", 39, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 18 2004 00:00:00", 165, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 19 2004 00:00:00", 9, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 20 2004 00:00:00", 39, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 21 2004 00:00:00", 381, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 22 2004 00:00:00", 725, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 23 2004 00:00:00", 64, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 24 2004 00:00:00", 293, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 25 2004 00:00:00", 94, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 26 2004 00:00:00", 73, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 27 2004 00:00:00", 53, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 28 2004 00:00:00", 95, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 29 2004 00:00:00", 32, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "June, 30 2004 00:00:00", 71, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 01 2004 00:00:00", 2, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 02 2004 00:00:00", 3, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 03 2004 00:00:00", 8, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 04 2004 00:00:00", 30, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 05 2004 00:00:00", 28, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 06 2004 00:00:00", 202, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 07 2004 00:00:00", 99, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 08 2004 00:00:00", 20, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 09 2004 00:00:00", 74, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 10 2004 00:00:00", 20, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 11 2004 00:00:00", 7, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 12 2004 00:00:00", 82, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 13 2004 00:00:00", 18, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 14 2004 00:00:00", 10, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 15 2004 00:00:00", 6, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 16 2004 00:00:00", 20, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 17 2004 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 18 2004 00:00:00", 3, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 19 2004 00:00:00", 11, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 20 2004 00:00:00", 29, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 21 2004 00:00:00", 13, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 22 2004 00:00:00", 314, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 23 2004 00:00:00", 164, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 24 2004 00:00:00", 27, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 25 2004 00:00:00", 192, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 26 2004 00:00:00", 90, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 27 2004 00:00:00", 64, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 28 2004 00:00:00", 56, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 29 2004 00:00:00", 16, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 30 2004 00:00:00", 26, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "July, 31 2004 00:00:00", 85, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "August, 01 2004 00:00:00", 39, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "August, 02 2004 00:00:00", 7, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "August, 03 2004 00:00:00", 12, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "August, 04 2004 00:00:00", 16, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "August, 05 2004 00:00:00", 8, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2004, "August, 06 2004 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "May, 10 2004 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 11 2004 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 12 2004 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 13 2004 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 14 2004 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 15 2004 00:00:00",
+      4,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 16 2004 00:00:00",
+      17,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 17 2004 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 18 2004 00:00:00",
+      3,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 19 2004 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 20 2004 00:00:00",
+      3,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 21 2004 00:00:00",
+      7,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 22 2004 00:00:00",
+      39,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 23 2004 00:00:00",
+      121,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 24 2004 00:00:00",
+      792,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 25 2004 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 26 2004 00:00:00",
+      2,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 27 2004 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 28 2004 00:00:00",
+      500,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 29 2004 00:00:00",
+      159,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 30 2004 00:00:00",
+      7,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "May, 31 2004 00:00:00",
+      8,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 01 2004 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 02 2004 00:00:00",
+      163,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 03 2004 00:00:00",
+      2488,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 04 2004 00:00:00",
+      4,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 05 2004 00:00:00",
+      712,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 06 2004 00:00:00",
+      325,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 07 2004 00:00:00",
+      498,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 08 2004 00:00:00",
+      117,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 09 2004 00:00:00",
+      18,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 10 2004 00:00:00",
+      1064,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 11 2004 00:00:00",
+      2146,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 12 2004 00:00:00",
+      378,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 13 2004 00:00:00",
+      118,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 14 2004 00:00:00",
+      23,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 15 2004 00:00:00",
+      601,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 16 2004 00:00:00",
+      928,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 17 2004 00:00:00",
+      39,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 18 2004 00:00:00",
+      165,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 19 2004 00:00:00",
+      9,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 20 2004 00:00:00",
+      39,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 21 2004 00:00:00",
+      381,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 22 2004 00:00:00",
+      725,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 23 2004 00:00:00",
+      64,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 24 2004 00:00:00",
+      293,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 25 2004 00:00:00",
+      94,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 26 2004 00:00:00",
+      73,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 27 2004 00:00:00",
+      53,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 28 2004 00:00:00",
+      95,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 29 2004 00:00:00",
+      32,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "June, 30 2004 00:00:00",
+      71,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 01 2004 00:00:00",
+      2,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 02 2004 00:00:00",
+      3,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 03 2004 00:00:00",
+      8,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 04 2004 00:00:00",
+      30,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 05 2004 00:00:00",
+      28,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 06 2004 00:00:00",
+      202,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 07 2004 00:00:00",
+      99,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 08 2004 00:00:00",
+      20,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 09 2004 00:00:00",
+      74,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 10 2004 00:00:00",
+      20,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 11 2004 00:00:00",
+      7,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 12 2004 00:00:00",
+      82,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 13 2004 00:00:00",
+      18,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 14 2004 00:00:00",
+      10,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 15 2004 00:00:00",
+      6,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 16 2004 00:00:00",
+      20,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 17 2004 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 18 2004 00:00:00",
+      3,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 19 2004 00:00:00",
+      11,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 20 2004 00:00:00",
+      29,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 21 2004 00:00:00",
+      13,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 22 2004 00:00:00",
+      314,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 23 2004 00:00:00",
+      164,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 24 2004 00:00:00",
+      27,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 25 2004 00:00:00",
+      192,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 26 2004 00:00:00",
+      90,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 27 2004 00:00:00",
+      64,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 28 2004 00:00:00",
+      56,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 29 2004 00:00:00",
+      16,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 30 2004 00:00:00",
+      26,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "July, 31 2004 00:00:00",
+      85,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 01 2004 00:00:00",
+      39,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 02 2004 00:00:00",
+      7,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 03 2004 00:00:00",
+      12,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 04 2004 00:00:00",
+      16,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 05 2004 00:00:00",
+      8,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2004,
+      "August, 06 2004 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 23,
+    "species_id": "420",
+    "year": "2004",
+    "totalRecords": 89,
+    "totalCount": 15181,
+    "source": "ADFG JSON API",
+    "last_updated": "2004-12-31T00:00:00"
+  }
+}

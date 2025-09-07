@@ -1,1 +1,994 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1959, "July, 05 1959 00:00:00", 23, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 05 1959 00:00:00", 23, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 06 1959 00:00:00", 11, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 06 1959 00:00:00", 11, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 07 1959 00:00:00", 2, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 07 1959 00:00:00", 2, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 08 1959 00:00:00", 9, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 08 1959 00:00:00", 9, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 09 1959 00:00:00", 3, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 09 1959 00:00:00", 3, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 10 1959 00:00:00", 0, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 11 1959 00:00:00", 0, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 12 1959 00:00:00", 11, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 12 1959 00:00:00", 11, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 13 1959 00:00:00", 10, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 13 1959 00:00:00", 10, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 14 1959 00:00:00", 40, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 14 1959 00:00:00", 40, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 15 1959 00:00:00", 44, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 15 1959 00:00:00", 44, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 16 1959 00:00:00", 90, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 16 1959 00:00:00", 90, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 17 1959 00:00:00", 99, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 17 1959 00:00:00", 99, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 18 1959 00:00:00", 29, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 18 1959 00:00:00", 29, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 19 1959 00:00:00", 23, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 19 1959 00:00:00", 23, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 20 1959 00:00:00", 18, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 20 1959 00:00:00", 18, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 21 1959 00:00:00", 28, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 21 1959 00:00:00", 28, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 22 1959 00:00:00", 7, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 22 1959 00:00:00", 7, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 23 1959 00:00:00", 30, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 23 1959 00:00:00", 30, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 24 1959 00:00:00", 8, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 24 1959 00:00:00", 8, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 25 1959 00:00:00", 17, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 25 1959 00:00:00", 17, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 26 1959 00:00:00", 23, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 26 1959 00:00:00", 23, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 27 1959 00:00:00", 18, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 27 1959 00:00:00", 18, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 28 1959 00:00:00", 28, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 28 1959 00:00:00", 28, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 29 1959 00:00:00", 7, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 29 1959 00:00:00", 7, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 30 1959 00:00:00", 30, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 30 1959 00:00:00", 30, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 31 1959 00:00:00", 8, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "July, 31 1959 00:00:00", 8, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 01 1959 00:00:00", 17, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 01 1959 00:00:00", 17, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 02 1959 00:00:00", 157, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 02 1959 00:00:00", 157, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 03 1959 00:00:00", 39, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 03 1959 00:00:00", 39, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 04 1959 00:00:00", 18, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 04 1959 00:00:00", 18, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 05 1959 00:00:00", 55, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 05 1959 00:00:00", 55, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 06 1959 00:00:00", 168, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 06 1959 00:00:00", 168, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 07 1959 00:00:00", 29, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 07 1959 00:00:00", 29, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 08 1959 00:00:00", 136, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 08 1959 00:00:00", 136, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 09 1959 00:00:00", 243, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 09 1959 00:00:00", 243, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 10 1959 00:00:00", 279, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 10 1959 00:00:00", 279, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 11 1959 00:00:00", 423, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 11 1959 00:00:00", 423, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 12 1959 00:00:00", 299, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 12 1959 00:00:00", 299, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 13 1959 00:00:00", 14, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 13 1959 00:00:00", 14, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 14 1959 00:00:00", 1121, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 14 1959 00:00:00", 1121, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 15 1959 00:00:00", 221, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 15 1959 00:00:00", 221, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 16 1959 00:00:00", 504, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 16 1959 00:00:00", 504, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 17 1959 00:00:00", 714, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 17 1959 00:00:00", 714, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 18 1959 00:00:00", 252, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 18 1959 00:00:00", 252, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 19 1959 00:00:00", 149, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 19 1959 00:00:00", 149, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 20 1959 00:00:00", 29, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 20 1959 00:00:00", 29, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 21 1959 00:00:00", 39, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 21 1959 00:00:00", 39, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 22 1959 00:00:00", 211, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 22 1959 00:00:00", 211, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 23 1959 00:00:00", 196, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 23 1959 00:00:00", 196, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 24 1959 00:00:00", 267, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 24 1959 00:00:00", 267, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 25 1959 00:00:00", 204, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 25 1959 00:00:00", 204, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 26 1959 00:00:00", 87, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 26 1959 00:00:00", 87, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 27 1959 00:00:00", 278, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 27 1959 00:00:00", 278, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 28 1959 00:00:00", 18, 420, 8, "Eshamy Creek", "Sockeye"], [1959, "August, 28 1959 00:00:00", 18, 420, 8, "Eshamy Creek", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1959,
+      "July, 05 1959 00:00:00",
+      23,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 05 1959 00:00:00",
+      23,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 06 1959 00:00:00",
+      11,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 06 1959 00:00:00",
+      11,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 07 1959 00:00:00",
+      2,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 07 1959 00:00:00",
+      2,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 08 1959 00:00:00",
+      9,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 08 1959 00:00:00",
+      9,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 09 1959 00:00:00",
+      3,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 09 1959 00:00:00",
+      3,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 10 1959 00:00:00",
+      0,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 11 1959 00:00:00",
+      0,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 12 1959 00:00:00",
+      11,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 12 1959 00:00:00",
+      11,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 13 1959 00:00:00",
+      10,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 13 1959 00:00:00",
+      10,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 14 1959 00:00:00",
+      40,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 14 1959 00:00:00",
+      40,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 15 1959 00:00:00",
+      44,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 15 1959 00:00:00",
+      44,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 16 1959 00:00:00",
+      90,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 16 1959 00:00:00",
+      90,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 17 1959 00:00:00",
+      99,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 17 1959 00:00:00",
+      99,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 18 1959 00:00:00",
+      29,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 18 1959 00:00:00",
+      29,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 19 1959 00:00:00",
+      23,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 19 1959 00:00:00",
+      23,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 20 1959 00:00:00",
+      18,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 20 1959 00:00:00",
+      18,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 21 1959 00:00:00",
+      28,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 21 1959 00:00:00",
+      28,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 22 1959 00:00:00",
+      7,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 22 1959 00:00:00",
+      7,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 23 1959 00:00:00",
+      30,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 23 1959 00:00:00",
+      30,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 24 1959 00:00:00",
+      8,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 24 1959 00:00:00",
+      8,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 25 1959 00:00:00",
+      17,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 25 1959 00:00:00",
+      17,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 26 1959 00:00:00",
+      23,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 26 1959 00:00:00",
+      23,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 27 1959 00:00:00",
+      18,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 27 1959 00:00:00",
+      18,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 28 1959 00:00:00",
+      28,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 28 1959 00:00:00",
+      28,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 29 1959 00:00:00",
+      7,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 29 1959 00:00:00",
+      7,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 30 1959 00:00:00",
+      30,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 30 1959 00:00:00",
+      30,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 31 1959 00:00:00",
+      8,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "July, 31 1959 00:00:00",
+      8,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 01 1959 00:00:00",
+      17,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 01 1959 00:00:00",
+      17,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 02 1959 00:00:00",
+      157,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 02 1959 00:00:00",
+      157,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 03 1959 00:00:00",
+      39,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 03 1959 00:00:00",
+      39,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 04 1959 00:00:00",
+      18,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 04 1959 00:00:00",
+      18,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 05 1959 00:00:00",
+      55,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 05 1959 00:00:00",
+      55,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 06 1959 00:00:00",
+      168,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 06 1959 00:00:00",
+      168,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 07 1959 00:00:00",
+      29,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 07 1959 00:00:00",
+      29,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 08 1959 00:00:00",
+      136,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 08 1959 00:00:00",
+      136,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 09 1959 00:00:00",
+      243,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 09 1959 00:00:00",
+      243,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 10 1959 00:00:00",
+      279,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 10 1959 00:00:00",
+      279,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 11 1959 00:00:00",
+      423,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 11 1959 00:00:00",
+      423,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 12 1959 00:00:00",
+      299,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 12 1959 00:00:00",
+      299,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 13 1959 00:00:00",
+      14,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 13 1959 00:00:00",
+      14,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 14 1959 00:00:00",
+      1121,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 14 1959 00:00:00",
+      1121,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 15 1959 00:00:00",
+      221,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 15 1959 00:00:00",
+      221,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 16 1959 00:00:00",
+      504,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 16 1959 00:00:00",
+      504,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 17 1959 00:00:00",
+      714,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 17 1959 00:00:00",
+      714,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 18 1959 00:00:00",
+      252,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 18 1959 00:00:00",
+      252,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 19 1959 00:00:00",
+      149,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 19 1959 00:00:00",
+      149,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 20 1959 00:00:00",
+      29,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 20 1959 00:00:00",
+      29,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 21 1959 00:00:00",
+      39,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 21 1959 00:00:00",
+      39,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 22 1959 00:00:00",
+      211,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 22 1959 00:00:00",
+      211,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 23 1959 00:00:00",
+      196,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 23 1959 00:00:00",
+      196,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 24 1959 00:00:00",
+      267,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 24 1959 00:00:00",
+      267,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 25 1959 00:00:00",
+      204,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 25 1959 00:00:00",
+      204,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 26 1959 00:00:00",
+      87,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 26 1959 00:00:00",
+      87,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 27 1959 00:00:00",
+      278,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 27 1959 00:00:00",
+      278,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 28 1959 00:00:00",
+      18,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1959,
+      "August, 28 1959 00:00:00",
+      18,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 8,
+    "species_id": "420",
+    "year": "1959",
+    "totalRecords": 108,
+    "totalCount": 13566,
+    "source": "ADFG JSON API",
+    "last_updated": "1959-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,256 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2020, "July, 12 2020 00:00:00", 10, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 13 2020 00:00:00", 29, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 14 2020 00:00:00", 11, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 15 2020 00:00:00", 126, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 16 2020 00:00:00", 83, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 17 2020 00:00:00", 52, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 18 2020 00:00:00", 31, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 19 2020 00:00:00", 65, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 20 2020 00:00:00", 56, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 21 2020 00:00:00", 87, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 22 2020 00:00:00", 98, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 23 2020 00:00:00", 31, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 24 2020 00:00:00", 112, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 25 2020 00:00:00", 108, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 26 2020 00:00:00", 27, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 27 2020 00:00:00", 152, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 28 2020 00:00:00", 63, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 29 2020 00:00:00", 313, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 30 2020 00:00:00", 1, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "July, 31 2020 00:00:00", 3, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "August, 01 2020 00:00:00", 33, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "August, 02 2020 00:00:00", 12, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "August, 03 2020 00:00:00", 26, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "August, 04 2020 00:00:00", 12, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "August, 05 2020 00:00:00", 8, 440, 23, "Afognak River (Litnik)", "Pink"], [2020, "August, 06 2020 00:00:00", 20, 440, 23, "Afognak River (Litnik)", "Pink"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "July, 12 2020 00:00:00",
+      10,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 13 2020 00:00:00",
+      29,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 14 2020 00:00:00",
+      11,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 15 2020 00:00:00",
+      126,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 16 2020 00:00:00",
+      83,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 17 2020 00:00:00",
+      52,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 18 2020 00:00:00",
+      31,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 19 2020 00:00:00",
+      65,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 20 2020 00:00:00",
+      56,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 21 2020 00:00:00",
+      87,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 22 2020 00:00:00",
+      98,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 23 2020 00:00:00",
+      31,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 24 2020 00:00:00",
+      112,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 25 2020 00:00:00",
+      108,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 26 2020 00:00:00",
+      27,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 27 2020 00:00:00",
+      152,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 28 2020 00:00:00",
+      63,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 29 2020 00:00:00",
+      313,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 30 2020 00:00:00",
+      1,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 31 2020 00:00:00",
+      3,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 01 2020 00:00:00",
+      33,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 02 2020 00:00:00",
+      12,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 03 2020 00:00:00",
+      26,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 04 2020 00:00:00",
+      12,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 05 2020 00:00:00",
+      8,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 06 2020 00:00:00",
+      20,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 23,
+    "species_id": "440",
+    "year": "2020",
+    "totalRecords": 26,
+    "totalCount": 1569,
+    "source": "ADFG JSON API",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

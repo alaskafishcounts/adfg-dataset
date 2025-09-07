@@ -1,1 +1,1300 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1985, "July, 01 1985 00:00:00", 0, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 02 1985 00:00:00", 0, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 03 1985 00:00:00", 0, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 04 1985 00:00:00", 0, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 05 1985 00:00:00", 0, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 06 1985 00:00:00", 71, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 06 1985 00:00:00", 71, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 07 1985 00:00:00", 151, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 07 1985 00:00:00", 151, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 08 1985 00:00:00", 147, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 08 1985 00:00:00", 147, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 09 1985 00:00:00", 46, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 09 1985 00:00:00", 46, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 10 1985 00:00:00", 179, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 10 1985 00:00:00", 179, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 11 1985 00:00:00", 0, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 12 1985 00:00:00", 0, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 13 1985 00:00:00", 0, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 14 1985 00:00:00", 0, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 15 1985 00:00:00", 0, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 16 1985 00:00:00", 251, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 16 1985 00:00:00", 251, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 17 1985 00:00:00", 122, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 17 1985 00:00:00", 122, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 18 1985 00:00:00", 98, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 18 1985 00:00:00", 98, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 19 1985 00:00:00", 63, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 19 1985 00:00:00", 63, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 20 1985 00:00:00", 72, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 20 1985 00:00:00", 72, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 21 1985 00:00:00", 41, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 21 1985 00:00:00", 41, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 22 1985 00:00:00", 97, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 22 1985 00:00:00", 97, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 23 1985 00:00:00", 68, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 23 1985 00:00:00", 68, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 24 1985 00:00:00", 122, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 24 1985 00:00:00", 122, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 25 1985 00:00:00", 319, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 25 1985 00:00:00", 319, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 26 1985 00:00:00", 74, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 26 1985 00:00:00", 74, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 27 1985 00:00:00", 82, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 27 1985 00:00:00", 82, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 28 1985 00:00:00", 53, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 28 1985 00:00:00", 53, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 29 1985 00:00:00", 89, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 29 1985 00:00:00", 89, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 30 1985 00:00:00", 185, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 30 1985 00:00:00", 185, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 31 1985 00:00:00", 141, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "July, 31 1985 00:00:00", 141, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 01 1985 00:00:00", 15, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 01 1985 00:00:00", 15, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 02 1985 00:00:00", 43, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 02 1985 00:00:00", 43, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 03 1985 00:00:00", 81, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 03 1985 00:00:00", 81, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 04 1985 00:00:00", 102, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 04 1985 00:00:00", 102, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 05 1985 00:00:00", 77, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 05 1985 00:00:00", 77, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 06 1985 00:00:00", 118, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 06 1985 00:00:00", 118, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 07 1985 00:00:00", 102, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 07 1985 00:00:00", 102, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 08 1985 00:00:00", 49, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 08 1985 00:00:00", 49, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 09 1985 00:00:00", 303, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 09 1985 00:00:00", 303, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 10 1985 00:00:00", 1134, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 10 1985 00:00:00", 1134, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 11 1985 00:00:00", 418, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 11 1985 00:00:00", 418, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 12 1985 00:00:00", 530, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 12 1985 00:00:00", 530, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 13 1985 00:00:00", 786, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 13 1985 00:00:00", 786, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 14 1985 00:00:00", 707, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 14 1985 00:00:00", 707, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 15 1985 00:00:00", 546, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 15 1985 00:00:00", 546, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 16 1985 00:00:00", 324, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 16 1985 00:00:00", 324, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 17 1985 00:00:00", 349, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 17 1985 00:00:00", 349, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 18 1985 00:00:00", 315, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 18 1985 00:00:00", 315, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 19 1985 00:00:00", 382, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 19 1985 00:00:00", 382, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 20 1985 00:00:00", 346, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 20 1985 00:00:00", 346, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 21 1985 00:00:00", 1985, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 21 1985 00:00:00", 1985, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 22 1985 00:00:00", 568, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 22 1985 00:00:00", 568, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 23 1985 00:00:00", 502, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 23 1985 00:00:00", 502, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 24 1985 00:00:00", 976, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 24 1985 00:00:00", 976, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 25 1985 00:00:00", 713, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 25 1985 00:00:00", 713, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 26 1985 00:00:00", 644, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 26 1985 00:00:00", 644, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 27 1985 00:00:00", 1007, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 27 1985 00:00:00", 1007, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 28 1985 00:00:00", 1262, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 28 1985 00:00:00", 1262, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 29 1985 00:00:00", 1254, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 29 1985 00:00:00", 1254, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 30 1985 00:00:00", 922, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 30 1985 00:00:00", 922, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 31 1985 00:00:00", 227, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "August, 31 1985 00:00:00", 227, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 01 1985 00:00:00", 558, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 01 1985 00:00:00", 558, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 02 1985 00:00:00", 242, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 02 1985 00:00:00", 242, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 03 1985 00:00:00", 364, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 03 1985 00:00:00", 364, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 04 1985 00:00:00", 496, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 04 1985 00:00:00", 496, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 05 1985 00:00:00", 314, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 05 1985 00:00:00", 314, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 06 1985 00:00:00", 353, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 06 1985 00:00:00", 353, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 07 1985 00:00:00", 670, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 07 1985 00:00:00", 670, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 08 1985 00:00:00", 1319, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 08 1985 00:00:00", 1319, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 09 1985 00:00:00", 889, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 09 1985 00:00:00", 889, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 10 1985 00:00:00", 379, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 10 1985 00:00:00", 379, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 11 1985 00:00:00", 582, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 11 1985 00:00:00", 582, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 12 1985 00:00:00", 266, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 12 1985 00:00:00", 266, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 13 1985 00:00:00", 110, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 13 1985 00:00:00", 110, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 14 1985 00:00:00", 106, 420, 8, "Eshamy Creek", "Sockeye"], [1985, "September, 14 1985 00:00:00", 106, 420, 8, "Eshamy Creek", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "July, 01 1985 00:00:00",
+      0,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 02 1985 00:00:00",
+      0,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 03 1985 00:00:00",
+      0,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 04 1985 00:00:00",
+      0,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 05 1985 00:00:00",
+      0,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 06 1985 00:00:00",
+      71,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 06 1985 00:00:00",
+      71,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 07 1985 00:00:00",
+      151,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 07 1985 00:00:00",
+      151,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 08 1985 00:00:00",
+      147,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 08 1985 00:00:00",
+      147,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 09 1985 00:00:00",
+      46,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 09 1985 00:00:00",
+      46,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 10 1985 00:00:00",
+      179,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 10 1985 00:00:00",
+      179,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 11 1985 00:00:00",
+      0,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 12 1985 00:00:00",
+      0,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 13 1985 00:00:00",
+      0,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 14 1985 00:00:00",
+      0,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 15 1985 00:00:00",
+      0,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 16 1985 00:00:00",
+      251,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 16 1985 00:00:00",
+      251,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 17 1985 00:00:00",
+      122,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 17 1985 00:00:00",
+      122,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 18 1985 00:00:00",
+      98,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 18 1985 00:00:00",
+      98,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 19 1985 00:00:00",
+      63,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 19 1985 00:00:00",
+      63,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 20 1985 00:00:00",
+      72,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 20 1985 00:00:00",
+      72,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 21 1985 00:00:00",
+      41,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 21 1985 00:00:00",
+      41,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 22 1985 00:00:00",
+      97,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 22 1985 00:00:00",
+      97,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 23 1985 00:00:00",
+      68,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 23 1985 00:00:00",
+      68,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 24 1985 00:00:00",
+      122,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 24 1985 00:00:00",
+      122,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 25 1985 00:00:00",
+      319,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 25 1985 00:00:00",
+      319,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 26 1985 00:00:00",
+      74,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 26 1985 00:00:00",
+      74,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 27 1985 00:00:00",
+      82,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 27 1985 00:00:00",
+      82,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 28 1985 00:00:00",
+      53,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 28 1985 00:00:00",
+      53,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 29 1985 00:00:00",
+      89,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 29 1985 00:00:00",
+      89,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 30 1985 00:00:00",
+      185,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 30 1985 00:00:00",
+      185,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 31 1985 00:00:00",
+      141,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 31 1985 00:00:00",
+      141,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 01 1985 00:00:00",
+      15,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 01 1985 00:00:00",
+      15,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 02 1985 00:00:00",
+      43,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 02 1985 00:00:00",
+      43,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 03 1985 00:00:00",
+      81,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 03 1985 00:00:00",
+      81,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 04 1985 00:00:00",
+      102,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 04 1985 00:00:00",
+      102,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 05 1985 00:00:00",
+      77,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 05 1985 00:00:00",
+      77,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 06 1985 00:00:00",
+      118,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 06 1985 00:00:00",
+      118,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 07 1985 00:00:00",
+      102,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 07 1985 00:00:00",
+      102,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 08 1985 00:00:00",
+      49,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 08 1985 00:00:00",
+      49,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 09 1985 00:00:00",
+      303,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 09 1985 00:00:00",
+      303,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 10 1985 00:00:00",
+      1134,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 10 1985 00:00:00",
+      1134,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 11 1985 00:00:00",
+      418,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 11 1985 00:00:00",
+      418,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 12 1985 00:00:00",
+      530,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 12 1985 00:00:00",
+      530,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 13 1985 00:00:00",
+      786,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 13 1985 00:00:00",
+      786,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 14 1985 00:00:00",
+      707,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 14 1985 00:00:00",
+      707,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 15 1985 00:00:00",
+      546,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 15 1985 00:00:00",
+      546,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 16 1985 00:00:00",
+      324,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 16 1985 00:00:00",
+      324,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 17 1985 00:00:00",
+      349,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 17 1985 00:00:00",
+      349,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 18 1985 00:00:00",
+      315,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 18 1985 00:00:00",
+      315,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 19 1985 00:00:00",
+      382,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 19 1985 00:00:00",
+      382,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 20 1985 00:00:00",
+      346,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 20 1985 00:00:00",
+      346,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 21 1985 00:00:00",
+      1985,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 21 1985 00:00:00",
+      1985,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 22 1985 00:00:00",
+      568,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 22 1985 00:00:00",
+      568,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 23 1985 00:00:00",
+      502,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 23 1985 00:00:00",
+      502,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 24 1985 00:00:00",
+      976,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 24 1985 00:00:00",
+      976,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 25 1985 00:00:00",
+      713,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 25 1985 00:00:00",
+      713,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 26 1985 00:00:00",
+      644,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 26 1985 00:00:00",
+      644,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 27 1985 00:00:00",
+      1007,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 27 1985 00:00:00",
+      1007,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 28 1985 00:00:00",
+      1262,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 28 1985 00:00:00",
+      1262,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 29 1985 00:00:00",
+      1254,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 29 1985 00:00:00",
+      1254,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 30 1985 00:00:00",
+      922,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 30 1985 00:00:00",
+      922,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 31 1985 00:00:00",
+      227,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 31 1985 00:00:00",
+      227,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 01 1985 00:00:00",
+      558,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 01 1985 00:00:00",
+      558,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 02 1985 00:00:00",
+      242,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 02 1985 00:00:00",
+      242,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 03 1985 00:00:00",
+      364,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 03 1985 00:00:00",
+      364,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 04 1985 00:00:00",
+      496,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 04 1985 00:00:00",
+      496,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 05 1985 00:00:00",
+      314,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 05 1985 00:00:00",
+      314,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 06 1985 00:00:00",
+      353,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 06 1985 00:00:00",
+      353,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 07 1985 00:00:00",
+      670,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 07 1985 00:00:00",
+      670,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 08 1985 00:00:00",
+      1319,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 08 1985 00:00:00",
+      1319,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 09 1985 00:00:00",
+      889,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 09 1985 00:00:00",
+      889,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 10 1985 00:00:00",
+      379,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 10 1985 00:00:00",
+      379,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 11 1985 00:00:00",
+      582,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 11 1985 00:00:00",
+      582,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 12 1985 00:00:00",
+      266,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 12 1985 00:00:00",
+      266,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 13 1985 00:00:00",
+      110,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 13 1985 00:00:00",
+      110,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 14 1985 00:00:00",
+      106,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "September, 14 1985 00:00:00",
+      106,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 8,
+    "species_id": "420",
+    "year": "1985",
+    "totalRecords": 142,
+    "totalCount": 51812,
+    "source": "ADFG JSON API",
+    "last_updated": "1985-12-31T00:00:00"
+  }
+}

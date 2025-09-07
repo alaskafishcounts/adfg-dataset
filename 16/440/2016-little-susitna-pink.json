@@ -1,1 +1,517 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2016, "June, 30 2016 00:00:00", 3, 440, 16, "Little Susitna", "Pink"], [2016, "July, 09 2016 00:00:00", 5, 440, 16, "Little Susitna", "Pink"], [2016, "July, 10 2016 00:00:00", 9, 440, 16, "Little Susitna", "Pink"], [2016, "July, 11 2016 00:00:00", 8, 440, 16, "Little Susitna", "Pink"], [2016, "July, 12 2016 00:00:00", 11, 440, 16, "Little Susitna", "Pink"], [2016, "July, 13 2016 00:00:00", 29, 440, 16, "Little Susitna", "Pink"], [2016, "July, 14 2016 00:00:00", 80, 440, 16, "Little Susitna", "Pink"], [2016, "July, 15 2016 00:00:00", 113, 440, 16, "Little Susitna", "Pink"], [2016, "July, 16 2016 00:00:00", 161, 440, 16, "Little Susitna", "Pink"], [2016, "July, 17 2016 00:00:00", 244, 440, 16, "Little Susitna", "Pink"], [2016, "July, 18 2016 00:00:00", 131, 440, 16, "Little Susitna", "Pink"], [2016, "July, 19 2016 00:00:00", 226, 440, 16, "Little Susitna", "Pink"], [2016, "July, 20 2016 00:00:00", 188, 440, 16, "Little Susitna", "Pink"], [2016, "July, 21 2016 00:00:00", 118, 440, 16, "Little Susitna", "Pink"], [2016, "July, 22 2016 00:00:00", 107, 440, 16, "Little Susitna", "Pink"], [2016, "July, 23 2016 00:00:00", 471, 440, 16, "Little Susitna", "Pink"], [2016, "July, 24 2016 00:00:00", 61, 440, 16, "Little Susitna", "Pink"], [2016, "July, 25 2016 00:00:00", 60, 440, 16, "Little Susitna", "Pink"], [2016, "July, 26 2016 00:00:00", 173, 440, 16, "Little Susitna", "Pink"], [2016, "July, 27 2016 00:00:00", 83, 440, 16, "Little Susitna", "Pink"], [2016, "July, 28 2016 00:00:00", 129, 440, 16, "Little Susitna", "Pink"], [2016, "July, 29 2016 00:00:00", 74, 440, 16, "Little Susitna", "Pink"], [2016, "July, 30 2016 00:00:00", 73, 440, 16, "Little Susitna", "Pink"], [2016, "July, 31 2016 00:00:00", 76, 440, 16, "Little Susitna", "Pink"], [2016, "August, 01 2016 00:00:00", 36, 440, 16, "Little Susitna", "Pink"], [2016, "August, 02 2016 00:00:00", 18, 440, 16, "Little Susitna", "Pink"], [2016, "August, 03 2016 00:00:00", 113, 440, 16, "Little Susitna", "Pink"], [2016, "August, 04 2016 00:00:00", 99, 440, 16, "Little Susitna", "Pink"], [2016, "August, 05 2016 00:00:00", 110, 440, 16, "Little Susitna", "Pink"], [2016, "August, 06 2016 00:00:00", 124, 440, 16, "Little Susitna", "Pink"], [2016, "August, 07 2016 00:00:00", 139, 440, 16, "Little Susitna", "Pink"], [2016, "August, 08 2016 00:00:00", 67, 440, 16, "Little Susitna", "Pink"], [2016, "August, 09 2016 00:00:00", 75, 440, 16, "Little Susitna", "Pink"], [2016, "August, 10 2016 00:00:00", 73, 440, 16, "Little Susitna", "Pink"], [2016, "August, 11 2016 00:00:00", 34, 440, 16, "Little Susitna", "Pink"], [2016, "August, 12 2016 00:00:00", 30, 440, 16, "Little Susitna", "Pink"], [2016, "August, 13 2016 00:00:00", 29, 440, 16, "Little Susitna", "Pink"], [2016, "August, 14 2016 00:00:00", 27, 440, 16, "Little Susitna", "Pink"], [2016, "August, 15 2016 00:00:00", 22, 440, 16, "Little Susitna", "Pink"], [2016, "August, 16 2016 00:00:00", 9, 440, 16, "Little Susitna", "Pink"], [2016, "August, 18 2016 00:00:00", 4, 440, 16, "Little Susitna", "Pink"], [2016, "August, 20 2016 00:00:00", 7, 440, 16, "Little Susitna", "Pink"], [2016, "August, 20 2016 00:00:00", 12, 440, 16, "Little Susitna", "Pink"], [2016, "August, 21 2016 00:00:00", 7, 440, 16, "Little Susitna", "Pink"], [2016, "August, 22 2016 00:00:00", 19, 440, 16, "Little Susitna", "Pink"], [2016, "August, 23 2016 00:00:00", 9, 440, 16, "Little Susitna", "Pink"], [2016, "August, 24 2016 00:00:00", 3, 440, 16, "Little Susitna", "Pink"], [2016, "August, 25 2016 00:00:00", 6, 440, 16, "Little Susitna", "Pink"], [2016, "August, 26 2016 00:00:00", 2, 440, 16, "Little Susitna", "Pink"], [2016, "August, 27 2016 00:00:00", 4, 440, 16, "Little Susitna", "Pink"], [2016, "August, 28 2016 00:00:00", 2, 440, 16, "Little Susitna", "Pink"], [2016, "August, 29 2016 00:00:00", 1, 440, 16, "Little Susitna", "Pink"], [2016, "August, 30 2016 00:00:00", 1, 440, 16, "Little Susitna", "Pink"], [2016, "September, 01 2016 00:00:00", 0, 440, 16, "Little Susitna", "Pink"], [2016, "September, 07 2016 00:00:00", 2, 440, 16, "Little Susitna", "Pink"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "June, 30 2016 00:00:00",
+      3,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 09 2016 00:00:00",
+      5,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 10 2016 00:00:00",
+      9,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 11 2016 00:00:00",
+      8,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 12 2016 00:00:00",
+      11,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 13 2016 00:00:00",
+      29,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 14 2016 00:00:00",
+      80,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 15 2016 00:00:00",
+      113,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 16 2016 00:00:00",
+      161,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 17 2016 00:00:00",
+      244,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 18 2016 00:00:00",
+      131,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 19 2016 00:00:00",
+      226,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 20 2016 00:00:00",
+      188,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 21 2016 00:00:00",
+      118,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 22 2016 00:00:00",
+      107,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 23 2016 00:00:00",
+      471,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 24 2016 00:00:00",
+      61,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 25 2016 00:00:00",
+      60,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 26 2016 00:00:00",
+      173,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 27 2016 00:00:00",
+      83,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 28 2016 00:00:00",
+      129,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 29 2016 00:00:00",
+      74,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 30 2016 00:00:00",
+      73,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "July, 31 2016 00:00:00",
+      76,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 01 2016 00:00:00",
+      36,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 02 2016 00:00:00",
+      18,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 03 2016 00:00:00",
+      113,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 04 2016 00:00:00",
+      99,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 05 2016 00:00:00",
+      110,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 06 2016 00:00:00",
+      124,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 07 2016 00:00:00",
+      139,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 08 2016 00:00:00",
+      67,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 09 2016 00:00:00",
+      75,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 10 2016 00:00:00",
+      73,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 11 2016 00:00:00",
+      34,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 12 2016 00:00:00",
+      30,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 13 2016 00:00:00",
+      29,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 14 2016 00:00:00",
+      27,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 15 2016 00:00:00",
+      22,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 16 2016 00:00:00",
+      9,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 18 2016 00:00:00",
+      4,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 20 2016 00:00:00",
+      7,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 20 2016 00:00:00",
+      12,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 21 2016 00:00:00",
+      7,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 22 2016 00:00:00",
+      19,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 23 2016 00:00:00",
+      9,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 24 2016 00:00:00",
+      3,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 25 2016 00:00:00",
+      6,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 26 2016 00:00:00",
+      2,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 27 2016 00:00:00",
+      4,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 28 2016 00:00:00",
+      2,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 29 2016 00:00:00",
+      1,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "August, 30 2016 00:00:00",
+      1,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "September, 01 2016 00:00:00",
+      0,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2016,
+      "September, 07 2016 00:00:00",
+      2,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 16,
+    "species_id": "440",
+    "year": "2016",
+    "totalRecords": 55,
+    "totalCount": 3717,
+    "source": "ADFG JSON API",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

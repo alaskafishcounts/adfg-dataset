@@ -1,1 +1,310 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1995, "June, 25 1995 00:00:00", 60, 420, 46, "Kvichak River", "Sockeye"], [1995, "June, 26 1995 00:00:00", 41346, 420, 46, "Kvichak River", "Sockeye"], [1995, "June, 27 1995 00:00:00", 319944, 420, 46, "Kvichak River", "Sockeye"], [1995, "June, 28 1995 00:00:00", 362952, 420, 46, "Kvichak River", "Sockeye"], [1995, "June, 29 1995 00:00:00", 217164, 420, 46, "Kvichak River", "Sockeye"], [1995, "June, 30 1995 00:00:00", 172302, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 01 1995 00:00:00", 496818, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 02 1995 00:00:00", 727884, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 03 1995 00:00:00", 459504, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 04 1995 00:00:00", 307452, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 05 1995 00:00:00", 241008, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 06 1995 00:00:00", 637032, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 07 1995 00:00:00", 954258, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 08 1995 00:00:00", 992880, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 09 1995 00:00:00", 1090020, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 10 1995 00:00:00", 663348, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 11 1995 00:00:00", 322104, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 12 1995 00:00:00", 163656, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 13 1995 00:00:00", 260928, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 14 1995 00:00:00", 227700, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 15 1995 00:00:00", 220332, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 16 1995 00:00:00", 139254, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 17 1995 00:00:00", 113472, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 18 1995 00:00:00", 116496, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 19 1995 00:00:00", 264048, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 20 1995 00:00:00", 191010, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 21 1995 00:00:00", 85392, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 22 1995 00:00:00", 87276, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 23 1995 00:00:00", 43074, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 24 1995 00:00:00", 35502, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 25 1995 00:00:00", 39882, 420, 46, "Kvichak River", "Sockeye"], [1995, "July, 26 1995 00:00:00", 44622, 420, 46, "Kvichak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "June, 25 1995 00:00:00",
+      60,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 26 1995 00:00:00",
+      41346,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 27 1995 00:00:00",
+      319944,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 28 1995 00:00:00",
+      362952,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 29 1995 00:00:00",
+      217164,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "June, 30 1995 00:00:00",
+      172302,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 01 1995 00:00:00",
+      496818,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 02 1995 00:00:00",
+      727884,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 03 1995 00:00:00",
+      459504,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 04 1995 00:00:00",
+      307452,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 05 1995 00:00:00",
+      241008,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 06 1995 00:00:00",
+      637032,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 07 1995 00:00:00",
+      954258,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 08 1995 00:00:00",
+      992880,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 09 1995 00:00:00",
+      1090020,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 10 1995 00:00:00",
+      663348,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 11 1995 00:00:00",
+      322104,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 12 1995 00:00:00",
+      163656,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 13 1995 00:00:00",
+      260928,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 14 1995 00:00:00",
+      227700,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 15 1995 00:00:00",
+      220332,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 16 1995 00:00:00",
+      139254,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 17 1995 00:00:00",
+      113472,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 18 1995 00:00:00",
+      116496,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 19 1995 00:00:00",
+      264048,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 20 1995 00:00:00",
+      191010,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 21 1995 00:00:00",
+      85392,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 22 1995 00:00:00",
+      87276,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 23 1995 00:00:00",
+      43074,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 24 1995 00:00:00",
+      35502,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 25 1995 00:00:00",
+      39882,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1995,
+      "July, 26 1995 00:00:00",
+      44622,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 46,
+    "species_id": "420",
+    "year": "1995",
+    "totalRecords": 32,
+    "totalCount": 10038720,
+    "source": "ADFG JSON API",
+    "last_updated": "1995-12-31T00:00:00"
+  }
+}

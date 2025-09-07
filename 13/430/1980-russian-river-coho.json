@@ -1,1 +1,1120 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1980, "June, 01 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 02 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 03 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 04 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 05 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 06 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 07 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 08 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 09 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 10 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 11 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 12 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 13 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 14 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 15 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 16 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 17 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 18 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 19 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 20 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 21 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 22 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 23 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 24 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 25 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 26 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 27 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 28 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 29 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "June, 30 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 01 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 02 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 03 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 04 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 05 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 06 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 07 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 08 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 09 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 10 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 11 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 12 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 13 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 14 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 15 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 16 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 17 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 18 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 19 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 20 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 21 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 22 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 23 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 24 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 25 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 26 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 27 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 28 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 29 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 30 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "July, 31 1980 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1980, "August, 01 1980 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1980, "August, 02 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "August, 03 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "August, 04 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "August, 05 1980 00:00:00", 2, 430, 13, "Russian River", "Coho"], [1980, "August, 06 1980 00:00:00", 2, 430, 13, "Russian River", "Coho"], [1980, "August, 07 1980 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1980, "August, 08 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "August, 09 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "August, 10 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "August, 11 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "August, 12 1980 00:00:00", 4, 430, 13, "Russian River", "Coho"], [1980, "August, 13 1980 00:00:00", 171, 430, 13, "Russian River", "Coho"], [1980, "August, 14 1980 00:00:00", 183, 430, 13, "Russian River", "Coho"], [1980, "August, 15 1980 00:00:00", 70, 430, 13, "Russian River", "Coho"], [1980, "August, 16 1980 00:00:00", 72, 430, 13, "Russian River", "Coho"], [1980, "August, 17 1980 00:00:00", 59, 430, 13, "Russian River", "Coho"], [1980, "August, 18 1980 00:00:00", 221, 430, 13, "Russian River", "Coho"], [1980, "August, 19 1980 00:00:00", 291, 430, 13, "Russian River", "Coho"], [1980, "August, 20 1980 00:00:00", 302, 430, 13, "Russian River", "Coho"], [1980, "August, 21 1980 00:00:00", 149, 430, 13, "Russian River", "Coho"], [1980, "August, 22 1980 00:00:00", 207, 430, 13, "Russian River", "Coho"], [1980, "August, 23 1980 00:00:00", 93, 430, 13, "Russian River", "Coho"], [1980, "August, 24 1980 00:00:00", 4, 430, 13, "Russian River", "Coho"], [1980, "August, 25 1980 00:00:00", 187, 430, 13, "Russian River", "Coho"], [1980, "August, 26 1980 00:00:00", 116, 430, 13, "Russian River", "Coho"], [1980, "August, 27 1980 00:00:00", 40, 430, 13, "Russian River", "Coho"], [1980, "August, 28 1980 00:00:00", 88, 430, 13, "Russian River", "Coho"], [1980, "August, 29 1980 00:00:00", 143, 430, 13, "Russian River", "Coho"], [1980, "August, 30 1980 00:00:00", 11, 430, 13, "Russian River", "Coho"], [1980, "August, 31 1980 00:00:00", 70, 430, 13, "Russian River", "Coho"], [1980, "September, 01 1980 00:00:00", 144, 430, 13, "Russian River", "Coho"], [1980, "September, 02 1980 00:00:00", 20, 430, 13, "Russian River", "Coho"], [1980, "September, 03 1980 00:00:00", 209, 430, 13, "Russian River", "Coho"], [1980, "September, 04 1980 00:00:00", 17, 430, 13, "Russian River", "Coho"], [1980, "September, 05 1980 00:00:00", 61, 430, 13, "Russian River", "Coho"], [1980, "September, 06 1980 00:00:00", 250, 430, 13, "Russian River", "Coho"], [1980, "September, 07 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 08 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 09 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 10 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 11 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 12 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 13 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 14 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 15 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 16 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 17 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 18 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 19 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 20 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 21 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 22 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 23 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 24 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 25 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 26 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 27 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 28 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 29 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1980, "September, 30 1980 00:00:00", 0, 430, 13, "Russian River", "Coho"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1980,
+      "June, 01 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 02 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 03 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 04 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 05 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 06 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 07 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 08 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 09 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 10 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 11 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 12 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 13 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 14 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 15 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 16 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 17 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 18 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 19 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 20 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 21 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 22 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 23 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 24 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 25 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 26 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 27 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 28 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 29 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "June, 30 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 01 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 02 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 03 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 04 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 05 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 06 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 07 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 08 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 09 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 10 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 11 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 12 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 13 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 14 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 15 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 16 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 17 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 18 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 19 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 20 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 21 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 22 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 23 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 24 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 25 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 26 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 27 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 28 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 29 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 30 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "July, 31 1980 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 01 1980 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 02 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 03 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 04 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 05 1980 00:00:00",
+      2,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 06 1980 00:00:00",
+      2,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 07 1980 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 08 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 09 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 10 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 11 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 12 1980 00:00:00",
+      4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 13 1980 00:00:00",
+      171,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 14 1980 00:00:00",
+      183,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 15 1980 00:00:00",
+      70,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 16 1980 00:00:00",
+      72,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 17 1980 00:00:00",
+      59,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 18 1980 00:00:00",
+      221,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 19 1980 00:00:00",
+      291,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 20 1980 00:00:00",
+      302,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 21 1980 00:00:00",
+      149,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 22 1980 00:00:00",
+      207,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 23 1980 00:00:00",
+      93,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 24 1980 00:00:00",
+      4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 25 1980 00:00:00",
+      187,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 26 1980 00:00:00",
+      116,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 27 1980 00:00:00",
+      40,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 28 1980 00:00:00",
+      88,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 29 1980 00:00:00",
+      143,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 30 1980 00:00:00",
+      11,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "August, 31 1980 00:00:00",
+      70,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 01 1980 00:00:00",
+      144,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 02 1980 00:00:00",
+      20,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 03 1980 00:00:00",
+      209,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 04 1980 00:00:00",
+      17,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 05 1980 00:00:00",
+      61,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 06 1980 00:00:00",
+      250,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 07 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 08 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 09 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 10 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 11 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 12 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 13 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 14 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 15 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 16 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 17 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 18 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 19 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 20 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 21 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 22 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 23 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 24 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 25 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 26 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 27 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 28 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 29 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1980,
+      "September, 30 1980 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 13,
+    "species_id": "430",
+    "year": "1980",
+    "totalRecords": 122,
+    "totalCount": 3189,
+    "source": "ADFG JSON API",
+    "last_updated": "1980-12-31T00:00:00"
+  }
+}

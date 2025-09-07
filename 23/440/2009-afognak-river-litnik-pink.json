@@ -1,1 +1,175 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2009, "July, 22 2009 00:00:00", 5, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "July, 23 2009 00:00:00", 10, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "July, 24 2009 00:00:00", 1, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "July, 25 2009 00:00:00", 6, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "July, 26 2009 00:00:00", 22, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "July, 27 2009 00:00:00", 0, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "July, 28 2009 00:00:00", 1, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "July, 29 2009 00:00:00", 12, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "July, 30 2009 00:00:00", 14, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "July, 31 2009 00:00:00", 2, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "August, 01 2009 00:00:00", 1, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "August, 02 2009 00:00:00", 10, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "August, 03 2009 00:00:00", 19, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "August, 04 2009 00:00:00", 604, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "August, 05 2009 00:00:00", 132, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "August, 06 2009 00:00:00", 56, 440, 23, "Afognak River (Litnik)", "Pink"], [2009, "August, 07 2009 00:00:00", 0, 440, 23, "Afognak River (Litnik)", "Pink"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "July, 22 2009 00:00:00",
+      5,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 23 2009 00:00:00",
+      10,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 24 2009 00:00:00",
+      1,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 25 2009 00:00:00",
+      6,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 26 2009 00:00:00",
+      22,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 27 2009 00:00:00",
+      0,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 28 2009 00:00:00",
+      1,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 29 2009 00:00:00",
+      12,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 30 2009 00:00:00",
+      14,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "July, 31 2009 00:00:00",
+      2,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 01 2009 00:00:00",
+      1,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 02 2009 00:00:00",
+      10,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 03 2009 00:00:00",
+      19,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 04 2009 00:00:00",
+      604,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 05 2009 00:00:00",
+      132,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 06 2009 00:00:00",
+      56,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2009,
+      "August, 07 2009 00:00:00",
+      0,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 23,
+    "species_id": "440",
+    "year": "2009",
+    "totalRecords": 17,
+    "totalCount": 895,
+    "source": "ADFG JSON API",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

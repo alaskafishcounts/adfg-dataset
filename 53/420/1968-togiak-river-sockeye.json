@@ -1,1 +1,436 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1968, "July, 02 1968 00:00:00", 258, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 03 1968 00:00:00", 804, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 04 1968 00:00:00", 1980, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 05 1968 00:00:00", 1344, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 06 1968 00:00:00", 1518, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 07 1968 00:00:00", 1758, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 08 1968 00:00:00", 2028, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 09 1968 00:00:00", 1710, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 10 1968 00:00:00", 1158, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 11 1968 00:00:00", 1620, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 12 1968 00:00:00", 3654, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 13 1968 00:00:00", 1416, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 14 1968 00:00:00", 3006, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 15 1968 00:00:00", 1386, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 16 1968 00:00:00", 1854, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 17 1968 00:00:00", 2028, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 18 1968 00:00:00", 1602, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 19 1968 00:00:00", 1074, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 20 1968 00:00:00", 498, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 21 1968 00:00:00", 774, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 22 1968 00:00:00", 822, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 23 1968 00:00:00", 228, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 24 1968 00:00:00", 1020, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 25 1968 00:00:00", 1080, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 26 1968 00:00:00", 360, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 27 1968 00:00:00", 876, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 28 1968 00:00:00", 360, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 29 1968 00:00:00", 540, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 30 1968 00:00:00", 444, 420, 53, "Togiak River", "Sockeye"], [1968, "July, 31 1968 00:00:00", 354, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 01 1968 00:00:00", 720, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 02 1968 00:00:00", 702, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 03 1968 00:00:00", 342, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 04 1968 00:00:00", 372, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 05 1968 00:00:00", 522, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 06 1968 00:00:00", 180, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 07 1968 00:00:00", 312, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 08 1968 00:00:00", 492, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 09 1968 00:00:00", 108, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 10 1968 00:00:00", 594, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 11 1968 00:00:00", 486, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 12 1968 00:00:00", 162, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 13 1968 00:00:00", 156, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 14 1968 00:00:00", 120, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 15 1968 00:00:00", 72, 420, 53, "Togiak River", "Sockeye"], [1968, "August, 16 1968 00:00:00", 24, 420, 53, "Togiak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1968,
+      "July, 02 1968 00:00:00",
+      258,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 03 1968 00:00:00",
+      804,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 04 1968 00:00:00",
+      1980,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 05 1968 00:00:00",
+      1344,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 06 1968 00:00:00",
+      1518,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 07 1968 00:00:00",
+      1758,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 08 1968 00:00:00",
+      2028,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 09 1968 00:00:00",
+      1710,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 10 1968 00:00:00",
+      1158,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 11 1968 00:00:00",
+      1620,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 12 1968 00:00:00",
+      3654,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 13 1968 00:00:00",
+      1416,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 14 1968 00:00:00",
+      3006,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 15 1968 00:00:00",
+      1386,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 16 1968 00:00:00",
+      1854,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 17 1968 00:00:00",
+      2028,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 18 1968 00:00:00",
+      1602,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 19 1968 00:00:00",
+      1074,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 20 1968 00:00:00",
+      498,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 21 1968 00:00:00",
+      774,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 22 1968 00:00:00",
+      822,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 23 1968 00:00:00",
+      228,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 24 1968 00:00:00",
+      1020,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 25 1968 00:00:00",
+      1080,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 26 1968 00:00:00",
+      360,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 27 1968 00:00:00",
+      876,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 28 1968 00:00:00",
+      360,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 29 1968 00:00:00",
+      540,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 30 1968 00:00:00",
+      444,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "July, 31 1968 00:00:00",
+      354,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 01 1968 00:00:00",
+      720,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 02 1968 00:00:00",
+      702,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 03 1968 00:00:00",
+      342,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 04 1968 00:00:00",
+      372,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 05 1968 00:00:00",
+      522,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 06 1968 00:00:00",
+      180,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 07 1968 00:00:00",
+      312,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 08 1968 00:00:00",
+      492,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 09 1968 00:00:00",
+      108,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 10 1968 00:00:00",
+      594,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 11 1968 00:00:00",
+      486,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 12 1968 00:00:00",
+      162,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 13 1968 00:00:00",
+      156,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 14 1968 00:00:00",
+      120,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 15 1968 00:00:00",
+      72,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1968,
+      "August, 16 1968 00:00:00",
+      24,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 53,
+    "species_id": "420",
+    "year": "1968",
+    "totalRecords": 46,
+    "totalCount": 42918,
+    "source": "ADFG JSON API",
+    "last_updated": "1968-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,337 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1981, "June, 12 1981 00:00:00", 1371, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 13 1981 00:00:00", 2581, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 14 1981 00:00:00", 2371, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 15 1981 00:00:00", 1823, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 16 1981 00:00:00", 3233, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 17 1981 00:00:00", 2423, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 18 1981 00:00:00", 1556, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 19 1981 00:00:00", 1461, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 20 1981 00:00:00", 1261, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 21 1981 00:00:00", 5190, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 22 1981 00:00:00", 5482, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 23 1981 00:00:00", 6046, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 24 1981 00:00:00", 7739, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 25 1981 00:00:00", 11472, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 26 1981 00:00:00", 7049, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 27 1981 00:00:00", 5787, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 28 1981 00:00:00", 3326, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 29 1981 00:00:00", 6427, 420, 51, "Nushagak River", "Sockeye"], [1981, "June, 30 1981 00:00:00", 10052, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 01 1981 00:00:00", 78625, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 02 1981 00:00:00", 63558, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 03 1981 00:00:00", 67290, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 04 1981 00:00:00", 92738, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 05 1981 00:00:00", 229020, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 06 1981 00:00:00", 153489, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 07 1981 00:00:00", 27481, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 08 1981 00:00:00", 23299, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 09 1981 00:00:00", 23788, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 10 1981 00:00:00", 44240, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 11 1981 00:00:00", 24509, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 12 1981 00:00:00", 14345, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 13 1981 00:00:00", 7877, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 14 1981 00:00:00", 4476, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 15 1981 00:00:00", 2147, 420, 51, "Nushagak River", "Sockeye"], [1981, "July, 16 1981 00:00:00", 607, 420, 51, "Nushagak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "June, 12 1981 00:00:00",
+      1371,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 13 1981 00:00:00",
+      2581,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 14 1981 00:00:00",
+      2371,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 15 1981 00:00:00",
+      1823,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 16 1981 00:00:00",
+      3233,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 17 1981 00:00:00",
+      2423,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 18 1981 00:00:00",
+      1556,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 19 1981 00:00:00",
+      1461,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 20 1981 00:00:00",
+      1261,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 21 1981 00:00:00",
+      5190,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 22 1981 00:00:00",
+      5482,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 23 1981 00:00:00",
+      6046,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 24 1981 00:00:00",
+      7739,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 25 1981 00:00:00",
+      11472,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 26 1981 00:00:00",
+      7049,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 27 1981 00:00:00",
+      5787,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 28 1981 00:00:00",
+      3326,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 29 1981 00:00:00",
+      6427,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 30 1981 00:00:00",
+      10052,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 01 1981 00:00:00",
+      78625,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 02 1981 00:00:00",
+      63558,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 03 1981 00:00:00",
+      67290,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 04 1981 00:00:00",
+      92738,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 05 1981 00:00:00",
+      229020,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 06 1981 00:00:00",
+      153489,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 07 1981 00:00:00",
+      27481,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 08 1981 00:00:00",
+      23299,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 09 1981 00:00:00",
+      23788,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 10 1981 00:00:00",
+      44240,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 11 1981 00:00:00",
+      24509,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 12 1981 00:00:00",
+      14345,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 13 1981 00:00:00",
+      7877,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 14 1981 00:00:00",
+      4476,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 15 1981 00:00:00",
+      2147,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 16 1981 00:00:00",
+      607,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "420",
+    "year": "1981",
+    "totalRecords": 35,
+    "totalCount": 944139,
+    "source": "ADFG JSON API",
+    "last_updated": "1981-12-31T00:00:00"
+  }
+}

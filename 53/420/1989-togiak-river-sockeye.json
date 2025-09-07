@@ -1,1 +1,346 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1989, "July, 03 1989 00:00:00", 72, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 04 1989 00:00:00", 72, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 05 1989 00:00:00", 78, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 06 1989 00:00:00", 852, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 07 1989 00:00:00", 1794, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 08 1989 00:00:00", 2460, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 09 1989 00:00:00", 3828, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 10 1989 00:00:00", 2730, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 11 1989 00:00:00", 3210, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 12 1989 00:00:00", 5646, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 13 1989 00:00:00", 4686, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 14 1989 00:00:00", 2604, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 15 1989 00:00:00", 1452, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 16 1989 00:00:00", 1560, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 17 1989 00:00:00", 828, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 18 1989 00:00:00", 2148, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 19 1989 00:00:00", 2406, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 20 1989 00:00:00", 2940, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 21 1989 00:00:00", 4326, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 22 1989 00:00:00", 6234, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 23 1989 00:00:00", 5328, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 24 1989 00:00:00", 5598, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 25 1989 00:00:00", 3360, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 26 1989 00:00:00", 3666, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 27 1989 00:00:00", 4308, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 28 1989 00:00:00", 1992, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 29 1989 00:00:00", 2148, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 30 1989 00:00:00", 1650, 420, 53, "Togiak River", "Sockeye"], [1989, "July, 31 1989 00:00:00", 948, 420, 53, "Togiak River", "Sockeye"], [1989, "August, 01 1989 00:00:00", 1098, 420, 53, "Togiak River", "Sockeye"], [1989, "August, 02 1989 00:00:00", 1020, 420, 53, "Togiak River", "Sockeye"], [1989, "August, 03 1989 00:00:00", 1284, 420, 53, "Togiak River", "Sockeye"], [1989, "August, 04 1989 00:00:00", 990, 420, 53, "Togiak River", "Sockeye"], [1989, "August, 05 1989 00:00:00", 438, 420, 53, "Togiak River", "Sockeye"], [1989, "August, 06 1989 00:00:00", 456, 420, 53, "Togiak River", "Sockeye"], [1989, "August, 07 1989 00:00:00", 270, 420, 53, "Togiak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "July, 03 1989 00:00:00",
+      72,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 04 1989 00:00:00",
+      72,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 05 1989 00:00:00",
+      78,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 06 1989 00:00:00",
+      852,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 07 1989 00:00:00",
+      1794,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 08 1989 00:00:00",
+      2460,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 09 1989 00:00:00",
+      3828,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 10 1989 00:00:00",
+      2730,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 11 1989 00:00:00",
+      3210,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 12 1989 00:00:00",
+      5646,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 13 1989 00:00:00",
+      4686,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 14 1989 00:00:00",
+      2604,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 15 1989 00:00:00",
+      1452,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 16 1989 00:00:00",
+      1560,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 17 1989 00:00:00",
+      828,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 18 1989 00:00:00",
+      2148,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 19 1989 00:00:00",
+      2406,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 20 1989 00:00:00",
+      2940,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 21 1989 00:00:00",
+      4326,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 22 1989 00:00:00",
+      6234,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 23 1989 00:00:00",
+      5328,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 24 1989 00:00:00",
+      5598,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 25 1989 00:00:00",
+      3360,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 26 1989 00:00:00",
+      3666,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 27 1989 00:00:00",
+      4308,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 28 1989 00:00:00",
+      1992,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 29 1989 00:00:00",
+      2148,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 30 1989 00:00:00",
+      1650,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 31 1989 00:00:00",
+      948,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "August, 01 1989 00:00:00",
+      1098,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "August, 02 1989 00:00:00",
+      1020,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "August, 03 1989 00:00:00",
+      1284,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "August, 04 1989 00:00:00",
+      990,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "August, 05 1989 00:00:00",
+      438,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "August, 06 1989 00:00:00",
+      456,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "August, 07 1989 00:00:00",
+      270,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 53,
+    "species_id": "420",
+    "year": "1989",
+    "totalRecords": 36,
+    "totalCount": 84480,
+    "source": "ADFG JSON API",
+    "last_updated": "1989-12-31T00:00:00"
+  }
+}

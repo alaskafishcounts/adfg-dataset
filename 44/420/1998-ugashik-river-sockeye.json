@@ -1,1 +1,283 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1998, "July, 02 1998 00:00:00", 72, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 03 1998 00:00:00", 1626, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 04 1998 00:00:00", 768, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 05 1998 00:00:00", 1134, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 06 1998 00:00:00", 1536, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 07 1998 00:00:00", 6840, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 08 1998 00:00:00", 10170, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 09 1998 00:00:00", 15114, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 10 1998 00:00:00", 15222, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 11 1998 00:00:00", 34056, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 12 1998 00:00:00", 54678, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 13 1998 00:00:00", 97848, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 14 1998 00:00:00", 163350, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 15 1998 00:00:00", 92286, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 16 1998 00:00:00", 27444, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 17 1998 00:00:00", 16746, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 18 1998 00:00:00", 18672, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 19 1998 00:00:00", 17556, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 20 1998 00:00:00", 14802, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 21 1998 00:00:00", 12318, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 22 1998 00:00:00", 15894, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 23 1998 00:00:00", 11334, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 24 1998 00:00:00", 16056, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 25 1998 00:00:00", 35346, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 26 1998 00:00:00", 81486, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 27 1998 00:00:00", 50856, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 28 1998 00:00:00", 39702, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 29 1998 00:00:00", 21510, 420, 44, "Ugashik River", "Sockeye"], [1998, "July, 30 1998 00:00:00", 16086, 420, 44, "Ugashik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "July, 02 1998 00:00:00",
+      72,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 03 1998 00:00:00",
+      1626,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 04 1998 00:00:00",
+      768,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 05 1998 00:00:00",
+      1134,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 06 1998 00:00:00",
+      1536,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 07 1998 00:00:00",
+      6840,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 08 1998 00:00:00",
+      10170,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 09 1998 00:00:00",
+      15114,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 10 1998 00:00:00",
+      15222,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 11 1998 00:00:00",
+      34056,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 12 1998 00:00:00",
+      54678,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 13 1998 00:00:00",
+      97848,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 14 1998 00:00:00",
+      163350,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 15 1998 00:00:00",
+      92286,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 16 1998 00:00:00",
+      27444,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 17 1998 00:00:00",
+      16746,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 18 1998 00:00:00",
+      18672,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 19 1998 00:00:00",
+      17556,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 20 1998 00:00:00",
+      14802,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 21 1998 00:00:00",
+      12318,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 22 1998 00:00:00",
+      15894,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 23 1998 00:00:00",
+      11334,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 24 1998 00:00:00",
+      16056,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 25 1998 00:00:00",
+      35346,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 26 1998 00:00:00",
+      81486,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 27 1998 00:00:00",
+      50856,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 28 1998 00:00:00",
+      39702,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 29 1998 00:00:00",
+      21510,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 30 1998 00:00:00",
+      16086,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 44,
+    "species_id": "420",
+    "year": "1998",
+    "totalRecords": 29,
+    "totalCount": 890508,
+    "source": "ADFG JSON API",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,301 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1993, "June, 22 1993 00:00:00", 120, 420, 49, "Igushik River", "Sockeye"], [1993, "June, 23 1993 00:00:00", 3102, 420, 49, "Igushik River", "Sockeye"], [1993, "June, 24 1993 00:00:00", 3198, 420, 49, "Igushik River", "Sockeye"], [1993, "June, 25 1993 00:00:00", 5208, 420, 49, "Igushik River", "Sockeye"], [1993, "June, 26 1993 00:00:00", 3990, 420, 49, "Igushik River", "Sockeye"], [1993, "June, 27 1993 00:00:00", 8844, 420, 49, "Igushik River", "Sockeye"], [1993, "June, 28 1993 00:00:00", 13848, 420, 49, "Igushik River", "Sockeye"], [1993, "June, 29 1993 00:00:00", 22566, 420, 49, "Igushik River", "Sockeye"], [1993, "June, 30 1993 00:00:00", 24144, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 01 1993 00:00:00", 24360, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 02 1993 00:00:00", 9720, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 03 1993 00:00:00", 22728, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 04 1993 00:00:00", 20736, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 05 1993 00:00:00", 32478, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 06 1993 00:00:00", 49188, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 07 1993 00:00:00", 36762, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 08 1993 00:00:00", 19626, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 09 1993 00:00:00", 11556, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 10 1993 00:00:00", 6672, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 11 1993 00:00:00", 4548, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 12 1993 00:00:00", 6966, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 13 1993 00:00:00", 14592, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 14 1993 00:00:00", 14634, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 15 1993 00:00:00", 13470, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 16 1993 00:00:00", 8970, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 17 1993 00:00:00", 6486, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 18 1993 00:00:00", 5358, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 19 1993 00:00:00", 4656, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 20 1993 00:00:00", 3684, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 21 1993 00:00:00", 2256, 420, 49, "Igushik River", "Sockeye"], [1993, "July, 22 1993 00:00:00", 1098, 420, 49, "Igushik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "June, 22 1993 00:00:00",
+      120,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 23 1993 00:00:00",
+      3102,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 24 1993 00:00:00",
+      3198,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 25 1993 00:00:00",
+      5208,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 26 1993 00:00:00",
+      3990,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 27 1993 00:00:00",
+      8844,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 28 1993 00:00:00",
+      13848,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 29 1993 00:00:00",
+      22566,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 30 1993 00:00:00",
+      24144,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 01 1993 00:00:00",
+      24360,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 02 1993 00:00:00",
+      9720,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 03 1993 00:00:00",
+      22728,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 04 1993 00:00:00",
+      20736,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 05 1993 00:00:00",
+      32478,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 06 1993 00:00:00",
+      49188,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 07 1993 00:00:00",
+      36762,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 08 1993 00:00:00",
+      19626,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 09 1993 00:00:00",
+      11556,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 10 1993 00:00:00",
+      6672,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 11 1993 00:00:00",
+      4548,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 12 1993 00:00:00",
+      6966,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 13 1993 00:00:00",
+      14592,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 14 1993 00:00:00",
+      14634,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 15 1993 00:00:00",
+      13470,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 16 1993 00:00:00",
+      8970,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 17 1993 00:00:00",
+      6486,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 18 1993 00:00:00",
+      5358,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 19 1993 00:00:00",
+      4656,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 20 1993 00:00:00",
+      3684,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 21 1993 00:00:00",
+      2256,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 22 1993 00:00:00",
+      1098,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 49,
+    "species_id": "420",
+    "year": "1993",
+    "totalRecords": 31,
+    "totalCount": 405564,
+    "source": "ADFG JSON API",
+    "last_updated": "1993-12-31T00:00:00"
+  }
+}

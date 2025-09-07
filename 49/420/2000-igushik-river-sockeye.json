@@ -1,1 +1,283 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2000, "June, 24 2000 00:00:00", 1890, 420, 49, "Igushik River", "Sockeye"], [2000, "June, 25 2000 00:00:00", 5760, 420, 49, "Igushik River", "Sockeye"], [2000, "June, 26 2000 00:00:00", 16812, 420, 49, "Igushik River", "Sockeye"], [2000, "June, 27 2000 00:00:00", 40704, 420, 49, "Igushik River", "Sockeye"], [2000, "June, 28 2000 00:00:00", 24024, 420, 49, "Igushik River", "Sockeye"], [2000, "June, 29 2000 00:00:00", 4842, 420, 49, "Igushik River", "Sockeye"], [2000, "June, 30 2000 00:00:00", 3504, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 01 2000 00:00:00", 4584, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 02 2000 00:00:00", 9396, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 03 2000 00:00:00", 34572, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 04 2000 00:00:00", 54210, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 05 2000 00:00:00", 58902, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 06 2000 00:00:00", 54222, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 07 2000 00:00:00", 32166, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 08 2000 00:00:00", 17484, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 09 2000 00:00:00", 11052, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 10 2000 00:00:00", 6804, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 11 2000 00:00:00", 3138, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 12 2000 00:00:00", 3072, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 13 2000 00:00:00", 2844, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 14 2000 00:00:00", 2706, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 15 2000 00:00:00", 4242, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 16 2000 00:00:00", 3822, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 17 2000 00:00:00", 3036, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 18 2000 00:00:00", 5124, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 19 2000 00:00:00", 1830, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 20 2000 00:00:00", 1134, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 21 2000 00:00:00", 858, 420, 49, "Igushik River", "Sockeye"], [2000, "July, 22 2000 00:00:00", 582, 420, 49, "Igushik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "June, 24 2000 00:00:00",
+      1890,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 25 2000 00:00:00",
+      5760,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 26 2000 00:00:00",
+      16812,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 27 2000 00:00:00",
+      40704,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 28 2000 00:00:00",
+      24024,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 29 2000 00:00:00",
+      4842,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "June, 30 2000 00:00:00",
+      3504,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 01 2000 00:00:00",
+      4584,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 02 2000 00:00:00",
+      9396,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 03 2000 00:00:00",
+      34572,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 04 2000 00:00:00",
+      54210,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 05 2000 00:00:00",
+      58902,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 06 2000 00:00:00",
+      54222,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 07 2000 00:00:00",
+      32166,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 08 2000 00:00:00",
+      17484,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 09 2000 00:00:00",
+      11052,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 10 2000 00:00:00",
+      6804,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 11 2000 00:00:00",
+      3138,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 12 2000 00:00:00",
+      3072,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 13 2000 00:00:00",
+      2844,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 14 2000 00:00:00",
+      2706,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 15 2000 00:00:00",
+      4242,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 16 2000 00:00:00",
+      3822,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 17 2000 00:00:00",
+      3036,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 18 2000 00:00:00",
+      5124,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 19 2000 00:00:00",
+      1830,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 20 2000 00:00:00",
+      1134,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 21 2000 00:00:00",
+      858,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "July, 22 2000 00:00:00",
+      582,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 49,
+    "species_id": "420",
+    "year": "2000",
+    "totalRecords": 29,
+    "totalCount": 413316,
+    "source": "ADFG JSON API",
+    "last_updated": "2000-12-31T00:00:00"
+  }
+}

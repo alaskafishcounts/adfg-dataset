@@ -1,1 +1,328 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1995, "August, 15 1995 00:00:00", 23, 430, 28, "Buskin River", "Coho"], [1995, "August, 16 1995 00:00:00", 4, 430, 28, "Buskin River", "Coho"], [1995, "August, 17 1995 00:00:00", 29, 430, 28, "Buskin River", "Coho"], [1995, "August, 18 1995 00:00:00", 39, 430, 28, "Buskin River", "Coho"], [1995, "August, 19 1995 00:00:00", 18, 430, 28, "Buskin River", "Coho"], [1995, "August, 20 1995 00:00:00", 22, 430, 28, "Buskin River", "Coho"], [1995, "August, 21 1995 00:00:00", 37, 430, 28, "Buskin River", "Coho"], [1995, "August, 22 1995 00:00:00", 36, 430, 28, "Buskin River", "Coho"], [1995, "August, 23 1995 00:00:00", 28, 430, 28, "Buskin River", "Coho"], [1995, "August, 24 1995 00:00:00", 33, 430, 28, "Buskin River", "Coho"], [1995, "August, 25 1995 00:00:00", 39, 430, 28, "Buskin River", "Coho"], [1995, "August, 26 1995 00:00:00", 33, 430, 28, "Buskin River", "Coho"], [1995, "August, 27 1995 00:00:00", 29, 430, 28, "Buskin River", "Coho"], [1995, "August, 28 1995 00:00:00", 133, 430, 28, "Buskin River", "Coho"], [1995, "August, 29 1995 00:00:00", 58, 430, 28, "Buskin River", "Coho"], [1995, "August, 30 1995 00:00:00", 95, 430, 28, "Buskin River", "Coho"], [1995, "August, 31 1995 00:00:00", 352, 430, 28, "Buskin River", "Coho"], [1995, "September, 01 1995 00:00:00", 120, 430, 28, "Buskin River", "Coho"], [1995, "September, 02 1995 00:00:00", 89, 430, 28, "Buskin River", "Coho"], [1995, "September, 03 1995 00:00:00", 53, 430, 28, "Buskin River", "Coho"], [1995, "September, 04 1995 00:00:00", 549, 430, 28, "Buskin River", "Coho"], [1995, "September, 05 1995 00:00:00", 100, 430, 28, "Buskin River", "Coho"], [1995, "September, 06 1995 00:00:00", 100, 430, 28, "Buskin River", "Coho"], [1995, "September, 07 1995 00:00:00", 200, 430, 28, "Buskin River", "Coho"], [1995, "September, 08 1995 00:00:00", 400, 430, 28, "Buskin River", "Coho"], [1995, "September, 09 1995 00:00:00", 400, 430, 28, "Buskin River", "Coho"], [1995, "September, 10 1995 00:00:00", 402, 430, 28, "Buskin River", "Coho"], [1995, "September, 11 1995 00:00:00", 474, 430, 28, "Buskin River", "Coho"], [1995, "September, 12 1995 00:00:00", 375, 430, 28, "Buskin River", "Coho"], [1995, "September, 13 1995 00:00:00", 552, 430, 28, "Buskin River", "Coho"], [1995, "September, 14 1995 00:00:00", 376, 430, 28, "Buskin River", "Coho"], [1995, "September, 15 1995 00:00:00", 467, 430, 28, "Buskin River", "Coho"], [1995, "September, 16 1995 00:00:00", 182, 430, 28, "Buskin River", "Coho"], [1995, "September, 17 1995 00:00:00", 2847, 430, 28, "Buskin River", "Coho"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "August, 15 1995 00:00:00",
+      23,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 16 1995 00:00:00",
+      4,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 17 1995 00:00:00",
+      29,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 18 1995 00:00:00",
+      39,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 19 1995 00:00:00",
+      18,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 20 1995 00:00:00",
+      22,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 21 1995 00:00:00",
+      37,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 22 1995 00:00:00",
+      36,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 23 1995 00:00:00",
+      28,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 24 1995 00:00:00",
+      33,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 25 1995 00:00:00",
+      39,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 26 1995 00:00:00",
+      33,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 27 1995 00:00:00",
+      29,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 28 1995 00:00:00",
+      133,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 29 1995 00:00:00",
+      58,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 30 1995 00:00:00",
+      95,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "August, 31 1995 00:00:00",
+      352,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 01 1995 00:00:00",
+      120,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 02 1995 00:00:00",
+      89,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 03 1995 00:00:00",
+      53,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 04 1995 00:00:00",
+      549,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 05 1995 00:00:00",
+      100,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 06 1995 00:00:00",
+      100,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 07 1995 00:00:00",
+      200,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 08 1995 00:00:00",
+      400,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 09 1995 00:00:00",
+      400,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 10 1995 00:00:00",
+      402,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 11 1995 00:00:00",
+      474,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 12 1995 00:00:00",
+      375,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 13 1995 00:00:00",
+      552,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 14 1995 00:00:00",
+      376,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 15 1995 00:00:00",
+      467,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 16 1995 00:00:00",
+      182,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1995,
+      "September, 17 1995 00:00:00",
+      2847,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 28,
+    "species_id": "430",
+    "year": "1995",
+    "totalRecords": 34,
+    "totalCount": 8694,
+    "source": "ADFG JSON API",
+    "last_updated": "1995-12-31T00:00:00"
+  }
+}

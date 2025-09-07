@@ -1,1 +1,724 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1991, "June, 05 1991 00:00:00", 180, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 06 1991 00:00:00", 290, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 07 1991 00:00:00", 212, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 08 1991 00:00:00", 199, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 09 1991 00:00:00", 195, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 10 1991 00:00:00", 273, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 11 1991 00:00:00", 218, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 12 1991 00:00:00", 251, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 13 1991 00:00:00", 213, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 14 1991 00:00:00", 191, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 15 1991 00:00:00", 2080, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 16 1991 00:00:00", 7111, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 17 1991 00:00:00", 3168, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 18 1991 00:00:00", 2778, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 19 1991 00:00:00", 1644, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 20 1991 00:00:00", 1600, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 21 1991 00:00:00", 2026, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 22 1991 00:00:00", 3345, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 23 1991 00:00:00", 7287, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 24 1991 00:00:00", 29496, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 25 1991 00:00:00", 21493, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 26 1991 00:00:00", 18184, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 27 1991 00:00:00", 12428, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 28 1991 00:00:00", 15630, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 29 1991 00:00:00", 39332, 420, 51, "Nushagak River", "Sockeye"], [1991, "June, 30 1991 00:00:00", 21251, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 01 1991 00:00:00", 64380, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 02 1991 00:00:00", 31373, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 03 1991 00:00:00", 89903, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 04 1991 00:00:00", 103339, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 05 1991 00:00:00", 37197, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 06 1991 00:00:00", 5410, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 07 1991 00:00:00", 2892, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 08 1991 00:00:00", 2159, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 09 1991 00:00:00", 1685, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 10 1991 00:00:00", 2207, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 11 1991 00:00:00", 4133, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 12 1991 00:00:00", 6207, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 13 1991 00:00:00", 2463, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 14 1991 00:00:00", 3452, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 15 1991 00:00:00", 2571, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 16 1991 00:00:00", 4259, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 17 1991 00:00:00", 7044, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 18 1991 00:00:00", 8203, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 19 1991 00:00:00", 8669, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 20 1991 00:00:00", 4551, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 21 1991 00:00:00", 2939, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 22 1991 00:00:00", 5099, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 23 1991 00:00:00", 3096, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 24 1991 00:00:00", 752, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 25 1991 00:00:00", 35, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 26 1991 00:00:00", 35, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 27 1991 00:00:00", 34, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 28 1991 00:00:00", 62, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 29 1991 00:00:00", 468, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 30 1991 00:00:00", 309, 420, 51, "Nushagak River", "Sockeye"], [1991, "July, 31 1991 00:00:00", 80, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 01 1991 00:00:00", 66, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 02 1991 00:00:00", 125, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 03 1991 00:00:00", 56, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 04 1991 00:00:00", 44, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 05 1991 00:00:00", 31, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 06 1991 00:00:00", 54, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 07 1991 00:00:00", 25, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 08 1991 00:00:00", 15, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 09 1991 00:00:00", 20, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 10 1991 00:00:00", 41, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 11 1991 00:00:00", 45, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 12 1991 00:00:00", 50, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 13 1991 00:00:00", 32, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 14 1991 00:00:00", 33, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 15 1991 00:00:00", 33, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 16 1991 00:00:00", 24, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 17 1991 00:00:00", 10, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 18 1991 00:00:00", 12, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 19 1991 00:00:00", 5, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 20 1991 00:00:00", 7, 420, 51, "Nushagak River", "Sockeye"], [1991, "August, 21 1991 00:00:00", 1, 420, 51, "Nushagak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "June, 05 1991 00:00:00",
+      180,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 06 1991 00:00:00",
+      290,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 07 1991 00:00:00",
+      212,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 08 1991 00:00:00",
+      199,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 09 1991 00:00:00",
+      195,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 10 1991 00:00:00",
+      273,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 11 1991 00:00:00",
+      218,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 12 1991 00:00:00",
+      251,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 13 1991 00:00:00",
+      213,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 14 1991 00:00:00",
+      191,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 15 1991 00:00:00",
+      2080,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 16 1991 00:00:00",
+      7111,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 17 1991 00:00:00",
+      3168,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 18 1991 00:00:00",
+      2778,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 19 1991 00:00:00",
+      1644,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 20 1991 00:00:00",
+      1600,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 21 1991 00:00:00",
+      2026,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 22 1991 00:00:00",
+      3345,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 23 1991 00:00:00",
+      7287,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 24 1991 00:00:00",
+      29496,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 25 1991 00:00:00",
+      21493,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 26 1991 00:00:00",
+      18184,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 27 1991 00:00:00",
+      12428,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 28 1991 00:00:00",
+      15630,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 29 1991 00:00:00",
+      39332,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 30 1991 00:00:00",
+      21251,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 01 1991 00:00:00",
+      64380,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 02 1991 00:00:00",
+      31373,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 03 1991 00:00:00",
+      89903,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 04 1991 00:00:00",
+      103339,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 05 1991 00:00:00",
+      37197,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 06 1991 00:00:00",
+      5410,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 07 1991 00:00:00",
+      2892,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 08 1991 00:00:00",
+      2159,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 09 1991 00:00:00",
+      1685,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 10 1991 00:00:00",
+      2207,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 11 1991 00:00:00",
+      4133,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 12 1991 00:00:00",
+      6207,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 13 1991 00:00:00",
+      2463,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 14 1991 00:00:00",
+      3452,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 15 1991 00:00:00",
+      2571,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 16 1991 00:00:00",
+      4259,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 17 1991 00:00:00",
+      7044,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 18 1991 00:00:00",
+      8203,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 19 1991 00:00:00",
+      8669,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 20 1991 00:00:00",
+      4551,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 21 1991 00:00:00",
+      2939,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 22 1991 00:00:00",
+      5099,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 23 1991 00:00:00",
+      3096,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 24 1991 00:00:00",
+      752,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 25 1991 00:00:00",
+      35,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 26 1991 00:00:00",
+      35,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 27 1991 00:00:00",
+      34,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 28 1991 00:00:00",
+      62,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 29 1991 00:00:00",
+      468,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 30 1991 00:00:00",
+      309,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 31 1991 00:00:00",
+      80,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 01 1991 00:00:00",
+      66,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 02 1991 00:00:00",
+      125,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 03 1991 00:00:00",
+      56,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 04 1991 00:00:00",
+      44,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 05 1991 00:00:00",
+      31,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 06 1991 00:00:00",
+      54,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 07 1991 00:00:00",
+      25,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 08 1991 00:00:00",
+      15,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 09 1991 00:00:00",
+      20,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 10 1991 00:00:00",
+      41,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 11 1991 00:00:00",
+      45,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 12 1991 00:00:00",
+      50,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 13 1991 00:00:00",
+      32,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 14 1991 00:00:00",
+      33,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 15 1991 00:00:00",
+      33,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 16 1991 00:00:00",
+      24,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 17 1991 00:00:00",
+      10,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 18 1991 00:00:00",
+      12,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 19 1991 00:00:00",
+      5,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 20 1991 00:00:00",
+      7,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "August, 21 1991 00:00:00",
+      1,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "420",
+    "year": "1991",
+    "totalRecords": 78,
+    "totalCount": 596810,
+    "source": "ADFG JSON API",
+    "last_updated": "1991-12-31T00:00:00"
+  }
+}

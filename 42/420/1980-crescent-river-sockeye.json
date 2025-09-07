@@ -1,1 +1,373 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1980, "June, 22 1980 00:00:00", 1, 420, 42, "Crescent River", "Sockeye"], [1980, "June, 23 1980 00:00:00", 1, 420, 42, "Crescent River", "Sockeye"], [1980, "June, 24 1980 00:00:00", 9, 420, 42, "Crescent River", "Sockeye"], [1980, "June, 25 1980 00:00:00", 2585, 420, 42, "Crescent River", "Sockeye"], [1980, "June, 26 1980 00:00:00", 5482, 420, 42, "Crescent River", "Sockeye"], [1980, "June, 27 1980 00:00:00", 3350, 420, 42, "Crescent River", "Sockeye"], [1980, "June, 28 1980 00:00:00", 524, 420, 42, "Crescent River", "Sockeye"], [1980, "June, 29 1980 00:00:00", 1260, 420, 42, "Crescent River", "Sockeye"], [1980, "June, 30 1980 00:00:00", 1439, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 01 1980 00:00:00", 1311, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 02 1980 00:00:00", 1575, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 03 1980 00:00:00", 3162, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 04 1980 00:00:00", 5327, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 05 1980 00:00:00", 7595, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 06 1980 00:00:00", 7730, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 07 1980 00:00:00", 5942, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 08 1980 00:00:00", 6855, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 09 1980 00:00:00", 5034, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 10 1980 00:00:00", 2651, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 11 1980 00:00:00", 3688, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 12 1980 00:00:00", 2649, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 13 1980 00:00:00", 3269, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 14 1980 00:00:00", 2270, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 15 1980 00:00:00", 2368, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 16 1980 00:00:00", 1737, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 17 1980 00:00:00", 1996, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 18 1980 00:00:00", 1646, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 19 1980 00:00:00", 1557, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 20 1980 00:00:00", 1646, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 21 1980 00:00:00", 1108, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 22 1980 00:00:00", 894, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 23 1980 00:00:00", 639, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 24 1980 00:00:00", 799, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 25 1980 00:00:00", 943, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 26 1980 00:00:00", 441, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 27 1980 00:00:00", 375, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 28 1980 00:00:00", 415, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 29 1980 00:00:00", 414, 420, 42, "Crescent River", "Sockeye"], [1980, "July, 30 1980 00:00:00", 176, 420, 42, "Crescent River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1980,
+      "June, 22 1980 00:00:00",
+      1,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 23 1980 00:00:00",
+      1,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 24 1980 00:00:00",
+      9,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 25 1980 00:00:00",
+      2585,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 26 1980 00:00:00",
+      5482,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 27 1980 00:00:00",
+      3350,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 28 1980 00:00:00",
+      524,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 29 1980 00:00:00",
+      1260,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 30 1980 00:00:00",
+      1439,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 01 1980 00:00:00",
+      1311,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 02 1980 00:00:00",
+      1575,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 03 1980 00:00:00",
+      3162,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 04 1980 00:00:00",
+      5327,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 05 1980 00:00:00",
+      7595,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 06 1980 00:00:00",
+      7730,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 07 1980 00:00:00",
+      5942,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 08 1980 00:00:00",
+      6855,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 09 1980 00:00:00",
+      5034,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 10 1980 00:00:00",
+      2651,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 11 1980 00:00:00",
+      3688,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 12 1980 00:00:00",
+      2649,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 13 1980 00:00:00",
+      3269,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 14 1980 00:00:00",
+      2270,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 15 1980 00:00:00",
+      2368,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 16 1980 00:00:00",
+      1737,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 17 1980 00:00:00",
+      1996,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 18 1980 00:00:00",
+      1646,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 19 1980 00:00:00",
+      1557,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 20 1980 00:00:00",
+      1646,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 21 1980 00:00:00",
+      1108,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 22 1980 00:00:00",
+      894,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 23 1980 00:00:00",
+      639,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 24 1980 00:00:00",
+      799,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 25 1980 00:00:00",
+      943,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 26 1980 00:00:00",
+      441,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 27 1980 00:00:00",
+      375,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 28 1980 00:00:00",
+      415,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 29 1980 00:00:00",
+      414,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 30 1980 00:00:00",
+      176,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 42,
+    "species_id": "420",
+    "year": "1980",
+    "totalRecords": 39,
+    "totalCount": 90863,
+    "source": "ADFG JSON API",
+    "last_updated": "1980-12-31T00:00:00"
+  }
+}

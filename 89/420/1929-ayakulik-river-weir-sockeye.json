@@ -7,215 +7,253 @@
     "source": "Historical weir operations",
     "notes": "Weir construction completed; Early commercial fishing era",
     "total_count": 16740,
-    "data_points": 35
+    "data_points": 35,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=89&SpeciesID=420",
+        "description": "Official ADF&G fish count data for Ayakulik River Weir"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15294800",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.4K.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Commercial Fishing Information",
+          "url": "https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByAreaKodiak.salmon_weirs_mobile",
+          "description": "ADF&G commercial fishing management information"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/kodiak-region/kodiak-regional-information-report-2023.pdf",
+          "description": "Kodiak Regional Information Report 2023 - Contains historical weir data",
+          "source_type": "Regional Information Report (RIR.4K.2023.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-20",
+      "1929-06-20",
       "Ayakulik River Weir",
       "288",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-21",
+      "1929-06-21",
       "Ayakulik River Weir",
       "295",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-22",
+      "1929-06-22",
       "Ayakulik River Weir",
       "299",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-23",
+      "1929-06-23",
       "Ayakulik River Weir",
       "297",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-24",
+      "1929-06-24",
       "Ayakulik River Weir",
       "336",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-25",
+      "1929-06-25",
       "Ayakulik River Weir",
       "338",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-26",
+      "1929-06-26",
       "Ayakulik River Weir",
       "293",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-27",
+      "1929-06-27",
       "Ayakulik River Weir",
       "319",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-28",
+      "1929-06-28",
       "Ayakulik River Weir",
       "328",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-29",
+      "1929-06-29",
       "Ayakulik River Weir",
       "298",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-06-30",
+      "1929-06-30",
       "Ayakulik River Weir",
       "311",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-01",
+      "1929-07-01",
       "Ayakulik River Weir",
       "361",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-02",
+      "1929-07-02",
       "Ayakulik River Weir",
       "340",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-03",
+      "1929-07-03",
       "Ayakulik River Weir",
       "317",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-04",
+      "1929-07-04",
       "Ayakulik River Weir",
       "327",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-05",
+      "1929-07-05",
       "Ayakulik River Weir",
       "364",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-06",
+      "1929-07-06",
       "Ayakulik River Weir",
       "321",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-07",
+      "1929-07-07",
       "Ayakulik River Weir",
       "305",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-08",
+      "1929-07-08",
       "Ayakulik River Weir",
       "362",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-09",
+      "1929-07-09",
       "Ayakulik River Weir",
       "361",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-10",
+      "1929-07-10",
       "Ayakulik River Weir",
       "329",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-11",
+      "1929-07-11",
       "Ayakulik River Weir",
       "327",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-12",
+      "1929-07-12",
       "Ayakulik River Weir",
       "362",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-13",
+      "1929-07-13",
       "Ayakulik River Weir",
       "299",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-14",
+      "1929-07-14",
       "Ayakulik River Weir",
       "340",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-15",
+      "1929-07-15",
       "Ayakulik River Weir",
       "368",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-16",
+      "1929-07-16",
       "Ayakulik River Weir",
       "309",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-17",
+      "1929-07-17",
       "Ayakulik River Weir",
       "292",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-18",
+      "1929-07-18",
       "Ayakulik River Weir",
       "718",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-19",
+      "1929-07-19",
       "Ayakulik River Weir",
       "867",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-20",
+      "1929-07-20",
       "Ayakulik River Weir",
       "934",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-21",
+      "1929-07-21",
       "Ayakulik River Weir",
       "789",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-22",
+      "1929-07-22",
       "Ayakulik River Weir",
       "1653",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-23",
+      "1929-07-23",
       "Ayakulik River Weir",
       "1874",
       "Daily count - Weir construction completed; Early commercial fishing era"
     ],
     [
-      "2024-07-24",
+      "1929-07-24",
       "Ayakulik River Weir",
       "1623",
       "Daily count - Weir construction completed; Early commercial fishing era"

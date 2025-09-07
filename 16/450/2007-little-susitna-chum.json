@@ -1,1 +1,58 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2007, "August, 02 2007 00:00:00", 14, 450, 16, "Little Susitna", "Chum"], [2007, "August, 03 2007 00:00:00", 11, 450, 16, "Little Susitna", "Chum"], [2007, "August, 04 2007 00:00:00", 4, 450, 16, "Little Susitna", "Chum"], [2007, "August, 05 2007 00:00:00", 3, 450, 16, "Little Susitna", "Chum"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "August, 02 2007 00:00:00",
+      14,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 03 2007 00:00:00",
+      11,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 04 2007 00:00:00",
+      4,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2007,
+      "August, 05 2007 00:00:00",
+      3,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 16,
+    "species_id": "450",
+    "year": "2007",
+    "totalRecords": 4,
+    "totalCount": 32,
+    "source": "ADFG JSON API",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

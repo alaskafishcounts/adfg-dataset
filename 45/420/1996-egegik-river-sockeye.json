@@ -1,1 +1,283 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1996, "June, 19 1996 00:00:00", 11220, 420, 45, "Egegik River", "Sockeye"], [1996, "June, 20 1996 00:00:00", 10650, 420, 45, "Egegik River", "Sockeye"], [1996, "June, 21 1996 00:00:00", 90, 420, 45, "Egegik River", "Sockeye"], [1996, "June, 22 1996 00:00:00", 1260, 420, 45, "Egegik River", "Sockeye"], [1996, "June, 23 1996 00:00:00", 21174, 420, 45, "Egegik River", "Sockeye"], [1996, "June, 24 1996 00:00:00", 27378, 420, 45, "Egegik River", "Sockeye"], [1996, "June, 25 1996 00:00:00", 24468, 420, 45, "Egegik River", "Sockeye"], [1996, "June, 26 1996 00:00:00", 2298, 420, 45, "Egegik River", "Sockeye"], [1996, "June, 27 1996 00:00:00", 888, 420, 45, "Egegik River", "Sockeye"], [1996, "June, 28 1996 00:00:00", 37176, 420, 45, "Egegik River", "Sockeye"], [1996, "June, 29 1996 00:00:00", 35868, 420, 45, "Egegik River", "Sockeye"], [1996, "June, 30 1996 00:00:00", 34434, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 01 1996 00:00:00", 36222, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 02 1996 00:00:00", 46038, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 03 1996 00:00:00", 60714, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 04 1996 00:00:00", 31116, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 05 1996 00:00:00", 17202, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 06 1996 00:00:00", 8604, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 07 1996 00:00:00", 34686, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 08 1996 00:00:00", 51342, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 09 1996 00:00:00", 62250, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 10 1996 00:00:00", 234648, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 11 1996 00:00:00", 226074, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 12 1996 00:00:00", 20688, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 13 1996 00:00:00", 2370, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 14 1996 00:00:00", 3270, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 15 1996 00:00:00", 9564, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 16 1996 00:00:00", 17790, 420, 45, "Egegik River", "Sockeye"], [1996, "July, 17 1996 00:00:00", 6114, 420, 45, "Egegik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "June, 19 1996 00:00:00",
+      11220,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 20 1996 00:00:00",
+      10650,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 21 1996 00:00:00",
+      90,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 22 1996 00:00:00",
+      1260,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 23 1996 00:00:00",
+      21174,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 24 1996 00:00:00",
+      27378,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 25 1996 00:00:00",
+      24468,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 26 1996 00:00:00",
+      2298,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 27 1996 00:00:00",
+      888,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 28 1996 00:00:00",
+      37176,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 29 1996 00:00:00",
+      35868,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "June, 30 1996 00:00:00",
+      34434,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 01 1996 00:00:00",
+      36222,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 02 1996 00:00:00",
+      46038,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 03 1996 00:00:00",
+      60714,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 04 1996 00:00:00",
+      31116,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 05 1996 00:00:00",
+      17202,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 06 1996 00:00:00",
+      8604,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 07 1996 00:00:00",
+      34686,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 08 1996 00:00:00",
+      51342,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 09 1996 00:00:00",
+      62250,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 10 1996 00:00:00",
+      234648,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 11 1996 00:00:00",
+      226074,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 12 1996 00:00:00",
+      20688,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 13 1996 00:00:00",
+      2370,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 14 1996 00:00:00",
+      3270,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 15 1996 00:00:00",
+      9564,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 16 1996 00:00:00",
+      17790,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 17 1996 00:00:00",
+      6114,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 45,
+    "species_id": "420",
+    "year": "1996",
+    "totalRecords": 29,
+    "totalCount": 1075596,
+    "source": "ADFG JSON API",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

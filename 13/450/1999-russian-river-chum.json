@@ -1,1 +1,31 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1999, "September, 01 1999 00:00:00", 2, 450, 13, "Russian River", "Chum"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "September, 01 1999 00:00:00",
+      2,
+      450,
+      13,
+      "Russian River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 13,
+    "species_id": "450",
+    "year": "1999",
+    "totalRecords": 1,
+    "totalCount": 2,
+    "source": "ADFG JSON API",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

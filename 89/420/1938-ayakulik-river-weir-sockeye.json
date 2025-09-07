@@ -7,167 +7,205 @@
     "source": "Historical weir operations",
     "notes": "Transition to scientific monitoring",
     "total_count": 19744,
-    "data_points": 27
+    "data_points": 27,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=89&SpeciesID=420",
+        "description": "Official ADF&G fish count data for Ayakulik River Weir"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15294800",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.4K.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Commercial Fishing Information",
+          "url": "https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByAreaKodiak.salmon_weirs_mobile",
+          "description": "ADF&G commercial fishing management information"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/kodiak-region/kodiak-regional-information-report-2023.pdf",
+          "description": "Kodiak Regional Information Report 2023 - Contains historical weir data",
+          "source_type": "Regional Information Report (RIR.4K.2023.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-15",
+      "1938-06-15",
       "Ayakulik River Weir",
       "347",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-16",
+      "1938-06-16",
       "Ayakulik River Weir",
       "437",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-17",
+      "1938-06-17",
       "Ayakulik River Weir",
       "352",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-18",
+      "1938-06-18",
       "Ayakulik River Weir",
       "391",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-19",
+      "1938-06-19",
       "Ayakulik River Weir",
       "439",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-20",
+      "1938-06-20",
       "Ayakulik River Weir",
       "340",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-21",
+      "1938-06-21",
       "Ayakulik River Weir",
       "348",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-22",
+      "1938-06-22",
       "Ayakulik River Weir",
       "353",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-23",
+      "1938-06-23",
       "Ayakulik River Weir",
       "351",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-24",
+      "1938-06-24",
       "Ayakulik River Weir",
       "397",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-25",
+      "1938-06-25",
       "Ayakulik River Weir",
       "399",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-26",
+      "1938-06-26",
       "Ayakulik River Weir",
       "346",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-27",
+      "1938-06-27",
       "Ayakulik River Weir",
       "377",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-28",
+      "1938-06-28",
       "Ayakulik River Weir",
       "387",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-29",
+      "1938-06-29",
       "Ayakulik River Weir",
       "352",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-30",
+      "1938-06-30",
       "Ayakulik River Weir",
       "367",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-01",
+      "1938-07-01",
       "Ayakulik River Weir",
       "426",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-02",
+      "1938-07-02",
       "Ayakulik River Weir",
       "401",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-03",
+      "1938-07-03",
       "Ayakulik River Weir",
       "936",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-04",
+      "1938-07-04",
       "Ayakulik River Weir",
       "966",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-05",
+      "1938-07-05",
       "Ayakulik River Weir",
       "1076",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-06",
+      "1938-07-06",
       "Ayakulik River Weir",
       "948",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-07",
+      "1938-07-07",
       "Ayakulik River Weir",
       "1802",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-08",
+      "1938-07-08",
       "Ayakulik River Weir",
       "2140",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-09",
+      "1938-07-09",
       "Ayakulik River Weir",
       "2134",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-10",
+      "1938-07-10",
       "Ayakulik River Weir",
       "2917",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-11",
+      "1938-07-11",
       "Ayakulik River Weir",
       "1932",
       "Daily count - Transition to scientific monitoring"

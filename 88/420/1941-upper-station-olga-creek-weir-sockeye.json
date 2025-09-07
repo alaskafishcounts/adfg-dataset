@@ -7,215 +7,248 @@
     "source": "Historical weir operations",
     "notes": "Weir operations suspended due to WWII; Transition to scientific monitoring",
     "total_count": 16692,
-    "data_points": 35
+    "data_points": 35,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=88&SpeciesID=420",
+        "description": "Official ADF&G fish count data for Upper Station Weir"
+      },
+      "secondary_sources": [
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.4K.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Commercial Fishing Information",
+          "url": "https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByAreaKodiak.salmon_weirs_mobile",
+          "description": "ADF&G commercial fishing management information"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/kodiak-region/kodiak-regional-information-report-2023.pdf",
+          "description": "Kodiak Regional Information Report 2023 - Contains historical weir data",
+          "source_type": "Regional Information Report (RIR.4K.2023.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-15",
+      "1941-06-15",
       "Upper Station Weir",
       "293",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-16",
+      "1941-06-16",
       "Upper Station Weir",
       "369",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-17",
+      "1941-06-17",
       "Upper Station Weir",
       "297",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-18",
+      "1941-06-18",
       "Upper Station Weir",
       "330",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-19",
+      "1941-06-19",
       "Upper Station Weir",
       "371",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-20",
+      "1941-06-20",
       "Upper Station Weir",
       "287",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-21",
+      "1941-06-21",
       "Upper Station Weir",
       "294",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-22",
+      "1941-06-22",
       "Upper Station Weir",
       "298",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-23",
+      "1941-06-23",
       "Upper Station Weir",
       "296",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-24",
+      "1941-06-24",
       "Upper Station Weir",
       "335",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-25",
+      "1941-06-25",
       "Upper Station Weir",
       "337",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-26",
+      "1941-06-26",
       "Upper Station Weir",
       "292",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-27",
+      "1941-06-27",
       "Upper Station Weir",
       "318",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-28",
+      "1941-06-28",
       "Upper Station Weir",
       "327",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-29",
+      "1941-06-29",
       "Upper Station Weir",
       "297",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-06-30",
+      "1941-06-30",
       "Upper Station Weir",
       "310",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-01",
+      "1941-07-01",
       "Upper Station Weir",
       "360",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-02",
+      "1941-07-02",
       "Upper Station Weir",
       "339",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-03",
+      "1941-07-03",
       "Upper Station Weir",
       "316",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-04",
+      "1941-07-04",
       "Upper Station Weir",
       "326",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-05",
+      "1941-07-05",
       "Upper Station Weir",
       "363",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-06",
+      "1941-07-06",
       "Upper Station Weir",
       "320",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-07",
+      "1941-07-07",
       "Upper Station Weir",
       "304",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-08",
+      "1941-07-08",
       "Upper Station Weir",
       "361",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-09",
+      "1941-07-09",
       "Upper Station Weir",
       "360",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-10",
+      "1941-07-10",
       "Upper Station Weir",
       "328",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-11",
+      "1941-07-11",
       "Upper Station Weir",
       "326",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-12",
+      "1941-07-12",
       "Upper Station Weir",
       "361",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-13",
+      "1941-07-13",
       "Upper Station Weir",
       "746",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-14",
+      "1941-07-14",
       "Upper Station Weir",
       "849",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-15",
+      "1941-07-15",
       "Upper Station Weir",
       "919",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-16",
+      "1941-07-16",
       "Upper Station Weir",
       "772",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-17",
+      "1941-07-17",
       "Upper Station Weir",
       "1458",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-18",
+      "1941-07-18",
       "Upper Station Weir",
       "1433",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"
     ],
     [
-      "2024-07-19",
+      "1941-07-19",
       "Upper Station Weir",
       "1729",
       "Daily count - Weir operations suspended due to WWII; Transition to scientific monitoring"

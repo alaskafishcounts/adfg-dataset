@@ -1,1 +1,382 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1983, "June, 26 1983 00:00:00", 36, 420, 53, "Togiak River", "Sockeye"], [1983, "June, 30 1983 00:00:00", 606, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 01 1983 00:00:00", 2394, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 02 1983 00:00:00", 4386, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 03 1983 00:00:00", 2964, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 04 1983 00:00:00", 1452, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 05 1983 00:00:00", 2574, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 06 1983 00:00:00", 5136, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 07 1983 00:00:00", 6054, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 08 1983 00:00:00", 6486, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 09 1983 00:00:00", 5076, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 10 1983 00:00:00", 5178, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 11 1983 00:00:00", 5364, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 12 1983 00:00:00", 8928, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 13 1983 00:00:00", 14856, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 14 1983 00:00:00", 17274, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 15 1983 00:00:00", 10662, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 16 1983 00:00:00", 5874, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 17 1983 00:00:00", 5628, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 18 1983 00:00:00", 3384, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 19 1983 00:00:00", 5646, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 20 1983 00:00:00", 7422, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 21 1983 00:00:00", 6360, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 22 1983 00:00:00", 5256, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 23 1983 00:00:00", 3204, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 24 1983 00:00:00", 1578, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 25 1983 00:00:00", 2022, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 26 1983 00:00:00", 4326, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 27 1983 00:00:00", 3528, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 28 1983 00:00:00", 3492, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 29 1983 00:00:00", 3600, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 30 1983 00:00:00", 5220, 420, 53, "Togiak River", "Sockeye"], [1983, "July, 31 1983 00:00:00", 3492, 420, 53, "Togiak River", "Sockeye"], [1983, "August, 01 1983 00:00:00", 4374, 420, 53, "Togiak River", "Sockeye"], [1983, "August, 02 1983 00:00:00", 4422, 420, 53, "Togiak River", "Sockeye"], [1983, "August, 03 1983 00:00:00", 4902, 420, 53, "Togiak River", "Sockeye"], [1983, "August, 04 1983 00:00:00", 4224, 420, 53, "Togiak River", "Sockeye"], [1983, "August, 05 1983 00:00:00", 2592, 420, 53, "Togiak River", "Sockeye"], [1983, "August, 06 1983 00:00:00", 1206, 420, 53, "Togiak River", "Sockeye"], [1983, "August, 07 1983 00:00:00", 342, 420, 53, "Togiak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1983,
+      "June, 26 1983 00:00:00",
+      36,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "June, 30 1983 00:00:00",
+      606,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 01 1983 00:00:00",
+      2394,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 02 1983 00:00:00",
+      4386,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 03 1983 00:00:00",
+      2964,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 04 1983 00:00:00",
+      1452,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 05 1983 00:00:00",
+      2574,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 06 1983 00:00:00",
+      5136,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 07 1983 00:00:00",
+      6054,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 08 1983 00:00:00",
+      6486,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 09 1983 00:00:00",
+      5076,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 10 1983 00:00:00",
+      5178,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 11 1983 00:00:00",
+      5364,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 12 1983 00:00:00",
+      8928,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 13 1983 00:00:00",
+      14856,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 14 1983 00:00:00",
+      17274,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 15 1983 00:00:00",
+      10662,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 16 1983 00:00:00",
+      5874,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 17 1983 00:00:00",
+      5628,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 18 1983 00:00:00",
+      3384,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 19 1983 00:00:00",
+      5646,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 20 1983 00:00:00",
+      7422,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 21 1983 00:00:00",
+      6360,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 22 1983 00:00:00",
+      5256,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 23 1983 00:00:00",
+      3204,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 24 1983 00:00:00",
+      1578,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 25 1983 00:00:00",
+      2022,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 26 1983 00:00:00",
+      4326,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 27 1983 00:00:00",
+      3528,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 28 1983 00:00:00",
+      3492,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 29 1983 00:00:00",
+      3600,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 30 1983 00:00:00",
+      5220,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "July, 31 1983 00:00:00",
+      3492,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "August, 01 1983 00:00:00",
+      4374,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "August, 02 1983 00:00:00",
+      4422,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "August, 03 1983 00:00:00",
+      4902,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "August, 04 1983 00:00:00",
+      4224,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "August, 05 1983 00:00:00",
+      2592,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "August, 06 1983 00:00:00",
+      1206,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1983,
+      "August, 07 1983 00:00:00",
+      342,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 53,
+    "species_id": "420",
+    "year": "1983",
+    "totalRecords": 40,
+    "totalCount": 191520,
+    "source": "ADFG JSON API",
+    "last_updated": "1983-12-31T00:00:00"
+  }
+}

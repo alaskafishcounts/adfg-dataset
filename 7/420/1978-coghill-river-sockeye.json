@@ -1,1 +1,994 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1978, "June, 01 1978 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 02 1978 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 03 1978 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 04 1978 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 05 1978 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 06 1978 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 07 1978 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 08 1978 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 09 1978 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 10 1978 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 11 1978 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 12 1978 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 13 1978 00:00:00", 262, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 13 1978 00:00:00", 262, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 14 1978 00:00:00", 76, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 14 1978 00:00:00", 76, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 15 1978 00:00:00", 6, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 15 1978 00:00:00", 6, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 16 1978 00:00:00", 1, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 16 1978 00:00:00", 1, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 17 1978 00:00:00", 55, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 17 1978 00:00:00", 55, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 18 1978 00:00:00", 723, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 18 1978 00:00:00", 723, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 19 1978 00:00:00", 2274, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 19 1978 00:00:00", 2274, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 20 1978 00:00:00", 183, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 20 1978 00:00:00", 183, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 21 1978 00:00:00", 388, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 21 1978 00:00:00", 388, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 22 1978 00:00:00", 564, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 22 1978 00:00:00", 564, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 23 1978 00:00:00", 707, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 23 1978 00:00:00", 707, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 24 1978 00:00:00", 381, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 24 1978 00:00:00", 381, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 25 1978 00:00:00", 448, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 25 1978 00:00:00", 448, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 26 1978 00:00:00", 1265, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 26 1978 00:00:00", 1265, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 27 1978 00:00:00", 207, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 27 1978 00:00:00", 207, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 28 1978 00:00:00", 695, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 28 1978 00:00:00", 695, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 29 1978 00:00:00", 128, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 29 1978 00:00:00", 128, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 30 1978 00:00:00", 363, 420, 7, "Coghill River", "Sockeye"], [1978, "June, 30 1978 00:00:00", 363, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 01 1978 00:00:00", 440, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 01 1978 00:00:00", 440, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 02 1978 00:00:00", 510, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 02 1978 00:00:00", 510, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 03 1978 00:00:00", 348, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 03 1978 00:00:00", 348, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 04 1978 00:00:00", 1687, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 04 1978 00:00:00", 1687, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 05 1978 00:00:00", 11303, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 05 1978 00:00:00", 11303, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 06 1978 00:00:00", 4435, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 06 1978 00:00:00", 4435, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 07 1978 00:00:00", 3360, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 07 1978 00:00:00", 3360, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 08 1978 00:00:00", 3399, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 08 1978 00:00:00", 3399, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 09 1978 00:00:00", 2867, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 09 1978 00:00:00", 2867, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 10 1978 00:00:00", 1617, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 10 1978 00:00:00", 1617, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 11 1978 00:00:00", 1175, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 11 1978 00:00:00", 1175, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 12 1978 00:00:00", 366, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 12 1978 00:00:00", 366, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 13 1978 00:00:00", 65, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 13 1978 00:00:00", 65, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 14 1978 00:00:00", 193, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 14 1978 00:00:00", 193, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 15 1978 00:00:00", 138, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 15 1978 00:00:00", 138, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 16 1978 00:00:00", 364, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 16 1978 00:00:00", 364, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 17 1978 00:00:00", 362, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 17 1978 00:00:00", 362, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 18 1978 00:00:00", 76, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 18 1978 00:00:00", 76, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 19 1978 00:00:00", 194, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 19 1978 00:00:00", 194, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 20 1978 00:00:00", 52, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 20 1978 00:00:00", 52, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 21 1978 00:00:00", 72, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 21 1978 00:00:00", 72, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 22 1978 00:00:00", 101, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 22 1978 00:00:00", 101, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 23 1978 00:00:00", 34, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 23 1978 00:00:00", 34, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 24 1978 00:00:00", 171, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 24 1978 00:00:00", 171, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 25 1978 00:00:00", 57, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 25 1978 00:00:00", 57, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 26 1978 00:00:00", 27, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 26 1978 00:00:00", 27, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 27 1978 00:00:00", 24, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 27 1978 00:00:00", 24, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 28 1978 00:00:00", 25, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 28 1978 00:00:00", 25, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 29 1978 00:00:00", 25, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 29 1978 00:00:00", 25, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 30 1978 00:00:00", 51, 420, 7, "Coghill River", "Sockeye"], [1978, "July, 30 1978 00:00:00", 51, 420, 7, "Coghill River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1978,
+      "June, 01 1978 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 02 1978 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 03 1978 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 04 1978 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 05 1978 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 06 1978 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 07 1978 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 08 1978 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 09 1978 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 10 1978 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 11 1978 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 12 1978 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 13 1978 00:00:00",
+      262,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 13 1978 00:00:00",
+      262,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 14 1978 00:00:00",
+      76,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 14 1978 00:00:00",
+      76,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 15 1978 00:00:00",
+      6,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 15 1978 00:00:00",
+      6,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 16 1978 00:00:00",
+      1,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 16 1978 00:00:00",
+      1,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 17 1978 00:00:00",
+      55,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 17 1978 00:00:00",
+      55,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 18 1978 00:00:00",
+      723,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 18 1978 00:00:00",
+      723,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 19 1978 00:00:00",
+      2274,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 19 1978 00:00:00",
+      2274,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 20 1978 00:00:00",
+      183,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 20 1978 00:00:00",
+      183,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 21 1978 00:00:00",
+      388,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 21 1978 00:00:00",
+      388,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 22 1978 00:00:00",
+      564,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 22 1978 00:00:00",
+      564,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 23 1978 00:00:00",
+      707,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 23 1978 00:00:00",
+      707,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 24 1978 00:00:00",
+      381,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 24 1978 00:00:00",
+      381,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 25 1978 00:00:00",
+      448,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 25 1978 00:00:00",
+      448,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 26 1978 00:00:00",
+      1265,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 26 1978 00:00:00",
+      1265,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 27 1978 00:00:00",
+      207,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 27 1978 00:00:00",
+      207,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 28 1978 00:00:00",
+      695,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 28 1978 00:00:00",
+      695,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 29 1978 00:00:00",
+      128,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 29 1978 00:00:00",
+      128,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 30 1978 00:00:00",
+      363,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 30 1978 00:00:00",
+      363,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 01 1978 00:00:00",
+      440,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 01 1978 00:00:00",
+      440,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 02 1978 00:00:00",
+      510,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 02 1978 00:00:00",
+      510,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 03 1978 00:00:00",
+      348,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 03 1978 00:00:00",
+      348,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 04 1978 00:00:00",
+      1687,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 04 1978 00:00:00",
+      1687,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 05 1978 00:00:00",
+      11303,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 05 1978 00:00:00",
+      11303,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 06 1978 00:00:00",
+      4435,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 06 1978 00:00:00",
+      4435,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 07 1978 00:00:00",
+      3360,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 07 1978 00:00:00",
+      3360,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 08 1978 00:00:00",
+      3399,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 08 1978 00:00:00",
+      3399,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 09 1978 00:00:00",
+      2867,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 09 1978 00:00:00",
+      2867,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 10 1978 00:00:00",
+      1617,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 10 1978 00:00:00",
+      1617,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 11 1978 00:00:00",
+      1175,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 11 1978 00:00:00",
+      1175,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 12 1978 00:00:00",
+      366,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 12 1978 00:00:00",
+      366,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 13 1978 00:00:00",
+      65,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 13 1978 00:00:00",
+      65,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 14 1978 00:00:00",
+      193,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 14 1978 00:00:00",
+      193,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 15 1978 00:00:00",
+      138,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 15 1978 00:00:00",
+      138,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 16 1978 00:00:00",
+      364,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 16 1978 00:00:00",
+      364,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 17 1978 00:00:00",
+      362,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 17 1978 00:00:00",
+      362,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 18 1978 00:00:00",
+      76,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 18 1978 00:00:00",
+      76,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 19 1978 00:00:00",
+      194,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 19 1978 00:00:00",
+      194,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 20 1978 00:00:00",
+      52,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 20 1978 00:00:00",
+      52,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 21 1978 00:00:00",
+      72,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 21 1978 00:00:00",
+      72,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 22 1978 00:00:00",
+      101,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 22 1978 00:00:00",
+      101,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 23 1978 00:00:00",
+      34,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 23 1978 00:00:00",
+      34,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 24 1978 00:00:00",
+      171,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 24 1978 00:00:00",
+      171,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 25 1978 00:00:00",
+      57,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 25 1978 00:00:00",
+      57,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 26 1978 00:00:00",
+      27,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 26 1978 00:00:00",
+      27,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 27 1978 00:00:00",
+      24,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 27 1978 00:00:00",
+      24,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 28 1978 00:00:00",
+      25,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 28 1978 00:00:00",
+      25,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 29 1978 00:00:00",
+      25,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 29 1978 00:00:00",
+      25,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 30 1978 00:00:00",
+      51,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 30 1978 00:00:00",
+      51,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 7,
+    "species_id": "420",
+    "year": "1978",
+    "totalRecords": 108,
+    "totalCount": 84528,
+    "source": "ADFG JSON API",
+    "last_updated": "1978-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,121 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2011, "July, 14 2011 00:00:00", 2, 440, 34, "Sandy River", "Pink"], [2011, "July, 15 2011 00:00:00", 6, 440, 34, "Sandy River", "Pink"], [2011, "July, 16 2011 00:00:00", 0, 440, 34, "Sandy River", "Pink"], [2011, "July, 17 2011 00:00:00", 2, 440, 34, "Sandy River", "Pink"], [2011, "July, 18 2011 00:00:00", 5, 440, 34, "Sandy River", "Pink"], [2011, "July, 19 2011 00:00:00", 2, 440, 34, "Sandy River", "Pink"], [2011, "July, 20 2011 00:00:00", 2, 440, 34, "Sandy River", "Pink"], [2011, "July, 21 2011 00:00:00", 2, 440, 34, "Sandy River", "Pink"], [2011, "July, 22 2011 00:00:00", 0, 440, 34, "Sandy River", "Pink"], [2011, "July, 23 2011 00:00:00", 0, 440, 34, "Sandy River", "Pink"], [2011, "July, 24 2011 00:00:00", 0, 440, 34, "Sandy River", "Pink"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "July, 14 2011 00:00:00",
+      2,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 15 2011 00:00:00",
+      6,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 16 2011 00:00:00",
+      0,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 17 2011 00:00:00",
+      2,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 18 2011 00:00:00",
+      5,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 19 2011 00:00:00",
+      2,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 20 2011 00:00:00",
+      2,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 21 2011 00:00:00",
+      2,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 22 2011 00:00:00",
+      0,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 23 2011 00:00:00",
+      0,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2011,
+      "July, 24 2011 00:00:00",
+      0,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 34,
+    "species_id": "440",
+    "year": "2011",
+    "totalRecords": 11,
+    "totalCount": 21,
+    "source": "ADFG JSON API",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

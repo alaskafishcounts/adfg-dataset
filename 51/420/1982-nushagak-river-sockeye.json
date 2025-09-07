@@ -1,1 +1,409 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1982, "June, 14 1982 00:00:00", 401, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 15 1982 00:00:00", 841, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 16 1982 00:00:00", 796, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 17 1982 00:00:00", 2046, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 18 1982 00:00:00", 2261, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 19 1982 00:00:00", 1604, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 20 1982 00:00:00", 1128, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 21 1982 00:00:00", 7836, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 22 1982 00:00:00", 12879, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 23 1982 00:00:00", 29973, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 24 1982 00:00:00", 56469, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 25 1982 00:00:00", 11312, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 26 1982 00:00:00", 2612, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 27 1982 00:00:00", 10483, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 28 1982 00:00:00", 22965, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 29 1982 00:00:00", 17400, 420, 51, "Nushagak River", "Sockeye"], [1982, "June, 30 1982 00:00:00", 21273, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 01 1982 00:00:00", 46760, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 02 1982 00:00:00", 43193, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 03 1982 00:00:00", 40888, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 04 1982 00:00:00", 33143, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 05 1982 00:00:00", 34493, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 06 1982 00:00:00", 41626, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 07 1982 00:00:00", 26839, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 08 1982 00:00:00", 26532, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 09 1982 00:00:00", 7440, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 10 1982 00:00:00", 10267, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 11 1982 00:00:00", 15833, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 12 1982 00:00:00", 11528, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 13 1982 00:00:00", 14572, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 14 1982 00:00:00", 7440, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 15 1982 00:00:00", 10052, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 16 1982 00:00:00", 8700, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 17 1982 00:00:00", 12789, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 18 1982 00:00:00", 9223, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 19 1982 00:00:00", 16571, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 20 1982 00:00:00", 6395, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 21 1982 00:00:00", 7655, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 22 1982 00:00:00", 6917, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 23 1982 00:00:00", 7655, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 24 1982 00:00:00", 8178, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 25 1982 00:00:00", 3283, 420, 51, "Nushagak River", "Sockeye"], [1982, "July, 26 1982 00:00:00", 3873, 420, 51, "Nushagak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "June, 14 1982 00:00:00",
+      401,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 15 1982 00:00:00",
+      841,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 16 1982 00:00:00",
+      796,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 17 1982 00:00:00",
+      2046,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 18 1982 00:00:00",
+      2261,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 19 1982 00:00:00",
+      1604,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 20 1982 00:00:00",
+      1128,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 21 1982 00:00:00",
+      7836,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 22 1982 00:00:00",
+      12879,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 23 1982 00:00:00",
+      29973,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 24 1982 00:00:00",
+      56469,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 25 1982 00:00:00",
+      11312,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 26 1982 00:00:00",
+      2612,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 27 1982 00:00:00",
+      10483,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 28 1982 00:00:00",
+      22965,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 29 1982 00:00:00",
+      17400,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 30 1982 00:00:00",
+      21273,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 01 1982 00:00:00",
+      46760,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 02 1982 00:00:00",
+      43193,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 03 1982 00:00:00",
+      40888,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 04 1982 00:00:00",
+      33143,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 05 1982 00:00:00",
+      34493,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 06 1982 00:00:00",
+      41626,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 07 1982 00:00:00",
+      26839,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 08 1982 00:00:00",
+      26532,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 09 1982 00:00:00",
+      7440,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 10 1982 00:00:00",
+      10267,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 11 1982 00:00:00",
+      15833,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 12 1982 00:00:00",
+      11528,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 13 1982 00:00:00",
+      14572,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 14 1982 00:00:00",
+      7440,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 15 1982 00:00:00",
+      10052,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 16 1982 00:00:00",
+      8700,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 17 1982 00:00:00",
+      12789,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 18 1982 00:00:00",
+      9223,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 19 1982 00:00:00",
+      16571,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 20 1982 00:00:00",
+      6395,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 21 1982 00:00:00",
+      7655,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 22 1982 00:00:00",
+      6917,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 23 1982 00:00:00",
+      7655,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 24 1982 00:00:00",
+      8178,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 25 1982 00:00:00",
+      3283,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 26 1982 00:00:00",
+      3873,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "420",
+    "year": "1982",
+    "totalRecords": 43,
+    "totalCount": 664124,
+    "source": "ADFG JSON API",
+    "last_updated": "1982-12-31T00:00:00"
+  }
+}

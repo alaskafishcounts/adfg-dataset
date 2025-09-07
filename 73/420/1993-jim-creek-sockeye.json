@@ -1,1 +1,553 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1993, "July, 16 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 17 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 18 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 19 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 20 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 21 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 22 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 23 1993 00:00:00", 26, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 24 1993 00:00:00", 13, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 25 1993 00:00:00", 28, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 26 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 27 1993 00:00:00", 158, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 28 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 29 1993 00:00:00", 265, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 30 1993 00:00:00", 144, 420, 73, "Jim Creek", "Sockeye"], [1993, "July, 31 1993 00:00:00", 185, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 01 1993 00:00:00", 421, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 02 1993 00:00:00", 216, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 03 1993 00:00:00", 115, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 04 1993 00:00:00", 68, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 05 1993 00:00:00", 404, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 06 1993 00:00:00", 216, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 07 1993 00:00:00", 245, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 08 1993 00:00:00", 163, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 09 1993 00:00:00", 36, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 10 1993 00:00:00", 17, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 11 1993 00:00:00", 48, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 12 1993 00:00:00", 124, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 13 1993 00:00:00", 158, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 14 1993 00:00:00", 143, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 15 1993 00:00:00", 80, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 16 1993 00:00:00", 81, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 17 1993 00:00:00", 10, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 18 1993 00:00:00", 4, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 19 1993 00:00:00", 2, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 20 1993 00:00:00", 23, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 21 1993 00:00:00", 7, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 22 1993 00:00:00", 8, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 23 1993 00:00:00", 2, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 24 1993 00:00:00", 2, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 25 1993 00:00:00", 11, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 26 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 27 1993 00:00:00", 5, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 28 1993 00:00:00", 2, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 29 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 30 1993 00:00:00", 7, 420, 73, "Jim Creek", "Sockeye"], [1993, "August, 31 1993 00:00:00", 4, 420, 73, "Jim Creek", "Sockeye"], [1993, "September, 01 1993 00:00:00", 17, 420, 73, "Jim Creek", "Sockeye"], [1993, "September, 02 1993 00:00:00", 3, 420, 73, "Jim Creek", "Sockeye"], [1993, "September, 03 1993 00:00:00", 1, 420, 73, "Jim Creek", "Sockeye"], [1993, "September, 04 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "September, 05 1993 00:00:00", 6, 420, 73, "Jim Creek", "Sockeye"], [1993, "September, 06 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "September, 07 1993 00:00:00", 2, 420, 73, "Jim Creek", "Sockeye"], [1993, "September, 08 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "September, 09 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "September, 10 1993 00:00:00", 1, 420, 73, "Jim Creek", "Sockeye"], [1993, "September, 11 1993 00:00:00", 0, 420, 73, "Jim Creek", "Sockeye"], [1993, "September, 12 1993 00:00:00", 1, 420, 73, "Jim Creek", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "July, 16 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 17 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 18 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 19 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 20 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 21 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 22 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 23 1993 00:00:00",
+      26,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 24 1993 00:00:00",
+      13,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 25 1993 00:00:00",
+      28,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 26 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 27 1993 00:00:00",
+      158,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 28 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 29 1993 00:00:00",
+      265,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 30 1993 00:00:00",
+      144,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 31 1993 00:00:00",
+      185,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 01 1993 00:00:00",
+      421,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 02 1993 00:00:00",
+      216,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 03 1993 00:00:00",
+      115,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 04 1993 00:00:00",
+      68,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 05 1993 00:00:00",
+      404,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 06 1993 00:00:00",
+      216,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 07 1993 00:00:00",
+      245,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 08 1993 00:00:00",
+      163,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 09 1993 00:00:00",
+      36,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 10 1993 00:00:00",
+      17,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 11 1993 00:00:00",
+      48,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 12 1993 00:00:00",
+      124,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 13 1993 00:00:00",
+      158,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 14 1993 00:00:00",
+      143,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 15 1993 00:00:00",
+      80,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 16 1993 00:00:00",
+      81,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 17 1993 00:00:00",
+      10,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 18 1993 00:00:00",
+      4,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 19 1993 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 20 1993 00:00:00",
+      23,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 21 1993 00:00:00",
+      7,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 22 1993 00:00:00",
+      8,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 23 1993 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 24 1993 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 25 1993 00:00:00",
+      11,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 26 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 27 1993 00:00:00",
+      5,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 28 1993 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 29 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 30 1993 00:00:00",
+      7,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "August, 31 1993 00:00:00",
+      4,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 01 1993 00:00:00",
+      17,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 02 1993 00:00:00",
+      3,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 03 1993 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 04 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 05 1993 00:00:00",
+      6,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 06 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 07 1993 00:00:00",
+      2,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 08 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 09 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 10 1993 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 11 1993 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "September, 12 1993 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 73,
+    "species_id": "420",
+    "year": "1993",
+    "totalRecords": 59,
+    "totalCount": 3472,
+    "source": "ADFG JSON API",
+    "last_updated": "1993-12-31T00:00:00"
+  }
+}

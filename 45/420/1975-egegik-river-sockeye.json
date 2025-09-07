@@ -1,1 +1,238 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1975, "July, 01 1975 00:00:00", 876, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 02 1975 00:00:00", 3750, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 03 1975 00:00:00", 7482, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 04 1975 00:00:00", 44154, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 05 1975 00:00:00", 78834, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 06 1975 00:00:00", 115596, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 07 1975 00:00:00", 21954, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 08 1975 00:00:00", 90678, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 09 1975 00:00:00", 179226, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 10 1975 00:00:00", 225348, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 11 1975 00:00:00", 47472, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 12 1975 00:00:00", 59028, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 13 1975 00:00:00", 119244, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 14 1975 00:00:00", 72126, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 15 1975 00:00:00", 27300, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 16 1975 00:00:00", 34026, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 17 1975 00:00:00", 5004, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 18 1975 00:00:00", 3450, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 19 1975 00:00:00", 10092, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 20 1975 00:00:00", 15900, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 21 1975 00:00:00", 6036, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 22 1975 00:00:00", 4656, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 23 1975 00:00:00", 1512, 420, 45, "Egegik River", "Sockeye"], [1975, "July, 24 1975 00:00:00", 96, 420, 45, "Egegik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1975,
+      "July, 01 1975 00:00:00",
+      876,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 02 1975 00:00:00",
+      3750,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 03 1975 00:00:00",
+      7482,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 04 1975 00:00:00",
+      44154,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 05 1975 00:00:00",
+      78834,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 06 1975 00:00:00",
+      115596,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 07 1975 00:00:00",
+      21954,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 08 1975 00:00:00",
+      90678,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 09 1975 00:00:00",
+      179226,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 10 1975 00:00:00",
+      225348,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 11 1975 00:00:00",
+      47472,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 12 1975 00:00:00",
+      59028,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 13 1975 00:00:00",
+      119244,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 14 1975 00:00:00",
+      72126,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 15 1975 00:00:00",
+      27300,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 16 1975 00:00:00",
+      34026,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 17 1975 00:00:00",
+      5004,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 18 1975 00:00:00",
+      3450,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 19 1975 00:00:00",
+      10092,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 20 1975 00:00:00",
+      15900,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 21 1975 00:00:00",
+      6036,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 22 1975 00:00:00",
+      4656,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 23 1975 00:00:00",
+      1512,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 24 1975 00:00:00",
+      96,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 45,
+    "species_id": "420",
+    "year": "1975",
+    "totalRecords": 24,
+    "totalCount": 1173840,
+    "source": "ADFG JSON API",
+    "last_updated": "1975-12-31T00:00:00"
+  }
+}

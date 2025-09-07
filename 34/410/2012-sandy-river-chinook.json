@@ -1,1 +1,238 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2012, "June, 30 2012 00:00:00", 1, 410, 34, "Sandy River", "Chinook"], [2012, "July, 01 2012 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2012, "July, 02 2012 00:00:00", 2, 410, 34, "Sandy River", "Chinook"], [2012, "July, 03 2012 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2012, "July, 04 2012 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2012, "July, 05 2012 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2012, "July, 06 2012 00:00:00", 1, 410, 34, "Sandy River", "Chinook"], [2012, "July, 07 2012 00:00:00", 1, 410, 34, "Sandy River", "Chinook"], [2012, "July, 08 2012 00:00:00", 1, 410, 34, "Sandy River", "Chinook"], [2012, "July, 09 2012 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2012, "July, 10 2012 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2012, "July, 11 2012 00:00:00", 4, 410, 34, "Sandy River", "Chinook"], [2012, "July, 12 2012 00:00:00", 5, 410, 34, "Sandy River", "Chinook"], [2012, "July, 13 2012 00:00:00", 10, 410, 34, "Sandy River", "Chinook"], [2012, "July, 14 2012 00:00:00", 7, 410, 34, "Sandy River", "Chinook"], [2012, "July, 15 2012 00:00:00", 1, 410, 34, "Sandy River", "Chinook"], [2012, "July, 16 2012 00:00:00", 3, 410, 34, "Sandy River", "Chinook"], [2012, "July, 17 2012 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2012, "July, 18 2012 00:00:00", 1, 410, 34, "Sandy River", "Chinook"], [2012, "July, 19 2012 00:00:00", 2, 410, 34, "Sandy River", "Chinook"], [2012, "July, 20 2012 00:00:00", 8, 410, 34, "Sandy River", "Chinook"], [2012, "July, 21 2012 00:00:00", 6, 410, 34, "Sandy River", "Chinook"], [2012, "July, 22 2012 00:00:00", 6, 410, 34, "Sandy River", "Chinook"], [2012, "July, 23 2012 00:00:00", 0, 410, 34, "Sandy River", "Chinook"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      1,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 01 2012 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 02 2012 00:00:00",
+      2,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 03 2012 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 04 2012 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 05 2012 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 06 2012 00:00:00",
+      1,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 07 2012 00:00:00",
+      1,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 08 2012 00:00:00",
+      1,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 09 2012 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      4,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      5,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      10,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      7,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      1,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      3,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      1,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      2,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      8,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      6,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      6,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 34,
+    "species_id": "410",
+    "year": "2012",
+    "totalRecords": 24,
+    "totalCount": 59,
+    "source": "ADFG JSON API",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

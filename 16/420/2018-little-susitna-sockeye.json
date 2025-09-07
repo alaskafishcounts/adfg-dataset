@@ -1,1 +1,571 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2018, "May, 27 2018 00:00:00", 1, 420, 16, "Little Susitna", "Sockeye"], [2018, "May, 31 2018 00:00:00", 1, 420, 16, "Little Susitna", "Sockeye"], [2018, "June, 01 2018 00:00:00", 2, 420, 16, "Little Susitna", "Sockeye"], [2018, "June, 02 2018 00:00:00", 5, 420, 16, "Little Susitna", "Sockeye"], [2018, "June, 03 2018 00:00:00", 2, 420, 16, "Little Susitna", "Sockeye"], [2018, "June, 04 2018 00:00:00", 2, 420, 16, "Little Susitna", "Sockeye"], [2018, "June, 05 2018 00:00:00", 2, 420, 16, "Little Susitna", "Sockeye"], [2018, "June, 06 2018 00:00:00", 6, 420, 16, "Little Susitna", "Sockeye"], [2018, "June, 07 2018 00:00:00", 1, 420, 16, "Little Susitna", "Sockeye"], [2018, "June, 10 2018 00:00:00", 5, 420, 16, "Little Susitna", "Sockeye"], [2018, "June, 11 2018 00:00:00", 1, 420, 16, "Little Susitna", "Sockeye"], [2018, "June, 13 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "June, 14 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "June, 18 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 02 2018 00:00:00", 11, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 03 2018 00:00:00", 9, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 04 2018 00:00:00", 17, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 05 2018 00:00:00", 5, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 06 2018 00:00:00", 5, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 07 2018 00:00:00", 5, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 08 2018 00:00:00", 5, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 09 2018 00:00:00", 1, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 10 2018 00:00:00", 2, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 12 2018 00:00:00", 5, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 13 2018 00:00:00", 1, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 14 2018 00:00:00", 16, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 15 2018 00:00:00", 12, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 16 2018 00:00:00", 2, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 17 2018 00:00:00", 2, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 18 2018 00:00:00", 4, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 19 2018 00:00:00", 1, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 20 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 21 2018 00:00:00", 5, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 22 2018 00:00:00", 7, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 23 2018 00:00:00", 8, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 24 2018 00:00:00", 10, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 25 2018 00:00:00", 10, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 26 2018 00:00:00", 8, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 27 2018 00:00:00", 8, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 28 2018 00:00:00", 4, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 29 2018 00:00:00", 5, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 30 2018 00:00:00", 31, 420, 16, "Little Susitna", "Sockeye"], [2018, "July, 31 2018 00:00:00", 18, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 01 2018 00:00:00", 7, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 02 2018 00:00:00", 7, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 03 2018 00:00:00", 8, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 04 2018 00:00:00", 31, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 05 2018 00:00:00", 15, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 06 2018 00:00:00", 9, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 07 2018 00:00:00", 13, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 08 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 09 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 14 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 17 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 18 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 19 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 20 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 22 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 23 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 27 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"], [2018, "August, 29 2018 00:00:00", 0, 420, 16, "Little Susitna", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "May, 27 2018 00:00:00",
+      1,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "May, 31 2018 00:00:00",
+      1,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 01 2018 00:00:00",
+      2,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 02 2018 00:00:00",
+      5,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 03 2018 00:00:00",
+      2,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 04 2018 00:00:00",
+      2,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 05 2018 00:00:00",
+      2,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 06 2018 00:00:00",
+      6,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 07 2018 00:00:00",
+      1,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 10 2018 00:00:00",
+      5,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 11 2018 00:00:00",
+      1,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 13 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 14 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "June, 18 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 02 2018 00:00:00",
+      11,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 03 2018 00:00:00",
+      9,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 04 2018 00:00:00",
+      17,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 05 2018 00:00:00",
+      5,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 06 2018 00:00:00",
+      5,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 07 2018 00:00:00",
+      5,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 08 2018 00:00:00",
+      5,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 09 2018 00:00:00",
+      1,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 10 2018 00:00:00",
+      2,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 12 2018 00:00:00",
+      5,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 13 2018 00:00:00",
+      1,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 14 2018 00:00:00",
+      16,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 15 2018 00:00:00",
+      12,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 16 2018 00:00:00",
+      2,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 17 2018 00:00:00",
+      2,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 18 2018 00:00:00",
+      4,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 19 2018 00:00:00",
+      1,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 20 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 21 2018 00:00:00",
+      5,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 22 2018 00:00:00",
+      7,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 23 2018 00:00:00",
+      8,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 24 2018 00:00:00",
+      10,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 25 2018 00:00:00",
+      10,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 26 2018 00:00:00",
+      8,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 27 2018 00:00:00",
+      8,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 28 2018 00:00:00",
+      4,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 29 2018 00:00:00",
+      5,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 30 2018 00:00:00",
+      31,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "July, 31 2018 00:00:00",
+      18,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 01 2018 00:00:00",
+      7,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 02 2018 00:00:00",
+      7,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 03 2018 00:00:00",
+      8,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 04 2018 00:00:00",
+      31,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 05 2018 00:00:00",
+      15,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 06 2018 00:00:00",
+      9,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 07 2018 00:00:00",
+      13,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 08 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 09 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 14 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 17 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 18 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 19 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 20 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 22 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 23 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 27 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2018,
+      "August, 29 2018 00:00:00",
+      0,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 16,
+    "species_id": "420",
+    "year": "2018",
+    "totalRecords": 61,
+    "totalCount": 335,
+    "source": "ADFG JSON API",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

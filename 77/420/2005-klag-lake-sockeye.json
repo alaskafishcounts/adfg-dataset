@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "location_id": 77,
+    "location_name": "Klag Lake",
+    "location_slug": "klag-lake",
+    "species_id": 420,
+    "species_name": "Sockeye Salmon",
+    "species_slug": "sockeye",
+    "year": 2005,
+    "data_source": "ADFG Fishery Data Series No. 08-30",
+    "source_url": "https://www.adfg.alaska.gov/fedaidpdfs/fds08-30.pdf",
+    "report_title": "Klag Lake Subsistence Sockeye Salmon Project: 2005 Annual Report",
+    "authors": ["Brian Woody", "Jan M. Conitz"],
+    "publication_date": "June 2008",
+    "project_type": "Subsistence Sockeye Salmon Project",
+    "monitoring_method": "Weir",
+    "region": "Southeast",
+    "adfg_management_area": "Sitka",
+    "closest_city": "Sitka",
+    "data_quality": "Official ADFG subsistence project data",
+    "total_fish_counted": 13975,
+    "season_start": "2005-07-14",
+    "season_end": "2005-09-07",
+    "days_of_operation": 56,
+    "peak_count_date": "2005-07-27",
+    "peak_daily_count": 2026,
+    "notes": "Data from subsistence sockeye salmon project. Includes daily counts, cumulative counts, and multi-species monitoring data. Project focused on subsistence fishery management and escapement monitoring."
+  },
+  "DATA": [
+    ["1", "July, 14 2005 00:00:00", 0],
+    ["2", "July, 15 2005 00:00:00", 0],
+    ["3", "July, 16 2005 00:00:00", 0],
+    ["4", "July, 17 2005 00:00:00", 1],
+    ["5", "July, 18 2005 00:00:00", 963],
+    ["6", "July, 19 2005 00:00:00", 612],
+    ["7", "July, 20 2005 00:00:00", 118],
+    ["8", "July, 21 2005 00:00:00", 21],
+    ["9", "July, 22 2005 00:00:00", 12],
+    ["10", "July, 23 2005 00:00:00", 23],
+    ["11", "July, 24 2005 00:00:00", 4],
+    ["12", "July, 25 2005 00:00:00", 5],
+    ["13", "July, 26 2005 00:00:00", 113],
+    ["14", "July, 27 2005 00:00:00", 2026],
+    ["15", "July, 28 2005 00:00:00", 694],
+    ["16", "July, 29 2005 00:00:00", 424],
+    ["17", "July, 30 2005 00:00:00", 1113],
+    ["18", "July, 31 2005 00:00:00", 553],
+    ["19", "August, 01 2005 00:00:00", 324],
+    ["20", "August, 02 2005 00:00:00", 387],
+    ["21", "August, 03 2005 00:00:00", 261],
+    ["22", "August, 04 2005 00:00:00", 428],
+    ["23", "August, 05 2005 00:00:00", 1016],
+    ["24", "August, 06 2005 00:00:00", 469],
+    ["25", "August, 07 2005 00:00:00", 282],
+    ["26", "August, 08 2005 00:00:00", 298],
+    ["27", "August, 09 2005 00:00:00", 203],
+    ["28", "August, 10 2005 00:00:00", 219],
+    ["29", "August, 11 2005 00:00:00", 143],
+    ["30", "August, 12 2005 00:00:00", 194],
+    ["31", "August, 13 2005 00:00:00", 176],
+    ["32", "August, 14 2005 00:00:00", 199],
+    ["33", "August, 15 2005 00:00:00", 54],
+    ["34", "August, 16 2005 00:00:00", 20],
+    ["35", "August, 17 2005 00:00:00", 32],
+    ["36", "August, 18 2005 00:00:00", 125],
+    ["37", "August, 19 2005 00:00:00", 572],
+    ["38", "August, 20 2005 00:00:00", 528],
+    ["39", "August, 21 2005 00:00:00", 73],
+    ["40", "August, 22 2005 00:00:00", 108],
+    ["41", "August, 23 2005 00:00:00", 101],
+    ["42", "August, 24 2005 00:00:00", 94],
+    ["43", "August, 25 2005 00:00:00", 286],
+    ["44", "August, 26 2005 00:00:00", 65],
+    ["45", "August, 27 2005 00:00:00", 50],
+    ["46", "August, 28 2005 00:00:00", 49],
+    ["47", "August, 29 2005 00:00:00", 28],
+    ["48", "August, 30 2005 00:00:00", 291],
+    ["49", "August, 31 2005 00:00:00", 95],
+    ["50", "September, 01 2005 00:00:00", 2],
+    ["51", "September, 02 2005 00:00:00", 8],
+    ["52", "September, 03 2005 00:00:00", 2],
+    ["53", "September, 04 2005 00:00:00", 3],
+    ["54", "September, 05 2005 00:00:00", 4],
+    ["55", "September, 06 2005 00:00:00", 3],
+    ["56", "September, 07 2005 00:00:00", 8]
+  ],
+  "statistics": {
+    "total_fish": 13975,
+    "daily_average": 249.6,
+    "peak_daily_count": 2026,
+    "peak_date": "July, 27 2005",
+    "season_length_days": 56,
+    "first_fish_date": "July, 17 2005",
+    "last_fish_date": "September, 07 2005",
+    "days_with_zero_count": 3,
+    "days_with_count": 53,
+    "cumulative_by_month": {
+      "July": 6222,
+      "August": 7725,
+      "September": 28
+    }
+  },
+  "environmental_data": {
+    "water_temperature_range": {
+      "min": 14.5,
+      "max": 19.0,
+      "unit": "celsius"
+    },
+    "water_depth_range": {
+      "min": 241,
+      "max": 732,
+      "unit": "millimeters"
+    },
+    "air_temperature_range": {
+      "min": 12.2,
+      "max": 24.7,
+      "unit": "celsius"
+    }
+  },
+  "subsistence_context": {
+    "project_type": "Subsistence Sockeye Salmon Project",
+    "management_focus": "Subsistence fishery management and escapement monitoring",
+    "stakeholders": ["Sitka Tribe of Alaska", "ADFG Division of Commercial Fisheries"],
+    "research_objectives": "Monitor subsistence sockeye salmon escapement and fishery management"
+  },
+  "other_species_counts": {
+    "coho_salmon": {
+      "total": 2731,
+      "peak_daily": 329,
+      "peak_date": "August, 30 2005"
+    },
+    "pink_salmon": {
+      "total": 53900,
+      "peak_daily": 4815,
+      "peak_date": "August, 25 2005"
+    },
+    "chum_salmon": {
+      "total": 22,
+      "peak_daily": 7,
+      "peak_date": "July, 26 2005"
+    }
+  },
+  "project_details": {
+    "lead_organizations": [
+      "Sitka Tribe of Alaska, Natural Resources",
+      "Alaska Department of Fish and Game, Division of Commercial Fisheries"
+    ],
+    "project_duration": "2005 season",
+    "monitoring_scope": "Daily counts, cumulative counts, multi-species monitoring, environmental conditions",
+    "data_collection": "Comprehensive subsistence fishery monitoring with escapement assessment"
+  }
+}

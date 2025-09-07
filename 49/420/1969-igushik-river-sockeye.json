@@ -1,1 +1,265 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1969, "June, 25 1969 00:00:00", 564, 420, 49, "Igushik River", "Sockeye"], [1969, "June, 26 1969 00:00:00", 3102, 420, 49, "Igushik River", "Sockeye"], [1969, "June, 27 1969 00:00:00", 10020, 420, 49, "Igushik River", "Sockeye"], [1969, "June, 28 1969 00:00:00", 11946, 420, 49, "Igushik River", "Sockeye"], [1969, "June, 29 1969 00:00:00", 7596, 420, 49, "Igushik River", "Sockeye"], [1969, "June, 30 1969 00:00:00", 8172, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 01 1969 00:00:00", 8694, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 02 1969 00:00:00", 8064, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 03 1969 00:00:00", 17292, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 04 1969 00:00:00", 36234, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 05 1969 00:00:00", 44988, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 06 1969 00:00:00", 45552, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 07 1969 00:00:00", 60342, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 08 1969 00:00:00", 65316, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 09 1969 00:00:00", 64842, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 10 1969 00:00:00", 37008, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 11 1969 00:00:00", 21162, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 12 1969 00:00:00", 15030, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 13 1969 00:00:00", 12246, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 14 1969 00:00:00", 9738, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 15 1969 00:00:00", 7668, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 16 1969 00:00:00", 5226, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 17 1969 00:00:00", 4956, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 18 1969 00:00:00", 3678, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 19 1969 00:00:00", 2118, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 20 1969 00:00:00", 738, 420, 49, "Igushik River", "Sockeye"], [1969, "July, 21 1969 00:00:00", 36, 420, 49, "Igushik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1969,
+      "June, 25 1969 00:00:00",
+      564,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "June, 26 1969 00:00:00",
+      3102,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "June, 27 1969 00:00:00",
+      10020,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "June, 28 1969 00:00:00",
+      11946,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "June, 29 1969 00:00:00",
+      7596,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "June, 30 1969 00:00:00",
+      8172,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 01 1969 00:00:00",
+      8694,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 02 1969 00:00:00",
+      8064,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 03 1969 00:00:00",
+      17292,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 04 1969 00:00:00",
+      36234,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 05 1969 00:00:00",
+      44988,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 06 1969 00:00:00",
+      45552,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 07 1969 00:00:00",
+      60342,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 08 1969 00:00:00",
+      65316,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 09 1969 00:00:00",
+      64842,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 10 1969 00:00:00",
+      37008,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 11 1969 00:00:00",
+      21162,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 12 1969 00:00:00",
+      15030,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 13 1969 00:00:00",
+      12246,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 14 1969 00:00:00",
+      9738,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 15 1969 00:00:00",
+      7668,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 16 1969 00:00:00",
+      5226,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 17 1969 00:00:00",
+      4956,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 18 1969 00:00:00",
+      3678,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 19 1969 00:00:00",
+      2118,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 20 1969 00:00:00",
+      738,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 21 1969 00:00:00",
+      36,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 49,
+    "species_id": "420",
+    "year": "1969",
+    "totalRecords": 27,
+    "totalCount": 512328,
+    "source": "ADFG JSON API",
+    "last_updated": "1969-12-31T00:00:00"
+  }
+}

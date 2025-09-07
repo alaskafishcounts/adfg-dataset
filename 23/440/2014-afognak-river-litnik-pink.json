@@ -1,1 +1,364 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2014, "July, 16 2014 00:00:00", 1, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 17 2014 00:00:00", 16, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 18 2014 00:00:00", 4, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 19 2014 00:00:00", 1, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 20 2014 00:00:00", 3, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 21 2014 00:00:00", 0, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 22 2014 00:00:00", 0, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 23 2014 00:00:00", 2, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 24 2014 00:00:00", 1, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 25 2014 00:00:00", 13, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 26 2014 00:00:00", 35, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 27 2014 00:00:00", 9, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 28 2014 00:00:00", 2, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 29 2014 00:00:00", 8, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 30 2014 00:00:00", 23, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "July, 31 2014 00:00:00", 7, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 01 2014 00:00:00", 5, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 02 2014 00:00:00", 5, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 04 2014 00:00:00", 14, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 05 2014 00:00:00", 118, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 06 2014 00:00:00", 263, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 07 2014 00:00:00", 8680, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 08 2014 00:00:00", 2800, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 09 2014 00:00:00", 1259, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 10 2014 00:00:00", 768, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 11 2014 00:00:00", 557, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 12 2014 00:00:00", 1051, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 13 2014 00:00:00", 105, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 14 2014 00:00:00", 187, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 15 2014 00:00:00", 213, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 16 2014 00:00:00", 76, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 17 2014 00:00:00", 46, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 18 2014 00:00:00", 172, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 19 2014 00:00:00", 555, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 20 2014 00:00:00", 561, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 21 2014 00:00:00", 139, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 22 2014 00:00:00", 216, 440, 23, "Afognak River (Litnik)", "Pink"], [2014, "August, 23 2014 00:00:00", 580, 440, 23, "Afognak River (Litnik)", "Pink"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "July, 16 2014 00:00:00",
+      1,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 17 2014 00:00:00",
+      16,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 18 2014 00:00:00",
+      4,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 19 2014 00:00:00",
+      1,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 20 2014 00:00:00",
+      3,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 21 2014 00:00:00",
+      0,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 22 2014 00:00:00",
+      0,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 23 2014 00:00:00",
+      2,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 24 2014 00:00:00",
+      1,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 25 2014 00:00:00",
+      13,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 26 2014 00:00:00",
+      35,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 27 2014 00:00:00",
+      9,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 28 2014 00:00:00",
+      2,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 29 2014 00:00:00",
+      8,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 30 2014 00:00:00",
+      23,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "July, 31 2014 00:00:00",
+      7,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 01 2014 00:00:00",
+      5,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 02 2014 00:00:00",
+      5,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 04 2014 00:00:00",
+      14,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 05 2014 00:00:00",
+      118,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 06 2014 00:00:00",
+      263,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 07 2014 00:00:00",
+      8680,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 08 2014 00:00:00",
+      2800,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 09 2014 00:00:00",
+      1259,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 10 2014 00:00:00",
+      768,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 11 2014 00:00:00",
+      557,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 12 2014 00:00:00",
+      1051,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 13 2014 00:00:00",
+      105,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 14 2014 00:00:00",
+      187,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 15 2014 00:00:00",
+      213,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 16 2014 00:00:00",
+      76,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 17 2014 00:00:00",
+      46,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 18 2014 00:00:00",
+      172,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 19 2014 00:00:00",
+      555,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 20 2014 00:00:00",
+      561,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 21 2014 00:00:00",
+      139,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 22 2014 00:00:00",
+      216,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ],
+    [
+      2014,
+      "August, 23 2014 00:00:00",
+      580,
+      440,
+      23,
+      "Afognak River (Litnik)",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 23,
+    "species_id": "440",
+    "year": "2014",
+    "totalRecords": 38,
+    "totalCount": 18495,
+    "source": "ADFG JSON API",
+    "last_updated": "2014-12-31T00:00:00"
+  }
+}

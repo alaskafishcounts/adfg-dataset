@@ -1,1 +1,904 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1991, "June, 01 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 02 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 03 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 04 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 05 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 06 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 07 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 08 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 09 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 10 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 11 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 12 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 13 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 14 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 15 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 16 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 17 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 18 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 19 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 20 1991 00:00:00", 1, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 20 1991 00:00:00", 1, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 21 1991 00:00:00", 2, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 21 1991 00:00:00", 2, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 22 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 23 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 24 1991 00:00:00", 1, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 24 1991 00:00:00", 1, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 25 1991 00:00:00", 0, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 26 1991 00:00:00", 2, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 26 1991 00:00:00", 2, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 27 1991 00:00:00", 9, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 27 1991 00:00:00", 9, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 28 1991 00:00:00", 17, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 28 1991 00:00:00", 17, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 29 1991 00:00:00", 16, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 29 1991 00:00:00", 16, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 30 1991 00:00:00", 20, 420, 7, "Coghill River", "Sockeye"], [1991, "June, 30 1991 00:00:00", 20, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 01 1991 00:00:00", 24, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 01 1991 00:00:00", 24, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 02 1991 00:00:00", 145, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 02 1991 00:00:00", 145, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 03 1991 00:00:00", 90, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 03 1991 00:00:00", 90, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 04 1991 00:00:00", 22, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 04 1991 00:00:00", 22, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 05 1991 00:00:00", 78, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 05 1991 00:00:00", 78, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 06 1991 00:00:00", 86, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 06 1991 00:00:00", 86, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 07 1991 00:00:00", 167, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 07 1991 00:00:00", 167, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 08 1991 00:00:00", 513, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 08 1991 00:00:00", 513, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 09 1991 00:00:00", 862, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 09 1991 00:00:00", 862, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 10 1991 00:00:00", 874, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 10 1991 00:00:00", 874, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 11 1991 00:00:00", 1152, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 11 1991 00:00:00", 1152, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 12 1991 00:00:00", 908, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 12 1991 00:00:00", 908, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 13 1991 00:00:00", 570, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 13 1991 00:00:00", 570, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 14 1991 00:00:00", 163, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 14 1991 00:00:00", 163, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 15 1991 00:00:00", 621, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 15 1991 00:00:00", 621, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 16 1991 00:00:00", 653, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 16 1991 00:00:00", 653, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 17 1991 00:00:00", 643, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 17 1991 00:00:00", 643, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 18 1991 00:00:00", 231, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 18 1991 00:00:00", 231, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 19 1991 00:00:00", 228, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 19 1991 00:00:00", 228, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 20 1991 00:00:00", 246, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 20 1991 00:00:00", 246, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 21 1991 00:00:00", 559, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 21 1991 00:00:00", 559, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 22 1991 00:00:00", 105, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 22 1991 00:00:00", 105, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 23 1991 00:00:00", 163, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 23 1991 00:00:00", 163, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 24 1991 00:00:00", 131, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 24 1991 00:00:00", 131, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 25 1991 00:00:00", 55, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 25 1991 00:00:00", 55, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 26 1991 00:00:00", 241, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 26 1991 00:00:00", 241, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 27 1991 00:00:00", 103, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 27 1991 00:00:00", 103, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 28 1991 00:00:00", 28, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 28 1991 00:00:00", 28, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 29 1991 00:00:00", 16, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 29 1991 00:00:00", 16, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 30 1991 00:00:00", 7, 420, 7, "Coghill River", "Sockeye"], [1991, "July, 30 1991 00:00:00", 7, 420, 7, "Coghill River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "June, 01 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 02 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 03 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 04 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 05 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 06 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 07 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 08 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 09 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 10 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 11 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 12 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 13 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 14 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 15 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 16 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 17 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 18 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 19 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 20 1991 00:00:00",
+      1,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 20 1991 00:00:00",
+      1,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 21 1991 00:00:00",
+      2,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 21 1991 00:00:00",
+      2,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 22 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 23 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 24 1991 00:00:00",
+      1,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 24 1991 00:00:00",
+      1,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 25 1991 00:00:00",
+      0,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 26 1991 00:00:00",
+      2,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 26 1991 00:00:00",
+      2,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 27 1991 00:00:00",
+      9,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 27 1991 00:00:00",
+      9,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 28 1991 00:00:00",
+      17,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 28 1991 00:00:00",
+      17,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 29 1991 00:00:00",
+      16,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 29 1991 00:00:00",
+      16,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 30 1991 00:00:00",
+      20,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "June, 30 1991 00:00:00",
+      20,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 01 1991 00:00:00",
+      24,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 01 1991 00:00:00",
+      24,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 02 1991 00:00:00",
+      145,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 02 1991 00:00:00",
+      145,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 03 1991 00:00:00",
+      90,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 03 1991 00:00:00",
+      90,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 04 1991 00:00:00",
+      22,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 04 1991 00:00:00",
+      22,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 05 1991 00:00:00",
+      78,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 05 1991 00:00:00",
+      78,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 06 1991 00:00:00",
+      86,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 06 1991 00:00:00",
+      86,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 07 1991 00:00:00",
+      167,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 07 1991 00:00:00",
+      167,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 08 1991 00:00:00",
+      513,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 08 1991 00:00:00",
+      513,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 09 1991 00:00:00",
+      862,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 09 1991 00:00:00",
+      862,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 10 1991 00:00:00",
+      874,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 10 1991 00:00:00",
+      874,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 11 1991 00:00:00",
+      1152,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 11 1991 00:00:00",
+      1152,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 12 1991 00:00:00",
+      908,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 12 1991 00:00:00",
+      908,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 13 1991 00:00:00",
+      570,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 13 1991 00:00:00",
+      570,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 14 1991 00:00:00",
+      163,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 14 1991 00:00:00",
+      163,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 15 1991 00:00:00",
+      621,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 15 1991 00:00:00",
+      621,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 16 1991 00:00:00",
+      653,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 16 1991 00:00:00",
+      653,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 17 1991 00:00:00",
+      643,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 17 1991 00:00:00",
+      643,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 18 1991 00:00:00",
+      231,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 18 1991 00:00:00",
+      231,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 19 1991 00:00:00",
+      228,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 19 1991 00:00:00",
+      228,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 20 1991 00:00:00",
+      246,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 20 1991 00:00:00",
+      246,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 21 1991 00:00:00",
+      559,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 21 1991 00:00:00",
+      559,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 22 1991 00:00:00",
+      105,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 22 1991 00:00:00",
+      105,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 23 1991 00:00:00",
+      163,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 23 1991 00:00:00",
+      163,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 24 1991 00:00:00",
+      131,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 24 1991 00:00:00",
+      131,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 25 1991 00:00:00",
+      55,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 25 1991 00:00:00",
+      55,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 26 1991 00:00:00",
+      241,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 26 1991 00:00:00",
+      241,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 27 1991 00:00:00",
+      103,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 27 1991 00:00:00",
+      103,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 28 1991 00:00:00",
+      28,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 28 1991 00:00:00",
+      28,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 29 1991 00:00:00",
+      16,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 29 1991 00:00:00",
+      16,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 30 1991 00:00:00",
+      7,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 30 1991 00:00:00",
+      7,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 7,
+    "species_id": "420",
+    "year": "1991",
+    "totalRecords": 98,
+    "totalCount": 19504,
+    "source": "ADFG JSON API",
+    "last_updated": "1991-12-31T00:00:00"
+  }
+}

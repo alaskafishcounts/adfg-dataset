@@ -1,1 +1,472 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2020, "July, 07 2020 00:00:00", 1, 440, 16, "Little Susitna", "Pink"], [2020, "July, 09 2020 00:00:00", 1, 440, 16, "Little Susitna", "Pink"], [2020, "July, 11 2020 00:00:00", 0, 440, 16, "Little Susitna", "Pink"], [2020, "July, 12 2020 00:00:00", 0, 440, 16, "Little Susitna", "Pink"], [2020, "July, 16 2020 00:00:00", 2, 440, 16, "Little Susitna", "Pink"], [2020, "July, 17 2020 00:00:00", 6, 440, 16, "Little Susitna", "Pink"], [2020, "July, 18 2020 00:00:00", 6, 440, 16, "Little Susitna", "Pink"], [2020, "July, 19 2020 00:00:00", 4, 440, 16, "Little Susitna", "Pink"], [2020, "July, 20 2020 00:00:00", 26, 440, 16, "Little Susitna", "Pink"], [2020, "July, 21 2020 00:00:00", 51, 440, 16, "Little Susitna", "Pink"], [2020, "July, 22 2020 00:00:00", 44, 440, 16, "Little Susitna", "Pink"], [2020, "July, 23 2020 00:00:00", 17, 440, 16, "Little Susitna", "Pink"], [2020, "July, 24 2020 00:00:00", 48, 440, 16, "Little Susitna", "Pink"], [2020, "July, 25 2020 00:00:00", 14, 440, 16, "Little Susitna", "Pink"], [2020, "July, 26 2020 00:00:00", 1815, 440, 16, "Little Susitna", "Pink"], [2020, "July, 27 2020 00:00:00", 41, 440, 16, "Little Susitna", "Pink"], [2020, "July, 28 2020 00:00:00", 188, 440, 16, "Little Susitna", "Pink"], [2020, "July, 29 2020 00:00:00", 1566, 440, 16, "Little Susitna", "Pink"], [2020, "July, 30 2020 00:00:00", 804, 440, 16, "Little Susitna", "Pink"], [2020, "July, 31 2020 00:00:00", 1540, 440, 16, "Little Susitna", "Pink"], [2020, "August, 01 2020 00:00:00", 3500, 440, 16, "Little Susitna", "Pink"], [2020, "August, 02 2020 00:00:00", 862, 440, 16, "Little Susitna", "Pink"], [2020, "August, 03 2020 00:00:00", 705, 440, 16, "Little Susitna", "Pink"], [2020, "August, 04 2020 00:00:00", 1526, 440, 16, "Little Susitna", "Pink"], [2020, "August, 05 2020 00:00:00", 1680, 440, 16, "Little Susitna", "Pink"], [2020, "August, 06 2020 00:00:00", 1930, 440, 16, "Little Susitna", "Pink"], [2020, "August, 07 2020 00:00:00", 843, 440, 16, "Little Susitna", "Pink"], [2020, "August, 08 2020 00:00:00", 1141, 440, 16, "Little Susitna", "Pink"], [2020, "August, 09 2020 00:00:00", 1070, 440, 16, "Little Susitna", "Pink"], [2020, "August, 10 2020 00:00:00", 510, 440, 16, "Little Susitna", "Pink"], [2020, "August, 11 2020 00:00:00", 411, 440, 16, "Little Susitna", "Pink"], [2020, "August, 12 2020 00:00:00", 726, 440, 16, "Little Susitna", "Pink"], [2020, "August, 13 2020 00:00:00", 752, 440, 16, "Little Susitna", "Pink"], [2020, "August, 14 2020 00:00:00", 398, 440, 16, "Little Susitna", "Pink"], [2020, "August, 15 2020 00:00:00", 351, 440, 16, "Little Susitna", "Pink"], [2020, "August, 16 2020 00:00:00", 302, 440, 16, "Little Susitna", "Pink"], [2020, "August, 17 2020 00:00:00", 217, 440, 16, "Little Susitna", "Pink"], [2020, "August, 18 2020 00:00:00", 218, 440, 16, "Little Susitna", "Pink"], [2020, "August, 19 2020 00:00:00", 76, 440, 16, "Little Susitna", "Pink"], [2020, "August, 20 2020 00:00:00", 24, 440, 16, "Little Susitna", "Pink"], [2020, "August, 21 2020 00:00:00", 31, 440, 16, "Little Susitna", "Pink"], [2020, "August, 22 2020 00:00:00", 42, 440, 16, "Little Susitna", "Pink"], [2020, "August, 23 2020 00:00:00", 48, 440, 16, "Little Susitna", "Pink"], [2020, "August, 24 2020 00:00:00", 45, 440, 16, "Little Susitna", "Pink"], [2020, "August, 25 2020 00:00:00", 12, 440, 16, "Little Susitna", "Pink"], [2020, "August, 26 2020 00:00:00", 6, 440, 16, "Little Susitna", "Pink"], [2020, "August, 27 2020 00:00:00", 4, 440, 16, "Little Susitna", "Pink"], [2020, "August, 28 2020 00:00:00", 6, 440, 16, "Little Susitna", "Pink"], [2020, "August, 29 2020 00:00:00", 7, 440, 16, "Little Susitna", "Pink"], [2020, "August, 30 2020 00:00:00", 1, 440, 16, "Little Susitna", "Pink"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "July, 07 2020 00:00:00",
+      1,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 09 2020 00:00:00",
+      1,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 11 2020 00:00:00",
+      0,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 12 2020 00:00:00",
+      0,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 16 2020 00:00:00",
+      2,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 17 2020 00:00:00",
+      6,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 18 2020 00:00:00",
+      6,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 19 2020 00:00:00",
+      4,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 20 2020 00:00:00",
+      26,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 21 2020 00:00:00",
+      51,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 22 2020 00:00:00",
+      44,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 23 2020 00:00:00",
+      17,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 24 2020 00:00:00",
+      48,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 25 2020 00:00:00",
+      14,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 26 2020 00:00:00",
+      1815,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 27 2020 00:00:00",
+      41,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 28 2020 00:00:00",
+      188,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 29 2020 00:00:00",
+      1566,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 30 2020 00:00:00",
+      804,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "July, 31 2020 00:00:00",
+      1540,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 01 2020 00:00:00",
+      3500,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 02 2020 00:00:00",
+      862,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 03 2020 00:00:00",
+      705,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 04 2020 00:00:00",
+      1526,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 05 2020 00:00:00",
+      1680,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 06 2020 00:00:00",
+      1930,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 07 2020 00:00:00",
+      843,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 08 2020 00:00:00",
+      1141,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 09 2020 00:00:00",
+      1070,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 10 2020 00:00:00",
+      510,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 11 2020 00:00:00",
+      411,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 12 2020 00:00:00",
+      726,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 13 2020 00:00:00",
+      752,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 14 2020 00:00:00",
+      398,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 15 2020 00:00:00",
+      351,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 16 2020 00:00:00",
+      302,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 17 2020 00:00:00",
+      217,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 18 2020 00:00:00",
+      218,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 19 2020 00:00:00",
+      76,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 20 2020 00:00:00",
+      24,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 21 2020 00:00:00",
+      31,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 22 2020 00:00:00",
+      42,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 23 2020 00:00:00",
+      48,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 24 2020 00:00:00",
+      45,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 25 2020 00:00:00",
+      12,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 26 2020 00:00:00",
+      6,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 27 2020 00:00:00",
+      4,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 28 2020 00:00:00",
+      6,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 29 2020 00:00:00",
+      7,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2020,
+      "August, 30 2020 00:00:00",
+      1,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 16,
+    "species_id": "440",
+    "year": "2020",
+    "totalRecords": 50,
+    "totalCount": 23618,
+    "source": "ADFG JSON API",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

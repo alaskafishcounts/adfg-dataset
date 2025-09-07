@@ -1,1 +1,337 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2016, "June, 15 2016 00:00:00", 2, 410, 34, "Sandy River", "Chinook"], [2016, "June, 16 2016 00:00:00", 6, 410, 34, "Sandy River", "Chinook"], [2016, "June, 17 2016 00:00:00", 7, 410, 34, "Sandy River", "Chinook"], [2016, "June, 18 2016 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2016, "June, 19 2016 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2016, "June, 20 2016 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2016, "June, 21 2016 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2016, "June, 22 2016 00:00:00", 2, 410, 34, "Sandy River", "Chinook"], [2016, "June, 23 2016 00:00:00", 1, 410, 34, "Sandy River", "Chinook"], [2016, "June, 24 2016 00:00:00", 2, 410, 34, "Sandy River", "Chinook"], [2016, "June, 25 2016 00:00:00", 3, 410, 34, "Sandy River", "Chinook"], [2016, "June, 26 2016 00:00:00", 2, 410, 34, "Sandy River", "Chinook"], [2016, "June, 27 2016 00:00:00", 10, 410, 34, "Sandy River", "Chinook"], [2016, "June, 28 2016 00:00:00", 25, 410, 34, "Sandy River", "Chinook"], [2016, "June, 29 2016 00:00:00", 20, 410, 34, "Sandy River", "Chinook"], [2016, "June, 30 2016 00:00:00", 39, 410, 34, "Sandy River", "Chinook"], [2016, "July, 01 2016 00:00:00", 38, 410, 34, "Sandy River", "Chinook"], [2016, "July, 02 2016 00:00:00", 33, 410, 34, "Sandy River", "Chinook"], [2016, "July, 03 2016 00:00:00", 78, 410, 34, "Sandy River", "Chinook"], [2016, "July, 04 2016 00:00:00", 30, 410, 34, "Sandy River", "Chinook"], [2016, "July, 05 2016 00:00:00", 9, 410, 34, "Sandy River", "Chinook"], [2016, "July, 06 2016 00:00:00", 28, 410, 34, "Sandy River", "Chinook"], [2016, "July, 07 2016 00:00:00", 7, 410, 34, "Sandy River", "Chinook"], [2016, "July, 08 2016 00:00:00", 89, 410, 34, "Sandy River", "Chinook"], [2016, "July, 09 2016 00:00:00", 25, 410, 34, "Sandy River", "Chinook"], [2016, "July, 10 2016 00:00:00", 36, 410, 34, "Sandy River", "Chinook"], [2016, "July, 11 2016 00:00:00", 9, 410, 34, "Sandy River", "Chinook"], [2016, "July, 12 2016 00:00:00", 13, 410, 34, "Sandy River", "Chinook"], [2016, "July, 13 2016 00:00:00", 230, 410, 34, "Sandy River", "Chinook"], [2016, "July, 14 2016 00:00:00", 256, 410, 34, "Sandy River", "Chinook"], [2016, "July, 15 2016 00:00:00", 188, 410, 34, "Sandy River", "Chinook"], [2016, "July, 16 2016 00:00:00", 39, 410, 34, "Sandy River", "Chinook"], [2016, "July, 17 2016 00:00:00", 49, 410, 34, "Sandy River", "Chinook"], [2016, "July, 18 2016 00:00:00", 106, 410, 34, "Sandy River", "Chinook"], [2016, "July, 19 2016 00:00:00", 96, 410, 34, "Sandy River", "Chinook"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "June, 15 2016 00:00:00",
+      2,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 16 2016 00:00:00",
+      6,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 17 2016 00:00:00",
+      7,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 18 2016 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 19 2016 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 20 2016 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 21 2016 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 22 2016 00:00:00",
+      2,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 23 2016 00:00:00",
+      1,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 24 2016 00:00:00",
+      2,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 25 2016 00:00:00",
+      3,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 26 2016 00:00:00",
+      2,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 27 2016 00:00:00",
+      10,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 28 2016 00:00:00",
+      25,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 29 2016 00:00:00",
+      20,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "June, 30 2016 00:00:00",
+      39,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 01 2016 00:00:00",
+      38,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 02 2016 00:00:00",
+      33,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 03 2016 00:00:00",
+      78,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 04 2016 00:00:00",
+      30,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 05 2016 00:00:00",
+      9,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 06 2016 00:00:00",
+      28,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 07 2016 00:00:00",
+      7,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 08 2016 00:00:00",
+      89,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 09 2016 00:00:00",
+      25,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 10 2016 00:00:00",
+      36,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 11 2016 00:00:00",
+      9,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 12 2016 00:00:00",
+      13,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 13 2016 00:00:00",
+      230,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 14 2016 00:00:00",
+      256,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 15 2016 00:00:00",
+      188,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 16 2016 00:00:00",
+      39,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 17 2016 00:00:00",
+      49,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 18 2016 00:00:00",
+      106,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "July, 19 2016 00:00:00",
+      96,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 34,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 35,
+    "totalCount": 1478,
+    "source": "ADFG JSON API",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

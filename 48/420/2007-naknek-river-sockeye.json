@@ -1,1 +1,292 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2007, "June, 19 2007 00:00:00", 966, 420, 48, "Naknek River", "Sockeye"], [2007, "June, 20 2007 00:00:00", 1002, 420, 48, "Naknek River", "Sockeye"], [2007, "June, 21 2007 00:00:00", 2118, 420, 48, "Naknek River", "Sockeye"], [2007, "June, 22 2007 00:00:00", 7944, 420, 48, "Naknek River", "Sockeye"], [2007, "June, 23 2007 00:00:00", 63162, 420, 48, "Naknek River", "Sockeye"], [2007, "June, 24 2007 00:00:00", 14160, 420, 48, "Naknek River", "Sockeye"], [2007, "June, 25 2007 00:00:00", 39198, 420, 48, "Naknek River", "Sockeye"], [2007, "June, 26 2007 00:00:00", 37566, 420, 48, "Naknek River", "Sockeye"], [2007, "June, 27 2007 00:00:00", 42990, 420, 48, "Naknek River", "Sockeye"], [2007, "June, 28 2007 00:00:00", 196146, 420, 48, "Naknek River", "Sockeye"], [2007, "June, 29 2007 00:00:00", 191382, 420, 48, "Naknek River", "Sockeye"], [2007, "June, 30 2007 00:00:00", 100674, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 01 2007 00:00:00", 77526, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 02 2007 00:00:00", 121482, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 03 2007 00:00:00", 61668, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 04 2007 00:00:00", 215310, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 05 2007 00:00:00", 116586, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 06 2007 00:00:00", 147330, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 07 2007 00:00:00", 110022, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 08 2007 00:00:00", 50790, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 09 2007 00:00:00", 405168, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 10 2007 00:00:00", 216192, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 11 2007 00:00:00", 306480, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 12 2007 00:00:00", 176460, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 13 2007 00:00:00", 88998, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 14 2007 00:00:00", 40176, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 15 2007 00:00:00", 31740, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 16 2007 00:00:00", 28740, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 17 2007 00:00:00", 39978, 420, 48, "Naknek River", "Sockeye"], [2007, "July, 18 2007 00:00:00", 13350, 420, 48, "Naknek River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "June, 19 2007 00:00:00",
+      966,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 20 2007 00:00:00",
+      1002,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 21 2007 00:00:00",
+      2118,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 22 2007 00:00:00",
+      7944,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 23 2007 00:00:00",
+      63162,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 24 2007 00:00:00",
+      14160,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 25 2007 00:00:00",
+      39198,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 26 2007 00:00:00",
+      37566,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 27 2007 00:00:00",
+      42990,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 28 2007 00:00:00",
+      196146,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 29 2007 00:00:00",
+      191382,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 30 2007 00:00:00",
+      100674,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 01 2007 00:00:00",
+      77526,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 02 2007 00:00:00",
+      121482,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 03 2007 00:00:00",
+      61668,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 04 2007 00:00:00",
+      215310,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 05 2007 00:00:00",
+      116586,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 06 2007 00:00:00",
+      147330,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 07 2007 00:00:00",
+      110022,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 08 2007 00:00:00",
+      50790,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 09 2007 00:00:00",
+      405168,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 10 2007 00:00:00",
+      216192,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 11 2007 00:00:00",
+      306480,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 12 2007 00:00:00",
+      176460,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 13 2007 00:00:00",
+      88998,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 14 2007 00:00:00",
+      40176,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 15 2007 00:00:00",
+      31740,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 16 2007 00:00:00",
+      28740,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 17 2007 00:00:00",
+      39978,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 18 2007 00:00:00",
+      13350,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 48,
+    "species_id": "420",
+    "year": "2007",
+    "totalRecords": 30,
+    "totalCount": 2945304,
+    "source": "ADFG JSON API",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

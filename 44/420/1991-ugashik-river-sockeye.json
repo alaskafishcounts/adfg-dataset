@@ -1,1 +1,256 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1991, "July, 03 1991 00:00:00", 186, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 04 1991 00:00:00", 114, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 05 1991 00:00:00", 246, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 06 1991 00:00:00", 204, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 07 1991 00:00:00", 1344, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 08 1991 00:00:00", 206874, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 09 1991 00:00:00", 203916, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 10 1991 00:00:00", 63720, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 11 1991 00:00:00", 20352, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 12 1991 00:00:00", 264186, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 13 1991 00:00:00", 570204, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 14 1991 00:00:00", 224910, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 15 1991 00:00:00", 484884, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 16 1991 00:00:00", 139578, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 17 1991 00:00:00", 31296, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 18 1991 00:00:00", 22488, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 19 1991 00:00:00", 20754, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 20 1991 00:00:00", 33942, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 21 1991 00:00:00", 24816, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 22 1991 00:00:00", 46530, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 23 1991 00:00:00", 51000, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 24 1991 00:00:00", 16236, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 25 1991 00:00:00", 9996, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 26 1991 00:00:00", 7446, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 27 1991 00:00:00", 5910, 420, 44, "Ugashik River", "Sockeye"], [1991, "July, 28 1991 00:00:00", 6174, 420, 44, "Ugashik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "July, 03 1991 00:00:00",
+      186,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 04 1991 00:00:00",
+      114,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 05 1991 00:00:00",
+      246,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 06 1991 00:00:00",
+      204,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 07 1991 00:00:00",
+      1344,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 08 1991 00:00:00",
+      206874,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 09 1991 00:00:00",
+      203916,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 10 1991 00:00:00",
+      63720,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 11 1991 00:00:00",
+      20352,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 12 1991 00:00:00",
+      264186,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 13 1991 00:00:00",
+      570204,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 14 1991 00:00:00",
+      224910,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 15 1991 00:00:00",
+      484884,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 16 1991 00:00:00",
+      139578,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 17 1991 00:00:00",
+      31296,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 18 1991 00:00:00",
+      22488,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 19 1991 00:00:00",
+      20754,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 20 1991 00:00:00",
+      33942,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 21 1991 00:00:00",
+      24816,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 22 1991 00:00:00",
+      46530,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 23 1991 00:00:00",
+      51000,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 24 1991 00:00:00",
+      16236,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 25 1991 00:00:00",
+      9996,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 26 1991 00:00:00",
+      7446,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 27 1991 00:00:00",
+      5910,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1991,
+      "July, 28 1991 00:00:00",
+      6174,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 44,
+    "species_id": "420",
+    "year": "1991",
+    "totalRecords": 26,
+    "totalCount": 2457306,
+    "source": "ADFG JSON API",
+    "last_updated": "1991-12-31T00:00:00"
+  }
+}

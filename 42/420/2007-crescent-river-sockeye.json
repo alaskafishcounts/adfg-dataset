@@ -1,1 +1,427 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2007, "June, 24 2007 00:00:00", 387, 420, 42, "Crescent River", "Sockeye"], [2007, "June, 25 2007 00:00:00", 429, 420, 42, "Crescent River", "Sockeye"], [2007, "June, 26 2007 00:00:00", 108, 420, 42, "Crescent River", "Sockeye"], [2007, "June, 27 2007 00:00:00", 704, 420, 42, "Crescent River", "Sockeye"], [2007, "June, 28 2007 00:00:00", 4581, 420, 42, "Crescent River", "Sockeye"], [2007, "June, 29 2007 00:00:00", 2019, 420, 42, "Crescent River", "Sockeye"], [2007, "June, 30 2007 00:00:00", 3267, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 01 2007 00:00:00", 1817, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 02 2007 00:00:00", 3350, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 03 2007 00:00:00", 1778, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 04 2007 00:00:00", 1783, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 05 2007 00:00:00", 1317, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 06 2007 00:00:00", 1697, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 07 2007 00:00:00", 1364, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 08 2007 00:00:00", 1102, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 09 2007 00:00:00", 1384, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 10 2007 00:00:00", 1418, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 11 2007 00:00:00", 2704, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 12 2007 00:00:00", 1991, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 13 2007 00:00:00", 1468, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 14 2007 00:00:00", 1331, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 15 2007 00:00:00", 1399, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 16 2007 00:00:00", 1195, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 17 2007 00:00:00", 2544, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 18 2007 00:00:00", 4956, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 19 2007 00:00:00", 2470, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 20 2007 00:00:00", 2975, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 21 2007 00:00:00", 3731, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 22 2007 00:00:00", 1893, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 23 2007 00:00:00", 2019, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 24 2007 00:00:00", 1866, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 25 2007 00:00:00", 3783, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 26 2007 00:00:00", 3042, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 27 2007 00:00:00", 1600, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 28 2007 00:00:00", 707, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 29 2007 00:00:00", 674, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 30 2007 00:00:00", 1134, 420, 42, "Crescent River", "Sockeye"], [2007, "July, 31 2007 00:00:00", 1457, 420, 42, "Crescent River", "Sockeye"], [2007, "August, 01 2007 00:00:00", 935, 420, 42, "Crescent River", "Sockeye"], [2007, "August, 02 2007 00:00:00", 838, 420, 42, "Crescent River", "Sockeye"], [2007, "August, 03 2007 00:00:00", 777, 420, 42, "Crescent River", "Sockeye"], [2007, "August, 04 2007 00:00:00", 1161, 420, 42, "Crescent River", "Sockeye"], [2007, "August, 05 2007 00:00:00", 770, 420, 42, "Crescent River", "Sockeye"], [2007, "August, 06 2007 00:00:00", 739, 420, 42, "Crescent River", "Sockeye"], [2007, "August, 07 2007 00:00:00", 742, 420, 42, "Crescent River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "June, 24 2007 00:00:00",
+      387,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 25 2007 00:00:00",
+      429,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 26 2007 00:00:00",
+      108,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 27 2007 00:00:00",
+      704,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 28 2007 00:00:00",
+      4581,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 29 2007 00:00:00",
+      2019,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "June, 30 2007 00:00:00",
+      3267,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 01 2007 00:00:00",
+      1817,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 02 2007 00:00:00",
+      3350,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 03 2007 00:00:00",
+      1778,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 04 2007 00:00:00",
+      1783,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 05 2007 00:00:00",
+      1317,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 06 2007 00:00:00",
+      1697,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 07 2007 00:00:00",
+      1364,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 08 2007 00:00:00",
+      1102,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 09 2007 00:00:00",
+      1384,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 10 2007 00:00:00",
+      1418,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 11 2007 00:00:00",
+      2704,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 12 2007 00:00:00",
+      1991,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 13 2007 00:00:00",
+      1468,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 14 2007 00:00:00",
+      1331,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 15 2007 00:00:00",
+      1399,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 16 2007 00:00:00",
+      1195,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 17 2007 00:00:00",
+      2544,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 18 2007 00:00:00",
+      4956,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 19 2007 00:00:00",
+      2470,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 20 2007 00:00:00",
+      2975,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 21 2007 00:00:00",
+      3731,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 22 2007 00:00:00",
+      1893,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 23 2007 00:00:00",
+      2019,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 24 2007 00:00:00",
+      1866,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 25 2007 00:00:00",
+      3783,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 26 2007 00:00:00",
+      3042,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 27 2007 00:00:00",
+      1600,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 28 2007 00:00:00",
+      707,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 29 2007 00:00:00",
+      674,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 30 2007 00:00:00",
+      1134,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "July, 31 2007 00:00:00",
+      1457,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 01 2007 00:00:00",
+      935,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 02 2007 00:00:00",
+      838,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 03 2007 00:00:00",
+      777,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 04 2007 00:00:00",
+      1161,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 05 2007 00:00:00",
+      770,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 06 2007 00:00:00",
+      739,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "August, 07 2007 00:00:00",
+      742,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 42,
+    "species_id": "420",
+    "year": "2007",
+    "totalRecords": 45,
+    "totalCount": 79406,
+    "source": "ADFG JSON API",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

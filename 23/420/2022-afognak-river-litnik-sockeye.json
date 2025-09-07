@@ -1,1 +1,859 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2022, "May, 12 2022 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 13 2022 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 14 2022 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 15 2022 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 16 2022 00:00:00", 2, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 17 2022 00:00:00", 12, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 18 2022 00:00:00", 4, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 19 2022 00:00:00", 1, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 20 2022 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 21 2022 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 22 2022 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 23 2022 00:00:00", 2, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 24 2022 00:00:00", 4, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 25 2022 00:00:00", 2, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 26 2022 00:00:00", 13, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 27 2022 00:00:00", 6, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 28 2022 00:00:00", 5, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 29 2022 00:00:00", 23, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 30 2022 00:00:00", 6, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "May, 31 2022 00:00:00", 96, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 01 2022 00:00:00", 214, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 02 2022 00:00:00", 61, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 03 2022 00:00:00", 138, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 04 2022 00:00:00", 866, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 05 2022 00:00:00", 845, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 06 2022 00:00:00", 517, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 07 2022 00:00:00", 259, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 08 2022 00:00:00", 269, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 09 2022 00:00:00", 80, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 10 2022 00:00:00", 804, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 11 2022 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 12 2022 00:00:00", 293, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 13 2022 00:00:00", 50, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 14 2022 00:00:00", 2555, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 15 2022 00:00:00", 874, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 16 2022 00:00:00", 33, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 17 2022 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 18 2022 00:00:00", 1, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 19 2022 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 20 2022 00:00:00", 32, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 21 2022 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 22 2022 00:00:00", 260, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 23 2022 00:00:00", 134, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 24 2022 00:00:00", 2760, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 25 2022 00:00:00", 81, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 26 2022 00:00:00", 9, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 27 2022 00:00:00", 0, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 28 2022 00:00:00", 16, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 29 2022 00:00:00", 20, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "June, 30 2022 00:00:00", 11, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 01 2022 00:00:00", 1, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 02 2022 00:00:00", 8032, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 03 2022 00:00:00", 698, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 04 2022 00:00:00", 149, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 05 2022 00:00:00", 45, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 06 2022 00:00:00", 30, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 07 2022 00:00:00", 674, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 08 2022 00:00:00", 1283, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 09 2022 00:00:00", 153, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 10 2022 00:00:00", 247, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 11 2022 00:00:00", 395, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 12 2022 00:00:00", 392, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 13 2022 00:00:00", 566, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 14 2022 00:00:00", 340, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 15 2022 00:00:00", 181, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 16 2022 00:00:00", 101, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 17 2022 00:00:00", 335, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 18 2022 00:00:00", 785, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 19 2022 00:00:00", 303, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 20 2022 00:00:00", 33, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 21 2022 00:00:00", 23, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 22 2022 00:00:00", 23, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 23 2022 00:00:00", 72, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 24 2022 00:00:00", 840, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 25 2022 00:00:00", 275, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 26 2022 00:00:00", 110, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 27 2022 00:00:00", 90, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 28 2022 00:00:00", 16, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 29 2022 00:00:00", 61, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 30 2022 00:00:00", 445, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "July, 31 2022 00:00:00", 117, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "August, 01 2022 00:00:00", 97, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "August, 02 2022 00:00:00", 19, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "August, 03 2022 00:00:00", 30, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "August, 04 2022 00:00:00", 121, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "August, 05 2022 00:00:00", 24, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "August, 06 2022 00:00:00", 75, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "August, 07 2022 00:00:00", 124, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "August, 08 2022 00:00:00", 143, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "August, 09 2022 00:00:00", 91, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "August, 10 2022 00:00:00", 548, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "August, 11 2022 00:00:00", 60, 420, 23, "Afognak River (Litnik)", "Sockeye"], [2022, "August, 12 2022 00:00:00", 4, 420, 23, "Afognak River (Litnik)", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "May, 12 2022 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 13 2022 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 14 2022 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 15 2022 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 16 2022 00:00:00",
+      2,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 17 2022 00:00:00",
+      12,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 18 2022 00:00:00",
+      4,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 19 2022 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 20 2022 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 21 2022 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 22 2022 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 23 2022 00:00:00",
+      2,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 24 2022 00:00:00",
+      4,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 25 2022 00:00:00",
+      2,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 26 2022 00:00:00",
+      13,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 27 2022 00:00:00",
+      6,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 28 2022 00:00:00",
+      5,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 29 2022 00:00:00",
+      23,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 30 2022 00:00:00",
+      6,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "May, 31 2022 00:00:00",
+      96,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 01 2022 00:00:00",
+      214,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 02 2022 00:00:00",
+      61,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 03 2022 00:00:00",
+      138,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 04 2022 00:00:00",
+      866,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 05 2022 00:00:00",
+      845,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 06 2022 00:00:00",
+      517,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 07 2022 00:00:00",
+      259,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 08 2022 00:00:00",
+      269,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 09 2022 00:00:00",
+      80,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 10 2022 00:00:00",
+      804,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 11 2022 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 12 2022 00:00:00",
+      293,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 13 2022 00:00:00",
+      50,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 14 2022 00:00:00",
+      2555,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 15 2022 00:00:00",
+      874,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 16 2022 00:00:00",
+      33,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 17 2022 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 18 2022 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 19 2022 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 20 2022 00:00:00",
+      32,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 21 2022 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 22 2022 00:00:00",
+      260,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 23 2022 00:00:00",
+      134,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 24 2022 00:00:00",
+      2760,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 25 2022 00:00:00",
+      81,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 26 2022 00:00:00",
+      9,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 27 2022 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 28 2022 00:00:00",
+      16,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 29 2022 00:00:00",
+      20,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 30 2022 00:00:00",
+      11,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 01 2022 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 02 2022 00:00:00",
+      8032,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 03 2022 00:00:00",
+      698,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 04 2022 00:00:00",
+      149,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 05 2022 00:00:00",
+      45,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 06 2022 00:00:00",
+      30,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 07 2022 00:00:00",
+      674,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 08 2022 00:00:00",
+      1283,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 09 2022 00:00:00",
+      153,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      247,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      395,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      392,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      566,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      340,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      181,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      101,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      335,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      785,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      303,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      33,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      23,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      23,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 23 2022 00:00:00",
+      72,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 24 2022 00:00:00",
+      840,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 25 2022 00:00:00",
+      275,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 26 2022 00:00:00",
+      110,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 27 2022 00:00:00",
+      90,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 28 2022 00:00:00",
+      16,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 29 2022 00:00:00",
+      61,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 30 2022 00:00:00",
+      445,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 31 2022 00:00:00",
+      117,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 01 2022 00:00:00",
+      97,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 02 2022 00:00:00",
+      19,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 03 2022 00:00:00",
+      30,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 04 2022 00:00:00",
+      121,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 05 2022 00:00:00",
+      24,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 06 2022 00:00:00",
+      75,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 07 2022 00:00:00",
+      124,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 08 2022 00:00:00",
+      143,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 09 2022 00:00:00",
+      91,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 10 2022 00:00:00",
+      548,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 11 2022 00:00:00",
+      60,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "August, 12 2022 00:00:00",
+      4,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 23,
+    "species_id": "420",
+    "year": "2022",
+    "totalRecords": 93,
+    "totalCount": 29509,
+    "source": "ADFG JSON API",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,292 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1967, "July, 05 1967 00:00:00", 888, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 06 1967 00:00:00", 2580, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 07 1967 00:00:00", 2862, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 08 1967 00:00:00", 1476, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 09 1967 00:00:00", 864, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 10 1967 00:00:00", 1008, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 11 1967 00:00:00", 684, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 12 1967 00:00:00", 1470, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 13 1967 00:00:00", 2280, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 14 1967 00:00:00", 3942, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 15 1967 00:00:00", 4542, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 16 1967 00:00:00", 2262, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 17 1967 00:00:00", 2142, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 18 1967 00:00:00", 2424, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 19 1967 00:00:00", 2958, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 20 1967 00:00:00", 3048, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 21 1967 00:00:00", 2502, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 22 1967 00:00:00", 5172, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 23 1967 00:00:00", 4332, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 24 1967 00:00:00", 4488, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 25 1967 00:00:00", 5034, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 26 1967 00:00:00", 4512, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 27 1967 00:00:00", 3594, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 28 1967 00:00:00", 2136, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 29 1967 00:00:00", 1242, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 30 1967 00:00:00", 450, 420, 53, "Togiak River", "Sockeye"], [1967, "July, 31 1967 00:00:00", 180, 420, 53, "Togiak River", "Sockeye"], [1967, "August, 01 1967 00:00:00", 108, 420, 53, "Togiak River", "Sockeye"], [1967, "August, 02 1967 00:00:00", 54, 420, 53, "Togiak River", "Sockeye"], [1967, "August, 03 1967 00:00:00", 96, 420, 53, "Togiak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1967,
+      "July, 05 1967 00:00:00",
+      888,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 06 1967 00:00:00",
+      2580,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 07 1967 00:00:00",
+      2862,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 08 1967 00:00:00",
+      1476,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 09 1967 00:00:00",
+      864,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 10 1967 00:00:00",
+      1008,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 11 1967 00:00:00",
+      684,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 12 1967 00:00:00",
+      1470,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 13 1967 00:00:00",
+      2280,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 14 1967 00:00:00",
+      3942,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 15 1967 00:00:00",
+      4542,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 16 1967 00:00:00",
+      2262,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 17 1967 00:00:00",
+      2142,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 18 1967 00:00:00",
+      2424,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 19 1967 00:00:00",
+      2958,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 20 1967 00:00:00",
+      3048,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 21 1967 00:00:00",
+      2502,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 22 1967 00:00:00",
+      5172,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 23 1967 00:00:00",
+      4332,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 24 1967 00:00:00",
+      4488,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 25 1967 00:00:00",
+      5034,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 26 1967 00:00:00",
+      4512,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 27 1967 00:00:00",
+      3594,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 28 1967 00:00:00",
+      2136,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 29 1967 00:00:00",
+      1242,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 30 1967 00:00:00",
+      450,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "July, 31 1967 00:00:00",
+      180,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "August, 01 1967 00:00:00",
+      108,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "August, 02 1967 00:00:00",
+      54,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1967,
+      "August, 03 1967 00:00:00",
+      96,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 53,
+    "species_id": "420",
+    "year": "1967",
+    "totalRecords": 30,
+    "totalCount": 69330,
+    "source": "ADFG JSON API",
+    "last_updated": "1967-12-31T00:00:00"
+  }
+}

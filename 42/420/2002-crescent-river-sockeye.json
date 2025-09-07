@@ -1,1 +1,319 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2002, "June, 27 2002 00:00:00", 990, 420, 42, "Crescent River", "Sockeye"], [2002, "June, 28 2002 00:00:00", 3532, 420, 42, "Crescent River", "Sockeye"], [2002, "June, 29 2002 00:00:00", 2510, 420, 42, "Crescent River", "Sockeye"], [2002, "June, 30 2002 00:00:00", 2310, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 01 2002 00:00:00", 2345, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 02 2002 00:00:00", 2458, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 03 2002 00:00:00", 2904, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 04 2002 00:00:00", 2452, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 05 2002 00:00:00", 2562, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 06 2002 00:00:00", 2931, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 07 2002 00:00:00", 2632, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 08 2002 00:00:00", 1574, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 09 2002 00:00:00", 971, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 10 2002 00:00:00", 532, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 11 2002 00:00:00", 520, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 12 2002 00:00:00", 1504, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 13 2002 00:00:00", 2596, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 14 2002 00:00:00", 3251, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 15 2002 00:00:00", 888, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 16 2002 00:00:00", 1225, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 17 2002 00:00:00", 1599, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 18 2002 00:00:00", 559, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 19 2002 00:00:00", 1586, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 20 2002 00:00:00", 1562, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 21 2002 00:00:00", 3249, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 22 2002 00:00:00", 1574, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 23 2002 00:00:00", 1250, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 24 2002 00:00:00", 427, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 25 2002 00:00:00", 3320, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 26 2002 00:00:00", 2534, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 27 2002 00:00:00", 2268, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 28 2002 00:00:00", 1410, 420, 42, "Crescent River", "Sockeye"], [2002, "July, 29 2002 00:00:00", 808, 420, 42, "Crescent River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "June, 27 2002 00:00:00",
+      990,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 28 2002 00:00:00",
+      3532,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 29 2002 00:00:00",
+      2510,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "June, 30 2002 00:00:00",
+      2310,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 01 2002 00:00:00",
+      2345,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 02 2002 00:00:00",
+      2458,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 03 2002 00:00:00",
+      2904,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 04 2002 00:00:00",
+      2452,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 05 2002 00:00:00",
+      2562,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 06 2002 00:00:00",
+      2931,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 07 2002 00:00:00",
+      2632,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 08 2002 00:00:00",
+      1574,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 09 2002 00:00:00",
+      971,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 10 2002 00:00:00",
+      532,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 11 2002 00:00:00",
+      520,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 12 2002 00:00:00",
+      1504,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 13 2002 00:00:00",
+      2596,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 14 2002 00:00:00",
+      3251,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 15 2002 00:00:00",
+      888,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 16 2002 00:00:00",
+      1225,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 17 2002 00:00:00",
+      1599,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 18 2002 00:00:00",
+      559,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 19 2002 00:00:00",
+      1586,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 20 2002 00:00:00",
+      1562,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 21 2002 00:00:00",
+      3249,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 22 2002 00:00:00",
+      1574,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 23 2002 00:00:00",
+      1250,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 24 2002 00:00:00",
+      427,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 25 2002 00:00:00",
+      3320,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 26 2002 00:00:00",
+      2534,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 27 2002 00:00:00",
+      2268,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 28 2002 00:00:00",
+      1410,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "July, 29 2002 00:00:00",
+      808,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 42,
+    "species_id": "420",
+    "year": "2002",
+    "totalRecords": 33,
+    "totalCount": 62833,
+    "source": "ADFG JSON API",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

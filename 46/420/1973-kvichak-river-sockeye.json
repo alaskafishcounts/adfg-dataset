@@ -1,1 +1,292 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1973, "June, 24 1973 00:00:00", 144, 420, 46, "Kvichak River", "Sockeye"], [1973, "June, 25 1973 00:00:00", 108, 420, 46, "Kvichak River", "Sockeye"], [1973, "June, 26 1973 00:00:00", 510, 420, 46, "Kvichak River", "Sockeye"], [1973, "June, 27 1973 00:00:00", 456, 420, 46, "Kvichak River", "Sockeye"], [1973, "June, 28 1973 00:00:00", 582, 420, 46, "Kvichak River", "Sockeye"], [1973, "June, 29 1973 00:00:00", 1014, 420, 46, "Kvichak River", "Sockeye"], [1973, "June, 30 1973 00:00:00", 804, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 01 1973 00:00:00", 594, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 02 1973 00:00:00", 2616, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 03 1973 00:00:00", 3918, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 04 1973 00:00:00", 4794, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 05 1973 00:00:00", 2094, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 06 1973 00:00:00", 2874, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 07 1973 00:00:00", 6258, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 08 1973 00:00:00", 21666, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 09 1973 00:00:00", 63402, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 10 1973 00:00:00", 57552, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 11 1973 00:00:00", 25962, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 12 1973 00:00:00", 6252, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 13 1973 00:00:00", 3198, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 14 1973 00:00:00", 2184, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 15 1973 00:00:00", 1044, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 16 1973 00:00:00", 1410, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 17 1973 00:00:00", 2562, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 18 1973 00:00:00", 768, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 19 1973 00:00:00", 10116, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 20 1973 00:00:00", 2976, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 21 1973 00:00:00", 552, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 22 1973 00:00:00", 126, 420, 46, "Kvichak River", "Sockeye"], [1973, "July, 23 1973 00:00:00", 18, 420, 46, "Kvichak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1973,
+      "June, 24 1973 00:00:00",
+      144,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 25 1973 00:00:00",
+      108,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 26 1973 00:00:00",
+      510,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 27 1973 00:00:00",
+      456,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 28 1973 00:00:00",
+      582,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 29 1973 00:00:00",
+      1014,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "June, 30 1973 00:00:00",
+      804,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 01 1973 00:00:00",
+      594,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 02 1973 00:00:00",
+      2616,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 03 1973 00:00:00",
+      3918,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 04 1973 00:00:00",
+      4794,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 05 1973 00:00:00",
+      2094,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 06 1973 00:00:00",
+      2874,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 07 1973 00:00:00",
+      6258,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 08 1973 00:00:00",
+      21666,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 09 1973 00:00:00",
+      63402,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 10 1973 00:00:00",
+      57552,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 11 1973 00:00:00",
+      25962,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 12 1973 00:00:00",
+      6252,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 13 1973 00:00:00",
+      3198,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 14 1973 00:00:00",
+      2184,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 15 1973 00:00:00",
+      1044,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 16 1973 00:00:00",
+      1410,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 17 1973 00:00:00",
+      2562,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 18 1973 00:00:00",
+      768,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 19 1973 00:00:00",
+      10116,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 20 1973 00:00:00",
+      2976,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 21 1973 00:00:00",
+      552,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 22 1973 00:00:00",
+      126,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1973,
+      "July, 23 1973 00:00:00",
+      18,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 46,
+    "species_id": "420",
+    "year": "1973",
+    "totalRecords": 30,
+    "totalCount": 226554,
+    "source": "ADFG JSON API",
+    "last_updated": "1973-12-31T00:00:00"
+  }
+}

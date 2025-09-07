@@ -1,1 +1,310 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1993, "June, 21 1993 00:00:00", 22224, 420, 48, "Naknek River", "Sockeye"], [1993, "June, 22 1993 00:00:00", 4728, 420, 48, "Naknek River", "Sockeye"], [1993, "June, 23 1993 00:00:00", 3396, 420, 48, "Naknek River", "Sockeye"], [1993, "June, 24 1993 00:00:00", 15972, 420, 48, "Naknek River", "Sockeye"], [1993, "June, 25 1993 00:00:00", 93438, 420, 48, "Naknek River", "Sockeye"], [1993, "June, 26 1993 00:00:00", 86598, 420, 48, "Naknek River", "Sockeye"], [1993, "June, 27 1993 00:00:00", 65682, 420, 48, "Naknek River", "Sockeye"], [1993, "June, 28 1993 00:00:00", 46548, 420, 48, "Naknek River", "Sockeye"], [1993, "June, 29 1993 00:00:00", 11478, 420, 48, "Naknek River", "Sockeye"], [1993, "June, 30 1993 00:00:00", 25104, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 01 1993 00:00:00", 10518, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 02 1993 00:00:00", 14274, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 03 1993 00:00:00", 131280, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 04 1993 00:00:00", 433860, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 05 1993 00:00:00", 150006, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 06 1993 00:00:00", 27960, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 07 1993 00:00:00", 64488, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 08 1993 00:00:00", 82314, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 09 1993 00:00:00", 39594, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 10 1993 00:00:00", 50436, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 11 1993 00:00:00", 49842, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 12 1993 00:00:00", 9000, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 13 1993 00:00:00", 18558, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 14 1993 00:00:00", 6132, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 15 1993 00:00:00", 6918, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 16 1993 00:00:00", 23454, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 17 1993 00:00:00", 7212, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 18 1993 00:00:00", 21294, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 19 1993 00:00:00", 3336, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 20 1993 00:00:00", 5232, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 21 1993 00:00:00", 3174, 420, 48, "Naknek River", "Sockeye"], [1993, "July, 22 1993 00:00:00", 1608, 420, 48, "Naknek River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "June, 21 1993 00:00:00",
+      22224,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 22 1993 00:00:00",
+      4728,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 23 1993 00:00:00",
+      3396,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 24 1993 00:00:00",
+      15972,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 25 1993 00:00:00",
+      93438,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 26 1993 00:00:00",
+      86598,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 27 1993 00:00:00",
+      65682,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 28 1993 00:00:00",
+      46548,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 29 1993 00:00:00",
+      11478,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "June, 30 1993 00:00:00",
+      25104,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 01 1993 00:00:00",
+      10518,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 02 1993 00:00:00",
+      14274,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 03 1993 00:00:00",
+      131280,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 04 1993 00:00:00",
+      433860,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 05 1993 00:00:00",
+      150006,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 06 1993 00:00:00",
+      27960,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 07 1993 00:00:00",
+      64488,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 08 1993 00:00:00",
+      82314,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 09 1993 00:00:00",
+      39594,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 10 1993 00:00:00",
+      50436,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 11 1993 00:00:00",
+      49842,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 12 1993 00:00:00",
+      9000,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 13 1993 00:00:00",
+      18558,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 14 1993 00:00:00",
+      6132,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 15 1993 00:00:00",
+      6918,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 16 1993 00:00:00",
+      23454,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 17 1993 00:00:00",
+      7212,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 18 1993 00:00:00",
+      21294,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 19 1993 00:00:00",
+      3336,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 20 1993 00:00:00",
+      5232,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 21 1993 00:00:00",
+      3174,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "July, 22 1993 00:00:00",
+      1608,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 48,
+    "species_id": "420",
+    "year": "1993",
+    "totalRecords": 32,
+    "totalCount": 1535658,
+    "source": "ADFG JSON API",
+    "last_updated": "1993-12-31T00:00:00"
+  }
+}

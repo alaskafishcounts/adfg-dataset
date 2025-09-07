@@ -1,1 +1,328 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1965, "June, 24 1965 00:00:00", 4, 420, 49, "Igushik River", "Sockeye"], [1965, "June, 26 1965 00:00:00", 6, 420, 49, "Igushik River", "Sockeye"], [1965, "June, 27 1965 00:00:00", 36, 420, 49, "Igushik River", "Sockeye"], [1965, "June, 28 1965 00:00:00", 12, 420, 49, "Igushik River", "Sockeye"], [1965, "June, 29 1965 00:00:00", 1272, 420, 49, "Igushik River", "Sockeye"], [1965, "June, 30 1965 00:00:00", 3786, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 01 1965 00:00:00", 3792, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 02 1965 00:00:00", 7182, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 03 1965 00:00:00", 4962, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 04 1965 00:00:00", 2760, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 05 1965 00:00:00", 2940, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 06 1965 00:00:00", 1440, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 07 1965 00:00:00", 1002, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 08 1965 00:00:00", 8474, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 09 1965 00:00:00", 20946, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 10 1965 00:00:00", 27606, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 11 1965 00:00:00", 29712, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 12 1965 00:00:00", 28140, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 13 1965 00:00:00", 14106, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 14 1965 00:00:00", 7026, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 15 1965 00:00:00", 2352, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 16 1965 00:00:00", 1542, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 17 1965 00:00:00", 1668, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 18 1965 00:00:00", 1644, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 19 1965 00:00:00", 2340, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 20 1965 00:00:00", 1722, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 21 1965 00:00:00", 1656, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 22 1965 00:00:00", 780, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 23 1965 00:00:00", 258, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 24 1965 00:00:00", 648, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 25 1965 00:00:00", 408, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 26 1965 00:00:00", 414, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 27 1965 00:00:00", 186, 420, 49, "Igushik River", "Sockeye"], [1965, "July, 28 1965 00:00:00", 18, 420, 49, "Igushik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1965,
+      "June, 24 1965 00:00:00",
+      4,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "June, 26 1965 00:00:00",
+      6,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "June, 27 1965 00:00:00",
+      36,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "June, 28 1965 00:00:00",
+      12,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "June, 29 1965 00:00:00",
+      1272,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "June, 30 1965 00:00:00",
+      3786,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 01 1965 00:00:00",
+      3792,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 02 1965 00:00:00",
+      7182,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 03 1965 00:00:00",
+      4962,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 04 1965 00:00:00",
+      2760,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 05 1965 00:00:00",
+      2940,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 06 1965 00:00:00",
+      1440,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 07 1965 00:00:00",
+      1002,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 08 1965 00:00:00",
+      8474,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 09 1965 00:00:00",
+      20946,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 10 1965 00:00:00",
+      27606,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 11 1965 00:00:00",
+      29712,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 12 1965 00:00:00",
+      28140,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 13 1965 00:00:00",
+      14106,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 14 1965 00:00:00",
+      7026,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 15 1965 00:00:00",
+      2352,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 16 1965 00:00:00",
+      1542,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 17 1965 00:00:00",
+      1668,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 18 1965 00:00:00",
+      1644,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 19 1965 00:00:00",
+      2340,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 20 1965 00:00:00",
+      1722,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 21 1965 00:00:00",
+      1656,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 22 1965 00:00:00",
+      780,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 23 1965 00:00:00",
+      258,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 24 1965 00:00:00",
+      648,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 25 1965 00:00:00",
+      408,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 26 1965 00:00:00",
+      414,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 27 1965 00:00:00",
+      186,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1965,
+      "July, 28 1965 00:00:00",
+      18,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 49,
+    "species_id": "420",
+    "year": "1965",
+    "totalRecords": 34,
+    "totalCount": 180840,
+    "source": "ADFG JSON API",
+    "last_updated": "1965-12-31T00:00:00"
+  }
+}

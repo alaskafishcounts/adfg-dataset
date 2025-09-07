@@ -1,1 +1,418 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1998, "July, 01 1998 00:00:00", 2431, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 02 1998 00:00:00", 4634, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 03 1998 00:00:00", 3835, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 04 1998 00:00:00", 3646, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 05 1998 00:00:00", 4501, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 06 1998 00:00:00", 8083, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 07 1998 00:00:00", 8575, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 08 1998 00:00:00", 8516, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 09 1998 00:00:00", 12015, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 10 1998 00:00:00", 14040, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 11 1998 00:00:00", 6094, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 12 1998 00:00:00", 3837, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 13 1998 00:00:00", 3947, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 14 1998 00:00:00", 4211, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 15 1998 00:00:00", 6260, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 16 1998 00:00:00", 14737, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 17 1998 00:00:00", 52284, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 18 1998 00:00:00", 37475, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 19 1998 00:00:00", 28422, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 20 1998 00:00:00", 24777, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 21 1998 00:00:00", 16194, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 22 1998 00:00:00", 28096, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 23 1998 00:00:00", 67601, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 24 1998 00:00:00", 66374, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 25 1998 00:00:00", 45963, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 26 1998 00:00:00", 29122, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 27 1998 00:00:00", 33169, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 28 1998 00:00:00", 56848, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 29 1998 00:00:00", 61745, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 30 1998 00:00:00", 44950, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "July, 31 1998 00:00:00", 54421, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 01 1998 00:00:00", 78018, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 02 1998 00:00:00", 94921, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 03 1998 00:00:00", 17626, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 04 1998 00:00:00", 11730, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 05 1998 00:00:00", 11638, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 06 1998 00:00:00", 21671, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 07 1998 00:00:00", 16283, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 08 1998 00:00:00", 14943, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 09 1998 00:00:00", 10555, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 10 1998 00:00:00", 10320, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 11 1998 00:00:00", 13226, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 12 1998 00:00:00", 12001, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1998, "August, 13 1998 00:00:00", 15258, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "July, 01 1998 00:00:00",
+      2431,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 02 1998 00:00:00",
+      4634,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 03 1998 00:00:00",
+      3835,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 04 1998 00:00:00",
+      3646,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 05 1998 00:00:00",
+      4501,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 06 1998 00:00:00",
+      8083,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 07 1998 00:00:00",
+      8575,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 08 1998 00:00:00",
+      8516,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 09 1998 00:00:00",
+      12015,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 10 1998 00:00:00",
+      14040,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 11 1998 00:00:00",
+      6094,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 12 1998 00:00:00",
+      3837,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 13 1998 00:00:00",
+      3947,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 14 1998 00:00:00",
+      4211,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 15 1998 00:00:00",
+      6260,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 16 1998 00:00:00",
+      14737,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 17 1998 00:00:00",
+      52284,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 18 1998 00:00:00",
+      37475,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 19 1998 00:00:00",
+      28422,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 20 1998 00:00:00",
+      24777,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 21 1998 00:00:00",
+      16194,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 22 1998 00:00:00",
+      28096,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 23 1998 00:00:00",
+      67601,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 24 1998 00:00:00",
+      66374,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 25 1998 00:00:00",
+      45963,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 26 1998 00:00:00",
+      29122,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 27 1998 00:00:00",
+      33169,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 28 1998 00:00:00",
+      56848,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 29 1998 00:00:00",
+      61745,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 30 1998 00:00:00",
+      44950,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 31 1998 00:00:00",
+      54421,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 01 1998 00:00:00",
+      78018,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 02 1998 00:00:00",
+      94921,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 03 1998 00:00:00",
+      17626,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 04 1998 00:00:00",
+      11730,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 05 1998 00:00:00",
+      11638,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 06 1998 00:00:00",
+      21671,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 07 1998 00:00:00",
+      16283,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 08 1998 00:00:00",
+      14943,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 09 1998 00:00:00",
+      10555,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 10 1998 00:00:00",
+      10320,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 11 1998 00:00:00",
+      13226,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 12 1998 00:00:00",
+      12001,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 13 1998 00:00:00",
+      15258,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 40,
+    "species_id": "420",
+    "year": "1998",
+    "totalRecords": 44,
+    "totalCount": 1084993,
+    "source": "ADFG JSON API",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

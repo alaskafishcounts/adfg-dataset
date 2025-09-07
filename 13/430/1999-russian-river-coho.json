@@ -1,1 +1,553 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1999, "August, 08 1999 00:00:00", 2, 430, 13, "Russian River", "Coho"], [1999, "August, 09 1999 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1999, "August, 10 1999 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1999, "August, 11 1999 00:00:00", 1, 430, 13, "Russian River", "Coho"], [1999, "August, 12 1999 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1999, "August, 13 1999 00:00:00", 4, 430, 13, "Russian River", "Coho"], [1999, "August, 14 1999 00:00:00", 8, 430, 13, "Russian River", "Coho"], [1999, "August, 15 1999 00:00:00", 4, 430, 13, "Russian River", "Coho"], [1999, "August, 16 1999 00:00:00", 10, 430, 13, "Russian River", "Coho"], [1999, "August, 17 1999 00:00:00", 16, 430, 13, "Russian River", "Coho"], [1999, "August, 18 1999 00:00:00", 21, 430, 13, "Russian River", "Coho"], [1999, "August, 19 1999 00:00:00", 17, 430, 13, "Russian River", "Coho"], [1999, "August, 20 1999 00:00:00", 20, 430, 13, "Russian River", "Coho"], [1999, "August, 21 1999 00:00:00", 33, 430, 13, "Russian River", "Coho"], [1999, "August, 22 1999 00:00:00", 23, 430, 13, "Russian River", "Coho"], [1999, "August, 23 1999 00:00:00", 19, 430, 13, "Russian River", "Coho"], [1999, "August, 24 1999 00:00:00", 37, 430, 13, "Russian River", "Coho"], [1999, "August, 25 1999 00:00:00", 34, 430, 13, "Russian River", "Coho"], [1999, "August, 26 1999 00:00:00", 48, 430, 13, "Russian River", "Coho"], [1999, "August, 27 1999 00:00:00", 43, 430, 13, "Russian River", "Coho"], [1999, "August, 28 1999 00:00:00", 40, 430, 13, "Russian River", "Coho"], [1999, "August, 29 1999 00:00:00", 40, 430, 13, "Russian River", "Coho"], [1999, "August, 30 1999 00:00:00", 53, 430, 13, "Russian River", "Coho"], [1999, "August, 31 1999 00:00:00", 43, 430, 13, "Russian River", "Coho"], [1999, "September, 01 1999 00:00:00", 46, 430, 13, "Russian River", "Coho"], [1999, "September, 02 1999 00:00:00", 33, 430, 13, "Russian River", "Coho"], [1999, "September, 03 1999 00:00:00", 35, 430, 13, "Russian River", "Coho"], [1999, "September, 04 1999 00:00:00", 75, 430, 13, "Russian River", "Coho"], [1999, "September, 05 1999 00:00:00", 168, 430, 13, "Russian River", "Coho"], [1999, "September, 06 1999 00:00:00", 103, 430, 13, "Russian River", "Coho"], [1999, "September, 07 1999 00:00:00", 139, 430, 13, "Russian River", "Coho"], [1999, "September, 08 1999 00:00:00", 179, 430, 13, "Russian River", "Coho"], [1999, "September, 09 1999 00:00:00", 157, 430, 13, "Russian River", "Coho"], [1999, "September, 10 1999 00:00:00", 32, 430, 13, "Russian River", "Coho"], [1999, "September, 11 1999 00:00:00", 72, 430, 13, "Russian River", "Coho"], [1999, "September, 12 1999 00:00:00", 92, 430, 13, "Russian River", "Coho"], [1999, "September, 13 1999 00:00:00", 381, 430, 13, "Russian River", "Coho"], [1999, "September, 14 1999 00:00:00", 123, 430, 13, "Russian River", "Coho"], [1999, "September, 15 1999 00:00:00", 85, 430, 13, "Russian River", "Coho"], [1999, "September, 16 1999 00:00:00", 226, 430, 13, "Russian River", "Coho"], [1999, "September, 17 1999 00:00:00", 61, 430, 13, "Russian River", "Coho"], [1999, "September, 18 1999 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1999, "September, 19 1999 00:00:00", 69, 430, 13, "Russian River", "Coho"], [1999, "September, 20 1999 00:00:00", 12, 430, 13, "Russian River", "Coho"], [1999, "September, 21 1999 00:00:00", 0, 430, 13, "Russian River", "Coho"], [1999, "September, 22 1999 00:00:00", 143, 430, 13, "Russian River", "Coho"], [1999, "September, 23 1999 00:00:00", 70, 430, 13, "Russian River", "Coho"], [1999, "September, 24 1999 00:00:00", 19, 430, 13, "Russian River", "Coho"], [1999, "September, 25 1999 00:00:00", 14, 430, 13, "Russian River", "Coho"], [1999, "September, 26 1999 00:00:00", 5, 430, 13, "Russian River", "Coho"], [1999, "September, 27 1999 00:00:00", 7, 430, 13, "Russian River", "Coho"], [1999, "September, 28 1999 00:00:00", 13, 430, 13, "Russian River", "Coho"], [1999, "September, 29 1999 00:00:00", 8, 430, 13, "Russian River", "Coho"], [1999, "September, 30 1999 00:00:00", 5, 430, 13, "Russian River", "Coho"], [1999, "October, 01 1999 00:00:00", 33, 430, 13, "Russian River", "Coho"], [1999, "October, 02 1999 00:00:00", 25, 430, 13, "Russian River", "Coho"], [1999, "October, 03 1999 00:00:00", 5, 430, 13, "Russian River", "Coho"], [1999, "October, 04 1999 00:00:00", 7, 430, 13, "Russian River", "Coho"], [1999, "October, 05 1999 00:00:00", 6, 430, 13, "Russian River", "Coho"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "August, 08 1999 00:00:00",
+      2,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 09 1999 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 10 1999 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 11 1999 00:00:00",
+      1,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 12 1999 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 13 1999 00:00:00",
+      4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 14 1999 00:00:00",
+      8,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 15 1999 00:00:00",
+      4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 16 1999 00:00:00",
+      10,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 17 1999 00:00:00",
+      16,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 18 1999 00:00:00",
+      21,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 19 1999 00:00:00",
+      17,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 20 1999 00:00:00",
+      20,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 21 1999 00:00:00",
+      33,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 22 1999 00:00:00",
+      23,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 23 1999 00:00:00",
+      19,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 24 1999 00:00:00",
+      37,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 25 1999 00:00:00",
+      34,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 26 1999 00:00:00",
+      48,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 27 1999 00:00:00",
+      43,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 28 1999 00:00:00",
+      40,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 29 1999 00:00:00",
+      40,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 30 1999 00:00:00",
+      53,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 31 1999 00:00:00",
+      43,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 01 1999 00:00:00",
+      46,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 02 1999 00:00:00",
+      33,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 03 1999 00:00:00",
+      35,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 04 1999 00:00:00",
+      75,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 05 1999 00:00:00",
+      168,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 06 1999 00:00:00",
+      103,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 07 1999 00:00:00",
+      139,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 08 1999 00:00:00",
+      179,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 09 1999 00:00:00",
+      157,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 10 1999 00:00:00",
+      32,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 11 1999 00:00:00",
+      72,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 12 1999 00:00:00",
+      92,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 13 1999 00:00:00",
+      381,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 14 1999 00:00:00",
+      123,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 15 1999 00:00:00",
+      85,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 16 1999 00:00:00",
+      226,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 17 1999 00:00:00",
+      61,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 18 1999 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 19 1999 00:00:00",
+      69,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 20 1999 00:00:00",
+      12,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 21 1999 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 22 1999 00:00:00",
+      143,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 23 1999 00:00:00",
+      70,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 24 1999 00:00:00",
+      19,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 25 1999 00:00:00",
+      14,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 26 1999 00:00:00",
+      5,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 27 1999 00:00:00",
+      7,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 28 1999 00:00:00",
+      13,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 29 1999 00:00:00",
+      8,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 30 1999 00:00:00",
+      5,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "October, 01 1999 00:00:00",
+      33,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "October, 02 1999 00:00:00",
+      25,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "October, 03 1999 00:00:00",
+      5,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "October, 04 1999 00:00:00",
+      7,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      1999,
+      "October, 05 1999 00:00:00",
+      6,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 13,
+    "species_id": "430",
+    "year": "1999",
+    "totalRecords": 59,
+    "totalCount": 2964,
+    "source": "ADFG JSON API",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

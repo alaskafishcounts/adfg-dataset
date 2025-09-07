@@ -1,1 +1,148 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2016, "July, 14 2016 00:00:00", 3, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 15 2016 00:00:00", 0, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 16 2016 00:00:00", 0, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 17 2016 00:00:00", 1, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 18 2016 00:00:00", 0, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 19 2016 00:00:00", 0, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 20 2016 00:00:00", 0, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 21 2016 00:00:00", 0, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 22 2016 00:00:00", 1, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 23 2016 00:00:00", 0, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 24 2016 00:00:00", 0, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 25 2016 00:00:00", 0, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 26 2016 00:00:00", 1, 450, 23, "Afognak River (Litnik)", "Chum"], [2016, "July, 27 2016 00:00:00", 0, 450, 23, "Afognak River (Litnik)", "Chum"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "July, 14 2016 00:00:00",
+      3,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 15 2016 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 16 2016 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 17 2016 00:00:00",
+      1,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 18 2016 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 19 2016 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 20 2016 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 21 2016 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 22 2016 00:00:00",
+      1,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 23 2016 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 24 2016 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 25 2016 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 26 2016 00:00:00",
+      1,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ],
+    [
+      2016,
+      "July, 27 2016 00:00:00",
+      0,
+      450,
+      23,
+      "Afognak River (Litnik)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 23,
+    "species_id": "450",
+    "year": "2016",
+    "totalRecords": 14,
+    "totalCount": 6,
+    "source": "ADFG JSON API",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

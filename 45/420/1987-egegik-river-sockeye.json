@@ -1,1 +1,301 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1987, "June, 23 1987 00:00:00", 174, 420, 45, "Egegik River", "Sockeye"], [1987, "June, 24 1987 00:00:00", 18786, 420, 45, "Egegik River", "Sockeye"], [1987, "June, 25 1987 00:00:00", 5622, 420, 45, "Egegik River", "Sockeye"], [1987, "June, 26 1987 00:00:00", 60750, 420, 45, "Egegik River", "Sockeye"], [1987, "June, 27 1987 00:00:00", 110226, 420, 45, "Egegik River", "Sockeye"], [1987, "June, 28 1987 00:00:00", 51132, 420, 45, "Egegik River", "Sockeye"], [1987, "June, 29 1987 00:00:00", 53718, 420, 45, "Egegik River", "Sockeye"], [1987, "June, 30 1987 00:00:00", 28188, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 01 1987 00:00:00", 83100, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 02 1987 00:00:00", 18702, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 03 1987 00:00:00", 52986, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 04 1987 00:00:00", 37236, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 05 1987 00:00:00", 51618, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 06 1987 00:00:00", 67446, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 07 1987 00:00:00", 80304, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 08 1987 00:00:00", 124248, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 09 1987 00:00:00", 122718, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 10 1987 00:00:00", 64302, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 11 1987 00:00:00", 34734, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 12 1987 00:00:00", 10626, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 13 1987 00:00:00", 10842, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 14 1987 00:00:00", 19932, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 15 1987 00:00:00", 21930, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 16 1987 00:00:00", 33144, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 17 1987 00:00:00", 47244, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 18 1987 00:00:00", 7134, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 19 1987 00:00:00", 20946, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 20 1987 00:00:00", 9642, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 21 1987 00:00:00", 16938, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 22 1987 00:00:00", 6672, 420, 45, "Egegik River", "Sockeye"], [1987, "July, 23 1987 00:00:00", 2154, 420, 45, "Egegik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1987,
+      "June, 23 1987 00:00:00",
+      174,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 24 1987 00:00:00",
+      18786,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 25 1987 00:00:00",
+      5622,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 26 1987 00:00:00",
+      60750,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 27 1987 00:00:00",
+      110226,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 28 1987 00:00:00",
+      51132,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 29 1987 00:00:00",
+      53718,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "June, 30 1987 00:00:00",
+      28188,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 01 1987 00:00:00",
+      83100,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 02 1987 00:00:00",
+      18702,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 03 1987 00:00:00",
+      52986,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 04 1987 00:00:00",
+      37236,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 05 1987 00:00:00",
+      51618,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 06 1987 00:00:00",
+      67446,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 07 1987 00:00:00",
+      80304,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 08 1987 00:00:00",
+      124248,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 09 1987 00:00:00",
+      122718,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 10 1987 00:00:00",
+      64302,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 11 1987 00:00:00",
+      34734,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 12 1987 00:00:00",
+      10626,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 13 1987 00:00:00",
+      10842,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 14 1987 00:00:00",
+      19932,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 15 1987 00:00:00",
+      21930,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 16 1987 00:00:00",
+      33144,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 17 1987 00:00:00",
+      47244,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 18 1987 00:00:00",
+      7134,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 19 1987 00:00:00",
+      20946,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 20 1987 00:00:00",
+      9642,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 21 1987 00:00:00",
+      16938,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 22 1987 00:00:00",
+      6672,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1987,
+      "July, 23 1987 00:00:00",
+      2154,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 45,
+    "species_id": "420",
+    "year": "1987",
+    "totalRecords": 31,
+    "totalCount": 1273194,
+    "source": "ADFG JSON API",
+    "last_updated": "1987-12-31T00:00:00"
+  }
+}

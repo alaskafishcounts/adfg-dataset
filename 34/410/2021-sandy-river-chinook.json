@@ -1,1 +1,103 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2021, "July, 14 2021 00:00:00", 31, 410, 34, "Sandy River", "Chinook"], [2021, "July, 16 2021 00:00:00", 29, 410, 34, "Sandy River", "Chinook"], [2021, "July, 17 2021 00:00:00", 2, 410, 34, "Sandy River", "Chinook"], [2021, "July, 18 2021 00:00:00", 6, 410, 34, "Sandy River", "Chinook"], [2021, "July, 19 2021 00:00:00", 20, 410, 34, "Sandy River", "Chinook"], [2021, "July, 20 2021 00:00:00", 16, 410, 34, "Sandy River", "Chinook"], [2021, "July, 21 2021 00:00:00", 7, 410, 34, "Sandy River", "Chinook"], [2021, "July, 22 2021 00:00:00", 0, 410, 34, "Sandy River", "Chinook"], [2021, "July, 23 2021 00:00:00", 0, 410, 34, "Sandy River", "Chinook"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "July, 14 2021 00:00:00",
+      31,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 16 2021 00:00:00",
+      29,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 17 2021 00:00:00",
+      2,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 18 2021 00:00:00",
+      6,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 19 2021 00:00:00",
+      20,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 20 2021 00:00:00",
+      16,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 21 2021 00:00:00",
+      7,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 22 2021 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "July, 23 2021 00:00:00",
+      0,
+      410,
+      34,
+      "Sandy River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 34,
+    "species_id": "410",
+    "year": "2021",
+    "totalRecords": 9,
+    "totalCount": 111,
+    "source": "ADFG JSON API",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

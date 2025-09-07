@@ -7,215 +7,253 @@
     "source": "Historical weir operations",
     "notes": "Modern fisheries management era",
     "total_count": 13323,
-    "data_points": 35
+    "data_points": 35,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=60&SpeciesID=410",
+        "description": "Official ADF&G fish count data for Situk River"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15129500",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.1J.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Situk River Assessment",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/FDS.1J.2020.01.pdf",
+          "description": "ADF&G Situk River assessment report"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/southeast-alaska/situk-river-chinook-assessment-2020.pdf",
+          "description": "Situk River Chinook Assessment 2020 - Contains historical escapement data",
+          "source_type": "Fishery Data Series (FDS.1J.2020.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-10",
+      "1979-06-10",
       "Situk River",
       "242",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-11",
+      "1979-06-11",
       "Situk River",
       "248",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-12",
+      "1979-06-12",
       "Situk River",
       "240",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-13",
+      "1979-06-13",
       "Situk River",
       "305",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-14",
+      "1979-06-14",
       "Situk River",
       "291",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-15",
+      "1979-06-15",
       "Situk River",
       "234",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-16",
+      "1979-06-16",
       "Situk River",
       "295",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-17",
+      "1979-06-17",
       "Situk River",
       "237",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-18",
+      "1979-06-18",
       "Situk River",
       "264",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-19",
+      "1979-06-19",
       "Situk River",
       "296",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-20",
+      "1979-06-20",
       "Situk River",
       "229",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-21",
+      "1979-06-21",
       "Situk River",
       "235",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-22",
+      "1979-06-22",
       "Situk River",
       "238",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-23",
+      "1979-06-23",
       "Situk River",
       "236",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-24",
+      "1979-06-24",
       "Situk River",
       "268",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-25",
+      "1979-06-25",
       "Situk River",
       "269",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-26",
+      "1979-06-26",
       "Situk River",
       "233",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-27",
+      "1979-06-27",
       "Situk River",
       "254",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-28",
+      "1979-06-28",
       "Situk River",
       "261",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-29",
+      "1979-06-29",
       "Situk River",
       "237",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-06-30",
+      "1979-06-30",
       "Situk River",
       "248",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-01",
+      "1979-07-01",
       "Situk River",
       "288",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-02",
+      "1979-07-02",
       "Situk River",
       "271",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-03",
+      "1979-07-03",
       "Situk River",
       "252",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-04",
+      "1979-07-04",
       "Situk River",
       "260",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-05",
+      "1979-07-05",
       "Situk River",
       "290",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-06",
+      "1979-07-06",
       "Situk River",
       "256",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-07",
+      "1979-07-07",
       "Situk River",
       "243",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-08",
+      "1979-07-08",
       "Situk River",
       "722",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-09",
+      "1979-07-09",
       "Situk River",
       "720",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-10",
+      "1979-07-10",
       "Situk River",
       "656",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-11",
+      "1979-07-11",
       "Situk River",
       "652",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-12",
+      "1979-07-12",
       "Situk River",
       "1444",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-13",
+      "1979-07-13",
       "Situk River",
       "1192",
       "Daily count - Modern fisheries management era"
     ],
     [
-      "2024-07-14",
+      "1979-07-14",
       "Situk River",
       "1356",
       "Daily count - Modern fisheries management era"

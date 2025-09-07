@@ -11,6 +11,33 @@
   "DATA": [
     [
       2025,
+      "August, 01 2025 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      0,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2025,
       "August, 04 2025 00:00:00",
       1,
       430,
@@ -22,6 +49,15 @@
       2025,
       "August, 05 2025 00:00:00",
       4,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      5,
       430,
       13,
       "Russian River",
@@ -101,8 +137,44 @@
     ],
     [
       2025,
+      "August, 15 2025 00:00:00",
+      34,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 16 2025 00:00:00",
+      42,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 17 2025 00:00:00",
+      45,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2025,
       "August, 18 2025 00:00:00",
       55,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 19 2025 00:00:00",
+      54,
       430,
       13,
       "Russian River",
@@ -129,7 +201,7 @@
     [
       2025,
       "August, 22 2025 00:00:00",
-      47,
+      61,
       430,
       13,
       "Russian River",
@@ -188,15 +260,51 @@
       13,
       "Russian River",
       "Coho"
+    ],
+    [
+      2025,
+      "August, 29 2025 00:00:00",
+      29,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 30 2025 00:00:00",
+      17,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 31 2025 00:00:00",
+      2,
+      430,
+      13,
+      "Russian River",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 01 2025 00:00:00",
+      2,
+      430,
+      13,
+      "Russian River",
+      "Coho"
     ]
   ],
   "metadata": {
     "location_id": 13,
-    "species_id": "430",
+    "species_id": 430,
     "year": "2025",
-    "totalRecords": 20,
-    "totalCount": 641,
+    "totalRecords": 32,
+    "totalCount": 885,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-29T15:15:18.174594"
+    "last_updated": "2025-09-06T06:43:31.334952"
   }
 }

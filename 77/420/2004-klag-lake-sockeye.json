@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "location_id": 77,
+    "location_name": "Klag Lake",
+    "location_slug": "klag-lake",
+    "species_id": 420,
+    "species_name": "Sockeye Salmon",
+    "species_slug": "sockeye",
+    "year": 2004,
+    "data_source": "ADFG Fishery Data Series No. 07-06",
+    "source_url": "https://www.adfg.alaska.gov/fedaidpdfs/fds07-06.pdf",
+    "report_title": "Klag Lake Sockeye Salmon Stock Assessment 2004 Annual Report",
+    "authors": ["Jennifer P. Stahl", "Jan M. Conitz", "Margaret A. Cartwright", "Zachary Penney", "Jack Lorrigan"],
+    "publication_date": "March 2007",
+    "monitoring_method": "Weir",
+    "region": "Southeast",
+    "adfg_management_area": "Sitka",
+    "closest_city": "Sitka",
+    "data_quality": "Official ADFG research data",
+    "total_fish_counted": 17178,
+    "season_start": "2004-07-27",
+    "season_end": "2004-09-06",
+    "days_of_operation": 42,
+    "peak_count_date": "2004-08-27",
+    "peak_daily_count": 1716,
+    "notes": "Data extracted from official ADFG Fishery Data Series report. Includes daily counts, cumulative counts, and marking data for sockeye salmon escapement monitoring at Klag Lake weir."
+  },
+  "DATA": [
+    ["1", "July, 27 2004 00:00:00", 16],
+    ["2", "July, 28 2004 00:00:00", 7015],
+    ["3", "July, 29 2004 00:00:00", 779],
+    ["4", "July, 30 2004 00:00:00", 326],
+    ["5", "July, 31 2004 00:00:00", 246],
+    ["6", "August, 01 2004 00:00:00", 19],
+    ["7", "August, 02 2004 00:00:00", 10],
+    ["8", "August, 03 2004 00:00:00", 21],
+    ["9", "August, 04 2004 00:00:00", 18],
+    ["10", "August, 05 2004 00:00:00", 17],
+    ["11", "August, 06 2004 00:00:00", 104],
+    ["12", "August, 07 2004 00:00:00", 40],
+    ["13", "August, 08 2004 00:00:00", 26],
+    ["14", "August, 09 2004 00:00:00", 82],
+    ["15", "August, 10 2004 00:00:00", 68],
+    ["16", "August, 11 2004 00:00:00", 147],
+    ["17", "August, 12 2004 00:00:00", 101],
+    ["18", "August, 13 2004 00:00:00", 117],
+    ["19", "August, 14 2004 00:00:00", 114],
+    ["20", "August, 15 2004 00:00:00", 150],
+    ["21", "August, 16 2004 00:00:00", 193],
+    ["22", "August, 17 2004 00:00:00", 118],
+    ["23", "August, 18 2004 00:00:00", 229],
+    ["24", "August, 19 2004 00:00:00", 304],
+    ["25", "August, 20 2004 00:00:00", 472],
+    ["26", "August, 21 2004 00:00:00", 927],
+    ["27", "August, 22 2004 00:00:00", 796],
+    ["28", "August, 23 2004 00:00:00", 327],
+    ["29", "August, 24 2004 00:00:00", 419],
+    ["30", "August, 25 2004 00:00:00", 368],
+    ["31", "August, 26 2004 00:00:00", 347],
+    ["32", "August, 27 2004 00:00:00", 1716],
+    ["33", "August, 28 2004 00:00:00", 915],
+    ["34", "August, 29 2004 00:00:00", 158],
+    ["35", "August, 30 2004 00:00:00", 42],
+    ["36", "August, 31 2004 00:00:00", 20],
+    ["37", "September, 01 2004 00:00:00", 47],
+    ["38", "September, 02 2004 00:00:00", 52],
+    ["39", "September, 03 2004 00:00:00", 22],
+    ["40", "September, 04 2004 00:00:00", 245],
+    ["41", "September, 05 2004 00:00:00", 31],
+    ["42", "September, 06 2004 00:00:00", 14]
+  ],
+  "statistics": {
+    "total_fish": 17178,
+    "daily_average": 409.0,
+    "peak_daily_count": 1716,
+    "peak_date": "August, 27 2004",
+    "season_length_days": 42,
+    "first_fish_date": "July, 27 2004",
+    "last_fish_date": "September, 06 2004",
+    "days_with_zero_count": 0,
+    "days_with_count": 42,
+    "cumulative_by_month": {
+      "July": 8401,
+      "August": 8377,
+      "September": 400
+    }
+  },
+  "environmental_data": {
+    "water_temperature_range": {
+      "min": 15.0,
+      "max": 19.0,
+      "unit": "celsius"
+    },
+    "water_depth_range": {
+      "min": 0.21,
+      "max": 0.62,
+      "unit": "meters"
+    }
+  },
+  "marking_data": {
+    "total_marked": 3325,
+    "marking_percentage_range": {
+      "min": 0,
+      "max": 95,
+      "unit": "percent"
+    },
+    "marking_peak_date": "August, 02 2004",
+    "marking_peak_percentage": 95
+  },
+  "other_species_counts": {
+    "coho_salmon": {
+      "total": 0,
+      "peak_daily": 1017,
+      "peak_date": "August, 27 2004"
+    },
+    "pink_salmon": {
+      "total": 0,
+      "peak_daily": 1468,
+      "peak_date": "August, 28 2004"
+    },
+    "chum_salmon": {
+      "total": 0,
+      "peak_daily": 1,
+      "peak_date": "August, 18 2004"
+    },
+    "dolly_varden": {
+      "total": 0,
+      "peak_daily": 14,
+      "peak_date": "September, 03 2004"
+    }
+  }
+}

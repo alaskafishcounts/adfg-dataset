@@ -1,1 +1,409 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2015, "June, 10 2015 00:00:00", 11, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 11 2015 00:00:00", 31, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 12 2015 00:00:00", 79, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 13 2015 00:00:00", 228, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 14 2015 00:00:00", 307, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 15 2015 00:00:00", 284, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 16 2015 00:00:00", 276, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 17 2015 00:00:00", 1105, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 18 2015 00:00:00", 1776, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 19 2015 00:00:00", 944, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 20 2015 00:00:00", 1926, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 21 2015 00:00:00", 1761, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 22 2015 00:00:00", 1415, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 23 2015 00:00:00", 3339, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 24 2015 00:00:00", 4288, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 25 2015 00:00:00", 3477, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 26 2015 00:00:00", 3137, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 27 2015 00:00:00", 1519, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 28 2015 00:00:00", 1615, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 29 2015 00:00:00", 3576, 420, 34, "Sandy River", "Sockeye"], [2015, "June, 30 2015 00:00:00", 5017, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 01 2015 00:00:00", 5502, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 02 2015 00:00:00", 4578, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 03 2015 00:00:00", 2607, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 04 2015 00:00:00", 3716, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 05 2015 00:00:00", 3486, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 06 2015 00:00:00", 4000, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 07 2015 00:00:00", 4000, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 08 2015 00:00:00", 4000, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 09 2015 00:00:00", 4000, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 10 2015 00:00:00", 3500, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 11 2015 00:00:00", 3251, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 12 2015 00:00:00", 5473, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 13 2015 00:00:00", 4420, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 14 2015 00:00:00", 1536, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 15 2015 00:00:00", 2355, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 16 2015 00:00:00", 1544, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 17 2015 00:00:00", 1622, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 18 2015 00:00:00", 2640, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 19 2015 00:00:00", 1923, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 20 2015 00:00:00", 1772, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 21 2015 00:00:00", 1091, 420, 34, "Sandy River", "Sockeye"], [2015, "July, 22 2015 00:00:00", 1100, 420, 34, "Sandy River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "June, 10 2015 00:00:00",
+      11,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 11 2015 00:00:00",
+      31,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 12 2015 00:00:00",
+      79,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 13 2015 00:00:00",
+      228,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 14 2015 00:00:00",
+      307,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 15 2015 00:00:00",
+      284,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 16 2015 00:00:00",
+      276,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 17 2015 00:00:00",
+      1105,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 18 2015 00:00:00",
+      1776,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 19 2015 00:00:00",
+      944,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 20 2015 00:00:00",
+      1926,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 21 2015 00:00:00",
+      1761,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 22 2015 00:00:00",
+      1415,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 23 2015 00:00:00",
+      3339,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 24 2015 00:00:00",
+      4288,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 25 2015 00:00:00",
+      3477,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 26 2015 00:00:00",
+      3137,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 27 2015 00:00:00",
+      1519,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 28 2015 00:00:00",
+      1615,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 29 2015 00:00:00",
+      3576,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "June, 30 2015 00:00:00",
+      5017,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 01 2015 00:00:00",
+      5502,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 02 2015 00:00:00",
+      4578,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 03 2015 00:00:00",
+      2607,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 04 2015 00:00:00",
+      3716,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 05 2015 00:00:00",
+      3486,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 06 2015 00:00:00",
+      4000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 07 2015 00:00:00",
+      4000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 08 2015 00:00:00",
+      4000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 09 2015 00:00:00",
+      4000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 10 2015 00:00:00",
+      3500,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 11 2015 00:00:00",
+      3251,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 12 2015 00:00:00",
+      5473,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 13 2015 00:00:00",
+      4420,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 14 2015 00:00:00",
+      1536,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 15 2015 00:00:00",
+      2355,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 16 2015 00:00:00",
+      1544,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 17 2015 00:00:00",
+      1622,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 18 2015 00:00:00",
+      2640,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 19 2015 00:00:00",
+      1923,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 20 2015 00:00:00",
+      1772,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 21 2015 00:00:00",
+      1091,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "July, 22 2015 00:00:00",
+      1100,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 34,
+    "species_id": "420",
+    "year": "2015",
+    "totalRecords": 43,
+    "totalCount": 104227,
+    "source": "ADFG JSON API",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

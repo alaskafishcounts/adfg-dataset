@@ -1,1 +1,256 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2009, "June, 23 2009 00:00:00", 24, 420, 47, "Alagnak River", "Sockeye"], [2009, "June, 24 2009 00:00:00", 144, 420, 47, "Alagnak River", "Sockeye"], [2009, "June, 25 2009 00:00:00", 1266, 420, 47, "Alagnak River", "Sockeye"], [2009, "June, 26 2009 00:00:00", 2832, 420, 47, "Alagnak River", "Sockeye"], [2009, "June, 27 2009 00:00:00", 888, 420, 47, "Alagnak River", "Sockeye"], [2009, "June, 28 2009 00:00:00", 534, 420, 47, "Alagnak River", "Sockeye"], [2009, "June, 29 2009 00:00:00", 5766, 420, 47, "Alagnak River", "Sockeye"], [2009, "June, 30 2009 00:00:00", 55548, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 01 2009 00:00:00", 90486, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 02 2009 00:00:00", 55278, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 03 2009 00:00:00", 37404, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 04 2009 00:00:00", 39252, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 05 2009 00:00:00", 111906, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 06 2009 00:00:00", 43098, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 07 2009 00:00:00", 62730, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 08 2009 00:00:00", 46932, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 09 2009 00:00:00", 108702, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 10 2009 00:00:00", 85110, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 11 2009 00:00:00", 41862, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 12 2009 00:00:00", 23172, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 13 2009 00:00:00", 32400, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 14 2009 00:00:00", 45372, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 15 2009 00:00:00", 36498, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 16 2009 00:00:00", 11484, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 17 2009 00:00:00", 14778, 420, 47, "Alagnak River", "Sockeye"], [2009, "July, 18 2009 00:00:00", 17352, 420, 47, "Alagnak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "June, 23 2009 00:00:00",
+      24,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 24 2009 00:00:00",
+      144,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 25 2009 00:00:00",
+      1266,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 26 2009 00:00:00",
+      2832,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 27 2009 00:00:00",
+      888,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 28 2009 00:00:00",
+      534,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 29 2009 00:00:00",
+      5766,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "June, 30 2009 00:00:00",
+      55548,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 01 2009 00:00:00",
+      90486,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 02 2009 00:00:00",
+      55278,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 03 2009 00:00:00",
+      37404,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 04 2009 00:00:00",
+      39252,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 05 2009 00:00:00",
+      111906,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 06 2009 00:00:00",
+      43098,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 07 2009 00:00:00",
+      62730,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 08 2009 00:00:00",
+      46932,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 09 2009 00:00:00",
+      108702,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 10 2009 00:00:00",
+      85110,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 11 2009 00:00:00",
+      41862,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 12 2009 00:00:00",
+      23172,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 13 2009 00:00:00",
+      32400,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 14 2009 00:00:00",
+      45372,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 15 2009 00:00:00",
+      36498,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 16 2009 00:00:00",
+      11484,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 17 2009 00:00:00",
+      14778,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "July, 18 2009 00:00:00",
+      17352,
+      420,
+      47,
+      "Alagnak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 47,
+    "species_id": "420",
+    "year": "2009",
+    "totalRecords": 26,
+    "totalCount": 970818,
+    "source": "ADFG JSON API",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,688 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1998, "June, 09 1998 00:00:00", 590, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 10 1998 00:00:00", 1606, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 11 1998 00:00:00", 804, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 12 1998 00:00:00", 520, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 13 1998 00:00:00", 423, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 14 1998 00:00:00", 346, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 15 1998 00:00:00", 376, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 16 1998 00:00:00", 362, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 17 1998 00:00:00", 182, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 18 1998 00:00:00", 409, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 19 1998 00:00:00", 958, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 20 1998 00:00:00", 18298, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 21 1998 00:00:00", 9158, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 22 1998 00:00:00", 10910, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 23 1998 00:00:00", 9245, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 24 1998 00:00:00", 9811, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 25 1998 00:00:00", 13994, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 26 1998 00:00:00", 9813, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 27 1998 00:00:00", 11119, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 28 1998 00:00:00", 9280, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 29 1998 00:00:00", 9403, 420, 51, "Nushagak River", "Sockeye"], [1998, "June, 30 1998 00:00:00", 12086, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 01 1998 00:00:00", 7000, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 02 1998 00:00:00", 11689, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 03 1998 00:00:00", 40856, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 04 1998 00:00:00", 56886, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 05 1998 00:00:00", 121199, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 06 1998 00:00:00", 75772, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 07 1998 00:00:00", 25747, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 08 1998 00:00:00", 31614, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 09 1998 00:00:00", 14834, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 10 1998 00:00:00", 8226, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 11 1998 00:00:00", 12362, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 12 1998 00:00:00", 6451, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 13 1998 00:00:00", 2941, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 14 1998 00:00:00", 2406, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 15 1998 00:00:00", 1678, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 16 1998 00:00:00", 1453, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 17 1998 00:00:00", 862, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 18 1998 00:00:00", 531, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 19 1998 00:00:00", 584, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 20 1998 00:00:00", 1006, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 21 1998 00:00:00", 1489, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 22 1998 00:00:00", 2258, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 23 1998 00:00:00", 769, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 24 1998 00:00:00", 460, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 25 1998 00:00:00", 436, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 26 1998 00:00:00", 926, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 27 1998 00:00:00", 671, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 28 1998 00:00:00", 1197, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 29 1998 00:00:00", 1215, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 30 1998 00:00:00", 790, 420, 51, "Nushagak River", "Sockeye"], [1998, "July, 31 1998 00:00:00", 906, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 01 1998 00:00:00", 1234, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 02 1998 00:00:00", 1299, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 03 1998 00:00:00", 2095, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 04 1998 00:00:00", 3298, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 05 1998 00:00:00", 1071, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 06 1998 00:00:00", 1438, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 07 1998 00:00:00", 834, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 08 1998 00:00:00", 99, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 09 1998 00:00:00", 52, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 10 1998 00:00:00", 2, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 11 1998 00:00:00", 1, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 12 1998 00:00:00", 2, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 13 1998 00:00:00", 2, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 14 1998 00:00:00", 1, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 15 1998 00:00:00", 1, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 16 1998 00:00:00", 4, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 17 1998 00:00:00", 17, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 18 1998 00:00:00", 8, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 19 1998 00:00:00", 2, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 20 1998 00:00:00", 1, 420, 51, "Nushagak River", "Sockeye"], [1998, "August, 21 1998 00:00:00", 1, 420, 51, "Nushagak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "June, 09 1998 00:00:00",
+      590,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 10 1998 00:00:00",
+      1606,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 11 1998 00:00:00",
+      804,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 12 1998 00:00:00",
+      520,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 13 1998 00:00:00",
+      423,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 14 1998 00:00:00",
+      346,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 15 1998 00:00:00",
+      376,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 16 1998 00:00:00",
+      362,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 17 1998 00:00:00",
+      182,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 18 1998 00:00:00",
+      409,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 19 1998 00:00:00",
+      958,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 20 1998 00:00:00",
+      18298,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 21 1998 00:00:00",
+      9158,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 22 1998 00:00:00",
+      10910,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 23 1998 00:00:00",
+      9245,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 24 1998 00:00:00",
+      9811,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 25 1998 00:00:00",
+      13994,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 26 1998 00:00:00",
+      9813,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 27 1998 00:00:00",
+      11119,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 28 1998 00:00:00",
+      9280,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 29 1998 00:00:00",
+      9403,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 30 1998 00:00:00",
+      12086,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 01 1998 00:00:00",
+      7000,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 02 1998 00:00:00",
+      11689,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 03 1998 00:00:00",
+      40856,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 04 1998 00:00:00",
+      56886,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 05 1998 00:00:00",
+      121199,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 06 1998 00:00:00",
+      75772,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 07 1998 00:00:00",
+      25747,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 08 1998 00:00:00",
+      31614,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 09 1998 00:00:00",
+      14834,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 10 1998 00:00:00",
+      8226,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 11 1998 00:00:00",
+      12362,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 12 1998 00:00:00",
+      6451,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 13 1998 00:00:00",
+      2941,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 14 1998 00:00:00",
+      2406,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 15 1998 00:00:00",
+      1678,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 16 1998 00:00:00",
+      1453,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 17 1998 00:00:00",
+      862,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 18 1998 00:00:00",
+      531,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 19 1998 00:00:00",
+      584,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 20 1998 00:00:00",
+      1006,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 21 1998 00:00:00",
+      1489,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 22 1998 00:00:00",
+      2258,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 23 1998 00:00:00",
+      769,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 24 1998 00:00:00",
+      460,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 25 1998 00:00:00",
+      436,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 26 1998 00:00:00",
+      926,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 27 1998 00:00:00",
+      671,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 28 1998 00:00:00",
+      1197,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 29 1998 00:00:00",
+      1215,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 30 1998 00:00:00",
+      790,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 31 1998 00:00:00",
+      906,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 01 1998 00:00:00",
+      1234,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 02 1998 00:00:00",
+      1299,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 03 1998 00:00:00",
+      2095,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 04 1998 00:00:00",
+      3298,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 05 1998 00:00:00",
+      1071,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 06 1998 00:00:00",
+      1438,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 07 1998 00:00:00",
+      834,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 08 1998 00:00:00",
+      99,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 09 1998 00:00:00",
+      52,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 10 1998 00:00:00",
+      2,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 11 1998 00:00:00",
+      1,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 12 1998 00:00:00",
+      2,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 13 1998 00:00:00",
+      2,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 14 1998 00:00:00",
+      1,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 15 1998 00:00:00",
+      1,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 16 1998 00:00:00",
+      4,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 17 1998 00:00:00",
+      17,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 18 1998 00:00:00",
+      8,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 19 1998 00:00:00",
+      2,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 20 1998 00:00:00",
+      1,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "August, 21 1998 00:00:00",
+      1,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "420",
+    "year": "1998",
+    "totalRecords": 74,
+    "totalCount": 576369,
+    "source": "ADFG JSON API",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

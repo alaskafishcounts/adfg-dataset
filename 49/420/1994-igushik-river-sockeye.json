@@ -1,1 +1,346 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1994, "June, 22 1994 00:00:00", 54, 420, 49, "Igushik River", "Sockeye"], [1994, "June, 23 1994 00:00:00", 234, 420, 49, "Igushik River", "Sockeye"], [1994, "June, 24 1994 00:00:00", 126, 420, 49, "Igushik River", "Sockeye"], [1994, "June, 25 1994 00:00:00", 456, 420, 49, "Igushik River", "Sockeye"], [1994, "June, 26 1994 00:00:00", 918, 420, 49, "Igushik River", "Sockeye"], [1994, "June, 27 1994 00:00:00", 906, 420, 49, "Igushik River", "Sockeye"], [1994, "June, 28 1994 00:00:00", 2700, 420, 49, "Igushik River", "Sockeye"], [1994, "June, 29 1994 00:00:00", 2994, 420, 49, "Igushik River", "Sockeye"], [1994, "June, 30 1994 00:00:00", 1734, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 01 1994 00:00:00", 1836, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 02 1994 00:00:00", 4782, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 03 1994 00:00:00", 3042, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 04 1994 00:00:00", 12912, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 05 1994 00:00:00", 15552, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 06 1994 00:00:00", 11310, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 07 1994 00:00:00", 13686, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 08 1994 00:00:00", 6198, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 09 1994 00:00:00", 8484, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 10 1994 00:00:00", 21198, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 11 1994 00:00:00", 51924, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 12 1994 00:00:00", 45864, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 13 1994 00:00:00", 39528, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 14 1994 00:00:00", 38232, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 15 1994 00:00:00", 16776, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 16 1994 00:00:00", 8688, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 17 1994 00:00:00", 13788, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 18 1994 00:00:00", 22794, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 19 1994 00:00:00", 22650, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 20 1994 00:00:00", 18198, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 21 1994 00:00:00", 11394, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 22 1994 00:00:00", 10260, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 23 1994 00:00:00", 7422, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 24 1994 00:00:00", 7194, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 25 1994 00:00:00", 10242, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 26 1994 00:00:00", 7194, 420, 49, "Igushik River", "Sockeye"], [1994, "July, 27 1994 00:00:00", 4650, 420, 49, "Igushik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "June, 22 1994 00:00:00",
+      54,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "June, 23 1994 00:00:00",
+      234,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "June, 24 1994 00:00:00",
+      126,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "June, 25 1994 00:00:00",
+      456,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "June, 26 1994 00:00:00",
+      918,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "June, 27 1994 00:00:00",
+      906,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "June, 28 1994 00:00:00",
+      2700,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "June, 29 1994 00:00:00",
+      2994,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "June, 30 1994 00:00:00",
+      1734,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 01 1994 00:00:00",
+      1836,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 02 1994 00:00:00",
+      4782,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 03 1994 00:00:00",
+      3042,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 04 1994 00:00:00",
+      12912,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 05 1994 00:00:00",
+      15552,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 06 1994 00:00:00",
+      11310,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 07 1994 00:00:00",
+      13686,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 08 1994 00:00:00",
+      6198,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 09 1994 00:00:00",
+      8484,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 10 1994 00:00:00",
+      21198,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 11 1994 00:00:00",
+      51924,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 12 1994 00:00:00",
+      45864,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 13 1994 00:00:00",
+      39528,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 14 1994 00:00:00",
+      38232,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 15 1994 00:00:00",
+      16776,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 16 1994 00:00:00",
+      8688,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 17 1994 00:00:00",
+      13788,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 18 1994 00:00:00",
+      22794,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 19 1994 00:00:00",
+      22650,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 20 1994 00:00:00",
+      18198,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 21 1994 00:00:00",
+      11394,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 22 1994 00:00:00",
+      10260,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 23 1994 00:00:00",
+      7422,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 24 1994 00:00:00",
+      7194,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 25 1994 00:00:00",
+      10242,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 26 1994 00:00:00",
+      7194,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 27 1994 00:00:00",
+      4650,
+      420,
+      49,
+      "Igushik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 49,
+    "species_id": "420",
+    "year": "1994",
+    "totalRecords": 36,
+    "totalCount": 445920,
+    "source": "ADFG JSON API",
+    "last_updated": "1994-12-31T00:00:00"
+  }
+}

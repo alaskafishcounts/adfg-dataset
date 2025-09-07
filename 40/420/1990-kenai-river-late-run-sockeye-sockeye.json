@@ -1,1 +1,364 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1990, "July, 01 1990 00:00:00", 453, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 02 1990 00:00:00", 629, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 03 1990 00:00:00", 1044, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 04 1990 00:00:00", 6642, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 05 1990 00:00:00", 8959, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 06 1990 00:00:00", 10850, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 07 1990 00:00:00", 6561, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 08 1990 00:00:00", 7097, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 09 1990 00:00:00", 4664, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 10 1990 00:00:00", 1656, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 11 1990 00:00:00", 1290, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 12 1990 00:00:00", 1933, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 13 1990 00:00:00", 2665, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 14 1990 00:00:00", 3469, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 15 1990 00:00:00", 2969, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 16 1990 00:00:00", 4313, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 17 1990 00:00:00", 65286, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 18 1990 00:00:00", 135380, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 19 1990 00:00:00", 62093, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 20 1990 00:00:00", 53797, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 21 1990 00:00:00", 55340, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 22 1990 00:00:00", 14908, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 23 1990 00:00:00", 43626, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 24 1990 00:00:00", 55501, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 25 1990 00:00:00", 91947, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 26 1990 00:00:00", 41513, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 27 1990 00:00:00", 8932, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 28 1990 00:00:00", 13741, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 29 1990 00:00:00", 49708, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 30 1990 00:00:00", 48351, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "July, 31 1990 00:00:00", 19517, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "August, 01 1990 00:00:00", 11230, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "August, 02 1990 00:00:00", 16860, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "August, 03 1990 00:00:00", 33333, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "August, 04 1990 00:00:00", 29196, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "August, 05 1990 00:00:00", 14022, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "August, 06 1990 00:00:00", 12774, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1990, "August, 07 1990 00:00:00", 8108, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "July, 01 1990 00:00:00",
+      453,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 02 1990 00:00:00",
+      629,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 03 1990 00:00:00",
+      1044,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 04 1990 00:00:00",
+      6642,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 05 1990 00:00:00",
+      8959,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 06 1990 00:00:00",
+      10850,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 07 1990 00:00:00",
+      6561,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 08 1990 00:00:00",
+      7097,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 09 1990 00:00:00",
+      4664,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 10 1990 00:00:00",
+      1656,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 11 1990 00:00:00",
+      1290,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 12 1990 00:00:00",
+      1933,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 13 1990 00:00:00",
+      2665,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 14 1990 00:00:00",
+      3469,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 15 1990 00:00:00",
+      2969,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 16 1990 00:00:00",
+      4313,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 17 1990 00:00:00",
+      65286,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 18 1990 00:00:00",
+      135380,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 19 1990 00:00:00",
+      62093,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 20 1990 00:00:00",
+      53797,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 21 1990 00:00:00",
+      55340,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 22 1990 00:00:00",
+      14908,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 23 1990 00:00:00",
+      43626,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 24 1990 00:00:00",
+      55501,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 25 1990 00:00:00",
+      91947,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 26 1990 00:00:00",
+      41513,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 27 1990 00:00:00",
+      8932,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 28 1990 00:00:00",
+      13741,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 29 1990 00:00:00",
+      49708,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 30 1990 00:00:00",
+      48351,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "July, 31 1990 00:00:00",
+      19517,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 01 1990 00:00:00",
+      11230,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 02 1990 00:00:00",
+      16860,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 03 1990 00:00:00",
+      33333,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 04 1990 00:00:00",
+      29196,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 05 1990 00:00:00",
+      14022,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 06 1990 00:00:00",
+      12774,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1990,
+      "August, 07 1990 00:00:00",
+      8108,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 40,
+    "species_id": "420",
+    "year": "1990",
+    "totalRecords": 38,
+    "totalCount": 950357,
+    "source": "ADFG JSON API",
+    "last_updated": "1990-12-31T00:00:00"
+  }
+}

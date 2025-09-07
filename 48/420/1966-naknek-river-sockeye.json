@@ -1,1 +1,301 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1966, "June, 21 1966 00:00:00", 222, 420, 48, "Naknek River", "Sockeye"], [1966, "June, 22 1966 00:00:00", 66, 420, 48, "Naknek River", "Sockeye"], [1966, "June, 23 1966 00:00:00", 60, 420, 48, "Naknek River", "Sockeye"], [1966, "June, 24 1966 00:00:00", 114, 420, 48, "Naknek River", "Sockeye"], [1966, "June, 25 1966 00:00:00", 336, 420, 48, "Naknek River", "Sockeye"], [1966, "June, 26 1966 00:00:00", 222, 420, 48, "Naknek River", "Sockeye"], [1966, "June, 27 1966 00:00:00", 1920, 420, 48, "Naknek River", "Sockeye"], [1966, "June, 28 1966 00:00:00", 3156, 420, 48, "Naknek River", "Sockeye"], [1966, "June, 29 1966 00:00:00", 5190, 420, 48, "Naknek River", "Sockeye"], [1966, "June, 30 1966 00:00:00", 16200, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 01 1966 00:00:00", 28492, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 02 1966 00:00:00", 10189, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 03 1966 00:00:00", 66552, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 04 1966 00:00:00", 42672, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 05 1966 00:00:00", 209278, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 06 1966 00:00:00", 218130, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 07 1966 00:00:00", 228660, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 08 1966 00:00:00", 86328, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 09 1966 00:00:00", 30792, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 10 1966 00:00:00", 8760, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 11 1966 00:00:00", 23712, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 12 1966 00:00:00", 11808, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 13 1966 00:00:00", 3894, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 14 1966 00:00:00", 3576, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 15 1966 00:00:00", 4278, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 16 1966 00:00:00", 2688, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 17 1966 00:00:00", 4638, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 18 1966 00:00:00", 3444, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 19 1966 00:00:00", 696, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 20 1966 00:00:00", 168, 420, 48, "Naknek River", "Sockeye"], [1966, "July, 21 1966 00:00:00", 180, 420, 48, "Naknek River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1966,
+      "June, 21 1966 00:00:00",
+      222,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "June, 22 1966 00:00:00",
+      66,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "June, 23 1966 00:00:00",
+      60,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "June, 24 1966 00:00:00",
+      114,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "June, 25 1966 00:00:00",
+      336,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "June, 26 1966 00:00:00",
+      222,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "June, 27 1966 00:00:00",
+      1920,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "June, 28 1966 00:00:00",
+      3156,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "June, 29 1966 00:00:00",
+      5190,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "June, 30 1966 00:00:00",
+      16200,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 01 1966 00:00:00",
+      28492,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 02 1966 00:00:00",
+      10189,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 03 1966 00:00:00",
+      66552,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 04 1966 00:00:00",
+      42672,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 05 1966 00:00:00",
+      209278,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 06 1966 00:00:00",
+      218130,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 07 1966 00:00:00",
+      228660,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 08 1966 00:00:00",
+      86328,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 09 1966 00:00:00",
+      30792,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 10 1966 00:00:00",
+      8760,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 11 1966 00:00:00",
+      23712,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 12 1966 00:00:00",
+      11808,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 13 1966 00:00:00",
+      3894,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 14 1966 00:00:00",
+      3576,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 15 1966 00:00:00",
+      4278,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 16 1966 00:00:00",
+      2688,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 17 1966 00:00:00",
+      4638,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 18 1966 00:00:00",
+      3444,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 19 1966 00:00:00",
+      696,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 20 1966 00:00:00",
+      168,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1966,
+      "July, 21 1966 00:00:00",
+      180,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 48,
+    "species_id": "420",
+    "year": "1966",
+    "totalRecords": 31,
+    "totalCount": 1016421,
+    "source": "ADFG JSON API",
+    "last_updated": "1966-12-31T00:00:00"
+  }
+}

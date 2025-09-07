@@ -1,1 +1,400 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1994, "June, 28 1994 00:00:00", 20, 420, 42, "Crescent River", "Sockeye"], [1994, "June, 29 1994 00:00:00", 39, 420, 42, "Crescent River", "Sockeye"], [1994, "June, 30 1994 00:00:00", 185, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 01 1994 00:00:00", 112, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 02 1994 00:00:00", 91, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 03 1994 00:00:00", 67, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 04 1994 00:00:00", 328, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 05 1994 00:00:00", 228, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 06 1994 00:00:00", 261, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 07 1994 00:00:00", 507, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 08 1994 00:00:00", 762, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 09 1994 00:00:00", 191, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 10 1994 00:00:00", 336, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 11 1994 00:00:00", 867, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 12 1994 00:00:00", 1162, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 13 1994 00:00:00", 1328, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 14 1994 00:00:00", 1142, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 15 1994 00:00:00", 742, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 16 1994 00:00:00", 582, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 17 1994 00:00:00", 2234, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 18 1994 00:00:00", 815, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 19 1994 00:00:00", 891, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 20 1994 00:00:00", 852, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 21 1994 00:00:00", 212, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 22 1994 00:00:00", 826, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 23 1994 00:00:00", 1680, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 24 1994 00:00:00", 1167, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 25 1994 00:00:00", 644, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 26 1994 00:00:00", 676, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 27 1994 00:00:00", 1227, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 28 1994 00:00:00", 947, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 29 1994 00:00:00", 932, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 30 1994 00:00:00", 1184, 420, 42, "Crescent River", "Sockeye"], [1994, "July, 31 1994 00:00:00", 1859, 420, 42, "Crescent River", "Sockeye"], [1994, "August, 01 1994 00:00:00", 1479, 420, 42, "Crescent River", "Sockeye"], [1994, "August, 02 1994 00:00:00", 1170, 420, 42, "Crescent River", "Sockeye"], [1994, "August, 03 1994 00:00:00", 426, 420, 42, "Crescent River", "Sockeye"], [1994, "August, 04 1994 00:00:00", 650, 420, 42, "Crescent River", "Sockeye"], [1994, "August, 05 1994 00:00:00", 774, 420, 42, "Crescent River", "Sockeye"], [1994, "August, 06 1994 00:00:00", 252, 420, 42, "Crescent River", "Sockeye"], [1994, "August, 07 1994 00:00:00", 183, 420, 42, "Crescent River", "Sockeye"], [1994, "August, 08 1994 00:00:00", 325, 420, 42, "Crescent River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "June, 28 1994 00:00:00",
+      20,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "June, 29 1994 00:00:00",
+      39,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "June, 30 1994 00:00:00",
+      185,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 01 1994 00:00:00",
+      112,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 02 1994 00:00:00",
+      91,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 03 1994 00:00:00",
+      67,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 04 1994 00:00:00",
+      328,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 05 1994 00:00:00",
+      228,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 06 1994 00:00:00",
+      261,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 07 1994 00:00:00",
+      507,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 08 1994 00:00:00",
+      762,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 09 1994 00:00:00",
+      191,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 10 1994 00:00:00",
+      336,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 11 1994 00:00:00",
+      867,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 12 1994 00:00:00",
+      1162,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 13 1994 00:00:00",
+      1328,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 14 1994 00:00:00",
+      1142,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 15 1994 00:00:00",
+      742,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 16 1994 00:00:00",
+      582,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 17 1994 00:00:00",
+      2234,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 18 1994 00:00:00",
+      815,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 19 1994 00:00:00",
+      891,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 20 1994 00:00:00",
+      852,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 21 1994 00:00:00",
+      212,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 22 1994 00:00:00",
+      826,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 23 1994 00:00:00",
+      1680,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 24 1994 00:00:00",
+      1167,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 25 1994 00:00:00",
+      644,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 26 1994 00:00:00",
+      676,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 27 1994 00:00:00",
+      1227,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 28 1994 00:00:00",
+      947,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 29 1994 00:00:00",
+      932,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 30 1994 00:00:00",
+      1184,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 31 1994 00:00:00",
+      1859,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 01 1994 00:00:00",
+      1479,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 02 1994 00:00:00",
+      1170,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 03 1994 00:00:00",
+      426,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 04 1994 00:00:00",
+      650,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 05 1994 00:00:00",
+      774,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 06 1994 00:00:00",
+      252,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 07 1994 00:00:00",
+      183,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 08 1994 00:00:00",
+      325,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 42,
+    "species_id": "420",
+    "year": "1994",
+    "totalRecords": 42,
+    "totalCount": 30355,
+    "source": "ADFG JSON API",
+    "last_updated": "1994-12-31T00:00:00"
+  }
+}

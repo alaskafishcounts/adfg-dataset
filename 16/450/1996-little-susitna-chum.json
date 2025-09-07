@@ -1,1 +1,436 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1996, "August, 07 1996 00:00:00", 40, 450, 16, "Little Susitna", "Chum"], [1996, "August, 08 1996 00:00:00", 31, 450, 16, "Little Susitna", "Chum"], [1996, "August, 09 1996 00:00:00", 54, 450, 16, "Little Susitna", "Chum"], [1996, "August, 10 1996 00:00:00", 206, 450, 16, "Little Susitna", "Chum"], [1996, "August, 11 1996 00:00:00", 211, 450, 16, "Little Susitna", "Chum"], [1996, "August, 12 1996 00:00:00", 44, 450, 16, "Little Susitna", "Chum"], [1996, "August, 13 1996 00:00:00", 69, 450, 16, "Little Susitna", "Chum"], [1996, "August, 14 1996 00:00:00", 80, 450, 16, "Little Susitna", "Chum"], [1996, "August, 15 1996 00:00:00", 91, 450, 16, "Little Susitna", "Chum"], [1996, "August, 16 1996 00:00:00", 130, 450, 16, "Little Susitna", "Chum"], [1996, "August, 17 1996 00:00:00", 141, 450, 16, "Little Susitna", "Chum"], [1996, "August, 18 1996 00:00:00", 116, 450, 16, "Little Susitna", "Chum"], [1996, "August, 19 1996 00:00:00", 51, 450, 16, "Little Susitna", "Chum"], [1996, "August, 20 1996 00:00:00", 14, 450, 16, "Little Susitna", "Chum"], [1996, "August, 21 1996 00:00:00", 58, 450, 16, "Little Susitna", "Chum"], [1996, "August, 22 1996 00:00:00", 42, 450, 16, "Little Susitna", "Chum"], [1996, "August, 23 1996 00:00:00", 22, 450, 16, "Little Susitna", "Chum"], [1996, "August, 24 1996 00:00:00", 9, 450, 16, "Little Susitna", "Chum"], [1996, "August, 25 1996 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [1996, "August, 26 1996 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [1996, "August, 27 1996 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [1996, "August, 28 1996 00:00:00", 2, 450, 16, "Little Susitna", "Chum"], [1996, "August, 29 1996 00:00:00", 7, 450, 16, "Little Susitna", "Chum"], [1996, "August, 30 1996 00:00:00", 9, 450, 16, "Little Susitna", "Chum"], [1996, "August, 31 1996 00:00:00", 8, 450, 16, "Little Susitna", "Chum"], [1996, "September, 01 1996 00:00:00", 2, 450, 16, "Little Susitna", "Chum"], [1996, "September, 02 1996 00:00:00", 1, 450, 16, "Little Susitna", "Chum"], [1996, "September, 03 1996 00:00:00", 1, 450, 16, "Little Susitna", "Chum"], [1996, "September, 04 1996 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [1996, "September, 05 1996 00:00:00", 4, 450, 16, "Little Susitna", "Chum"], [1996, "September, 06 1996 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [1996, "September, 07 1996 00:00:00", 1, 450, 16, "Little Susitna", "Chum"], [1996, "September, 08 1996 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [1996, "September, 09 1996 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [1996, "September, 10 1996 00:00:00", 4, 450, 16, "Little Susitna", "Chum"], [1996, "September, 11 1996 00:00:00", 4, 450, 16, "Little Susitna", "Chum"], [1996, "September, 12 1996 00:00:00", 1, 450, 16, "Little Susitna", "Chum"], [1996, "September, 13 1996 00:00:00", 2, 450, 16, "Little Susitna", "Chum"], [1996, "September, 14 1996 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [1996, "September, 15 1996 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [1996, "September, 16 1996 00:00:00", 3, 450, 16, "Little Susitna", "Chum"], [1996, "September, 17 1996 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [1996, "September, 18 1996 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [1996, "September, 19 1996 00:00:00", 1, 450, 16, "Little Susitna", "Chum"], [1996, "September, 20 1996 00:00:00", 0, 450, 16, "Little Susitna", "Chum"], [1996, "September, 21 1996 00:00:00", 1, 450, 16, "Little Susitna", "Chum"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "August, 07 1996 00:00:00",
+      40,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 08 1996 00:00:00",
+      31,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 09 1996 00:00:00",
+      54,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 10 1996 00:00:00",
+      206,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 11 1996 00:00:00",
+      211,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 12 1996 00:00:00",
+      44,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 13 1996 00:00:00",
+      69,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 14 1996 00:00:00",
+      80,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 15 1996 00:00:00",
+      91,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 16 1996 00:00:00",
+      130,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 17 1996 00:00:00",
+      141,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 18 1996 00:00:00",
+      116,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 19 1996 00:00:00",
+      51,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 20 1996 00:00:00",
+      14,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 21 1996 00:00:00",
+      58,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 22 1996 00:00:00",
+      42,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 23 1996 00:00:00",
+      22,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 24 1996 00:00:00",
+      9,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 25 1996 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 26 1996 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 27 1996 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 28 1996 00:00:00",
+      2,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 29 1996 00:00:00",
+      7,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 30 1996 00:00:00",
+      9,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "August, 31 1996 00:00:00",
+      8,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 01 1996 00:00:00",
+      2,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 02 1996 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 03 1996 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 04 1996 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 05 1996 00:00:00",
+      4,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 06 1996 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 07 1996 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 08 1996 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 09 1996 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 10 1996 00:00:00",
+      4,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 11 1996 00:00:00",
+      4,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 12 1996 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 13 1996 00:00:00",
+      2,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 14 1996 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 15 1996 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 16 1996 00:00:00",
+      3,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 17 1996 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 18 1996 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 19 1996 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 20 1996 00:00:00",
+      0,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      1996,
+      "September, 21 1996 00:00:00",
+      1,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 16,
+    "species_id": "450",
+    "year": "1996",
+    "totalRecords": 46,
+    "totalCount": 1460,
+    "source": "ADFG JSON API",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

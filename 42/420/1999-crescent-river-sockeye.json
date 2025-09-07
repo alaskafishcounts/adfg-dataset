@@ -1,1 +1,373 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1999, "June, 27 1999 00:00:00", 56, 420, 42, "Crescent River", "Sockeye"], [1999, "June, 28 1999 00:00:00", 83, 420, 42, "Crescent River", "Sockeye"], [1999, "June, 29 1999 00:00:00", 324, 420, 42, "Crescent River", "Sockeye"], [1999, "June, 30 1999 00:00:00", 2093, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 01 1999 00:00:00", 3182, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 02 1999 00:00:00", 1924, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 03 1999 00:00:00", 1433, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 04 1999 00:00:00", 1638, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 05 1999 00:00:00", 1490, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 06 1999 00:00:00", 1362, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 07 1999 00:00:00", 748, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 08 1999 00:00:00", 2092, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 09 1999 00:00:00", 1309, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 10 1999 00:00:00", 748, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 11 1999 00:00:00", 433, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 12 1999 00:00:00", 2904, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 13 1999 00:00:00", 3109, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 14 1999 00:00:00", 1896, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 15 1999 00:00:00", 449, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 16 1999 00:00:00", 3219, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 17 1999 00:00:00", 5945, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 18 1999 00:00:00", 3491, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 19 1999 00:00:00", 2977, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 20 1999 00:00:00", 3858, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 21 1999 00:00:00", 1738, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 22 1999 00:00:00", 3361, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 23 1999 00:00:00", 2378, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 24 1999 00:00:00", 1724, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 25 1999 00:00:00", 1246, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 26 1999 00:00:00", 1403, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 27 1999 00:00:00", 1505, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 28 1999 00:00:00", 1974, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 29 1999 00:00:00", 1747, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 30 1999 00:00:00", 589, 420, 42, "Crescent River", "Sockeye"], [1999, "July, 31 1999 00:00:00", 374, 420, 42, "Crescent River", "Sockeye"], [1999, "August, 01 1999 00:00:00", 344, 420, 42, "Crescent River", "Sockeye"], [1999, "August, 02 1999 00:00:00", 542, 420, 42, "Crescent River", "Sockeye"], [1999, "August, 03 1999 00:00:00", 311, 420, 42, "Crescent River", "Sockeye"], [1999, "August, 04 1999 00:00:00", 520, 420, 42, "Crescent River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "June, 27 1999 00:00:00",
+      56,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 28 1999 00:00:00",
+      83,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 29 1999 00:00:00",
+      324,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "June, 30 1999 00:00:00",
+      2093,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 01 1999 00:00:00",
+      3182,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 02 1999 00:00:00",
+      1924,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 03 1999 00:00:00",
+      1433,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 04 1999 00:00:00",
+      1638,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 05 1999 00:00:00",
+      1490,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 06 1999 00:00:00",
+      1362,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 07 1999 00:00:00",
+      748,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 08 1999 00:00:00",
+      2092,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 09 1999 00:00:00",
+      1309,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 10 1999 00:00:00",
+      748,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 11 1999 00:00:00",
+      433,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 12 1999 00:00:00",
+      2904,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 13 1999 00:00:00",
+      3109,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 14 1999 00:00:00",
+      1896,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 15 1999 00:00:00",
+      449,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 16 1999 00:00:00",
+      3219,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 17 1999 00:00:00",
+      5945,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 18 1999 00:00:00",
+      3491,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 19 1999 00:00:00",
+      2977,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 20 1999 00:00:00",
+      3858,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 21 1999 00:00:00",
+      1738,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 22 1999 00:00:00",
+      3361,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 23 1999 00:00:00",
+      2378,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 24 1999 00:00:00",
+      1724,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 25 1999 00:00:00",
+      1246,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 26 1999 00:00:00",
+      1403,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 27 1999 00:00:00",
+      1505,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 28 1999 00:00:00",
+      1974,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 29 1999 00:00:00",
+      1747,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 30 1999 00:00:00",
+      589,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "July, 31 1999 00:00:00",
+      374,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "August, 01 1999 00:00:00",
+      344,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "August, 02 1999 00:00:00",
+      542,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "August, 03 1999 00:00:00",
+      311,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      1999,
+      "August, 04 1999 00:00:00",
+      520,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 42,
+    "species_id": "420",
+    "year": "1999",
+    "totalRecords": 39,
+    "totalCount": 66519,
+    "source": "ADFG JSON API",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

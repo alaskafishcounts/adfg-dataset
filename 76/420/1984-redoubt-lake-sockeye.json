@@ -1,1 +1,805 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1984, "June, 23 1984 00:00:00", 0, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "June, 24 1984 00:00:00", 0, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "June, 25 1984 00:00:00", 0, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "June, 26 1984 00:00:00", 1, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "June, 27 1984 00:00:00", 0, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "June, 28 1984 00:00:00", 37, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "June, 29 1984 00:00:00", 8, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "June, 30 1984 00:00:00", 3, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 01 1984 00:00:00", 8, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 02 1984 00:00:00", 11, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 03 1984 00:00:00", 108, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 04 1984 00:00:00", 69, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 05 1984 00:00:00", 133, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 06 1984 00:00:00", 22, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 07 1984 00:00:00", 26, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 08 1984 00:00:00", 34, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 09 1984 00:00:00", 71, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 10 1984 00:00:00", 463, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 11 1984 00:00:00", 251, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 12 1984 00:00:00", 116, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 13 1984 00:00:00", 205, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 14 1984 00:00:00", 530, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 15 1984 00:00:00", 433, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 16 1984 00:00:00", 456, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 17 1984 00:00:00", 131, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 18 1984 00:00:00", 97, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 19 1984 00:00:00", 419, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 20 1984 00:00:00", 223, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 21 1984 00:00:00", 204, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 22 1984 00:00:00", 215, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 23 1984 00:00:00", 85, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 24 1984 00:00:00", 1002, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 25 1984 00:00:00", 324, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 26 1984 00:00:00", 92, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 27 1984 00:00:00", 242, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 28 1984 00:00:00", 592, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 29 1984 00:00:00", 622, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 30 1984 00:00:00", 339, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "July, 31 1984 00:00:00", 155, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 01 1984 00:00:00", 47, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 02 1984 00:00:00", 332, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 03 1984 00:00:00", 119, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 04 1984 00:00:00", 29, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 05 1984 00:00:00", 353, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 06 1984 00:00:00", 20, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 07 1984 00:00:00", 509, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 08 1984 00:00:00", 292, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 09 1984 00:00:00", 191, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 10 1984 00:00:00", 85, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 11 1984 00:00:00", 272, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 12 1984 00:00:00", 76, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 13 1984 00:00:00", 133, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 14 1984 00:00:00", 155, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 15 1984 00:00:00", 82, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 16 1984 00:00:00", 82, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 17 1984 00:00:00", 35, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 18 1984 00:00:00", 28, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 19 1984 00:00:00", 125, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 20 1984 00:00:00", 149, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 21 1984 00:00:00", 17, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 22 1984 00:00:00", 129, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 23 1984 00:00:00", 68, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 24 1984 00:00:00", 41, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 25 1984 00:00:00", 65, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 26 1984 00:00:00", 68, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 27 1984 00:00:00", 10, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 28 1984 00:00:00", 12, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 29 1984 00:00:00", 56, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 30 1984 00:00:00", 20, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "August, 31 1984 00:00:00", 9, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 01 1984 00:00:00", 17, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 02 1984 00:00:00", 8, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 03 1984 00:00:00", 25, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 04 1984 00:00:00", 27, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 05 1984 00:00:00", 25, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 06 1984 00:00:00", 18, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 07 1984 00:00:00", 21, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 08 1984 00:00:00", 12, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 09 1984 00:00:00", 11, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 10 1984 00:00:00", 5, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 11 1984 00:00:00", 3, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 12 1984 00:00:00", 5, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 13 1984 00:00:00", 4, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 14 1984 00:00:00", 2, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 15 1984 00:00:00", 8, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 16 1984 00:00:00", 0, 420, 76, "Redoubt Lake", "Sockeye"], [1984, "September, 17 1984 00:00:00", 3, 420, 76, "Redoubt Lake", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "June, 23 1984 00:00:00",
+      0,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 24 1984 00:00:00",
+      0,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 25 1984 00:00:00",
+      0,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 26 1984 00:00:00",
+      1,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 27 1984 00:00:00",
+      0,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 28 1984 00:00:00",
+      37,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 29 1984 00:00:00",
+      8,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "June, 30 1984 00:00:00",
+      3,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 01 1984 00:00:00",
+      8,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 02 1984 00:00:00",
+      11,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 03 1984 00:00:00",
+      108,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 04 1984 00:00:00",
+      69,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 05 1984 00:00:00",
+      133,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 06 1984 00:00:00",
+      22,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 07 1984 00:00:00",
+      26,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 08 1984 00:00:00",
+      34,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 09 1984 00:00:00",
+      71,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 10 1984 00:00:00",
+      463,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 11 1984 00:00:00",
+      251,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 12 1984 00:00:00",
+      116,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 13 1984 00:00:00",
+      205,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 14 1984 00:00:00",
+      530,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 15 1984 00:00:00",
+      433,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 16 1984 00:00:00",
+      456,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 17 1984 00:00:00",
+      131,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 18 1984 00:00:00",
+      97,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 19 1984 00:00:00",
+      419,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 20 1984 00:00:00",
+      223,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 21 1984 00:00:00",
+      204,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 22 1984 00:00:00",
+      215,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 23 1984 00:00:00",
+      85,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 24 1984 00:00:00",
+      1002,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 25 1984 00:00:00",
+      324,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 26 1984 00:00:00",
+      92,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 27 1984 00:00:00",
+      242,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 28 1984 00:00:00",
+      592,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 29 1984 00:00:00",
+      622,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 30 1984 00:00:00",
+      339,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 31 1984 00:00:00",
+      155,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 01 1984 00:00:00",
+      47,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 02 1984 00:00:00",
+      332,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 03 1984 00:00:00",
+      119,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 04 1984 00:00:00",
+      29,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 05 1984 00:00:00",
+      353,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 06 1984 00:00:00",
+      20,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 07 1984 00:00:00",
+      509,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 08 1984 00:00:00",
+      292,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 09 1984 00:00:00",
+      191,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 10 1984 00:00:00",
+      85,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 11 1984 00:00:00",
+      272,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 12 1984 00:00:00",
+      76,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 13 1984 00:00:00",
+      133,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 14 1984 00:00:00",
+      155,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 15 1984 00:00:00",
+      82,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 16 1984 00:00:00",
+      82,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 17 1984 00:00:00",
+      35,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 18 1984 00:00:00",
+      28,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 19 1984 00:00:00",
+      125,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 20 1984 00:00:00",
+      149,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 21 1984 00:00:00",
+      17,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 22 1984 00:00:00",
+      129,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 23 1984 00:00:00",
+      68,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 24 1984 00:00:00",
+      41,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 25 1984 00:00:00",
+      65,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 26 1984 00:00:00",
+      68,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 27 1984 00:00:00",
+      10,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 28 1984 00:00:00",
+      12,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 29 1984 00:00:00",
+      56,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 30 1984 00:00:00",
+      20,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 31 1984 00:00:00",
+      9,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 01 1984 00:00:00",
+      17,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 02 1984 00:00:00",
+      8,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 03 1984 00:00:00",
+      25,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 04 1984 00:00:00",
+      27,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 05 1984 00:00:00",
+      25,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 06 1984 00:00:00",
+      18,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 07 1984 00:00:00",
+      21,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 08 1984 00:00:00",
+      12,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 09 1984 00:00:00",
+      11,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 10 1984 00:00:00",
+      5,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 11 1984 00:00:00",
+      3,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 12 1984 00:00:00",
+      5,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 13 1984 00:00:00",
+      4,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 14 1984 00:00:00",
+      2,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 15 1984 00:00:00",
+      8,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 16 1984 00:00:00",
+      0,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 17 1984 00:00:00",
+      3,
+      420,
+      76,
+      "Redoubt Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 76,
+    "species_id": "420",
+    "year": "1984",
+    "totalRecords": 87,
+    "totalCount": 11530,
+    "source": "ADFG JSON API",
+    "last_updated": "1984-12-31T00:00:00"
+  }
+}

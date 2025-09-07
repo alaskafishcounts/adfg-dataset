@@ -1,1 +1,355 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1970, "June, 18 1970 00:00:00", 4, 420, 50, "Wood River", "Sockeye"], [1970, "June, 19 1970 00:00:00", 24, 420, 50, "Wood River", "Sockeye"], [1970, "June, 20 1970 00:00:00", 18, 420, 50, "Wood River", "Sockeye"], [1970, "June, 21 1970 00:00:00", 12, 420, 50, "Wood River", "Sockeye"], [1970, "June, 23 1970 00:00:00", 54, 420, 50, "Wood River", "Sockeye"], [1970, "June, 24 1970 00:00:00", 222, 420, 50, "Wood River", "Sockeye"], [1970, "June, 25 1970 00:00:00", 222, 420, 50, "Wood River", "Sockeye"], [1970, "June, 26 1970 00:00:00", 132, 420, 50, "Wood River", "Sockeye"], [1970, "June, 27 1970 00:00:00", 270, 420, 50, "Wood River", "Sockeye"], [1970, "June, 28 1970 00:00:00", 390, 420, 50, "Wood River", "Sockeye"], [1970, "June, 29 1970 00:00:00", 648, 420, 50, "Wood River", "Sockeye"], [1970, "June, 30 1970 00:00:00", 618, 420, 50, "Wood River", "Sockeye"], [1970, "July, 01 1970 00:00:00", 1398, 420, 50, "Wood River", "Sockeye"], [1970, "July, 02 1970 00:00:00", 1182, 420, 50, "Wood River", "Sockeye"], [1970, "July, 03 1970 00:00:00", 2268, 420, 50, "Wood River", "Sockeye"], [1970, "July, 04 1970 00:00:00", 122418, 420, 50, "Wood River", "Sockeye"], [1970, "July, 05 1970 00:00:00", 116364, 420, 50, "Wood River", "Sockeye"], [1970, "July, 06 1970 00:00:00", 147930, 420, 50, "Wood River", "Sockeye"], [1970, "July, 07 1970 00:00:00", 200526, 420, 50, "Wood River", "Sockeye"], [1970, "July, 08 1970 00:00:00", 287340, 420, 50, "Wood River", "Sockeye"], [1970, "July, 09 1970 00:00:00", 75450, 420, 50, "Wood River", "Sockeye"], [1970, "July, 10 1970 00:00:00", 37218, 420, 50, "Wood River", "Sockeye"], [1970, "July, 11 1970 00:00:00", 35310, 420, 50, "Wood River", "Sockeye"], [1970, "July, 12 1970 00:00:00", 47364, 420, 50, "Wood River", "Sockeye"], [1970, "July, 13 1970 00:00:00", 42570, 420, 50, "Wood River", "Sockeye"], [1970, "July, 14 1970 00:00:00", 19020, 420, 50, "Wood River", "Sockeye"], [1970, "July, 15 1970 00:00:00", 10278, 420, 50, "Wood River", "Sockeye"], [1970, "July, 16 1970 00:00:00", 3744, 420, 50, "Wood River", "Sockeye"], [1970, "July, 17 1970 00:00:00", 2790, 420, 50, "Wood River", "Sockeye"], [1970, "July, 18 1970 00:00:00", 1488, 420, 50, "Wood River", "Sockeye"], [1970, "July, 19 1970 00:00:00", 1338, 420, 50, "Wood River", "Sockeye"], [1970, "July, 20 1970 00:00:00", 1026, 420, 50, "Wood River", "Sockeye"], [1970, "July, 21 1970 00:00:00", 978, 420, 50, "Wood River", "Sockeye"], [1970, "July, 22 1970 00:00:00", 672, 420, 50, "Wood River", "Sockeye"], [1970, "July, 23 1970 00:00:00", 426, 420, 50, "Wood River", "Sockeye"], [1970, "July, 24 1970 00:00:00", 186, 420, 50, "Wood River", "Sockeye"], [1970, "July, 25 1970 00:00:00", 66, 420, 50, "Wood River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1970,
+      "June, 18 1970 00:00:00",
+      4,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 19 1970 00:00:00",
+      24,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 20 1970 00:00:00",
+      18,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 21 1970 00:00:00",
+      12,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 23 1970 00:00:00",
+      54,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 24 1970 00:00:00",
+      222,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 25 1970 00:00:00",
+      222,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 26 1970 00:00:00",
+      132,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 27 1970 00:00:00",
+      270,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 28 1970 00:00:00",
+      390,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 29 1970 00:00:00",
+      648,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "June, 30 1970 00:00:00",
+      618,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 01 1970 00:00:00",
+      1398,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 02 1970 00:00:00",
+      1182,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 03 1970 00:00:00",
+      2268,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 04 1970 00:00:00",
+      122418,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 05 1970 00:00:00",
+      116364,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 06 1970 00:00:00",
+      147930,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 07 1970 00:00:00",
+      200526,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 08 1970 00:00:00",
+      287340,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 09 1970 00:00:00",
+      75450,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 10 1970 00:00:00",
+      37218,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 11 1970 00:00:00",
+      35310,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 12 1970 00:00:00",
+      47364,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 13 1970 00:00:00",
+      42570,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 14 1970 00:00:00",
+      19020,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 15 1970 00:00:00",
+      10278,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 16 1970 00:00:00",
+      3744,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 17 1970 00:00:00",
+      2790,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 18 1970 00:00:00",
+      1488,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 19 1970 00:00:00",
+      1338,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 20 1970 00:00:00",
+      1026,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 21 1970 00:00:00",
+      978,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 22 1970 00:00:00",
+      672,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 23 1970 00:00:00",
+      426,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 24 1970 00:00:00",
+      186,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1970,
+      "July, 25 1970 00:00:00",
+      66,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 50,
+    "species_id": "420",
+    "year": "1970",
+    "totalRecords": 37,
+    "totalCount": 1161964,
+    "source": "ADFG JSON API",
+    "last_updated": "1970-12-31T00:00:00"
+  }
+}

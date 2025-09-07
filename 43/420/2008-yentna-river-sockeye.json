@@ -1,1 +1,337 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2008, "July, 07 2008 00:00:00", 102, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 08 2008 00:00:00", 113, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 09 2008 00:00:00", 136, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 10 2008 00:00:00", 159, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 11 2008 00:00:00", 131, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 12 2008 00:00:00", 299, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 13 2008 00:00:00", 212, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 14 2008 00:00:00", 370, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 15 2008 00:00:00", 4635, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 16 2008 00:00:00", 7164, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 17 2008 00:00:00", 7249, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 18 2008 00:00:00", 6324, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 19 2008 00:00:00", 8018, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 20 2008 00:00:00", 13571, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 21 2008 00:00:00", 8854, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 22 2008 00:00:00", 5781, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 23 2008 00:00:00", 7147, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 24 2008 00:00:00", 3760, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 25 2008 00:00:00", 2677, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 26 2008 00:00:00", 1053, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 27 2008 00:00:00", 547, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 28 2008 00:00:00", 868, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 29 2008 00:00:00", 1103, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 30 2008 00:00:00", 595, 420, 43, "Yentna River", "Sockeye"], [2008, "July, 31 2008 00:00:00", 932, 420, 43, "Yentna River", "Sockeye"], [2008, "August, 01 2008 00:00:00", 669, 420, 43, "Yentna River", "Sockeye"], [2008, "August, 02 2008 00:00:00", 883, 420, 43, "Yentna River", "Sockeye"], [2008, "August, 03 2008 00:00:00", 1317, 420, 43, "Yentna River", "Sockeye"], [2008, "August, 04 2008 00:00:00", 1770, 420, 43, "Yentna River", "Sockeye"], [2008, "August, 05 2008 00:00:00", 1351, 420, 43, "Yentna River", "Sockeye"], [2008, "August, 06 2008 00:00:00", 700, 420, 43, "Yentna River", "Sockeye"], [2008, "August, 07 2008 00:00:00", 385, 420, 43, "Yentna River", "Sockeye"], [2008, "August, 08 2008 00:00:00", 307, 420, 43, "Yentna River", "Sockeye"], [2008, "August, 09 2008 00:00:00", 489, 420, 43, "Yentna River", "Sockeye"], [2008, "August, 10 2008 00:00:00", 509, 420, 43, "Yentna River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "July, 07 2008 00:00:00",
+      102,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 08 2008 00:00:00",
+      113,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 09 2008 00:00:00",
+      136,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 10 2008 00:00:00",
+      159,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 11 2008 00:00:00",
+      131,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 12 2008 00:00:00",
+      299,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 13 2008 00:00:00",
+      212,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 14 2008 00:00:00",
+      370,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 15 2008 00:00:00",
+      4635,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 16 2008 00:00:00",
+      7164,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 17 2008 00:00:00",
+      7249,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 18 2008 00:00:00",
+      6324,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 19 2008 00:00:00",
+      8018,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 20 2008 00:00:00",
+      13571,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 21 2008 00:00:00",
+      8854,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 22 2008 00:00:00",
+      5781,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 23 2008 00:00:00",
+      7147,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 24 2008 00:00:00",
+      3760,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 25 2008 00:00:00",
+      2677,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 26 2008 00:00:00",
+      1053,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 27 2008 00:00:00",
+      547,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 28 2008 00:00:00",
+      868,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 29 2008 00:00:00",
+      1103,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 30 2008 00:00:00",
+      595,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 31 2008 00:00:00",
+      932,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 01 2008 00:00:00",
+      669,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 02 2008 00:00:00",
+      883,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 03 2008 00:00:00",
+      1317,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 04 2008 00:00:00",
+      1770,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 05 2008 00:00:00",
+      1351,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 06 2008 00:00:00",
+      700,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 07 2008 00:00:00",
+      385,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 08 2008 00:00:00",
+      307,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 09 2008 00:00:00",
+      489,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "August, 10 2008 00:00:00",
+      509,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 43,
+    "species_id": "420",
+    "year": "2008",
+    "totalRecords": 35,
+    "totalCount": 90180,
+    "source": "ADFG JSON API",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

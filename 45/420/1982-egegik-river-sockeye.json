@@ -1,1 +1,274 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1982, "June, 21 1982 00:00:00", 24, 420, 45, "Egegik River", "Sockeye"], [1982, "June, 22 1982 00:00:00", 180, 420, 45, "Egegik River", "Sockeye"], [1982, "June, 23 1982 00:00:00", 24, 420, 45, "Egegik River", "Sockeye"], [1982, "June, 24 1982 00:00:00", 54, 420, 45, "Egegik River", "Sockeye"], [1982, "June, 25 1982 00:00:00", 6, 420, 45, "Egegik River", "Sockeye"], [1982, "June, 26 1982 00:00:00", 6, 420, 45, "Egegik River", "Sockeye"], [1982, "June, 28 1982 00:00:00", 648, 420, 45, "Egegik River", "Sockeye"], [1982, "June, 29 1982 00:00:00", 720, 420, 45, "Egegik River", "Sockeye"], [1982, "June, 30 1982 00:00:00", 234, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 01 1982 00:00:00", 1920, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 02 1982 00:00:00", 20214, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 04 1982 00:00:00", 7206, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 05 1982 00:00:00", 39198, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 06 1982 00:00:00", 30042, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 07 1982 00:00:00", 51516, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 08 1982 00:00:00", 99258, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 09 1982 00:00:00", 143424, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 10 1982 00:00:00", 184158, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 11 1982 00:00:00", 151122, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 12 1982 00:00:00", 137766, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 13 1982 00:00:00", 98736, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 14 1982 00:00:00", 49746, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 15 1982 00:00:00", 13458, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 16 1982 00:00:00", 1164, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 17 1982 00:00:00", 1470, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 18 1982 00:00:00", 558, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 19 1982 00:00:00", 870, 420, 45, "Egegik River", "Sockeye"], [1982, "July, 20 1982 00:00:00", 918, 420, 45, "Egegik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "June, 21 1982 00:00:00",
+      24,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 22 1982 00:00:00",
+      180,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 23 1982 00:00:00",
+      24,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 24 1982 00:00:00",
+      54,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 25 1982 00:00:00",
+      6,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 26 1982 00:00:00",
+      6,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 28 1982 00:00:00",
+      648,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 29 1982 00:00:00",
+      720,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "June, 30 1982 00:00:00",
+      234,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 01 1982 00:00:00",
+      1920,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 02 1982 00:00:00",
+      20214,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 04 1982 00:00:00",
+      7206,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 05 1982 00:00:00",
+      39198,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 06 1982 00:00:00",
+      30042,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 07 1982 00:00:00",
+      51516,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 08 1982 00:00:00",
+      99258,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 09 1982 00:00:00",
+      143424,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 10 1982 00:00:00",
+      184158,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 11 1982 00:00:00",
+      151122,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 12 1982 00:00:00",
+      137766,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 13 1982 00:00:00",
+      98736,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 14 1982 00:00:00",
+      49746,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 15 1982 00:00:00",
+      13458,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 16 1982 00:00:00",
+      1164,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 17 1982 00:00:00",
+      1470,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 18 1982 00:00:00",
+      558,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 19 1982 00:00:00",
+      870,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1982,
+      "July, 20 1982 00:00:00",
+      918,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 45,
+    "species_id": "420",
+    "year": "1982",
+    "totalRecords": 28,
+    "totalCount": 1034640,
+    "source": "ADFG JSON API",
+    "last_updated": "1982-12-31T00:00:00"
+  }
+}

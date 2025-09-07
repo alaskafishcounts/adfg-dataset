@@ -1,1 +1,256 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1994, "July, 03 1994 00:00:00", 228, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 04 1994 00:00:00", 480, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 05 1994 00:00:00", 252, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 06 1994 00:00:00", 480, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 07 1994 00:00:00", 258, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 08 1994 00:00:00", 120, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 09 1994 00:00:00", 4830, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 10 1994 00:00:00", 101970, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 11 1994 00:00:00", 204678, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 12 1994 00:00:00", 207204, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 13 1994 00:00:00", 50076, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 14 1994 00:00:00", 24162, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 15 1994 00:00:00", 31284, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 16 1994 00:00:00", 63144, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 17 1994 00:00:00", 38490, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 18 1994 00:00:00", 38982, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 19 1994 00:00:00", 56484, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 20 1994 00:00:00", 88884, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 21 1994 00:00:00", 100134, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 22 1994 00:00:00", 19836, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 23 1994 00:00:00", 12942, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 24 1994 00:00:00", 8454, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 25 1994 00:00:00", 6330, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 26 1994 00:00:00", 3216, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 27 1994 00:00:00", 4668, 420, 44, "Ugashik River", "Sockeye"], [1994, "July, 28 1994 00:00:00", 13272, 420, 44, "Ugashik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "July, 03 1994 00:00:00",
+      228,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 04 1994 00:00:00",
+      480,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 05 1994 00:00:00",
+      252,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 06 1994 00:00:00",
+      480,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 07 1994 00:00:00",
+      258,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 08 1994 00:00:00",
+      120,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 09 1994 00:00:00",
+      4830,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 10 1994 00:00:00",
+      101970,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 11 1994 00:00:00",
+      204678,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 12 1994 00:00:00",
+      207204,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 13 1994 00:00:00",
+      50076,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 14 1994 00:00:00",
+      24162,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 15 1994 00:00:00",
+      31284,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 16 1994 00:00:00",
+      63144,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 17 1994 00:00:00",
+      38490,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 18 1994 00:00:00",
+      38982,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 19 1994 00:00:00",
+      56484,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 20 1994 00:00:00",
+      88884,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 21 1994 00:00:00",
+      100134,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 22 1994 00:00:00",
+      19836,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 23 1994 00:00:00",
+      12942,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 24 1994 00:00:00",
+      8454,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 25 1994 00:00:00",
+      6330,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 26 1994 00:00:00",
+      3216,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 27 1994 00:00:00",
+      4668,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 28 1994 00:00:00",
+      13272,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 44,
+    "species_id": "420",
+    "year": "1994",
+    "totalRecords": 26,
+    "totalCount": 1080858,
+    "source": "ADFG JSON API",
+    "last_updated": "1994-12-31T00:00:00"
+  }
+}

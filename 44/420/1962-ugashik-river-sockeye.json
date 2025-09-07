@@ -1,1 +1,337 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1962, "July, 03 1962 00:00:00", 2268, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 04 1962 00:00:00", 606, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 05 1962 00:00:00", 90, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 06 1962 00:00:00", 18, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 07 1962 00:00:00", 18, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 08 1962 00:00:00", 4986, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 09 1962 00:00:00", 20460, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 10 1962 00:00:00", 9498, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 11 1962 00:00:00", 6966, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 12 1962 00:00:00", 5280, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 13 1962 00:00:00", 1464, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 14 1962 00:00:00", 144, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 15 1962 00:00:00", 18, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 16 1962 00:00:00", 133980, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 17 1962 00:00:00", 49890, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 18 1962 00:00:00", 4662, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 19 1962 00:00:00", 2136, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 20 1962 00:00:00", 5112, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 21 1962 00:00:00", 834, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 22 1962 00:00:00", 888, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 23 1962 00:00:00", 294, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 24 1962 00:00:00", 480, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 25 1962 00:00:00", 42, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 26 1962 00:00:00", 1740, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 27 1962 00:00:00", 546, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 28 1962 00:00:00", 228, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 29 1962 00:00:00", 678, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 30 1962 00:00:00", 300, 420, 44, "Ugashik River", "Sockeye"], [1962, "July, 31 1962 00:00:00", 762, 420, 44, "Ugashik River", "Sockeye"], [1962, "August, 01 1962 00:00:00", 198, 420, 44, "Ugashik River", "Sockeye"], [1962, "August, 02 1962 00:00:00", 360, 420, 44, "Ugashik River", "Sockeye"], [1962, "August, 03 1962 00:00:00", 192, 420, 44, "Ugashik River", "Sockeye"], [1962, "August, 04 1962 00:00:00", 84, 420, 44, "Ugashik River", "Sockeye"], [1962, "August, 05 1962 00:00:00", 174, 420, 44, "Ugashik River", "Sockeye"], [1962, "August, 06 1962 00:00:00", 30, 420, 44, "Ugashik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1962,
+      "July, 03 1962 00:00:00",
+      2268,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 04 1962 00:00:00",
+      606,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 05 1962 00:00:00",
+      90,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 06 1962 00:00:00",
+      18,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 07 1962 00:00:00",
+      18,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 08 1962 00:00:00",
+      4986,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 09 1962 00:00:00",
+      20460,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 10 1962 00:00:00",
+      9498,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 11 1962 00:00:00",
+      6966,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 12 1962 00:00:00",
+      5280,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 13 1962 00:00:00",
+      1464,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 14 1962 00:00:00",
+      144,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 15 1962 00:00:00",
+      18,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 16 1962 00:00:00",
+      133980,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 17 1962 00:00:00",
+      49890,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 18 1962 00:00:00",
+      4662,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 19 1962 00:00:00",
+      2136,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 20 1962 00:00:00",
+      5112,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 21 1962 00:00:00",
+      834,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 22 1962 00:00:00",
+      888,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 23 1962 00:00:00",
+      294,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 24 1962 00:00:00",
+      480,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 25 1962 00:00:00",
+      42,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 26 1962 00:00:00",
+      1740,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 27 1962 00:00:00",
+      546,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 28 1962 00:00:00",
+      228,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 29 1962 00:00:00",
+      678,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 30 1962 00:00:00",
+      300,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "July, 31 1962 00:00:00",
+      762,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 01 1962 00:00:00",
+      198,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 02 1962 00:00:00",
+      360,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 03 1962 00:00:00",
+      192,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 04 1962 00:00:00",
+      84,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 05 1962 00:00:00",
+      174,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1962,
+      "August, 06 1962 00:00:00",
+      30,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 44,
+    "species_id": "420",
+    "year": "1962",
+    "totalRecords": 35,
+    "totalCount": 255426,
+    "source": "ADFG JSON API",
+    "last_updated": "1962-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,301 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1986, "June, 24 1986 00:00:00", 174, 420, 50, "Wood River", "Sockeye"], [1986, "June, 25 1986 00:00:00", 1014, 420, 50, "Wood River", "Sockeye"], [1986, "June, 26 1986 00:00:00", 444, 420, 50, "Wood River", "Sockeye"], [1986, "June, 27 1986 00:00:00", 648, 420, 50, "Wood River", "Sockeye"], [1986, "June, 28 1986 00:00:00", 414, 420, 50, "Wood River", "Sockeye"], [1986, "June, 29 1986 00:00:00", 330, 420, 50, "Wood River", "Sockeye"], [1986, "June, 30 1986 00:00:00", 756, 420, 50, "Wood River", "Sockeye"], [1986, "July, 01 1986 00:00:00", 4860, 420, 50, "Wood River", "Sockeye"], [1986, "July, 02 1986 00:00:00", 11664, 420, 50, "Wood River", "Sockeye"], [1986, "July, 03 1986 00:00:00", 6984, 420, 50, "Wood River", "Sockeye"], [1986, "July, 04 1986 00:00:00", 28062, 420, 50, "Wood River", "Sockeye"], [1986, "July, 05 1986 00:00:00", 36246, 420, 50, "Wood River", "Sockeye"], [1986, "July, 06 1986 00:00:00", 37104, 420, 50, "Wood River", "Sockeye"], [1986, "July, 07 1986 00:00:00", 46620, 420, 50, "Wood River", "Sockeye"], [1986, "July, 08 1986 00:00:00", 34050, 420, 50, "Wood River", "Sockeye"], [1986, "July, 09 1986 00:00:00", 51084, 420, 50, "Wood River", "Sockeye"], [1986, "July, 10 1986 00:00:00", 112446, 420, 50, "Wood River", "Sockeye"], [1986, "July, 11 1986 00:00:00", 135834, 420, 50, "Wood River", "Sockeye"], [1986, "July, 12 1986 00:00:00", 126936, 420, 50, "Wood River", "Sockeye"], [1986, "July, 13 1986 00:00:00", 70194, 420, 50, "Wood River", "Sockeye"], [1986, "July, 14 1986 00:00:00", 29622, 420, 50, "Wood River", "Sockeye"], [1986, "July, 15 1986 00:00:00", 19524, 420, 50, "Wood River", "Sockeye"], [1986, "July, 16 1986 00:00:00", 19650, 420, 50, "Wood River", "Sockeye"], [1986, "July, 17 1986 00:00:00", 9030, 420, 50, "Wood River", "Sockeye"], [1986, "July, 18 1986 00:00:00", 7134, 420, 50, "Wood River", "Sockeye"], [1986, "July, 19 1986 00:00:00", 3240, 420, 50, "Wood River", "Sockeye"], [1986, "July, 20 1986 00:00:00", 3930, 420, 50, "Wood River", "Sockeye"], [1986, "July, 21 1986 00:00:00", 3138, 420, 50, "Wood River", "Sockeye"], [1986, "July, 22 1986 00:00:00", 4602, 420, 50, "Wood River", "Sockeye"], [1986, "July, 23 1986 00:00:00", 4734, 420, 50, "Wood River", "Sockeye"], [1986, "July, 24 1986 00:00:00", 8184, 420, 50, "Wood River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "June, 24 1986 00:00:00",
+      174,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 25 1986 00:00:00",
+      1014,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 26 1986 00:00:00",
+      444,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 27 1986 00:00:00",
+      648,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 28 1986 00:00:00",
+      414,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 29 1986 00:00:00",
+      330,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 30 1986 00:00:00",
+      756,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 01 1986 00:00:00",
+      4860,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 02 1986 00:00:00",
+      11664,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 03 1986 00:00:00",
+      6984,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 04 1986 00:00:00",
+      28062,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 05 1986 00:00:00",
+      36246,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 06 1986 00:00:00",
+      37104,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 07 1986 00:00:00",
+      46620,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 08 1986 00:00:00",
+      34050,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 09 1986 00:00:00",
+      51084,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 10 1986 00:00:00",
+      112446,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 11 1986 00:00:00",
+      135834,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 12 1986 00:00:00",
+      126936,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 13 1986 00:00:00",
+      70194,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 14 1986 00:00:00",
+      29622,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 15 1986 00:00:00",
+      19524,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 16 1986 00:00:00",
+      19650,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 17 1986 00:00:00",
+      9030,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 18 1986 00:00:00",
+      7134,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 19 1986 00:00:00",
+      3240,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 20 1986 00:00:00",
+      3930,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 21 1986 00:00:00",
+      3138,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 22 1986 00:00:00",
+      4602,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 23 1986 00:00:00",
+      4734,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 24 1986 00:00:00",
+      8184,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 50,
+    "species_id": "420",
+    "year": "1986",
+    "totalRecords": 31,
+    "totalCount": 818652,
+    "source": "ADFG JSON API",
+    "last_updated": "1986-12-31T00:00:00"
+  }
+}

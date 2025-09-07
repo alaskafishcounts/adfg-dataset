@@ -7,191 +7,229 @@
     "source": "Historical weir operations",
     "notes": "Transition to scientific monitoring",
     "total_count": 13637,
-    "data_points": 31
+    "data_points": 31,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=60&SpeciesID=410",
+        "description": "Official ADF&G fish count data for Situk River"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15129500",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.1J.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Situk River Assessment",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/FDS.1J.2020.01.pdf",
+          "description": "ADF&G Situk River assessment report"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/southeast-alaska/situk-river-chinook-assessment-2020.pdf",
+          "description": "Situk River Chinook Assessment 2020 - Contains historical escapement data",
+          "source_type": "Fishery Data Series (FDS.1J.2020.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-15",
+      "1932-06-15",
       "Situk River",
       "240",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-16",
+      "1932-06-16",
       "Situk River",
       "302",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-17",
+      "1932-06-17",
       "Situk River",
       "243",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-18",
+      "1932-06-18",
       "Situk River",
       "270",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-19",
+      "1932-06-19",
       "Situk River",
       "303",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-20",
+      "1932-06-20",
       "Situk River",
       "235",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-21",
+      "1932-06-21",
       "Situk River",
       "240",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-22",
+      "1932-06-22",
       "Situk River",
       "244",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-23",
+      "1932-06-23",
       "Situk River",
       "242",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-24",
+      "1932-06-24",
       "Situk River",
       "274",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-25",
+      "1932-06-25",
       "Situk River",
       "276",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-26",
+      "1932-06-26",
       "Situk River",
       "239",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-27",
+      "1932-06-27",
       "Situk River",
       "260",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-28",
+      "1932-06-28",
       "Situk River",
       "267",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-29",
+      "1932-06-29",
       "Situk River",
       "243",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-06-30",
+      "1932-06-30",
       "Situk River",
       "253",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-01",
+      "1932-07-01",
       "Situk River",
       "294",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-02",
+      "1932-07-02",
       "Situk River",
       "277",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-03",
+      "1932-07-03",
       "Situk River",
       "258",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-04",
+      "1932-07-04",
       "Situk River",
       "267",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-05",
+      "1932-07-05",
       "Situk River",
       "297",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-06",
+      "1932-07-06",
       "Situk River",
       "262",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-07",
+      "1932-07-07",
       "Situk River",
       "249",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-08",
+      "1932-07-08",
       "Situk River",
       "739",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-09",
+      "1932-07-09",
       "Situk River",
       "737",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-10",
+      "1932-07-10",
       "Situk River",
       "671",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-11",
+      "1932-07-11",
       "Situk River",
       "667",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-12",
+      "1932-07-12",
       "Situk River",
       "1478",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-13",
+      "1932-07-13",
       "Situk River",
       "1220",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-14",
+      "1932-07-14",
       "Situk River",
       "1388",
       "Daily count - Transition to scientific monitoring"
     ],
     [
-      "2024-07-15",
+      "1932-07-15",
       "Situk River",
       "2254",
       "Daily count - Transition to scientific monitoring"

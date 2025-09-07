@@ -1,1 +1,427 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2023, "June, 08 2023 00:00:00", 0, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 09 2023 00:00:00", 0, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 10 2023 00:00:00", 0, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 11 2023 00:00:00", 0, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 12 2023 00:00:00", 5, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 13 2023 00:00:00", 4, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 14 2023 00:00:00", 7, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 15 2023 00:00:00", 3, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 16 2023 00:00:00", 1, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 17 2023 00:00:00", 28, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 18 2023 00:00:00", 40, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 19 2023 00:00:00", 153, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 20 2023 00:00:00", 243, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 21 2023 00:00:00", 452, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 22 2023 00:00:00", 331, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 23 2023 00:00:00", 554, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 24 2023 00:00:00", 368, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 25 2023 00:00:00", 1089, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 26 2023 00:00:00", 650, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 27 2023 00:00:00", 527, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 28 2023 00:00:00", 700, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 29 2023 00:00:00", 976, 420, 34, "Sandy River", "Sockeye"], [2023, "June, 30 2023 00:00:00", 856, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 01 2023 00:00:00", 607, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 02 2023 00:00:00", 1250, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 03 2023 00:00:00", 987, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 04 2023 00:00:00", 110, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 05 2023 00:00:00", 760, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 06 2023 00:00:00", 1827, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 07 2023 00:00:00", 1375, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 08 2023 00:00:00", 2034, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 09 2023 00:00:00", 1228, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 10 2023 00:00:00", 405, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 11 2023 00:00:00", 1880, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 12 2023 00:00:00", 955, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 13 2023 00:00:00", 1358, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 14 2023 00:00:00", 2386, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 15 2023 00:00:00", 1873, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 16 2023 00:00:00", 603, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 17 2023 00:00:00", 1867, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 18 2023 00:00:00", 1739, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 19 2023 00:00:00", 1753, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 20 2023 00:00:00", 2273, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 21 2023 00:00:00", 2000, 420, 34, "Sandy River", "Sockeye"], [2023, "July, 23 2023 00:00:00", null, 420, 34, "Sandy River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "June, 08 2023 00:00:00",
+      0,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 09 2023 00:00:00",
+      0,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 10 2023 00:00:00",
+      0,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 11 2023 00:00:00",
+      0,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 12 2023 00:00:00",
+      5,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 13 2023 00:00:00",
+      4,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 14 2023 00:00:00",
+      7,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 15 2023 00:00:00",
+      3,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 16 2023 00:00:00",
+      1,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 17 2023 00:00:00",
+      28,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 18 2023 00:00:00",
+      40,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 19 2023 00:00:00",
+      153,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 20 2023 00:00:00",
+      243,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 21 2023 00:00:00",
+      452,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 22 2023 00:00:00",
+      331,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 23 2023 00:00:00",
+      554,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 24 2023 00:00:00",
+      368,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 25 2023 00:00:00",
+      1089,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 26 2023 00:00:00",
+      650,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 27 2023 00:00:00",
+      527,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 28 2023 00:00:00",
+      700,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 29 2023 00:00:00",
+      976,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "June, 30 2023 00:00:00",
+      856,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 01 2023 00:00:00",
+      607,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 02 2023 00:00:00",
+      1250,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 03 2023 00:00:00",
+      987,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 04 2023 00:00:00",
+      110,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 05 2023 00:00:00",
+      760,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 06 2023 00:00:00",
+      1827,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 07 2023 00:00:00",
+      1375,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 08 2023 00:00:00",
+      2034,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 09 2023 00:00:00",
+      1228,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      405,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      1880,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      955,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      1358,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      2386,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      1873,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      603,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      1867,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      1739,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      1753,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      2273,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      2000,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "July, 23 2023 00:00:00",
+      null,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 34,
+    "species_id": "420",
+    "year": "2023",
+    "totalRecords": 45,
+    "totalCount": 36257,
+    "source": "ADFG JSON API",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

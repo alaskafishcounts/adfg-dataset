@@ -1,1 +1,130 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2016, "July, 27 2016 00:00:00", 2, 420, 17, "Deshka", "Sockeye"], [2016, "August, 04 2016 00:00:00", 2, 420, 17, "Deshka", "Sockeye"], [2016, "August, 05 2016 00:00:00", 1, 420, 17, "Deshka", "Sockeye"], [2016, "August, 07 2016 00:00:00", 1, 420, 17, "Deshka", "Sockeye"], [2016, "August, 20 2016 00:00:00", 3, 420, 17, "Deshka", "Sockeye"], [2016, "August, 22 2016 00:00:00", 1, 420, 17, "Deshka", "Sockeye"], [2016, "August, 25 2016 00:00:00", 0, 420, 17, "Deshka", "Sockeye"], [2016, "August, 26 2016 00:00:00", 0, 420, 17, "Deshka", "Sockeye"], [2016, "August, 27 2016 00:00:00", 0, 420, 17, "Deshka", "Sockeye"], [2016, "August, 28 2016 00:00:00", 1, 420, 17, "Deshka", "Sockeye"], [2016, "August, 30 2016 00:00:00", 0, 420, 17, "Deshka", "Sockeye"], [2016, "September, 01 2016 00:00:00", 1, 420, 17, "Deshka", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "July, 27 2016 00:00:00",
+      2,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 04 2016 00:00:00",
+      2,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 05 2016 00:00:00",
+      1,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 07 2016 00:00:00",
+      1,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 20 2016 00:00:00",
+      3,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 22 2016 00:00:00",
+      1,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 25 2016 00:00:00",
+      0,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 26 2016 00:00:00",
+      0,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 27 2016 00:00:00",
+      0,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 28 2016 00:00:00",
+      1,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "August, 30 2016 00:00:00",
+      0,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2016,
+      "September, 01 2016 00:00:00",
+      1,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 17,
+    "species_id": "420",
+    "year": "2016",
+    "totalRecords": 12,
+    "totalCount": 12,
+    "source": "ADFG JSON API",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

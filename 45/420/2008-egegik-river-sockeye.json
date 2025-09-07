@@ -1,1 +1,292 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2008, "June, 19 2008 00:00:00", 864, 420, 45, "Egegik River", "Sockeye"], [2008, "June, 20 2008 00:00:00", 810, 420, 45, "Egegik River", "Sockeye"], [2008, "June, 21 2008 00:00:00", 4038, 420, 45, "Egegik River", "Sockeye"], [2008, "June, 22 2008 00:00:00", 14724, 420, 45, "Egegik River", "Sockeye"], [2008, "June, 23 2008 00:00:00", 48, 420, 45, "Egegik River", "Sockeye"], [2008, "June, 24 2008 00:00:00", 35754, 420, 45, "Egegik River", "Sockeye"], [2008, "June, 25 2008 00:00:00", 9582, 420, 45, "Egegik River", "Sockeye"], [2008, "June, 26 2008 00:00:00", 32124, 420, 45, "Egegik River", "Sockeye"], [2008, "June, 27 2008 00:00:00", 31740, 420, 45, "Egegik River", "Sockeye"], [2008, "June, 28 2008 00:00:00", 50718, 420, 45, "Egegik River", "Sockeye"], [2008, "June, 29 2008 00:00:00", 135624, 420, 45, "Egegik River", "Sockeye"], [2008, "June, 30 2008 00:00:00", 90714, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 01 2008 00:00:00", 66414, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 02 2008 00:00:00", 47100, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 03 2008 00:00:00", 65778, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 04 2008 00:00:00", 96600, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 05 2008 00:00:00", 235434, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 06 2008 00:00:00", 55776, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 07 2008 00:00:00", 67950, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 08 2008 00:00:00", 18240, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 09 2008 00:00:00", 19266, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 10 2008 00:00:00", 40872, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 11 2008 00:00:00", 15456, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 12 2008 00:00:00", 15612, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 13 2008 00:00:00", 57570, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 14 2008 00:00:00", 10218, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 15 2008 00:00:00", 18954, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 16 2008 00:00:00", 7572, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 17 2008 00:00:00", 3672, 420, 45, "Egegik River", "Sockeye"], [2008, "July, 18 2008 00:00:00", 4758, 420, 45, "Egegik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "June, 19 2008 00:00:00",
+      864,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 20 2008 00:00:00",
+      810,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 21 2008 00:00:00",
+      4038,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 22 2008 00:00:00",
+      14724,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 23 2008 00:00:00",
+      48,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 24 2008 00:00:00",
+      35754,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 25 2008 00:00:00",
+      9582,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 26 2008 00:00:00",
+      32124,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 27 2008 00:00:00",
+      31740,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 28 2008 00:00:00",
+      50718,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 29 2008 00:00:00",
+      135624,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "June, 30 2008 00:00:00",
+      90714,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 01 2008 00:00:00",
+      66414,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 02 2008 00:00:00",
+      47100,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 03 2008 00:00:00",
+      65778,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 04 2008 00:00:00",
+      96600,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 05 2008 00:00:00",
+      235434,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 06 2008 00:00:00",
+      55776,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 07 2008 00:00:00",
+      67950,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 08 2008 00:00:00",
+      18240,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 09 2008 00:00:00",
+      19266,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 10 2008 00:00:00",
+      40872,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 11 2008 00:00:00",
+      15456,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 12 2008 00:00:00",
+      15612,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 13 2008 00:00:00",
+      57570,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 14 2008 00:00:00",
+      10218,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 15 2008 00:00:00",
+      18954,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 16 2008 00:00:00",
+      7572,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 17 2008 00:00:00",
+      3672,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "July, 18 2008 00:00:00",
+      4758,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 45,
+    "species_id": "420",
+    "year": "2008",
+    "totalRecords": 30,
+    "totalCount": 1253982,
+    "source": "ADFG JSON API",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

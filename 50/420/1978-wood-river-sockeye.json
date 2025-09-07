@@ -1,1 +1,346 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1978, "June, 19 1978 00:00:00", 300, 420, 50, "Wood River", "Sockeye"], [1978, "June, 20 1978 00:00:00", 918, 420, 50, "Wood River", "Sockeye"], [1978, "June, 21 1978 00:00:00", 30, 420, 50, "Wood River", "Sockeye"], [1978, "June, 22 1978 00:00:00", 144, 420, 50, "Wood River", "Sockeye"], [1978, "June, 23 1978 00:00:00", 6630, 420, 50, "Wood River", "Sockeye"], [1978, "June, 24 1978 00:00:00", 8490, 420, 50, "Wood River", "Sockeye"], [1978, "June, 25 1978 00:00:00", 11334, 420, 50, "Wood River", "Sockeye"], [1978, "June, 26 1978 00:00:00", 5616, 420, 50, "Wood River", "Sockeye"], [1978, "June, 27 1978 00:00:00", 4536, 420, 50, "Wood River", "Sockeye"], [1978, "June, 28 1978 00:00:00", 13626, 420, 50, "Wood River", "Sockeye"], [1978, "June, 29 1978 00:00:00", 167796, 420, 50, "Wood River", "Sockeye"], [1978, "June, 30 1978 00:00:00", 107154, 420, 50, "Wood River", "Sockeye"], [1978, "July, 01 1978 00:00:00", 108018, 420, 50, "Wood River", "Sockeye"], [1978, "July, 02 1978 00:00:00", 145440, 420, 50, "Wood River", "Sockeye"], [1978, "July, 03 1978 00:00:00", 202716, 420, 50, "Wood River", "Sockeye"], [1978, "July, 04 1978 00:00:00", 433260, 420, 50, "Wood River", "Sockeye"], [1978, "July, 05 1978 00:00:00", 389172, 420, 50, "Wood River", "Sockeye"], [1978, "July, 06 1978 00:00:00", 85020, 420, 50, "Wood River", "Sockeye"], [1978, "July, 07 1978 00:00:00", 100974, 420, 50, "Wood River", "Sockeye"], [1978, "July, 08 1978 00:00:00", 142284, 420, 50, "Wood River", "Sockeye"], [1978, "July, 09 1978 00:00:00", 101328, 420, 50, "Wood River", "Sockeye"], [1978, "July, 10 1978 00:00:00", 67710, 420, 50, "Wood River", "Sockeye"], [1978, "July, 11 1978 00:00:00", 33072, 420, 50, "Wood River", "Sockeye"], [1978, "July, 12 1978 00:00:00", 28044, 420, 50, "Wood River", "Sockeye"], [1978, "July, 13 1978 00:00:00", 25452, 420, 50, "Wood River", "Sockeye"], [1978, "July, 14 1978 00:00:00", 11838, 420, 50, "Wood River", "Sockeye"], [1978, "July, 15 1978 00:00:00", 7950, 420, 50, "Wood River", "Sockeye"], [1978, "July, 16 1978 00:00:00", 4260, 420, 50, "Wood River", "Sockeye"], [1978, "July, 17 1978 00:00:00", 9462, 420, 50, "Wood River", "Sockeye"], [1978, "July, 18 1978 00:00:00", 19698, 420, 50, "Wood River", "Sockeye"], [1978, "July, 19 1978 00:00:00", 6042, 420, 50, "Wood River", "Sockeye"], [1978, "July, 20 1978 00:00:00", 5838, 420, 50, "Wood River", "Sockeye"], [1978, "July, 21 1978 00:00:00", 5766, 420, 50, "Wood River", "Sockeye"], [1978, "July, 22 1978 00:00:00", 3504, 420, 50, "Wood River", "Sockeye"], [1978, "July, 23 1978 00:00:00", 3336, 420, 50, "Wood River", "Sockeye"], [1978, "July, 24 1978 00:00:00", 480, 420, 50, "Wood River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1978,
+      "June, 19 1978 00:00:00",
+      300,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 20 1978 00:00:00",
+      918,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 21 1978 00:00:00",
+      30,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 22 1978 00:00:00",
+      144,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 23 1978 00:00:00",
+      6630,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 24 1978 00:00:00",
+      8490,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 25 1978 00:00:00",
+      11334,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 26 1978 00:00:00",
+      5616,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 27 1978 00:00:00",
+      4536,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 28 1978 00:00:00",
+      13626,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 29 1978 00:00:00",
+      167796,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "June, 30 1978 00:00:00",
+      107154,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 01 1978 00:00:00",
+      108018,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 02 1978 00:00:00",
+      145440,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 03 1978 00:00:00",
+      202716,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 04 1978 00:00:00",
+      433260,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 05 1978 00:00:00",
+      389172,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 06 1978 00:00:00",
+      85020,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 07 1978 00:00:00",
+      100974,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 08 1978 00:00:00",
+      142284,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 09 1978 00:00:00",
+      101328,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 10 1978 00:00:00",
+      67710,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 11 1978 00:00:00",
+      33072,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 12 1978 00:00:00",
+      28044,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 13 1978 00:00:00",
+      25452,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 14 1978 00:00:00",
+      11838,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 15 1978 00:00:00",
+      7950,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 16 1978 00:00:00",
+      4260,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 17 1978 00:00:00",
+      9462,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 18 1978 00:00:00",
+      19698,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 19 1978 00:00:00",
+      6042,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 20 1978 00:00:00",
+      5838,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 21 1978 00:00:00",
+      5766,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 22 1978 00:00:00",
+      3504,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 23 1978 00:00:00",
+      3336,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1978,
+      "July, 24 1978 00:00:00",
+      480,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 50,
+    "species_id": "420",
+    "year": "1978",
+    "totalRecords": 36,
+    "totalCount": 2267238,
+    "source": "ADFG JSON API",
+    "last_updated": "1978-12-31T00:00:00"
+  }
+}

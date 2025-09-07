@@ -1,1 +1,265 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1998, "June, 23 1998 00:00:00", 96, 420, 48, "Naknek River", "Sockeye"], [1998, "June, 24 1998 00:00:00", 1482, 420, 48, "Naknek River", "Sockeye"], [1998, "June, 25 1998 00:00:00", 9858, 420, 48, "Naknek River", "Sockeye"], [1998, "June, 26 1998 00:00:00", 8538, 420, 48, "Naknek River", "Sockeye"], [1998, "June, 27 1998 00:00:00", 10848, 420, 48, "Naknek River", "Sockeye"], [1998, "June, 28 1998 00:00:00", 11592, 420, 48, "Naknek River", "Sockeye"], [1998, "June, 29 1998 00:00:00", 9546, 420, 48, "Naknek River", "Sockeye"], [1998, "June, 30 1998 00:00:00", 14904, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 01 1998 00:00:00", 12426, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 02 1998 00:00:00", 125016, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 03 1998 00:00:00", 112272, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 04 1998 00:00:00", 131004, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 05 1998 00:00:00", 147930, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 06 1998 00:00:00", 60834, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 07 1998 00:00:00", 109308, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 08 1998 00:00:00", 74526, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 09 1998 00:00:00", 111630, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 10 1998 00:00:00", 93306, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 11 1998 00:00:00", 18150, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 12 1998 00:00:00", 28476, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 13 1998 00:00:00", 37758, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 14 1998 00:00:00", 11682, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 15 1998 00:00:00", 5730, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 16 1998 00:00:00", 28002, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 17 1998 00:00:00", 7320, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 18 1998 00:00:00", 6858, 420, 48, "Naknek River", "Sockeye"], [1998, "July, 19 1998 00:00:00", 13080, 420, 48, "Naknek River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "June, 23 1998 00:00:00",
+      96,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 24 1998 00:00:00",
+      1482,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 25 1998 00:00:00",
+      9858,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 26 1998 00:00:00",
+      8538,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 27 1998 00:00:00",
+      10848,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 28 1998 00:00:00",
+      11592,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 29 1998 00:00:00",
+      9546,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "June, 30 1998 00:00:00",
+      14904,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 01 1998 00:00:00",
+      12426,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 02 1998 00:00:00",
+      125016,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 03 1998 00:00:00",
+      112272,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 04 1998 00:00:00",
+      131004,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 05 1998 00:00:00",
+      147930,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 06 1998 00:00:00",
+      60834,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 07 1998 00:00:00",
+      109308,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 08 1998 00:00:00",
+      74526,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 09 1998 00:00:00",
+      111630,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 10 1998 00:00:00",
+      93306,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 11 1998 00:00:00",
+      18150,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 12 1998 00:00:00",
+      28476,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 13 1998 00:00:00",
+      37758,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 14 1998 00:00:00",
+      11682,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 15 1998 00:00:00",
+      5730,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 16 1998 00:00:00",
+      28002,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 17 1998 00:00:00",
+      7320,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 18 1998 00:00:00",
+      6858,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1998,
+      "July, 19 1998 00:00:00",
+      13080,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 48,
+    "species_id": "420",
+    "year": "1998",
+    "totalRecords": 27,
+    "totalCount": 1202172,
+    "source": "ADFG JSON API",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

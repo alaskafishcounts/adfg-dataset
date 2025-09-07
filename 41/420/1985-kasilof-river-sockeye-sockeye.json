@@ -1,1 +1,562 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1985, "June, 13 1985 00:00:00", 350, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 14 1985 00:00:00", 589, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 15 1985 00:00:00", 553, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 16 1985 00:00:00", 607, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 17 1985 00:00:00", 635, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 18 1985 00:00:00", 556, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 19 1985 00:00:00", 589, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 20 1985 00:00:00", 797, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 21 1985 00:00:00", 640, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 22 1985 00:00:00", 831, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 23 1985 00:00:00", 1073, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 24 1985 00:00:00", 1698, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 25 1985 00:00:00", 1912, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 26 1985 00:00:00", 1423, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 27 1985 00:00:00", 1504, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 28 1985 00:00:00", 2021, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 29 1985 00:00:00", 2011, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "June, 30 1985 00:00:00", 2391, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 01 1985 00:00:00", 3450, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 02 1985 00:00:00", 2096, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 03 1985 00:00:00", 2977, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 04 1985 00:00:00", 6223, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 05 1985 00:00:00", 5380, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 06 1985 00:00:00", 2731, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 07 1985 00:00:00", 3987, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 08 1985 00:00:00", 8834, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 09 1985 00:00:00", 4313, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 10 1985 00:00:00", 6200, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 11 1985 00:00:00", 2609, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 12 1985 00:00:00", 4199, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 13 1985 00:00:00", 11767, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 14 1985 00:00:00", 32228, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 15 1985 00:00:00", 30237, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 16 1985 00:00:00", 54884, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 17 1985 00:00:00", 19803, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 18 1985 00:00:00", 7108, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 19 1985 00:00:00", 2582, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 20 1985 00:00:00", 1586, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 21 1985 00:00:00", 12862, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 22 1985 00:00:00", 42240, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 23 1985 00:00:00", 27345, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 24 1985 00:00:00", 19929, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 25 1985 00:00:00", 17564, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 26 1985 00:00:00", 24998, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 27 1985 00:00:00", 27336, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 28 1985 00:00:00", 16718, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 29 1985 00:00:00", 8644, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 30 1985 00:00:00", 5934, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "July, 31 1985 00:00:00", 6312, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "August, 01 1985 00:00:00", 4732, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "August, 02 1985 00:00:00", 3491, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "August, 03 1985 00:00:00", 5364, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "August, 04 1985 00:00:00", 4633, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "August, 05 1985 00:00:00", 3288, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "August, 06 1985 00:00:00", 3296, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "August, 07 1985 00:00:00", 4685, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "August, 08 1985 00:00:00", 6148, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "August, 09 1985 00:00:00", 6431, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "August, 10 1985 00:00:00", 4020, 420, 41, "Kasilof River (sockeye)", "Sockeye"], [1985, "August, 11 1985 00:00:00", 2594, 420, 41, "Kasilof River (sockeye)", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "June, 13 1985 00:00:00",
+      350,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 14 1985 00:00:00",
+      589,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 15 1985 00:00:00",
+      553,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 16 1985 00:00:00",
+      607,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 17 1985 00:00:00",
+      635,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 18 1985 00:00:00",
+      556,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 19 1985 00:00:00",
+      589,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 20 1985 00:00:00",
+      797,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 21 1985 00:00:00",
+      640,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 22 1985 00:00:00",
+      831,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 23 1985 00:00:00",
+      1073,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 24 1985 00:00:00",
+      1698,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 25 1985 00:00:00",
+      1912,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 26 1985 00:00:00",
+      1423,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 27 1985 00:00:00",
+      1504,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 28 1985 00:00:00",
+      2021,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 29 1985 00:00:00",
+      2011,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 30 1985 00:00:00",
+      2391,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 01 1985 00:00:00",
+      3450,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 02 1985 00:00:00",
+      2096,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 03 1985 00:00:00",
+      2977,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 04 1985 00:00:00",
+      6223,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 05 1985 00:00:00",
+      5380,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 06 1985 00:00:00",
+      2731,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 07 1985 00:00:00",
+      3987,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 08 1985 00:00:00",
+      8834,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 09 1985 00:00:00",
+      4313,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 10 1985 00:00:00",
+      6200,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 11 1985 00:00:00",
+      2609,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 12 1985 00:00:00",
+      4199,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 13 1985 00:00:00",
+      11767,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 14 1985 00:00:00",
+      32228,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 15 1985 00:00:00",
+      30237,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 16 1985 00:00:00",
+      54884,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 17 1985 00:00:00",
+      19803,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 18 1985 00:00:00",
+      7108,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 19 1985 00:00:00",
+      2582,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 20 1985 00:00:00",
+      1586,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 21 1985 00:00:00",
+      12862,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 22 1985 00:00:00",
+      42240,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 23 1985 00:00:00",
+      27345,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 24 1985 00:00:00",
+      19929,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 25 1985 00:00:00",
+      17564,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 26 1985 00:00:00",
+      24998,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 27 1985 00:00:00",
+      27336,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 28 1985 00:00:00",
+      16718,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 29 1985 00:00:00",
+      8644,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 30 1985 00:00:00",
+      5934,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 31 1985 00:00:00",
+      6312,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 01 1985 00:00:00",
+      4732,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 02 1985 00:00:00",
+      3491,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 03 1985 00:00:00",
+      5364,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 04 1985 00:00:00",
+      4633,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 05 1985 00:00:00",
+      3288,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 06 1985 00:00:00",
+      3296,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 07 1985 00:00:00",
+      4685,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 08 1985 00:00:00",
+      6148,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 09 1985 00:00:00",
+      6431,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 10 1985 00:00:00",
+      4020,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 11 1985 00:00:00",
+      2594,
+      420,
+      41,
+      "Kasilof River (sockeye)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 41,
+    "species_id": "420",
+    "year": "1985",
+    "totalRecords": 60,
+    "totalCount": 491938,
+    "source": "ADFG JSON API",
+    "last_updated": "1985-12-31T00:00:00"
+  }
+}

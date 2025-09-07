@@ -1,1 +1,31 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2008, "July, 06 2008 00:00:00", 0, 420, 17, "Deshka", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "July, 06 2008 00:00:00",
+      0,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 17,
+    "species_id": "420",
+    "year": "2008",
+    "totalRecords": 1,
+    "totalCount": 0,
+    "source": "ADFG JSON API",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

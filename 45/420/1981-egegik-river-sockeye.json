@@ -1,1 +1,292 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1981, "June, 17 1981 00:00:00", 2076, 420, 45, "Egegik River", "Sockeye"], [1981, "June, 18 1981 00:00:00", 3828, 420, 45, "Egegik River", "Sockeye"], [1981, "June, 19 1981 00:00:00", 1794, 420, 45, "Egegik River", "Sockeye"], [1981, "June, 21 1981 00:00:00", 18, 420, 45, "Egegik River", "Sockeye"], [1981, "June, 23 1981 00:00:00", 912, 420, 45, "Egegik River", "Sockeye"], [1981, "June, 24 1981 00:00:00", 14166, 420, 45, "Egegik River", "Sockeye"], [1981, "June, 25 1981 00:00:00", 28248, 420, 45, "Egegik River", "Sockeye"], [1981, "June, 26 1981 00:00:00", 22758, 420, 45, "Egegik River", "Sockeye"], [1981, "June, 27 1981 00:00:00", 15642, 420, 45, "Egegik River", "Sockeye"], [1981, "June, 28 1981 00:00:00", 14700, 420, 45, "Egegik River", "Sockeye"], [1981, "June, 29 1981 00:00:00", 1956, 420, 45, "Egegik River", "Sockeye"], [1981, "June, 30 1981 00:00:00", 3174, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 01 1981 00:00:00", 4806, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 02 1981 00:00:00", 29520, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 03 1981 00:00:00", 52536, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 04 1981 00:00:00", 70422, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 05 1981 00:00:00", 99516, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 06 1981 00:00:00", 99630, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 07 1981 00:00:00", 102444, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 08 1981 00:00:00", 50700, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 09 1981 00:00:00", 21810, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 10 1981 00:00:00", 24318, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 11 1981 00:00:00", 5190, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 12 1981 00:00:00", 9534, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 13 1981 00:00:00", 6594, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 14 1981 00:00:00", 2052, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 15 1981 00:00:00", 2994, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 16 1981 00:00:00", 432, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 17 1981 00:00:00", 1614, 420, 45, "Egegik River", "Sockeye"], [1981, "July, 18 1981 00:00:00", 1302, 420, 45, "Egegik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "June, 17 1981 00:00:00",
+      2076,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 18 1981 00:00:00",
+      3828,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 19 1981 00:00:00",
+      1794,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 21 1981 00:00:00",
+      18,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 23 1981 00:00:00",
+      912,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 24 1981 00:00:00",
+      14166,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 25 1981 00:00:00",
+      28248,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 26 1981 00:00:00",
+      22758,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 27 1981 00:00:00",
+      15642,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 28 1981 00:00:00",
+      14700,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 29 1981 00:00:00",
+      1956,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "June, 30 1981 00:00:00",
+      3174,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 01 1981 00:00:00",
+      4806,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 02 1981 00:00:00",
+      29520,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 03 1981 00:00:00",
+      52536,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 04 1981 00:00:00",
+      70422,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 05 1981 00:00:00",
+      99516,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 06 1981 00:00:00",
+      99630,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 07 1981 00:00:00",
+      102444,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 08 1981 00:00:00",
+      50700,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 09 1981 00:00:00",
+      21810,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 10 1981 00:00:00",
+      24318,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 11 1981 00:00:00",
+      5190,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 12 1981 00:00:00",
+      9534,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 13 1981 00:00:00",
+      6594,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 14 1981 00:00:00",
+      2052,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 15 1981 00:00:00",
+      2994,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 16 1981 00:00:00",
+      432,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 17 1981 00:00:00",
+      1614,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1981,
+      "July, 18 1981 00:00:00",
+      1302,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 45,
+    "species_id": "420",
+    "year": "1981",
+    "totalRecords": 30,
+    "totalCount": 694686,
+    "source": "ADFG JSON API",
+    "last_updated": "1981-12-31T00:00:00"
+  }
+}

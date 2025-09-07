@@ -1,1 +1,634 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1985, "June, 11 1985 00:00:00", 62, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 12 1985 00:00:00", 14, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 13 1985 00:00:00", 154, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 14 1985 00:00:00", 196, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 15 1985 00:00:00", 40, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 16 1985 00:00:00", 30, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 17 1985 00:00:00", 18, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 18 1985 00:00:00", 28, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 19 1985 00:00:00", 453, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 20 1985 00:00:00", 5751, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 21 1985 00:00:00", 6502, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 22 1985 00:00:00", 2670, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 23 1985 00:00:00", 5255, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 24 1985 00:00:00", 1257, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 25 1985 00:00:00", 609, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 26 1985 00:00:00", 1064, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 27 1985 00:00:00", 2182, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 28 1985 00:00:00", 2021, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 29 1985 00:00:00", 1512, 420, 51, "Nushagak River", "Sockeye"], [1985, "June, 30 1985 00:00:00", 2307, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 01 1985 00:00:00", 62466, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 02 1985 00:00:00", 50808, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 03 1985 00:00:00", 24761, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 04 1985 00:00:00", 17673, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 05 1985 00:00:00", 17284, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 06 1985 00:00:00", 22290, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 07 1985 00:00:00", 16147, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 08 1985 00:00:00", 25098, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 09 1985 00:00:00", 22010, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 10 1985 00:00:00", 13325, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 11 1985 00:00:00", 8895, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 12 1985 00:00:00", 9760, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 13 1985 00:00:00", 6288, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 14 1985 00:00:00", 13665, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 15 1985 00:00:00", 26656, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 16 1985 00:00:00", 14476, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 17 1985 00:00:00", 10209, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 18 1985 00:00:00", 9100, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 19 1985 00:00:00", 5097, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 20 1985 00:00:00", 1879, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 21 1985 00:00:00", 2109, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 22 1985 00:00:00", 1961, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 23 1985 00:00:00", 1597, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 24 1985 00:00:00", 514, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 25 1985 00:00:00", 1924, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 26 1985 00:00:00", 1217, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 27 1985 00:00:00", 892, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 28 1985 00:00:00", 362, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 29 1985 00:00:00", 71, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 30 1985 00:00:00", 53, 420, 51, "Nushagak River", "Sockeye"], [1985, "July, 31 1985 00:00:00", 74, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 01 1985 00:00:00", 63, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 02 1985 00:00:00", 54, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 03 1985 00:00:00", 66, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 04 1985 00:00:00", 204, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 09 1985 00:00:00", 18, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 10 1985 00:00:00", 11, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 11 1985 00:00:00", 6, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 12 1985 00:00:00", 26, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 13 1985 00:00:00", 21, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 14 1985 00:00:00", 37, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 15 1985 00:00:00", 10, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 16 1985 00:00:00", 5, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 17 1985 00:00:00", 2, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 18 1985 00:00:00", 2, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 19 1985 00:00:00", 2, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 20 1985 00:00:00", 3, 420, 51, "Nushagak River", "Sockeye"], [1985, "August, 21 1985 00:00:00", 1, 420, 51, "Nushagak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "June, 11 1985 00:00:00",
+      62,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 12 1985 00:00:00",
+      14,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 13 1985 00:00:00",
+      154,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 14 1985 00:00:00",
+      196,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 15 1985 00:00:00",
+      40,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 16 1985 00:00:00",
+      30,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 17 1985 00:00:00",
+      18,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 18 1985 00:00:00",
+      28,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 19 1985 00:00:00",
+      453,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 20 1985 00:00:00",
+      5751,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 21 1985 00:00:00",
+      6502,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 22 1985 00:00:00",
+      2670,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 23 1985 00:00:00",
+      5255,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 24 1985 00:00:00",
+      1257,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 25 1985 00:00:00",
+      609,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 26 1985 00:00:00",
+      1064,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 27 1985 00:00:00",
+      2182,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 28 1985 00:00:00",
+      2021,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 29 1985 00:00:00",
+      1512,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "June, 30 1985 00:00:00",
+      2307,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 01 1985 00:00:00",
+      62466,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 02 1985 00:00:00",
+      50808,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 03 1985 00:00:00",
+      24761,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 04 1985 00:00:00",
+      17673,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 05 1985 00:00:00",
+      17284,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 06 1985 00:00:00",
+      22290,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 07 1985 00:00:00",
+      16147,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 08 1985 00:00:00",
+      25098,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 09 1985 00:00:00",
+      22010,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 10 1985 00:00:00",
+      13325,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 11 1985 00:00:00",
+      8895,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 12 1985 00:00:00",
+      9760,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 13 1985 00:00:00",
+      6288,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 14 1985 00:00:00",
+      13665,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 15 1985 00:00:00",
+      26656,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 16 1985 00:00:00",
+      14476,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 17 1985 00:00:00",
+      10209,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 18 1985 00:00:00",
+      9100,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 19 1985 00:00:00",
+      5097,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 20 1985 00:00:00",
+      1879,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 21 1985 00:00:00",
+      2109,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 22 1985 00:00:00",
+      1961,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 23 1985 00:00:00",
+      1597,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 24 1985 00:00:00",
+      514,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 25 1985 00:00:00",
+      1924,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 26 1985 00:00:00",
+      1217,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 27 1985 00:00:00",
+      892,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 28 1985 00:00:00",
+      362,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 29 1985 00:00:00",
+      71,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 30 1985 00:00:00",
+      53,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "July, 31 1985 00:00:00",
+      74,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 01 1985 00:00:00",
+      63,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 02 1985 00:00:00",
+      54,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 03 1985 00:00:00",
+      66,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 04 1985 00:00:00",
+      204,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 09 1985 00:00:00",
+      18,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 10 1985 00:00:00",
+      11,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 11 1985 00:00:00",
+      6,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 12 1985 00:00:00",
+      26,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 13 1985 00:00:00",
+      21,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 14 1985 00:00:00",
+      37,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 15 1985 00:00:00",
+      10,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 16 1985 00:00:00",
+      5,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 17 1985 00:00:00",
+      2,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 18 1985 00:00:00",
+      2,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 19 1985 00:00:00",
+      2,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 20 1985 00:00:00",
+      3,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1985,
+      "August, 21 1985 00:00:00",
+      1,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "420",
+    "year": "1985",
+    "totalRecords": 68,
+    "totalCount": 421317,
+    "source": "ADFG JSON API",
+    "last_updated": "1985-12-31T00:00:00"
+  }
+}

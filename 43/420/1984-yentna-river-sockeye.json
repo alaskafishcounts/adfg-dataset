@@ -1,1 +1,625 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1984, "July, 01 1984 00:00:00", 82, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 02 1984 00:00:00", 139, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 03 1984 00:00:00", 127, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 04 1984 00:00:00", 157, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 05 1984 00:00:00", 92, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 06 1984 00:00:00", 61, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 07 1984 00:00:00", 61, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 08 1984 00:00:00", 38, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 09 1984 00:00:00", 124, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 10 1984 00:00:00", 237, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 11 1984 00:00:00", 214, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 12 1984 00:00:00", 238, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 13 1984 00:00:00", 246, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 14 1984 00:00:00", 379, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 15 1984 00:00:00", 337, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 16 1984 00:00:00", 885, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 17 1984 00:00:00", 17819, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 18 1984 00:00:00", 13351, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 19 1984 00:00:00", 16874, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 20 1984 00:00:00", 16921, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 21 1984 00:00:00", 14380, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 22 1984 00:00:00", 10772, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 23 1984 00:00:00", 8218, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 24 1984 00:00:00", 11077, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 25 1984 00:00:00", 4400, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 26 1984 00:00:00", 3453, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 27 1984 00:00:00", 4147, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 28 1984 00:00:00", 2870, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 29 1984 00:00:00", 1625, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 30 1984 00:00:00", 1180, 420, 43, "Yentna River", "Sockeye"], [1984, "July, 31 1984 00:00:00", 1715, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 01 1984 00:00:00", 1203, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 02 1984 00:00:00", 1133, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 03 1984 00:00:00", 1269, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 04 1984 00:00:00", 1611, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 05 1984 00:00:00", 950, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 06 1984 00:00:00", 1153, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 07 1984 00:00:00", 671, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 08 1984 00:00:00", 871, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 09 1984 00:00:00", 628, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 10 1984 00:00:00", 734, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 11 1984 00:00:00", 721, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 12 1984 00:00:00", 481, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 13 1984 00:00:00", 473, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 14 1984 00:00:00", 454, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 15 1984 00:00:00", 340, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 16 1984 00:00:00", 401, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 17 1984 00:00:00", 391, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 18 1984 00:00:00", 304, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 19 1984 00:00:00", 242, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 20 1984 00:00:00", 107, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 21 1984 00:00:00", 164, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 22 1984 00:00:00", 444, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 23 1984 00:00:00", 428, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 24 1984 00:00:00", 398, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 25 1984 00:00:00", 386, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 26 1984 00:00:00", 319, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 27 1984 00:00:00", 208, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 28 1984 00:00:00", 134, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 29 1984 00:00:00", 175, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 30 1984 00:00:00", 141, 420, 43, "Yentna River", "Sockeye"], [1984, "August, 31 1984 00:00:00", 139, 420, 43, "Yentna River", "Sockeye"], [1984, "September, 01 1984 00:00:00", 74, 420, 43, "Yentna River", "Sockeye"], [1984, "September, 02 1984 00:00:00", 2, 420, 43, "Yentna River", "Sockeye"], [1984, "September, 03 1984 00:00:00", 3, 420, 43, "Yentna River", "Sockeye"], [1984, "September, 04 1984 00:00:00", 3, 420, 43, "Yentna River", "Sockeye"], [1984, "September, 05 1984 00:00:00", 1, 420, 43, "Yentna River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "July, 01 1984 00:00:00",
+      82,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 02 1984 00:00:00",
+      139,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 03 1984 00:00:00",
+      127,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 04 1984 00:00:00",
+      157,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 05 1984 00:00:00",
+      92,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 06 1984 00:00:00",
+      61,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 07 1984 00:00:00",
+      61,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 08 1984 00:00:00",
+      38,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 09 1984 00:00:00",
+      124,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 10 1984 00:00:00",
+      237,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 11 1984 00:00:00",
+      214,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 12 1984 00:00:00",
+      238,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 13 1984 00:00:00",
+      246,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 14 1984 00:00:00",
+      379,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 15 1984 00:00:00",
+      337,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 16 1984 00:00:00",
+      885,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 17 1984 00:00:00",
+      17819,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 18 1984 00:00:00",
+      13351,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 19 1984 00:00:00",
+      16874,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 20 1984 00:00:00",
+      16921,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 21 1984 00:00:00",
+      14380,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 22 1984 00:00:00",
+      10772,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 23 1984 00:00:00",
+      8218,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 24 1984 00:00:00",
+      11077,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 25 1984 00:00:00",
+      4400,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 26 1984 00:00:00",
+      3453,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 27 1984 00:00:00",
+      4147,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 28 1984 00:00:00",
+      2870,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 29 1984 00:00:00",
+      1625,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 30 1984 00:00:00",
+      1180,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "July, 31 1984 00:00:00",
+      1715,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 01 1984 00:00:00",
+      1203,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 02 1984 00:00:00",
+      1133,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 03 1984 00:00:00",
+      1269,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 04 1984 00:00:00",
+      1611,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 05 1984 00:00:00",
+      950,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 06 1984 00:00:00",
+      1153,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 07 1984 00:00:00",
+      671,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 08 1984 00:00:00",
+      871,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 09 1984 00:00:00",
+      628,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 10 1984 00:00:00",
+      734,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 11 1984 00:00:00",
+      721,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 12 1984 00:00:00",
+      481,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 13 1984 00:00:00",
+      473,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 14 1984 00:00:00",
+      454,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 15 1984 00:00:00",
+      340,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 16 1984 00:00:00",
+      401,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 17 1984 00:00:00",
+      391,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 18 1984 00:00:00",
+      304,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 19 1984 00:00:00",
+      242,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 20 1984 00:00:00",
+      107,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 21 1984 00:00:00",
+      164,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 22 1984 00:00:00",
+      444,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 23 1984 00:00:00",
+      428,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 24 1984 00:00:00",
+      398,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 25 1984 00:00:00",
+      386,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 26 1984 00:00:00",
+      319,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 27 1984 00:00:00",
+      208,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 28 1984 00:00:00",
+      134,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 29 1984 00:00:00",
+      175,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 30 1984 00:00:00",
+      141,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "August, 31 1984 00:00:00",
+      139,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 01 1984 00:00:00",
+      74,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 02 1984 00:00:00",
+      2,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 03 1984 00:00:00",
+      3,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 04 1984 00:00:00",
+      3,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1984,
+      "September, 05 1984 00:00:00",
+      1,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 43,
+    "species_id": "420",
+    "year": "1984",
+    "totalRecords": 67,
+    "totalCount": 149375,
+    "source": "ADFG JSON API",
+    "last_updated": "1984-12-31T00:00:00"
+  }
+}

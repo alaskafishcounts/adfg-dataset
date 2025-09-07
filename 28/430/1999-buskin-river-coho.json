@@ -1,1 +1,436 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1999, "August, 20 1999 00:00:00", 0, 430, 28, "Buskin River", "Coho"], [1999, "August, 21 1999 00:00:00", 46, 430, 28, "Buskin River", "Coho"], [1999, "August, 22 1999 00:00:00", 21, 430, 28, "Buskin River", "Coho"], [1999, "August, 23 1999 00:00:00", 58, 430, 28, "Buskin River", "Coho"], [1999, "August, 24 1999 00:00:00", 51, 430, 28, "Buskin River", "Coho"], [1999, "August, 25 1999 00:00:00", 144, 430, 28, "Buskin River", "Coho"], [1999, "August, 26 1999 00:00:00", 78, 430, 28, "Buskin River", "Coho"], [1999, "August, 27 1999 00:00:00", 124, 430, 28, "Buskin River", "Coho"], [1999, "August, 28 1999 00:00:00", 68, 430, 28, "Buskin River", "Coho"], [1999, "August, 29 1999 00:00:00", 132, 430, 28, "Buskin River", "Coho"], [1999, "August, 30 1999 00:00:00", 263, 430, 28, "Buskin River", "Coho"], [1999, "August, 31 1999 00:00:00", 68, 430, 28, "Buskin River", "Coho"], [1999, "September, 01 1999 00:00:00", 175, 430, 28, "Buskin River", "Coho"], [1999, "September, 02 1999 00:00:00", 184, 430, 28, "Buskin River", "Coho"], [1999, "September, 03 1999 00:00:00", 169, 430, 28, "Buskin River", "Coho"], [1999, "September, 04 1999 00:00:00", 87, 430, 28, "Buskin River", "Coho"], [1999, "September, 05 1999 00:00:00", 157, 430, 28, "Buskin River", "Coho"], [1999, "September, 06 1999 00:00:00", 47, 430, 28, "Buskin River", "Coho"], [1999, "September, 07 1999 00:00:00", 65, 430, 28, "Buskin River", "Coho"], [1999, "September, 08 1999 00:00:00", 68, 430, 28, "Buskin River", "Coho"], [1999, "September, 09 1999 00:00:00", 127, 430, 28, "Buskin River", "Coho"], [1999, "September, 10 1999 00:00:00", 1290, 430, 28, "Buskin River", "Coho"], [1999, "September, 11 1999 00:00:00", 503, 430, 28, "Buskin River", "Coho"], [1999, "September, 12 1999 00:00:00", 471, 430, 28, "Buskin River", "Coho"], [1999, "September, 13 1999 00:00:00", 493, 430, 28, "Buskin River", "Coho"], [1999, "September, 14 1999 00:00:00", 392, 430, 28, "Buskin River", "Coho"], [1999, "September, 15 1999 00:00:00", 392, 430, 28, "Buskin River", "Coho"], [1999, "September, 16 1999 00:00:00", 392, 430, 28, "Buskin River", "Coho"], [1999, "September, 17 1999 00:00:00", 392, 430, 28, "Buskin River", "Coho"], [1999, "September, 18 1999 00:00:00", 392, 430, 28, "Buskin River", "Coho"], [1999, "September, 19 1999 00:00:00", 392, 430, 28, "Buskin River", "Coho"], [1999, "September, 20 1999 00:00:00", 392, 430, 28, "Buskin River", "Coho"], [1999, "September, 21 1999 00:00:00", 392, 430, 28, "Buskin River", "Coho"], [1999, "September, 22 1999 00:00:00", 392, 430, 28, "Buskin River", "Coho"], [1999, "September, 23 1999 00:00:00", 392, 430, 28, "Buskin River", "Coho"], [1999, "September, 24 1999 00:00:00", 392, 430, 28, "Buskin River", "Coho"], [1999, "September, 25 1999 00:00:00", 58, 430, 28, "Buskin River", "Coho"], [1999, "September, 26 1999 00:00:00", 90, 430, 28, "Buskin River", "Coho"], [1999, "September, 27 1999 00:00:00", 70, 430, 28, "Buskin River", "Coho"], [1999, "September, 28 1999 00:00:00", 110, 430, 28, "Buskin River", "Coho"], [1999, "September, 29 1999 00:00:00", 77, 430, 28, "Buskin River", "Coho"], [1999, "September, 30 1999 00:00:00", 20, 430, 28, "Buskin River", "Coho"], [1999, "October, 01 1999 00:00:00", 79, 430, 28, "Buskin River", "Coho"], [1999, "October, 02 1999 00:00:00", 53, 430, 28, "Buskin River", "Coho"], [1999, "October, 03 1999 00:00:00", 25, 430, 28, "Buskin River", "Coho"], [1999, "October, 04 1999 00:00:00", 11, 430, 28, "Buskin River", "Coho"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "August, 20 1999 00:00:00",
+      0,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 21 1999 00:00:00",
+      46,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 22 1999 00:00:00",
+      21,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 23 1999 00:00:00",
+      58,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 24 1999 00:00:00",
+      51,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 25 1999 00:00:00",
+      144,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 26 1999 00:00:00",
+      78,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 27 1999 00:00:00",
+      124,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 28 1999 00:00:00",
+      68,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 29 1999 00:00:00",
+      132,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 30 1999 00:00:00",
+      263,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "August, 31 1999 00:00:00",
+      68,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 01 1999 00:00:00",
+      175,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 02 1999 00:00:00",
+      184,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 03 1999 00:00:00",
+      169,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 04 1999 00:00:00",
+      87,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 05 1999 00:00:00",
+      157,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 06 1999 00:00:00",
+      47,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 07 1999 00:00:00",
+      65,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 08 1999 00:00:00",
+      68,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 09 1999 00:00:00",
+      127,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 10 1999 00:00:00",
+      1290,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 11 1999 00:00:00",
+      503,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 12 1999 00:00:00",
+      471,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 13 1999 00:00:00",
+      493,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 14 1999 00:00:00",
+      392,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 15 1999 00:00:00",
+      392,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 16 1999 00:00:00",
+      392,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 17 1999 00:00:00",
+      392,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 18 1999 00:00:00",
+      392,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 19 1999 00:00:00",
+      392,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 20 1999 00:00:00",
+      392,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 21 1999 00:00:00",
+      392,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 22 1999 00:00:00",
+      392,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 23 1999 00:00:00",
+      392,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 24 1999 00:00:00",
+      392,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 25 1999 00:00:00",
+      58,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 26 1999 00:00:00",
+      90,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 27 1999 00:00:00",
+      70,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 28 1999 00:00:00",
+      110,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 29 1999 00:00:00",
+      77,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "September, 30 1999 00:00:00",
+      20,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "October, 01 1999 00:00:00",
+      79,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "October, 02 1999 00:00:00",
+      53,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "October, 03 1999 00:00:00",
+      25,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      1999,
+      "October, 04 1999 00:00:00",
+      11,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 28,
+    "species_id": "430",
+    "year": "1999",
+    "totalRecords": 46,
+    "totalCount": 9794,
+    "source": "ADFG JSON API",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

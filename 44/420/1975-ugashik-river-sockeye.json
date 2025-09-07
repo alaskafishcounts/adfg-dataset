@@ -1,1 +1,202 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1975, "July, 09 1975 00:00:00", 12, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 10 1975 00:00:00", 66, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 11 1975 00:00:00", 72, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 12 1975 00:00:00", 30, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 13 1975 00:00:00", 21354, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 14 1975 00:00:00", 57522, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 15 1975 00:00:00", 40704, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 16 1975 00:00:00", 26370, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 17 1975 00:00:00", 12678, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 18 1975 00:00:00", 3012, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 19 1975 00:00:00", 11814, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 20 1975 00:00:00", 46902, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 21 1975 00:00:00", 99246, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 22 1975 00:00:00", 64518, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 23 1975 00:00:00", 18390, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 24 1975 00:00:00", 13596, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 25 1975 00:00:00", 9474, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 26 1975 00:00:00", 3144, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 28 1975 00:00:00", 528, 420, 44, "Ugashik River", "Sockeye"], [1975, "July, 29 1975 00:00:00", 258, 420, 44, "Ugashik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1975,
+      "July, 09 1975 00:00:00",
+      12,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 10 1975 00:00:00",
+      66,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 11 1975 00:00:00",
+      72,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 12 1975 00:00:00",
+      30,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 13 1975 00:00:00",
+      21354,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 14 1975 00:00:00",
+      57522,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 15 1975 00:00:00",
+      40704,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 16 1975 00:00:00",
+      26370,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 17 1975 00:00:00",
+      12678,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 18 1975 00:00:00",
+      3012,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 19 1975 00:00:00",
+      11814,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 20 1975 00:00:00",
+      46902,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 21 1975 00:00:00",
+      99246,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 22 1975 00:00:00",
+      64518,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 23 1975 00:00:00",
+      18390,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 24 1975 00:00:00",
+      13596,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 25 1975 00:00:00",
+      9474,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 26 1975 00:00:00",
+      3144,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 28 1975 00:00:00",
+      528,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ],
+    [
+      1975,
+      "July, 29 1975 00:00:00",
+      258,
+      420,
+      44,
+      "Ugashik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 44,
+    "species_id": "420",
+    "year": "1975",
+    "totalRecords": 20,
+    "totalCount": 429690,
+    "source": "ADFG JSON API",
+    "last_updated": "1975-12-31T00:00:00"
+  }
+}

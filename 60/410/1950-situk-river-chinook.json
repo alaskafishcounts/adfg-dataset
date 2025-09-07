@@ -7,191 +7,229 @@
     "source": "Historical weir operations",
     "notes": "Challenging weather conditions; Modern fisheries management era",
     "total_count": 14780,
-    "data_points": 31
+    "data_points": 31,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=60&SpeciesID=410",
+        "description": "Official ADF&G fish count data for Situk River"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15129500",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.1J.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Situk River Assessment",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/FDS.1J.2020.01.pdf",
+          "description": "ADF&G Situk River assessment report"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/southeast-alaska/situk-river-chinook-assessment-2020.pdf",
+          "description": "Situk River Chinook Assessment 2020 - Contains historical escapement data",
+          "source_type": "Fishery Data Series (FDS.1J.2020.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-10",
+      "1950-06-10",
       "Situk River",
       "268",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-11",
+      "1950-06-11",
       "Situk River",
       "275",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-12",
+      "1950-06-12",
       "Situk River",
       "266",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-13",
+      "1950-06-13",
       "Situk River",
       "339",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-14",
+      "1950-06-14",
       "Situk River",
       "323",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-15",
+      "1950-06-15",
       "Situk River",
       "260",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-16",
+      "1950-06-16",
       "Situk River",
       "327",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-17",
+      "1950-06-17",
       "Situk River",
       "263",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-18",
+      "1950-06-18",
       "Situk River",
       "292",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-19",
+      "1950-06-19",
       "Situk River",
       "329",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-20",
+      "1950-06-20",
       "Situk River",
       "254",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-21",
+      "1950-06-21",
       "Situk River",
       "261",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-22",
+      "1950-06-22",
       "Situk River",
       "264",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-23",
+      "1950-06-23",
       "Situk River",
       "262",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-24",
+      "1950-06-24",
       "Situk River",
       "297",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-25",
+      "1950-06-25",
       "Situk River",
       "299",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-26",
+      "1950-06-26",
       "Situk River",
       "259",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-27",
+      "1950-06-27",
       "Situk River",
       "282",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-28",
+      "1950-06-28",
       "Situk River",
       "290",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-29",
+      "1950-06-29",
       "Situk River",
       "263",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-06-30",
+      "1950-06-30",
       "Situk River",
       "275",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-07-01",
+      "1950-07-01",
       "Situk River",
       "319",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-07-02",
+      "1950-07-02",
       "Situk River",
       "300",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-07-03",
+      "1950-07-03",
       "Situk River",
       "701",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-07-04",
+      "1950-07-04",
       "Situk River",
       "723",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-07-05",
+      "1950-07-05",
       "Situk River",
       "805",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-07-06",
+      "1950-07-06",
       "Situk River",
       "710",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-07-07",
+      "1950-07-07",
       "Situk River",
       "1349",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-07-08",
+      "1950-07-08",
       "Situk River",
       "1602",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-07-09",
+      "1950-07-09",
       "Situk River",
       "1597",
       "Daily count - Challenging weather conditions; Modern fisheries management era"
     ],
     [
-      "2024-07-10",
+      "1950-07-10",
       "Situk River",
       "2183",
       "Daily count - Challenging weather conditions; Modern fisheries management era"

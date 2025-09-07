@@ -1,1 +1,328 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1961, "June, 25 1961 00:00:00", 30, 420, 50, "Wood River", "Sockeye"], [1961, "June, 26 1961 00:00:00", 1104, 420, 50, "Wood River", "Sockeye"], [1961, "June, 27 1961 00:00:00", 4224, 420, 50, "Wood River", "Sockeye"], [1961, "June, 28 1961 00:00:00", 2874, 420, 50, "Wood River", "Sockeye"], [1961, "June, 29 1961 00:00:00", 2805, 420, 50, "Wood River", "Sockeye"], [1961, "June, 30 1961 00:00:00", 3006, 420, 50, "Wood River", "Sockeye"], [1961, "July, 01 1961 00:00:00", 96, 420, 50, "Wood River", "Sockeye"], [1961, "July, 02 1961 00:00:00", 9030, 420, 50, "Wood River", "Sockeye"], [1961, "July, 03 1961 00:00:00", 15438, 420, 50, "Wood River", "Sockeye"], [1961, "July, 04 1961 00:00:00", 24594, 420, 50, "Wood River", "Sockeye"], [1961, "July, 05 1961 00:00:00", 23433, 420, 50, "Wood River", "Sockeye"], [1961, "July, 06 1961 00:00:00", 30588, 420, 50, "Wood River", "Sockeye"], [1961, "July, 07 1961 00:00:00", 30474, 420, 50, "Wood River", "Sockeye"], [1961, "July, 08 1961 00:00:00", 21510, 420, 50, "Wood River", "Sockeye"], [1961, "July, 09 1961 00:00:00", 16728, 420, 50, "Wood River", "Sockeye"], [1961, "July, 10 1961 00:00:00", 30924, 420, 50, "Wood River", "Sockeye"], [1961, "July, 11 1961 00:00:00", 26022, 420, 50, "Wood River", "Sockeye"], [1961, "July, 12 1961 00:00:00", 75009, 420, 50, "Wood River", "Sockeye"], [1961, "July, 13 1961 00:00:00", 77736, 420, 50, "Wood River", "Sockeye"], [1961, "July, 14 1961 00:00:00", 43734, 420, 50, "Wood River", "Sockeye"], [1961, "July, 15 1961 00:00:00", 8250, 420, 50, "Wood River", "Sockeye"], [1961, "July, 16 1961 00:00:00", 5682, 420, 50, "Wood River", "Sockeye"], [1961, "July, 17 1961 00:00:00", 3492, 420, 50, "Wood River", "Sockeye"], [1961, "July, 18 1961 00:00:00", 1209, 420, 50, "Wood River", "Sockeye"], [1961, "July, 19 1961 00:00:00", 1176, 420, 50, "Wood River", "Sockeye"], [1961, "July, 20 1961 00:00:00", 507, 420, 50, "Wood River", "Sockeye"], [1961, "July, 21 1961 00:00:00", 186, 420, 50, "Wood River", "Sockeye"], [1961, "July, 23 1961 00:00:00", 24, 420, 50, "Wood River", "Sockeye"], [1961, "July, 24 1961 00:00:00", 54, 420, 50, "Wood River", "Sockeye"], [1961, "July, 25 1961 00:00:00", 486, 420, 50, "Wood River", "Sockeye"], [1961, "July, 26 1961 00:00:00", 186, 420, 50, "Wood River", "Sockeye"], [1961, "July, 27 1961 00:00:00", 54, 420, 50, "Wood River", "Sockeye"], [1961, "July, 28 1961 00:00:00", 54, 420, 50, "Wood River", "Sockeye"], [1961, "July, 29 1961 00:00:00", 18, 420, 50, "Wood River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1961,
+      "June, 25 1961 00:00:00",
+      30,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "June, 26 1961 00:00:00",
+      1104,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "June, 27 1961 00:00:00",
+      4224,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "June, 28 1961 00:00:00",
+      2874,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "June, 29 1961 00:00:00",
+      2805,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "June, 30 1961 00:00:00",
+      3006,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 01 1961 00:00:00",
+      96,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 02 1961 00:00:00",
+      9030,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 03 1961 00:00:00",
+      15438,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 04 1961 00:00:00",
+      24594,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 05 1961 00:00:00",
+      23433,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 06 1961 00:00:00",
+      30588,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 07 1961 00:00:00",
+      30474,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 08 1961 00:00:00",
+      21510,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 09 1961 00:00:00",
+      16728,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 10 1961 00:00:00",
+      30924,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 11 1961 00:00:00",
+      26022,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 12 1961 00:00:00",
+      75009,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 13 1961 00:00:00",
+      77736,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 14 1961 00:00:00",
+      43734,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 15 1961 00:00:00",
+      8250,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 16 1961 00:00:00",
+      5682,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 17 1961 00:00:00",
+      3492,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 18 1961 00:00:00",
+      1209,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 19 1961 00:00:00",
+      1176,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 20 1961 00:00:00",
+      507,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 21 1961 00:00:00",
+      186,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 23 1961 00:00:00",
+      24,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 24 1961 00:00:00",
+      54,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 25 1961 00:00:00",
+      486,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 26 1961 00:00:00",
+      186,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 27 1961 00:00:00",
+      54,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 28 1961 00:00:00",
+      54,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 29 1961 00:00:00",
+      18,
+      420,
+      50,
+      "Wood River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 50,
+    "species_id": "420",
+    "year": "1961",
+    "totalRecords": 34,
+    "totalCount": 460737,
+    "source": "ADFG JSON API",
+    "last_updated": "1961-12-31T00:00:00"
+  }
+}

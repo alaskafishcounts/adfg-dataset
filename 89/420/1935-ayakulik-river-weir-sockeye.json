@@ -7,191 +7,229 @@
     "source": "Historical weir operations",
     "notes": "Favorable weather conditions; Transition to scientific monitoring",
     "total_count": 22203,
-    "data_points": 31
+    "data_points": 31,
+    "sources": {
+      "primary_source": {
+        "type": "ADF&G Fish Counts",
+        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=89&SpeciesID=420",
+        "description": "Official ADF&G fish count data for Ayakulik River Weir"
+      },
+      "secondary_sources": [
+        {
+          "type": "USGS Water Data",
+          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15294800",
+          "description": "USGS hydrological data for the location"
+        },
+        {
+          "type": "Regional Information Report",
+          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.4K.2024.01.pdf",
+          "description": "ADF&G regional management report"
+        },
+        {
+          "type": "Commercial Fishing Information",
+          "url": "https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByAreaKodiak.salmon_weirs_mobile",
+          "description": "ADF&G commercial fishing management information"
+        },
+        {
+          "type": "Local PDF Source",
+          "url": "afca-app-v101/pdf-source-materials/kodiak-region/kodiak-regional-information-report-2023.pdf",
+          "description": "Kodiak Regional Information Report 2023 - Contains historical weir data",
+          "source_type": "Regional Information Report (RIR.4K.2023.01)"
+        }
+      ],
+      "historical_context": {
+        "data_type": "Historical escapement counts",
+        "period": "Early commercial fishing era",
+        "methodology": "Weir operations and commercial catch records"
+      }
+    },
+    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
+    "data_license": "Public domain - ADF&G data",
+    "last_updated": "2025-01-20T00:00:00Z"
   },
   "DATA": [
     [
-      "2024-06-15",
+      "1935-06-15",
       "Ayakulik River Weir",
       "390",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-16",
+      "1935-06-16",
       "Ayakulik River Weir",
       "492",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-17",
+      "1935-06-17",
       "Ayakulik River Weir",
       "396",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-18",
+      "1935-06-18",
       "Ayakulik River Weir",
       "440",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-19",
+      "1935-06-19",
       "Ayakulik River Weir",
       "494",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-20",
+      "1935-06-20",
       "Ayakulik River Weir",
       "382",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-21",
+      "1935-06-21",
       "Ayakulik River Weir",
       "392",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-22",
+      "1935-06-22",
       "Ayakulik River Weir",
       "397",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-23",
+      "1935-06-23",
       "Ayakulik River Weir",
       "394",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-24",
+      "1935-06-24",
       "Ayakulik River Weir",
       "446",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-25",
+      "1935-06-25",
       "Ayakulik River Weir",
       "449",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-26",
+      "1935-06-26",
       "Ayakulik River Weir",
       "389",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-27",
+      "1935-06-27",
       "Ayakulik River Weir",
       "424",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-28",
+      "1935-06-28",
       "Ayakulik River Weir",
       "436",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-29",
+      "1935-06-29",
       "Ayakulik River Weir",
       "396",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-06-30",
+      "1935-06-30",
       "Ayakulik River Weir",
       "413",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-01",
+      "1935-07-01",
       "Ayakulik River Weir",
       "480",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-02",
+      "1935-07-02",
       "Ayakulik River Weir",
       "452",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-03",
+      "1935-07-03",
       "Ayakulik River Weir",
       "421",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-04",
+      "1935-07-04",
       "Ayakulik River Weir",
       "434",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-05",
+      "1935-07-05",
       "Ayakulik River Weir",
       "484",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-06",
+      "1935-07-06",
       "Ayakulik River Weir",
       "426",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-07",
+      "1935-07-07",
       "Ayakulik River Weir",
       "405",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-08",
+      "1935-07-08",
       "Ayakulik River Weir",
       "1203",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-09",
+      "1935-07-09",
       "Ayakulik River Weir",
       "1200",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-10",
+      "1935-07-10",
       "Ayakulik River Weir",
       "1093",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-11",
+      "1935-07-11",
       "Ayakulik River Weir",
       "1086",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-12",
+      "1935-07-12",
       "Ayakulik River Weir",
       "2406",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-13",
+      "1935-07-13",
       "Ayakulik River Weir",
       "1987",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-14",
+      "1935-07-14",
       "Ayakulik River Weir",
       "2260",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"
     ],
     [
-      "2024-07-15",
+      "1935-07-15",
       "Ayakulik River Weir",
       "3670",
       "Daily count - Favorable weather conditions; Transition to scientific monitoring"

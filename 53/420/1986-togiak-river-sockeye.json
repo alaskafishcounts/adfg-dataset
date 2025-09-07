@@ -1,1 +1,346 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1986, "July, 04 1986 00:00:00", 72, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 05 1986 00:00:00", 348, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 06 1986 00:00:00", 72, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 07 1986 00:00:00", 198, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 08 1986 00:00:00", 378, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 09 1986 00:00:00", 714, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 10 1986 00:00:00", 858, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 11 1986 00:00:00", 2028, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 12 1986 00:00:00", 678, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 13 1986 00:00:00", 1458, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 14 1986 00:00:00", 1902, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 15 1986 00:00:00", 4488, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 16 1986 00:00:00", 5778, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 17 1986 00:00:00", 8946, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 18 1986 00:00:00", 10374, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 19 1986 00:00:00", 5130, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 20 1986 00:00:00", 4512, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 21 1986 00:00:00", 5520, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 22 1986 00:00:00", 7074, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 23 1986 00:00:00", 6558, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 24 1986 00:00:00", 10428, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 25 1986 00:00:00", 6036, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 26 1986 00:00:00", 8700, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 27 1986 00:00:00", 6264, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 28 1986 00:00:00", 5226, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 29 1986 00:00:00", 5280, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 30 1986 00:00:00", 7836, 420, 53, "Togiak River", "Sockeye"], [1986, "July, 31 1986 00:00:00", 8406, 420, 53, "Togiak River", "Sockeye"], [1986, "August, 01 1986 00:00:00", 9456, 420, 53, "Togiak River", "Sockeye"], [1986, "August, 02 1986 00:00:00", 8394, 420, 53, "Togiak River", "Sockeye"], [1986, "August, 03 1986 00:00:00", 7050, 420, 53, "Togiak River", "Sockeye"], [1986, "August, 04 1986 00:00:00", 5376, 420, 53, "Togiak River", "Sockeye"], [1986, "August, 05 1986 00:00:00", 5430, 420, 53, "Togiak River", "Sockeye"], [1986, "August, 06 1986 00:00:00", 4206, 420, 53, "Togiak River", "Sockeye"], [1986, "August, 07 1986 00:00:00", 1524, 420, 53, "Togiak River", "Sockeye"], [1986, "August, 08 1986 00:00:00", 1686, 420, 53, "Togiak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "July, 04 1986 00:00:00",
+      72,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 05 1986 00:00:00",
+      348,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 06 1986 00:00:00",
+      72,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 07 1986 00:00:00",
+      198,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 08 1986 00:00:00",
+      378,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 09 1986 00:00:00",
+      714,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 10 1986 00:00:00",
+      858,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 11 1986 00:00:00",
+      2028,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 12 1986 00:00:00",
+      678,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 13 1986 00:00:00",
+      1458,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 14 1986 00:00:00",
+      1902,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 15 1986 00:00:00",
+      4488,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 16 1986 00:00:00",
+      5778,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 17 1986 00:00:00",
+      8946,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 18 1986 00:00:00",
+      10374,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 19 1986 00:00:00",
+      5130,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 20 1986 00:00:00",
+      4512,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 21 1986 00:00:00",
+      5520,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 22 1986 00:00:00",
+      7074,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 23 1986 00:00:00",
+      6558,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 24 1986 00:00:00",
+      10428,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 25 1986 00:00:00",
+      6036,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 26 1986 00:00:00",
+      8700,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 27 1986 00:00:00",
+      6264,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 28 1986 00:00:00",
+      5226,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 29 1986 00:00:00",
+      5280,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 30 1986 00:00:00",
+      7836,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 31 1986 00:00:00",
+      8406,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "August, 01 1986 00:00:00",
+      9456,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "August, 02 1986 00:00:00",
+      8394,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "August, 03 1986 00:00:00",
+      7050,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "August, 04 1986 00:00:00",
+      5376,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "August, 05 1986 00:00:00",
+      5430,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "August, 06 1986 00:00:00",
+      4206,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "August, 07 1986 00:00:00",
+      1524,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "August, 08 1986 00:00:00",
+      1686,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 53,
+    "species_id": "420",
+    "year": "1986",
+    "totalRecords": 36,
+    "totalCount": 168384,
+    "source": "ADFG JSON API",
+    "last_updated": "1986-12-31T00:00:00"
+  }
+}

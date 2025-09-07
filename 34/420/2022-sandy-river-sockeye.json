@@ -1,1 +1,418 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2022, "June, 09 2022 00:00:00", 4, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 10 2022 00:00:00", 5, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 11 2022 00:00:00", 33, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 12 2022 00:00:00", 35, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 13 2022 00:00:00", 26, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 14 2022 00:00:00", 80, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 15 2022 00:00:00", 76, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 16 2022 00:00:00", 3, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 17 2022 00:00:00", 109, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 18 2022 00:00:00", 42, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 19 2022 00:00:00", 109, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 20 2022 00:00:00", 314, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 21 2022 00:00:00", 81, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 22 2022 00:00:00", 551, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 23 2022 00:00:00", 180, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 24 2022 00:00:00", 2240, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 25 2022 00:00:00", 1579, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 26 2022 00:00:00", 0, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 27 2022 00:00:00", 371, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 28 2022 00:00:00", 2996, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 29 2022 00:00:00", 1096, 420, 34, "Sandy River", "Sockeye"], [2022, "June, 30 2022 00:00:00", 0, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 01 2022 00:00:00", 1255, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 02 2022 00:00:00", 1628, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 03 2022 00:00:00", 1594, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 04 2022 00:00:00", 1871, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 05 2022 00:00:00", 1353, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 06 2022 00:00:00", 1674, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 07 2022 00:00:00", 1185, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 08 2022 00:00:00", 630, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 09 2022 00:00:00", 2360, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 10 2022 00:00:00", 2631, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 11 2022 00:00:00", 1657, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 12 2022 00:00:00", 1446, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 13 2022 00:00:00", 1133, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 14 2022 00:00:00", 2189, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 15 2022 00:00:00", 1535, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 16 2022 00:00:00", 3343, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 17 2022 00:00:00", 819, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 18 2022 00:00:00", 1334, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 19 2022 00:00:00", 916, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 20 2022 00:00:00", 414, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 21 2022 00:00:00", 57, 420, 34, "Sandy River", "Sockeye"], [2022, "July, 22 2022 00:00:00", 1082, 420, 34, "Sandy River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "June, 09 2022 00:00:00",
+      4,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 10 2022 00:00:00",
+      5,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 11 2022 00:00:00",
+      33,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 12 2022 00:00:00",
+      35,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 13 2022 00:00:00",
+      26,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 14 2022 00:00:00",
+      80,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 15 2022 00:00:00",
+      76,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 16 2022 00:00:00",
+      3,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 17 2022 00:00:00",
+      109,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 18 2022 00:00:00",
+      42,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 19 2022 00:00:00",
+      109,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 20 2022 00:00:00",
+      314,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 21 2022 00:00:00",
+      81,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 22 2022 00:00:00",
+      551,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 23 2022 00:00:00",
+      180,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 24 2022 00:00:00",
+      2240,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 25 2022 00:00:00",
+      1579,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 26 2022 00:00:00",
+      0,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 27 2022 00:00:00",
+      371,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 28 2022 00:00:00",
+      2996,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 29 2022 00:00:00",
+      1096,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "June, 30 2022 00:00:00",
+      0,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 01 2022 00:00:00",
+      1255,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 02 2022 00:00:00",
+      1628,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 03 2022 00:00:00",
+      1594,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 04 2022 00:00:00",
+      1871,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 05 2022 00:00:00",
+      1353,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 06 2022 00:00:00",
+      1674,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 07 2022 00:00:00",
+      1185,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 08 2022 00:00:00",
+      630,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 09 2022 00:00:00",
+      2360,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 10 2022 00:00:00",
+      2631,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 11 2022 00:00:00",
+      1657,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 12 2022 00:00:00",
+      1446,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 13 2022 00:00:00",
+      1133,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 14 2022 00:00:00",
+      2189,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 15 2022 00:00:00",
+      1535,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 16 2022 00:00:00",
+      3343,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 17 2022 00:00:00",
+      819,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 18 2022 00:00:00",
+      1334,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 19 2022 00:00:00",
+      916,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 20 2022 00:00:00",
+      414,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 21 2022 00:00:00",
+      57,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "July, 22 2022 00:00:00",
+      1082,
+      420,
+      34,
+      "Sandy River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 34,
+    "species_id": "420",
+    "year": "2022",
+    "totalRecords": 44,
+    "totalCount": 42036,
+    "source": "ADFG JSON API",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

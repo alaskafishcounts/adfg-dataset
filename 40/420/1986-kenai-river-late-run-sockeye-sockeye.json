@@ -1,1 +1,382 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1986, "June, 22 1986 00:00:00", 240, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "June, 23 1986 00:00:00", 737, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "June, 24 1986 00:00:00", 522, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "June, 25 1986 00:00:00", 441, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "June, 26 1986 00:00:00", 191, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "June, 27 1986 00:00:00", 342, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "June, 28 1986 00:00:00", 628, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "June, 29 1986 00:00:00", 392, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "June, 30 1986 00:00:00", 264, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 01 1986 00:00:00", 598, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 02 1986 00:00:00", 499, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 03 1986 00:00:00", 677, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 04 1986 00:00:00", 598, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 05 1986 00:00:00", 439, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 06 1986 00:00:00", 783, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 07 1986 00:00:00", 766, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 08 1986 00:00:00", 231, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 09 1986 00:00:00", 125, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 10 1986 00:00:00", 76, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 11 1986 00:00:00", 290, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 12 1986 00:00:00", 493, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 13 1986 00:00:00", 1246, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 14 1986 00:00:00", 15636, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 15 1986 00:00:00", 8703, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 16 1986 00:00:00", 6490, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 17 1986 00:00:00", 8118, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 18 1986 00:00:00", 9658, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 19 1986 00:00:00", 11451, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 20 1986 00:00:00", 7590, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 21 1986 00:00:00", 45496, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 22 1986 00:00:00", 66503, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 23 1986 00:00:00", 38439, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 24 1986 00:00:00", 43433, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 25 1986 00:00:00", 64887, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 26 1986 00:00:00", 106734, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 27 1986 00:00:00", 80593, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 28 1986 00:00:00", 37817, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 29 1986 00:00:00", 23689, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 30 1986 00:00:00", 34526, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"], [1986, "July, 31 1986 00:00:00", 25565, 420, 40, "Kenai River (late-run sockeye)", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "June, 22 1986 00:00:00",
+      240,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 23 1986 00:00:00",
+      737,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 24 1986 00:00:00",
+      522,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 25 1986 00:00:00",
+      441,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 26 1986 00:00:00",
+      191,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 27 1986 00:00:00",
+      342,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 28 1986 00:00:00",
+      628,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 29 1986 00:00:00",
+      392,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "June, 30 1986 00:00:00",
+      264,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 01 1986 00:00:00",
+      598,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 02 1986 00:00:00",
+      499,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 03 1986 00:00:00",
+      677,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 04 1986 00:00:00",
+      598,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 05 1986 00:00:00",
+      439,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 06 1986 00:00:00",
+      783,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 07 1986 00:00:00",
+      766,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 08 1986 00:00:00",
+      231,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 09 1986 00:00:00",
+      125,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 10 1986 00:00:00",
+      76,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 11 1986 00:00:00",
+      290,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 12 1986 00:00:00",
+      493,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 13 1986 00:00:00",
+      1246,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 14 1986 00:00:00",
+      15636,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 15 1986 00:00:00",
+      8703,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 16 1986 00:00:00",
+      6490,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 17 1986 00:00:00",
+      8118,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 18 1986 00:00:00",
+      9658,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 19 1986 00:00:00",
+      11451,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 20 1986 00:00:00",
+      7590,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 21 1986 00:00:00",
+      45496,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 22 1986 00:00:00",
+      66503,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 23 1986 00:00:00",
+      38439,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 24 1986 00:00:00",
+      43433,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 25 1986 00:00:00",
+      64887,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 26 1986 00:00:00",
+      106734,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 27 1986 00:00:00",
+      80593,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 28 1986 00:00:00",
+      37817,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 29 1986 00:00:00",
+      23689,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 30 1986 00:00:00",
+      34526,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ],
+    [
+      1986,
+      "July, 31 1986 00:00:00",
+      25565,
+      420,
+      40,
+      "Kenai River (late-run sockeye)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 40,
+    "species_id": "420",
+    "year": "1986",
+    "totalRecords": 40,
+    "totalCount": 645906,
+    "source": "ADFG JSON API",
+    "last_updated": "1986-12-31T00:00:00"
+  }
+}

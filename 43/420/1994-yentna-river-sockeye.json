@@ -1,1 +1,355 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1994, "July, 07 1994 00:00:00", 271, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 08 1994 00:00:00", 297, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 09 1994 00:00:00", 434, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 10 1994 00:00:00", 281, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 11 1994 00:00:00", 358, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 12 1994 00:00:00", 465, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 13 1994 00:00:00", 405, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 14 1994 00:00:00", 268, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 15 1994 00:00:00", 240, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 16 1994 00:00:00", 287, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 17 1994 00:00:00", 392, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 18 1994 00:00:00", 3477, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 19 1994 00:00:00", 7516, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 20 1994 00:00:00", 6636, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 21 1994 00:00:00", 10617, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 22 1994 00:00:00", 6110, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 23 1994 00:00:00", 4567, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 24 1994 00:00:00", 8263, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 25 1994 00:00:00", 8298, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 26 1994 00:00:00", 7044, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 27 1994 00:00:00", 5027, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 28 1994 00:00:00", 5471, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 29 1994 00:00:00", 8014, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 30 1994 00:00:00", 6456, 420, 43, "Yentna River", "Sockeye"], [1994, "July, 31 1994 00:00:00", 4809, 420, 43, "Yentna River", "Sockeye"], [1994, "August, 01 1994 00:00:00", 4844, 420, 43, "Yentna River", "Sockeye"], [1994, "August, 02 1994 00:00:00", 5451, 420, 43, "Yentna River", "Sockeye"], [1994, "August, 03 1994 00:00:00", 4091, 420, 43, "Yentna River", "Sockeye"], [1994, "August, 04 1994 00:00:00", 3408, 420, 43, "Yentna River", "Sockeye"], [1994, "August, 05 1994 00:00:00", 3887, 420, 43, "Yentna River", "Sockeye"], [1994, "August, 06 1994 00:00:00", 2950, 420, 43, "Yentna River", "Sockeye"], [1994, "August, 07 1994 00:00:00", 2582, 420, 43, "Yentna River", "Sockeye"], [1994, "August, 08 1994 00:00:00", 1477, 420, 43, "Yentna River", "Sockeye"], [1994, "August, 09 1994 00:00:00", 1267, 420, 43, "Yentna River", "Sockeye"], [1994, "August, 10 1994 00:00:00", 1073, 420, 43, "Yentna River", "Sockeye"], [1994, "August, 11 1994 00:00:00", 484, 420, 43, "Yentna River", "Sockeye"], [1994, "August, 12 1994 00:00:00", 515, 420, 43, "Yentna River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "July, 07 1994 00:00:00",
+      271,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 08 1994 00:00:00",
+      297,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 09 1994 00:00:00",
+      434,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 10 1994 00:00:00",
+      281,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 11 1994 00:00:00",
+      358,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 12 1994 00:00:00",
+      465,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 13 1994 00:00:00",
+      405,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 14 1994 00:00:00",
+      268,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 15 1994 00:00:00",
+      240,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 16 1994 00:00:00",
+      287,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 17 1994 00:00:00",
+      392,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 18 1994 00:00:00",
+      3477,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 19 1994 00:00:00",
+      7516,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 20 1994 00:00:00",
+      6636,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 21 1994 00:00:00",
+      10617,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 22 1994 00:00:00",
+      6110,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 23 1994 00:00:00",
+      4567,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 24 1994 00:00:00",
+      8263,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 25 1994 00:00:00",
+      8298,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 26 1994 00:00:00",
+      7044,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 27 1994 00:00:00",
+      5027,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 28 1994 00:00:00",
+      5471,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 29 1994 00:00:00",
+      8014,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 30 1994 00:00:00",
+      6456,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "July, 31 1994 00:00:00",
+      4809,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 01 1994 00:00:00",
+      4844,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 02 1994 00:00:00",
+      5451,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 03 1994 00:00:00",
+      4091,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 04 1994 00:00:00",
+      3408,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 05 1994 00:00:00",
+      3887,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 06 1994 00:00:00",
+      2950,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 07 1994 00:00:00",
+      2582,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 08 1994 00:00:00",
+      1477,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 09 1994 00:00:00",
+      1267,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 10 1994 00:00:00",
+      1073,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 11 1994 00:00:00",
+      484,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ],
+    [
+      1994,
+      "August, 12 1994 00:00:00",
+      515,
+      420,
+      43,
+      "Yentna River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 43,
+    "species_id": "420",
+    "year": "1994",
+    "totalRecords": 37,
+    "totalCount": 128032,
+    "source": "ADFG JSON API",
+    "last_updated": "1994-12-31T00:00:00"
+  }
+}

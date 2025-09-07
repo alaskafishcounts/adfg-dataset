@@ -1,1 +1,292 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1996, "July, 03 1996 00:00:00", 1344, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 04 1996 00:00:00", 2208, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 05 1996 00:00:00", 2310, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 06 1996 00:00:00", 1218, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 07 1996 00:00:00", 702, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 08 1996 00:00:00", 858, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 09 1996 00:00:00", 804, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 10 1996 00:00:00", 1938, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 11 1996 00:00:00", 4626, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 12 1996 00:00:00", 6246, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 13 1996 00:00:00", 3468, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 14 1996 00:00:00", 6138, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 15 1996 00:00:00", 6258, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 16 1996 00:00:00", 7128, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 17 1996 00:00:00", 5814, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 18 1996 00:00:00", 7098, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 19 1996 00:00:00", 7860, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 20 1996 00:00:00", 5844, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 21 1996 00:00:00", 6330, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 22 1996 00:00:00", 7236, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 23 1996 00:00:00", 12720, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 24 1996 00:00:00", 11046, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 25 1996 00:00:00", 13842, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 26 1996 00:00:00", 9204, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 27 1996 00:00:00", 7224, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 28 1996 00:00:00", 6858, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 29 1996 00:00:00", 3126, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 30 1996 00:00:00", 3768, 420, 53, "Togiak River", "Sockeye"], [1996, "July, 31 1996 00:00:00", 1668, 420, 53, "Togiak River", "Sockeye"], [1996, "August, 01 1996 00:00:00", 2070, 420, 53, "Togiak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "July, 03 1996 00:00:00",
+      1344,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 04 1996 00:00:00",
+      2208,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 05 1996 00:00:00",
+      2310,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 06 1996 00:00:00",
+      1218,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 07 1996 00:00:00",
+      702,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 08 1996 00:00:00",
+      858,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 09 1996 00:00:00",
+      804,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 10 1996 00:00:00",
+      1938,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 11 1996 00:00:00",
+      4626,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 12 1996 00:00:00",
+      6246,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 13 1996 00:00:00",
+      3468,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 14 1996 00:00:00",
+      6138,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 15 1996 00:00:00",
+      6258,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 16 1996 00:00:00",
+      7128,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 17 1996 00:00:00",
+      5814,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 18 1996 00:00:00",
+      7098,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 19 1996 00:00:00",
+      7860,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 20 1996 00:00:00",
+      5844,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 21 1996 00:00:00",
+      6330,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 22 1996 00:00:00",
+      7236,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 23 1996 00:00:00",
+      12720,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 24 1996 00:00:00",
+      11046,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 25 1996 00:00:00",
+      13842,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 26 1996 00:00:00",
+      9204,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 27 1996 00:00:00",
+      7224,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 28 1996 00:00:00",
+      6858,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 29 1996 00:00:00",
+      3126,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 30 1996 00:00:00",
+      3768,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "July, 31 1996 00:00:00",
+      1668,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1996,
+      "August, 01 1996 00:00:00",
+      2070,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 53,
+    "species_id": "420",
+    "year": "1996",
+    "totalRecords": 30,
+    "totalCount": 156954,
+    "source": "ADFG JSON API",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

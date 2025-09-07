@@ -1,1 +1,382 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1961, "July, 04 1961 00:00:00", 42, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 05 1961 00:00:00", 84, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 07 1961 00:00:00", 876, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 08 1961 00:00:00", 1050, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 09 1961 00:00:00", 3348, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 10 1961 00:00:00", 4818, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 11 1961 00:00:00", 4194, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 12 1961 00:00:00", 3696, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 13 1961 00:00:00", 3294, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 14 1961 00:00:00", 4374, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 15 1961 00:00:00", 5736, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 16 1961 00:00:00", 6162, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 17 1961 00:00:00", 4176, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 18 1961 00:00:00", 3078, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 19 1961 00:00:00", 3942, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 20 1961 00:00:00", 6126, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 21 1961 00:00:00", 5874, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 22 1961 00:00:00", 3084, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 23 1961 00:00:00", 2328, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 24 1961 00:00:00", 1164, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 25 1961 00:00:00", 1368, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 26 1961 00:00:00", 1686, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 27 1961 00:00:00", 2208, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 28 1961 00:00:00", 2970, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 29 1961 00:00:00", 4098, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 30 1961 00:00:00", 2484, 420, 53, "Togiak River", "Sockeye"], [1961, "July, 31 1961 00:00:00", 1662, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 01 1961 00:00:00", 1380, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 02 1961 00:00:00", 966, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 03 1961 00:00:00", 2166, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 04 1961 00:00:00", 1866, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 05 1961 00:00:00", 1134, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 06 1961 00:00:00", 1638, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 07 1961 00:00:00", 786, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 08 1961 00:00:00", 282, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 09 1961 00:00:00", 504, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 10 1961 00:00:00", 144, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 11 1961 00:00:00", 252, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 12 1961 00:00:00", 192, 420, 53, "Togiak River", "Sockeye"], [1961, "August, 13 1961 00:00:00", 222, 420, 53, "Togiak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1961,
+      "July, 04 1961 00:00:00",
+      42,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 05 1961 00:00:00",
+      84,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 07 1961 00:00:00",
+      876,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 08 1961 00:00:00",
+      1050,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 09 1961 00:00:00",
+      3348,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 10 1961 00:00:00",
+      4818,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 11 1961 00:00:00",
+      4194,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 12 1961 00:00:00",
+      3696,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 13 1961 00:00:00",
+      3294,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 14 1961 00:00:00",
+      4374,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 15 1961 00:00:00",
+      5736,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 16 1961 00:00:00",
+      6162,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 17 1961 00:00:00",
+      4176,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 18 1961 00:00:00",
+      3078,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 19 1961 00:00:00",
+      3942,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 20 1961 00:00:00",
+      6126,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 21 1961 00:00:00",
+      5874,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 22 1961 00:00:00",
+      3084,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 23 1961 00:00:00",
+      2328,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 24 1961 00:00:00",
+      1164,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 25 1961 00:00:00",
+      1368,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 26 1961 00:00:00",
+      1686,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 27 1961 00:00:00",
+      2208,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 28 1961 00:00:00",
+      2970,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 29 1961 00:00:00",
+      4098,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 30 1961 00:00:00",
+      2484,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "July, 31 1961 00:00:00",
+      1662,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 01 1961 00:00:00",
+      1380,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 02 1961 00:00:00",
+      966,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 03 1961 00:00:00",
+      2166,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 04 1961 00:00:00",
+      1866,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 05 1961 00:00:00",
+      1134,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 06 1961 00:00:00",
+      1638,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 07 1961 00:00:00",
+      786,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 08 1961 00:00:00",
+      282,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 09 1961 00:00:00",
+      504,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 10 1961 00:00:00",
+      144,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 11 1961 00:00:00",
+      252,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 12 1961 00:00:00",
+      192,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ],
+    [
+      1961,
+      "August, 13 1961 00:00:00",
+      222,
+      420,
+      53,
+      "Togiak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 53,
+    "species_id": "420",
+    "year": "1961",
+    "totalRecords": 40,
+    "totalCount": 95454,
+    "source": "ADFG JSON API",
+    "last_updated": "1961-12-31T00:00:00"
+  }
+}

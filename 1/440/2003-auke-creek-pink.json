@@ -1,1 +1,166 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2003, "March, 04 2003 00:00:00", 856, 440, 1, "Auke Creek", "Pink"], [2003, "March, 05 2003 00:00:00", 1140, 440, 1, "Auke Creek", "Pink"], [2003, "March, 06 2003 00:00:00", 565, 440, 1, "Auke Creek", "Pink"], [2003, "March, 07 2003 00:00:00", 702, 440, 1, "Auke Creek", "Pink"], [2003, "March, 08 2003 00:00:00", 776, 440, 1, "Auke Creek", "Pink"], [2003, "March, 09 2003 00:00:00", 850, 440, 1, "Auke Creek", "Pink"], [2003, "March, 10 2003 00:00:00", 1013, 440, 1, "Auke Creek", "Pink"], [2003, "March, 11 2003 00:00:00", 670, 440, 1, "Auke Creek", "Pink"], [2003, "March, 12 2003 00:00:00", 848, 440, 1, "Auke Creek", "Pink"], [2003, "March, 13 2003 00:00:00", 493, 440, 1, "Auke Creek", "Pink"], [2003, "March, 14 2003 00:00:00", 649, 440, 1, "Auke Creek", "Pink"], [2003, "March, 15 2003 00:00:00", 762, 440, 1, "Auke Creek", "Pink"], [2003, "March, 16 2003 00:00:00", 2010, 440, 1, "Auke Creek", "Pink"], [2003, "March, 17 2003 00:00:00", 757, 440, 1, "Auke Creek", "Pink"], [2003, "March, 18 2003 00:00:00", 1238, 440, 1, "Auke Creek", "Pink"], [2003, "March, 19 2003 00:00:00", 1778, 440, 1, "Auke Creek", "Pink"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "March, 04 2003 00:00:00",
+      856,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 05 2003 00:00:00",
+      1140,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 06 2003 00:00:00",
+      565,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 07 2003 00:00:00",
+      702,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 08 2003 00:00:00",
+      776,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 09 2003 00:00:00",
+      850,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 10 2003 00:00:00",
+      1013,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 11 2003 00:00:00",
+      670,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 12 2003 00:00:00",
+      848,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 13 2003 00:00:00",
+      493,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 14 2003 00:00:00",
+      649,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 15 2003 00:00:00",
+      762,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 16 2003 00:00:00",
+      2010,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 17 2003 00:00:00",
+      757,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 18 2003 00:00:00",
+      1238,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ],
+    [
+      2003,
+      "March, 19 2003 00:00:00",
+      1778,
+      440,
+      1,
+      "Auke Creek",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1,
+    "species_id": "440",
+    "year": "2003",
+    "totalRecords": 16,
+    "totalCount": 15107,
+    "source": "ADFG JSON API",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

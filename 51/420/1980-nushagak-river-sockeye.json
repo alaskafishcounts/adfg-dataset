@@ -1,1 +1,292 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1980, "June, 22 1980 00:00:00", 4327, 420, 51, "Nushagak River", "Sockeye"], [1980, "June, 23 1980 00:00:00", 5853, 420, 51, "Nushagak River", "Sockeye"], [1980, "June, 24 1980 00:00:00", 1991, 420, 51, "Nushagak River", "Sockeye"], [1980, "June, 25 1980 00:00:00", 2777, 420, 51, "Nushagak River", "Sockeye"], [1980, "June, 26 1980 00:00:00", 5046, 420, 51, "Nushagak River", "Sockeye"], [1980, "June, 27 1980 00:00:00", 6293, 420, 51, "Nushagak River", "Sockeye"], [1980, "June, 28 1980 00:00:00", 3929, 420, 51, "Nushagak River", "Sockeye"], [1980, "June, 29 1980 00:00:00", 1635, 420, 51, "Nushagak River", "Sockeye"], [1980, "June, 30 1980 00:00:00", 5241, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 01 1980 00:00:00", 27500, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 02 1980 00:00:00", 108994, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 03 1980 00:00:00", 243232, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 04 1980 00:00:00", 297268, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 05 1980 00:00:00", 225132, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 06 1980 00:00:00", 99953, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 07 1980 00:00:00", 56086, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 08 1980 00:00:00", 24086, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 09 1980 00:00:00", 10258, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 10 1980 00:00:00", 10007, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 11 1980 00:00:00", 5887, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 12 1980 00:00:00", 5272, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 13 1980 00:00:00", 5529, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 14 1980 00:00:00", 6647, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 15 1980 00:00:00", 3745, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 16 1980 00:00:00", 3553, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 17 1980 00:00:00", 12370, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 18 1980 00:00:00", 12984, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 19 1980 00:00:00", 1515, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 20 1980 00:00:00", 1031, 420, 51, "Nushagak River", "Sockeye"], [1980, "July, 21 1980 00:00:00", 1084, 420, 51, "Nushagak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1980,
+      "June, 22 1980 00:00:00",
+      4327,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 23 1980 00:00:00",
+      5853,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 24 1980 00:00:00",
+      1991,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 25 1980 00:00:00",
+      2777,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 26 1980 00:00:00",
+      5046,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 27 1980 00:00:00",
+      6293,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 28 1980 00:00:00",
+      3929,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 29 1980 00:00:00",
+      1635,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "June, 30 1980 00:00:00",
+      5241,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 01 1980 00:00:00",
+      27500,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 02 1980 00:00:00",
+      108994,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 03 1980 00:00:00",
+      243232,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 04 1980 00:00:00",
+      297268,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 05 1980 00:00:00",
+      225132,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 06 1980 00:00:00",
+      99953,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 07 1980 00:00:00",
+      56086,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 08 1980 00:00:00",
+      24086,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 09 1980 00:00:00",
+      10258,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 10 1980 00:00:00",
+      10007,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 11 1980 00:00:00",
+      5887,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 12 1980 00:00:00",
+      5272,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 13 1980 00:00:00",
+      5529,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 14 1980 00:00:00",
+      6647,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 15 1980 00:00:00",
+      3745,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 16 1980 00:00:00",
+      3553,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 17 1980 00:00:00",
+      12370,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 18 1980 00:00:00",
+      12984,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 19 1980 00:00:00",
+      1515,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 20 1980 00:00:00",
+      1031,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ],
+    [
+      1980,
+      "July, 21 1980 00:00:00",
+      1084,
+      420,
+      51,
+      "Nushagak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 51,
+    "species_id": "420",
+    "year": "1980",
+    "totalRecords": 30,
+    "totalCount": 1199225,
+    "source": "ADFG JSON API",
+    "last_updated": "1980-12-31T00:00:00"
+  }
+}

@@ -1,1 +1,346 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2012, "June, 24 2012 00:00:00", 191, 420, 42, "Crescent River", "Sockeye"], [2012, "June, 25 2012 00:00:00", 189, 420, 42, "Crescent River", "Sockeye"], [2012, "June, 26 2012 00:00:00", 424, 420, 42, "Crescent River", "Sockeye"], [2012, "June, 27 2012 00:00:00", 153, 420, 42, "Crescent River", "Sockeye"], [2012, "June, 28 2012 00:00:00", 1642, 420, 42, "Crescent River", "Sockeye"], [2012, "June, 29 2012 00:00:00", 4709, 420, 42, "Crescent River", "Sockeye"], [2012, "June, 30 2012 00:00:00", 2001, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 01 2012 00:00:00", 7407, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 02 2012 00:00:00", 3463, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 03 2012 00:00:00", 2112, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 04 2012 00:00:00", 625, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 05 2012 00:00:00", 1283, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 06 2012 00:00:00", 3003, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 07 2012 00:00:00", 4132, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 08 2012 00:00:00", 2351, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 09 2012 00:00:00", 851, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 10 2012 00:00:00", 644, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 11 2012 00:00:00", 649, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 12 2012 00:00:00", 680, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 13 2012 00:00:00", 841, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 14 2012 00:00:00", 1844, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 15 2012 00:00:00", 1073, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 16 2012 00:00:00", 1630, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 17 2012 00:00:00", 963, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 18 2012 00:00:00", 643, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 19 2012 00:00:00", 1240, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 20 2012 00:00:00", 2450, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 21 2012 00:00:00", 4024, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 22 2012 00:00:00", 972, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 23 2012 00:00:00", 1875, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 24 2012 00:00:00", 1814, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 25 2012 00:00:00", 817, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 26 2012 00:00:00", 487, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 27 2012 00:00:00", 544, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 28 2012 00:00:00", 574, 420, 42, "Crescent River", "Sockeye"], [2012, "July, 29 2012 00:00:00", 538, 420, 42, "Crescent River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "June, 24 2012 00:00:00",
+      191,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 25 2012 00:00:00",
+      189,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 26 2012 00:00:00",
+      424,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 27 2012 00:00:00",
+      153,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 28 2012 00:00:00",
+      1642,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 29 2012 00:00:00",
+      4709,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "June, 30 2012 00:00:00",
+      2001,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 01 2012 00:00:00",
+      7407,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 02 2012 00:00:00",
+      3463,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 03 2012 00:00:00",
+      2112,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 04 2012 00:00:00",
+      625,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 05 2012 00:00:00",
+      1283,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 06 2012 00:00:00",
+      3003,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 07 2012 00:00:00",
+      4132,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 08 2012 00:00:00",
+      2351,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 09 2012 00:00:00",
+      851,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 10 2012 00:00:00",
+      644,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 11 2012 00:00:00",
+      649,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 12 2012 00:00:00",
+      680,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 13 2012 00:00:00",
+      841,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 14 2012 00:00:00",
+      1844,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 15 2012 00:00:00",
+      1073,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 16 2012 00:00:00",
+      1630,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 17 2012 00:00:00",
+      963,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 18 2012 00:00:00",
+      643,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 19 2012 00:00:00",
+      1240,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 20 2012 00:00:00",
+      2450,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 21 2012 00:00:00",
+      4024,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 22 2012 00:00:00",
+      972,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 23 2012 00:00:00",
+      1875,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 24 2012 00:00:00",
+      1814,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 25 2012 00:00:00",
+      817,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 26 2012 00:00:00",
+      487,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 27 2012 00:00:00",
+      544,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 28 2012 00:00:00",
+      574,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ],
+    [
+      2012,
+      "July, 29 2012 00:00:00",
+      538,
+      420,
+      42,
+      "Crescent River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 42,
+    "species_id": "420",
+    "year": "2012",
+    "totalRecords": 36,
+    "totalCount": 58838,
+    "source": "ADFG JSON API",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

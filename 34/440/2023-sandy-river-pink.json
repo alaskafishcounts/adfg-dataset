@@ -1,1 +1,148 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[2023, "July, 08 2023 00:00:00", 1, 440, 34, "Sandy River", "Pink"], [2023, "July, 09 2023 00:00:00", 0, 440, 34, "Sandy River", "Pink"], [2023, "July, 10 2023 00:00:00", 0, 440, 34, "Sandy River", "Pink"], [2023, "July, 11 2023 00:00:00", 3, 440, 34, "Sandy River", "Pink"], [2023, "July, 12 2023 00:00:00", 1, 440, 34, "Sandy River", "Pink"], [2023, "July, 13 2023 00:00:00", 7, 440, 34, "Sandy River", "Pink"], [2023, "July, 14 2023 00:00:00", 22, 440, 34, "Sandy River", "Pink"], [2023, "July, 15 2023 00:00:00", 11, 440, 34, "Sandy River", "Pink"], [2023, "July, 16 2023 00:00:00", 2, 440, 34, "Sandy River", "Pink"], [2023, "July, 17 2023 00:00:00", 7, 440, 34, "Sandy River", "Pink"], [2023, "July, 18 2023 00:00:00", 14, 440, 34, "Sandy River", "Pink"], [2023, "July, 19 2023 00:00:00", 31, 440, 34, "Sandy River", "Pink"], [2023, "July, 20 2023 00:00:00", 7, 440, 34, "Sandy River", "Pink"], [2023, "July, 21 2023 00:00:00", 0, 440, 34, "Sandy River", "Pink"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "July, 08 2023 00:00:00",
+      1,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 09 2023 00:00:00",
+      0,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 10 2023 00:00:00",
+      0,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 11 2023 00:00:00",
+      3,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 12 2023 00:00:00",
+      1,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 13 2023 00:00:00",
+      7,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 14 2023 00:00:00",
+      22,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 15 2023 00:00:00",
+      11,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 16 2023 00:00:00",
+      2,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 17 2023 00:00:00",
+      7,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 18 2023 00:00:00",
+      14,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 19 2023 00:00:00",
+      31,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 20 2023 00:00:00",
+      7,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ],
+    [
+      2023,
+      "July, 21 2023 00:00:00",
+      0,
+      440,
+      34,
+      "Sandy River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 34,
+    "species_id": "440",
+    "year": "2023",
+    "totalRecords": 14,
+    "totalCount": 106,
+    "source": "ADFG JSON API",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

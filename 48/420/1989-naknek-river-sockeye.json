@@ -1,1 +1,283 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1989, "June, 22 1989 00:00:00", 840, 420, 48, "Naknek River", "Sockeye"], [1989, "June, 23 1989 00:00:00", 972, 420, 48, "Naknek River", "Sockeye"], [1989, "June, 24 1989 00:00:00", 7902, 420, 48, "Naknek River", "Sockeye"], [1989, "June, 25 1989 00:00:00", 28800, 420, 48, "Naknek River", "Sockeye"], [1989, "June, 26 1989 00:00:00", 36534, 420, 48, "Naknek River", "Sockeye"], [1989, "June, 27 1989 00:00:00", 6030, 420, 48, "Naknek River", "Sockeye"], [1989, "June, 28 1989 00:00:00", 66306, 420, 48, "Naknek River", "Sockeye"], [1989, "June, 29 1989 00:00:00", 226428, 420, 48, "Naknek River", "Sockeye"], [1989, "June, 30 1989 00:00:00", 68184, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 01 1989 00:00:00", 72564, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 02 1989 00:00:00", 195618, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 03 1989 00:00:00", 121878, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 04 1989 00:00:00", 31716, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 05 1989 00:00:00", 27492, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 06 1989 00:00:00", 47520, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 07 1989 00:00:00", 26808, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 08 1989 00:00:00", 28584, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 09 1989 00:00:00", 18258, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 10 1989 00:00:00", 5172, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 11 1989 00:00:00", 17616, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 12 1989 00:00:00", 14292, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 13 1989 00:00:00", 22020, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 14 1989 00:00:00", 14310, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 15 1989 00:00:00", 48120, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 16 1989 00:00:00", 9804, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 17 1989 00:00:00", 5148, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 18 1989 00:00:00", 6558, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 19 1989 00:00:00", 4836, 420, 48, "Naknek River", "Sockeye"], [1989, "July, 20 1989 00:00:00", 1674, 420, 48, "Naknek River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "June, 22 1989 00:00:00",
+      840,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "June, 23 1989 00:00:00",
+      972,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "June, 24 1989 00:00:00",
+      7902,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "June, 25 1989 00:00:00",
+      28800,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "June, 26 1989 00:00:00",
+      36534,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "June, 27 1989 00:00:00",
+      6030,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "June, 28 1989 00:00:00",
+      66306,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "June, 29 1989 00:00:00",
+      226428,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "June, 30 1989 00:00:00",
+      68184,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 01 1989 00:00:00",
+      72564,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 02 1989 00:00:00",
+      195618,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 03 1989 00:00:00",
+      121878,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 04 1989 00:00:00",
+      31716,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 05 1989 00:00:00",
+      27492,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 06 1989 00:00:00",
+      47520,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 07 1989 00:00:00",
+      26808,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 08 1989 00:00:00",
+      28584,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 09 1989 00:00:00",
+      18258,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 10 1989 00:00:00",
+      5172,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 11 1989 00:00:00",
+      17616,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 12 1989 00:00:00",
+      14292,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 13 1989 00:00:00",
+      22020,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 14 1989 00:00:00",
+      14310,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 15 1989 00:00:00",
+      48120,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 16 1989 00:00:00",
+      9804,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 17 1989 00:00:00",
+      5148,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 18 1989 00:00:00",
+      6558,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 19 1989 00:00:00",
+      4836,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ],
+    [
+      1989,
+      "July, 20 1989 00:00:00",
+      1674,
+      420,
+      48,
+      "Naknek River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 48,
+    "species_id": "420",
+    "year": "1989",
+    "totalRecords": 29,
+    "totalCount": 1161984,
+    "source": "ADFG JSON API",
+    "last_updated": "1989-12-31T00:00:00"
+  }
+}

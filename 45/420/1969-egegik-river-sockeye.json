@@ -1,1 +1,211 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1969, "June, 30 1969 00:00:00", 1212, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 01 1969 00:00:00", 276, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 02 1969 00:00:00", 11028, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 03 1969 00:00:00", 33672, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 04 1969 00:00:00", 49650, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 05 1969 00:00:00", 29190, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 06 1969 00:00:00", 78288, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 07 1969 00:00:00", 132060, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 08 1969 00:00:00", 166698, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 09 1969 00:00:00", 154140, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 10 1969 00:00:00", 36648, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 11 1969 00:00:00", 51696, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 12 1969 00:00:00", 61962, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 13 1969 00:00:00", 57528, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 14 1969 00:00:00", 73968, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 15 1969 00:00:00", 30168, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 16 1969 00:00:00", 37698, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 17 1969 00:00:00", 8328, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 18 1969 00:00:00", 1122, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 19 1969 00:00:00", 186, 420, 45, "Egegik River", "Sockeye"], [1969, "July, 20 1969 00:00:00", 36, 420, 45, "Egegik River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1969,
+      "June, 30 1969 00:00:00",
+      1212,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 01 1969 00:00:00",
+      276,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 02 1969 00:00:00",
+      11028,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 03 1969 00:00:00",
+      33672,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 04 1969 00:00:00",
+      49650,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 05 1969 00:00:00",
+      29190,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 06 1969 00:00:00",
+      78288,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 07 1969 00:00:00",
+      132060,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 08 1969 00:00:00",
+      166698,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 09 1969 00:00:00",
+      154140,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 10 1969 00:00:00",
+      36648,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 11 1969 00:00:00",
+      51696,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 12 1969 00:00:00",
+      61962,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 13 1969 00:00:00",
+      57528,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 14 1969 00:00:00",
+      73968,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 15 1969 00:00:00",
+      30168,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 16 1969 00:00:00",
+      37698,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 17 1969 00:00:00",
+      8328,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 18 1969 00:00:00",
+      1122,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 19 1969 00:00:00",
+      186,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ],
+    [
+      1969,
+      "July, 20 1969 00:00:00",
+      36,
+      420,
+      45,
+      "Egegik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 45,
+    "species_id": "420",
+    "year": "1969",
+    "totalRecords": 21,
+    "totalCount": 1015554,
+    "source": "ADFG JSON API",
+    "last_updated": "1969-12-31T00:00:00"
+  }
+}

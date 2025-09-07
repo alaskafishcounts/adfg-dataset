@@ -1,1 +1,301 @@
-{"COLUMNS": ["YEAR", "COUNTDATE", "FISHCOUNT", "SPECIESID", "COUNTLOCATIONID", "COUNTLOCATION", "SPECIES"], "DATA": [[1971, "July, 01 1971 00:00:00", 2154, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 02 1971 00:00:00", 5418, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 03 1971 00:00:00", 3828, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 04 1971 00:00:00", 4338, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 05 1971 00:00:00", 1614, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 06 1971 00:00:00", 1368, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 07 1971 00:00:00", 17964, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 08 1971 00:00:00", 103476, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 09 1971 00:00:00", 151626, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 10 1971 00:00:00", 200874, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 11 1971 00:00:00", 283590, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 12 1971 00:00:00", 265050, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 13 1971 00:00:00", 147906, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 14 1971 00:00:00", 88950, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 15 1971 00:00:00", 199674, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 16 1971 00:00:00", 200712, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 17 1971 00:00:00", 221034, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 18 1971 00:00:00", 157796, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 19 1971 00:00:00", 94558, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 20 1971 00:00:00", 31320, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 21 1971 00:00:00", 30516, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 22 1971 00:00:00", 28000, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 23 1971 00:00:00", 25000, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 24 1971 00:00:00", 22000, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 25 1971 00:00:00", 20000, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 26 1971 00:00:00", 18000, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 27 1971 00:00:00", 15000, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 28 1971 00:00:00", 12000, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 29 1971 00:00:00", 10500, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 30 1971 00:00:00", 9000, 420, 46, "Kvichak River", "Sockeye"], [1971, "July, 31 1971 00:00:00", 8000, 420, 46, "Kvichak River", "Sockeye"]]}
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1971,
+      "July, 01 1971 00:00:00",
+      2154,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 02 1971 00:00:00",
+      5418,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 03 1971 00:00:00",
+      3828,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 04 1971 00:00:00",
+      4338,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 05 1971 00:00:00",
+      1614,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 06 1971 00:00:00",
+      1368,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 07 1971 00:00:00",
+      17964,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 08 1971 00:00:00",
+      103476,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 09 1971 00:00:00",
+      151626,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 10 1971 00:00:00",
+      200874,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 11 1971 00:00:00",
+      283590,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 12 1971 00:00:00",
+      265050,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 13 1971 00:00:00",
+      147906,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 14 1971 00:00:00",
+      88950,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 15 1971 00:00:00",
+      199674,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 16 1971 00:00:00",
+      200712,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 17 1971 00:00:00",
+      221034,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 18 1971 00:00:00",
+      157796,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 19 1971 00:00:00",
+      94558,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 20 1971 00:00:00",
+      31320,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 21 1971 00:00:00",
+      30516,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 22 1971 00:00:00",
+      28000,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 23 1971 00:00:00",
+      25000,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 24 1971 00:00:00",
+      22000,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 25 1971 00:00:00",
+      20000,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 26 1971 00:00:00",
+      18000,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 27 1971 00:00:00",
+      15000,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 28 1971 00:00:00",
+      12000,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 29 1971 00:00:00",
+      10500,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 30 1971 00:00:00",
+      9000,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ],
+    [
+      1971,
+      "July, 31 1971 00:00:00",
+      8000,
+      420,
+      46,
+      "Kvichak River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 46,
+    "species_id": "420",
+    "year": "1971",
+    "totalRecords": 31,
+    "totalCount": 2381266,
+    "source": "ADFG JSON API",
+    "last_updated": "1971-12-31T00:00:00"
+  }
+}
