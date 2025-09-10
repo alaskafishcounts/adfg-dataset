@@ -863,61 +863,51 @@
       24,
       "Karluk River",
       "Sockeye"
+    ],
+    [
+      2025,
+      "September, 05 2025 00:00:00",
+      449,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "September, 06 2025 00:00:00",
+      644,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "September, 07 2025 00:00:00",
+      652,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "September, 08 2025 00:00:00",
+      580,
+      420,
+      24,
+      "Karluk River",
+      "Sockeye"
     ]
   ],
   "metadata": {
     "location_id": 24,
     "species_id": 420,
     "year": "2025",
-    "totalRecords": 95,
-    "totalCount": 182647,
+    "totalRecords": 99,
+    "totalCount": 184972,
     "source": "ADFG JSON API",
-<<<<<<< HEAD
-    "last_updated": "2025-01-20T00:00:00Z",
-    "sources": {
-      "primary_source": {
-        "type": "ADF&G Fish Counts",
-        "url": "https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=24&SpeciesID=420",
-        "description": "Official ADF&G fish count data for Karluk River"
-      },
-      "secondary_sources": [
-        {
-          "type": "USGS Water Data",
-          "url": "https://waterdata.usgs.gov/ak/nwis/uv?site_no=15295000",
-          "description": "USGS hydrological data for the location"
-        },
-        {
-          "type": "Regional Information Report",
-          "url": "https://www.adfg.alaska.gov/FedAidPDFs/RIR.4K.2024.01.pdf",
-          "description": "ADF&G regional management report"
-        },
-        {
-          "type": "Commercial Fishing Information",
-          "url": "https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByAreaKodiak.salmon_weirs_mobile",
-          "description": "ADF&G commercial fishing management information"
-        },
-        {
-          "type": "National Archives",
-          "url": "https://catalog.archives.gov/id/312419233",
-          "description": "Historical records from National Archives"
-        },
-        {
-          "type": "Local PDF Source",
-          "url": "afca-app-v101/pdf-source-materials/kodiak-region/kodiak-regional-information-report-2023.pdf",
-          "description": "Kodiak Regional Information Report 2023 - Contains historical data",
-          "source_type": "Regional Information Report (RIR.4K.2023.01)"
-        }
-      ],
-      "historical_context": {
-        "data_type": "Historical escapement counts",
-        "period": "Early commercial fishing era",
-        "methodology": "Weir operations and commercial catch records"
-      }
-    },
-    "source_attribution": "Alaska Department of Fish and Game (ADF&G)",
-    "data_license": "Public domain - ADF&G data"
-=======
-    "last_updated": "2025-09-07T13:02:30.217572"
->>>>>>> 351d72f71a9d465dc657caea9bbfa722ba27725d
+    "last_updated": "2025-09-10T03:03:44.444216"
   }
 }
