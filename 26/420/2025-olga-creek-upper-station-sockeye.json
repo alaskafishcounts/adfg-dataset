@@ -930,7 +930,16 @@
     [
       2025,
       "September, 09 2025 00:00:00",
-      1167,
+      3167,
+      420,
+      26,
+      "Olga Creek (Upper Station)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "September, 10 2025 00:00:00",
+      2338,
       420,
       26,
       "Olga Creek (Upper Station)",
@@ -941,9 +950,9 @@
     "location_id": 26,
     "species_id": 420,
     "year": "2025",
-    "totalRecords": 103,
-    "totalCount": 236629,
+    "totalRecords": 104,
+    "totalCount": 240967,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-11T13:16:09.358608"
+    "last_updated": "2025-09-11T18:43:52.546043"
   }
 }
