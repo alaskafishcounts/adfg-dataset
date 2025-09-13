@@ -1,0 +1,181 @@
+{
+  "version": "1.0.0",
+  "generated_utc": "2025-08-12T20:15:00.000Z",
+  "last_updated": "2025-08-12T20:15:00.000Z",
+  "metadata": {
+    "description": "Master species reference for Alaska Fish Counts App",
+    "source": "ADFG Official Species Codes",
+    "total_species": 13,
+    "schema": "v1.0"
+  },
+  "species": [
+    {
+      "id": 410,
+      "code": "410",
+      "name": "Chinook Salmon (King)",
+      "slug": "chinook",
+      "color": "#3b82f6",
+      "notes": "General/unspecified run",
+      "category": "Salmon",
+      "adfg_reference": "Official ADFG species code",
+      "monitoring_locations": [5, 15, 16, 17, 37, 38, 72]
+    },
+    {
+      "id": 411,
+      "code": "411",
+      "name": "Chinook – Early Run",
+      "slug": "chinook-early-run",
+      "notes": "Early-run Kenai River kings",
+      "category": "Salmon",
+      "adfg_reference": "Official ADFG species code",
+      "monitoring_locations": [72]
+    },
+    {
+      "id": 412,
+      "code": "412",
+      "name": "Chinook – Late Run",
+      "slug": "chinook-late-run",
+      "notes": "Late-run Kenai River kings",
+      "category": "Salmon",
+      "adfg_reference": "Official ADFG species code",
+      "monitoring_locations": [72]
+    },
+    {
+      "id": 420,
+      "code": "420",
+      "name": "Sockeye Salmon (Red)",
+      "slug": "sockeye",
+      "color": "#ef4444",
+      "notes": "General/unspecified run",
+      "category": "Salmon",
+      "adfg_reference": "Official ADFG species code",
+      "monitoring_locations": [5, 28, 40, 41, 60]
+    },
+    {
+      "id": 421,
+      "code": "421",
+      "name": "Sockeye – Early Run",
+      "slug": "sockeye-early-run",
+      "notes": "Early-run sockeye (e.g., Russian River)",
+      "category": "Salmon",
+      "adfg_reference": "Official ADFG species code",
+      "monitoring_locations": [13]
+    },
+    {
+      "id": 422,
+      "code": "422",
+      "name": "Sockeye – Late Run",
+      "slug": "sockeye-late-run",
+      "notes": "Late-run sockeye (e.g., Russian River)",
+      "category": "Salmon",
+      "adfg_reference": "Official ADFG species code",
+      "monitoring_locations": [13]
+    },
+    {
+      "id": 430,
+      "code": "430",
+      "name": "Coho Salmon (Silver)",
+      "slug": "coho",
+      "color": "#10b981",
+      "notes": "General/unspecified run",
+      "category": "Salmon",
+      "adfg_reference": "Official ADFG species code",
+      "monitoring_locations": [13, 16, 17, 23, 28]
+    },
+    {
+      "id": 440,
+      "code": "440",
+      "name": "Pink Salmon (Humpy)",
+      "slug": "pink",
+      "color": "#fbbf24",
+      "notes": "General/unspecified run",
+      "category": "Salmon",
+      "adfg_reference": "Official ADFG species code",
+      "monitoring_locations": [17, 28]
+    },
+    {
+      "id": 450,
+      "code": "450",
+      "name": "Chum Salmon (Dog)",
+      "slug": "chum",
+      "color": "#8b5cf6",
+      "notes": "General/unspecified run",
+      "category": "Salmon",
+      "adfg_reference": "Official ADFG species code",
+      "monitoring_locations": [37, 38]
+    },
+    {
+      "id": 530,
+      "code": "530",
+      "name": "Dolly Varden",
+      "slug": "dolly-varden",
+      "notes": "General/unspecified run",
+      "category": "Trout",
+      "adfg_reference": "Official ADFG species code",
+      "monitoring_locations": []
+    },
+    {
+      "id": 540,
+      "code": "540",
+      "name": "Steelhead Trout",
+      "slug": "steelhead",
+      "color": "#06b6d4",
+      "notes": "Sea-run Rainbow Trout",
+      "category": "Trout",
+      "adfg_reference": "Official ADFG species code",
+      "monitoring_locations": [5]
+    },
+      {
+    "id": 541,
+    "code": "541",
+    "name": "Rainbow Trout",
+    "slug": "rainbow",
+    "notes": "General/unspecified run",
+    "category": "Trout",
+    "adfg_reference": "Official ADFG species code",
+    "monitoring_locations": []
+  },
+    {
+      "id": 600,
+      "code": "600",
+      "name": "Pacific Lamprey",
+      "slug": "pacific-lamprey",
+      "notes": "General/unspecified run",
+      "category": "Lamprey",
+      "adfg_reference": "Official ADFG species code",
+      "monitoring_locations": []
+    }
+  ],
+  "categories": {
+    "Salmon": {
+      "description": "Pacific Salmon species",
+      "species_codes": [410, 411, 412, 420, 421, 422, 430, 440, 450]
+    },
+    "Trout": {
+      "description": "Trout species including Steelhead",
+      "species_codes": [530, 540, 541]
+    },
+    "Lamprey": {
+      "description": "Pacific Lamprey species",
+      "species_codes": [600]
+    }
+  },
+  "monitoring_summary": {
+    "total_locations": 13,
+    "locations_by_species": {
+      "410": [5, 15, 16, 17, 37, 38, 72],
+      "411": [72],
+      "412": [72],
+      "420": [5, 28, 40, 41, 60],
+      "421": [13],
+      "422": [13],
+      "430": [13, 16, 17, 23, 28],
+      "440": [17, 28],
+      "450": [37, 38],
+      "530": [],
+      "540": [5],
+      "541": [],
+      "600": []
+    }
+  }
+}
