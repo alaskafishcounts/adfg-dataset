@@ -1,14 +1,14 @@
 {
   "version": "3.0.0",
   "metadata": {
-    "generated": "2025-09-13T08:12:47.347378",
+    "generated": "2025-09-13T08:13:58.939963",
     "total_files": 107,
     "format": "organized_by_location_year_species",
     "repository": "alaskafishcounts/adfg-dataset",
     "description": "Alaska Fish Count App",
     "source": "ADF&G Fish Counts + Other Verified Gov Resources for Archival",
     "years_covered": 1,
-    "locations_with_data": 30,
+    "locations_with_data": 57,
     "species_covered": 6
   },
   "index": {
@@ -46,7 +46,30 @@
       "77": "klag-lake",
       "78": "lake-creek",
       "8": "eshamy-creek",
-      "9": "anchor-river"
+      "9": "anchor-river",
+      "1": "auke-creek",
+      "11": "deep-creek",
+      "19": "wasilla-creek",
+      "20": "cottonwood-creek",
+      "22": "pauls-bay-river",
+      "34": "sandy-river",
+      "42": "crescent-river",
+      "43": "yentna-river",
+      "44": "ugashik-river",
+      "45": "egegik-river",
+      "46": "kvichak-river",
+      "47": "alagnak-river",
+      "48": "naknek-river",
+      "49": "igushik-river",
+      "50": "wood-river",
+      "52": "nuyakuk-river",
+      "53": "togiak-river",
+      "72": "kenai-river",
+      "74": "mclees-lake",
+      "79": "iliuliuk-river-town-creek",
+      "81": "litnik-afognak-river-weir",
+      "88": "upper-station-olga-creek-weir",
+      "89": "ayakulik-river-weir"
     },
     "species": {
       "410": "chinook",
@@ -64,7 +87,7 @@
     },
     "statistics": {
       "total_files": 107,
-      "total_locations": 33,
+      "total_locations": 57,
       "total_species": 8,
       "years_available": [
         2025
