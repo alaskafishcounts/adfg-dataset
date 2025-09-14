@@ -11,96 +11,6 @@
   "DATA": [
     [
       2025,
-      "August, 01 2025 00:00:00",
-      1,
-      450,
-      29,
-      "Saltery Creek",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 02 2025 00:00:00",
-      1,
-      450,
-      29,
-      "Saltery Creek",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 03 2025 00:00:00",
-      2,
-      450,
-      29,
-      "Saltery Creek",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 04 2025 00:00:00",
-      3,
-      450,
-      29,
-      "Saltery Creek",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 05 2025 00:00:00",
-      2,
-      450,
-      29,
-      "Saltery Creek",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 06 2025 00:00:00",
-      1,
-      450,
-      29,
-      "Saltery Creek",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 07 2025 00:00:00",
-      0,
-      450,
-      29,
-      "Saltery Creek",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 08 2025 00:00:00",
-      0,
-      450,
-      29,
-      "Saltery Creek",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 09 2025 00:00:00",
-      0,
-      450,
-      29,
-      "Saltery Creek",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 10 2025 00:00:00",
-      0,
-      450,
-      29,
-      "Saltery Creek",
-      "Chum"
-    ],
-    [
-      2025,
       "July, 09 2025 00:00:00",
       4,
       450,
@@ -305,6 +215,96 @@
       29,
       "Saltery Creek",
       "Chum"
+    ],
+    [
+      2025,
+      "August, 01 2025 00:00:00",
+      1,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      1,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      2,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      3,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      2,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      1,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 08 2025 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 09 2025 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 10 2025 00:00:00",
+      0,
+      450,
+      29,
+      "Saltery Creek",
+      "Chum"
     ]
   ],
   "metadata": {
@@ -314,33 +314,6 @@
     "totalRecords": 33,
     "totalCount": 143,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-13T15:57:15.231816",
-    "daysWithData": 27,
-    "latestDate": 2025,
-    "lastUpdated": "2025-09-13T19:51:22.852535",
-    "updateCount": 1,
-    "mergeHistory": [
-      {
-        "timestamp": "2025-09-13T19:51:22.852537",
-        "newRecords": 0,
-        "updatedRecords": 0,
-        "unchangedRecords": 33,
-        "totalRecords": 33
-      }
-    ]
-  },
-  "record_update_times": {},
-  "merge_info": {
-    "new_records_added": 0,
-    "existing_records_updated": 0,
-    "unchanged_records": 33,
-    "total_records": 33,
-    "merge_timestamp": "2025-09-13T19:51:22.852540",
-    "data_freshness": {
-      "latest_date": 2025,
-      "days_with_data": 27,
-      "total_count": 143,
-      "total_records": 33
-    }
+    "last_updated": "2025-09-14T15:54:21.420101"
   }
 }

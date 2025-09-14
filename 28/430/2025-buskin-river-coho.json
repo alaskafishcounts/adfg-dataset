@@ -11,6 +11,24 @@
   "DATA": [
     [
       2025,
+      "July, 30 2025 00:00:00",
+      1,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      0,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2025,
       "August, 01 2025 00:00:00",
       0,
       430,
@@ -290,24 +308,6 @@
     ],
     [
       2025,
-      "July, 30 2025 00:00:00",
-      1,
-      430,
-      28,
-      "Buskin River",
-      "Coho"
-    ],
-    [
-      2025,
-      "July, 31 2025 00:00:00",
-      0,
-      430,
-      28,
-      "Buskin River",
-      "Coho"
-    ],
-    [
-      2025,
       "September, 01 2025 00:00:00",
       83,
       430,
@@ -404,33 +404,6 @@
     "totalRecords": 43,
     "totalCount": 2053,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-13T15:57:12.744146",
-    "daysWithData": 37,
-    "latestDate": 2025,
-    "lastUpdated": "2025-09-13T19:51:18.901118",
-    "updateCount": 1,
-    "mergeHistory": [
-      {
-        "timestamp": "2025-09-13T19:51:18.901120",
-        "newRecords": 0,
-        "updatedRecords": 0,
-        "unchangedRecords": 43,
-        "totalRecords": 43
-      }
-    ]
-  },
-  "record_update_times": {},
-  "merge_info": {
-    "new_records_added": 0,
-    "existing_records_updated": 0,
-    "unchanged_records": 43,
-    "total_records": 43,
-    "merge_timestamp": "2025-09-13T19:51:18.901124",
-    "data_freshness": {
-      "latest_date": 2025,
-      "days_with_data": 37,
-      "total_count": 2053,
-      "total_records": 43
-    }
+    "last_updated": "2025-09-14T15:54:18.871813"
   }
 }
