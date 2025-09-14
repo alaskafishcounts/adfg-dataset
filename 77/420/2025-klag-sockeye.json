@@ -173,6 +173,105 @@
     ],
     [
       2025,
+      "August, 19 2025 00:00:00",
+      22,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 20 2025 00:00:00",
+      28,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 21 2025 00:00:00",
+      67,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 22 2025 00:00:00",
+      24,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 23 2025 00:00:00",
+      21,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 24 2025 00:00:00",
+      25,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 25 2025 00:00:00",
+      14,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 26 2025 00:00:00",
+      15,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 27 2025 00:00:00",
+      22,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 28 2025 00:00:00",
+      26,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 29 2025 00:00:00",
+      7,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
       "July, 04 2025 00:00:00",
       2,
       420,
@@ -281,6 +380,15 @@
     ],
     [
       2025,
+      "July, 26 2025 00:00:00",
+      1,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
       "July, 30 2025 00:00:00",
       29,
       420,
@@ -302,14 +410,14 @@
     "location_id": "77",
     "species_id": 420,
     "year": "2025",
-    "totalRecords": 32,
-    "totalCount": 13313,
+    "totalRecords": 44,
+    "totalCount": 13585,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-20T10:41:55.017811",
-    "daysWithData": 32,
+    "daysWithData": 44,
     "latestDate": 2025,
-    "lastUpdated": "2025-08-20T10:50:39.333578",
-    "updateCount": 2,
+    "lastUpdated": "2025-09-13T19:52:58.199806",
+    "updateCount": 3,
     "mergeHistory": [
       {
         "timestamp": "2025-08-20T10:45:42.676296",
@@ -324,21 +432,15 @@
         "updatedRecords": 0,
         "unchangedRecords": 32,
         "totalRecords": 32
+      },
+      {
+        "timestamp": "2025-09-13T19:52:58.199811",
+        "newRecords": 12,
+        "updatedRecords": 0,
+        "unchangedRecords": 32,
+        "totalRecords": 44
       }
     ]
   },
-  "record_update_times": {},
-  "merge_info": {
-    "new_records_added": 0,
-    "existing_records_updated": 0,
-    "unchanged_records": 32,
-    "total_records": 32,
-    "merge_timestamp": "2025-08-20T10:50:39.333585",
-    "data_freshness": {
-      "latest_date": 2025,
-      "days_with_data": 32,
-      "total_count": 13313,
-      "total_records": 32
-    }
-  }
-}
+  "record_update_times": {
+    

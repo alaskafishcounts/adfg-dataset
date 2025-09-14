@@ -182,6 +182,105 @@
     ],
     [
       2025,
+      "August, 20 2025 00:00:00",
+      78,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 21 2025 00:00:00",
+      127,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 22 2025 00:00:00",
+      96,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 23 2025 00:00:00",
+      130,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 24 2025 00:00:00",
+      92,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 26 2025 00:00:00",
+      58,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 27 2025 00:00:00",
+      20,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 28 2025 00:00:00",
+      259,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 29 2025 00:00:00",
+      425,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 30 2025 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 31 2025 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
       "July, 23 2025 00:00:00",
       0,
       430,
@@ -260,20 +359,101 @@
       16,
       "Little Susitna",
       "Coho"
+    ],
+    [
+      2025,
+      "September, 01 2025 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 02 2025 00:00:00",
+      21,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 03 2025 00:00:00",
+      15,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 04 2025 00:00:00",
+      13,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 05 2025 00:00:00",
+      53,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 06 2025 00:00:00",
+      0,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 07 2025 00:00:00",
+      2,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 08 2025 00:00:00",
+      19,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "September, 09 2025 00:00:00",
+      18,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
     ]
   ],
   "metadata": {
     "location_id": "16",
     "species_id": 430,
     "year": "2025",
-    "totalRecords": 28,
-    "totalCount": 3080,
+    "totalRecords": 48,
+    "totalCount": 4506,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-20T10:39:39.936653",
-    "daysWithData": 27,
+    "daysWithData": 43,
     "latestDate": 2025,
-    "lastUpdated": "2025-08-20T10:48:25.944636",
-    "updateCount": 2,
+    "lastUpdated": "2025-09-13T19:50:43.563982",
+    "updateCount": 3,
     "mergeHistory": [
       {
         "timestamp": "2025-08-20T10:43:28.898248",
@@ -288,21 +468,15 @@
         "updatedRecords": 0,
         "unchangedRecords": 28,
         "totalRecords": 28
+      },
+      {
+        "timestamp": "2025-09-13T19:50:43.563986",
+        "newRecords": 20,
+        "updatedRecords": 0,
+        "unchangedRecords": 28,
+        "totalRecords": 48
       }
     ]
   },
-  "record_update_times": {},
-  "merge_info": {
-    "new_records_added": 0,
-    "existing_records_updated": 0,
-    "unchanged_records": 28,
-    "total_records": 28,
-    "merge_timestamp": "2025-08-20T10:48:25.944642",
-    "data_freshness": {
-      "latest_date": 2025,
-      "days_with_data": 27,
-      "total_count": 3080,
-      "total_records": 28
-    }
-  }
-}
+  "record_update_times": {
+    

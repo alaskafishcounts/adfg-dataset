@@ -11,7 +11,97 @@
   "DATA": [
     [
       2025,
-      "June, 30 2025 00:00:00",
+      "August, 01 2025 00:00:00",
+      0,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      34,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      54,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      278,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      150,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      162,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      141,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 08 2025 00:00:00",
+      126,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 09 2025 00:00:00",
+      119,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 10 2025 00:00:00",
+      125,
+      450,
+      37,
+      "Chena River",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
       0,
       450,
       37,
@@ -299,97 +389,7 @@
     ],
     [
       2025,
-      "August, 01 2025 00:00:00",
-      0,
-      450,
-      37,
-      "Chena River",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 02 2025 00:00:00",
-      34,
-      450,
-      37,
-      "Chena River",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 03 2025 00:00:00",
-      54,
-      450,
-      37,
-      "Chena River",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 04 2025 00:00:00",
-      278,
-      450,
-      37,
-      "Chena River",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 05 2025 00:00:00",
-      150,
-      450,
-      37,
-      "Chena River",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 06 2025 00:00:00",
-      162,
-      450,
-      37,
-      "Chena River",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 07 2025 00:00:00",
-      141,
-      450,
-      37,
-      "Chena River",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 08 2025 00:00:00",
-      126,
-      450,
-      37,
-      "Chena River",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 09 2025 00:00:00",
-      119,
-      450,
-      37,
-      "Chena River",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 10 2025 00:00:00",
-      125,
-      450,
-      37,
-      "Chena River",
-      "Chum"
-    ],
-    [
-      2025,
-      "August, 11 2025 00:00:00",
+      "June, 30 2025 00:00:00",
       0,
       450,
       37,
@@ -404,6 +404,33 @@
     "totalRecords": 43,
     "totalCount": 2194,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-13T15:57:23.254776"
+    "last_updated": "2025-09-13T15:57:23.254776",
+    "daysWithData": 28,
+    "latestDate": 2025,
+    "lastUpdated": "2025-09-13T19:51:44.494773",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-09-13T19:51:44.494775",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 43,
+        "totalRecords": 43
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 43,
+    "total_records": 43,
+    "merge_timestamp": "2025-09-13T19:51:44.494779",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 28,
+      "total_count": 2194,
+      "total_records": 43
+    }
   }
 }

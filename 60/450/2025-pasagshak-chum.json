@@ -110,6 +110,15 @@
     ],
     [
       2025,
+      "August, 14 2025 00:00:00",
+      4,
+      450,
+      60,
+      "Pasagshak",
+      "Chum"
+    ],
+    [
+      2025,
       "July, 14 2025 00:00:00",
       3,
       450,
@@ -266,14 +275,14 @@
     "location_id": "60",
     "species_id": 450,
     "year": "2025",
-    "totalRecords": 28,
-    "totalCount": 20,
+    "totalRecords": 29,
+    "totalCount": 24,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-20T10:41:37.491991",
-    "daysWithData": 6,
+    "daysWithData": 7,
     "latestDate": 2025,
-    "lastUpdated": "2025-08-20T10:50:21.820232",
-    "updateCount": 2,
+    "lastUpdated": "2025-09-13T19:52:39.097246",
+    "updateCount": 3,
     "mergeHistory": [
       {
         "timestamp": "2025-08-20T10:45:24.632687",
@@ -288,21 +297,15 @@
         "updatedRecords": 0,
         "unchangedRecords": 28,
         "totalRecords": 28
+      },
+      {
+        "timestamp": "2025-09-13T19:52:39.097252",
+        "newRecords": 1,
+        "updatedRecords": 0,
+        "unchangedRecords": 28,
+        "totalRecords": 29
       }
     ]
   },
-  "record_update_times": {},
-  "merge_info": {
-    "new_records_added": 0,
-    "existing_records_updated": 0,
-    "unchanged_records": 28,
-    "total_records": 28,
-    "merge_timestamp": "2025-08-20T10:50:21.820240",
-    "data_freshness": {
-      "latest_date": 2025,
-      "days_with_data": 6,
-      "total_count": 20,
-      "total_records": 28
-    }
-  }
-}
+  "record_update_times": {
+    

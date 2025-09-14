@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "August, 22 2025 00:00:00",
+      0,
+      540,
+      33,
+      "Bear River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "August, 23 2025 00:00:00",
+      0,
+      540,
+      33,
+      "Bear River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "August, 24 2025 00:00:00",
+      0,
+      540,
+      33,
+      "Bear River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "August, 25 2025 00:00:00",
+      0,
+      540,
+      33,
+      "Bear River",
+      "Steelhead"
+    ]
+  ],
+  "metadata": {
+    "location_id": "33",
+    "species_id": 540,
+    "year": "2025",
+    "totalRecords": 4,
+    "totalCount": 0,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-09-13T19:51:34.807404"
+  }
+}

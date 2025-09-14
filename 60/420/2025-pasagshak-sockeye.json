@@ -119,6 +119,15 @@
     ],
     [
       2025,
+      "August, 14 2025 00:00:00",
+      11,
+      420,
+      60,
+      "Pasagshak",
+      "Sockeye"
+    ],
+    [
+      2025,
       "July, 01 2025 00:00:00",
       0,
       420,
@@ -572,14 +581,14 @@
     "location_id": "60",
     "species_id": 420,
     "year": "2025",
-    "totalRecords": 62,
-    "totalCount": 5355,
+    "totalRecords": 63,
+    "totalCount": 5366,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-20T10:41:36.241944",
-    "daysWithData": 38,
+    "daysWithData": 39,
     "latestDate": 2025,
-    "lastUpdated": "2025-08-20T10:50:20.763570",
-    "updateCount": 2,
+    "lastUpdated": "2025-09-13T19:52:38.594051",
+    "updateCount": 3,
     "mergeHistory": [
       {
         "timestamp": "2025-08-20T10:45:23.934293",
@@ -594,21 +603,15 @@
         "updatedRecords": 0,
         "unchangedRecords": 62,
         "totalRecords": 62
+      },
+      {
+        "timestamp": "2025-09-13T19:52:38.594058",
+        "newRecords": 1,
+        "updatedRecords": 0,
+        "unchangedRecords": 62,
+        "totalRecords": 63
       }
     ]
   },
-  "record_update_times": {},
-  "merge_info": {
-    "new_records_added": 0,
-    "existing_records_updated": 0,
-    "unchanged_records": 62,
-    "total_records": 62,
-    "merge_timestamp": "2025-08-20T10:50:20.763577",
-    "data_freshness": {
-      "latest_date": 2025,
-      "days_with_data": 38,
-      "total_count": 5355,
-      "total_records": 62
-    }
-  }
-}
+  "record_update_times": {
+    

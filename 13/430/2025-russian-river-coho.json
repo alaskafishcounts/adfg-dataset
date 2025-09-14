@@ -305,6 +305,33 @@
     "totalRecords": 32,
     "totalCount": 885,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-13T15:56:52.527086"
+    "last_updated": "2025-09-13T15:56:52.527086",
+    "daysWithData": 29,
+    "latestDate": 2025,
+    "lastUpdated": "2025-09-13T19:50:37.647402",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-09-13T19:50:37.647404",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 32,
+        "totalRecords": 32
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 32,
+    "total_records": 32,
+    "merge_timestamp": "2025-09-13T19:50:37.647409",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 29,
+      "total_count": 885,
+      "total_records": 32
+    }
   }
 }

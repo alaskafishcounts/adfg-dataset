@@ -11,69 +11,6 @@
   "DATA": [
     [
       2025,
-      "July, 24 2025 00:00:00",
-      10,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 25 2025 00:00:00",
-      12,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 26 2025 00:00:00",
-      61,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 28 2025 00:00:00",
-      33,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 29 2025 00:00:00",
-      19,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 30 2025 00:00:00",
-      12,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 31 2025 00:00:00",
-      62,
-      420,
-      16,
-      "Little Susitna",
-      "Sockeye"
-    ],
-    [
-      2025,
       "August, 01 2025 00:00:00",
       72,
       420,
@@ -353,6 +290,69 @@
     ],
     [
       2025,
+      "July, 24 2025 00:00:00",
+      10,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      12,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      61,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      33,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      19,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      12,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      62,
+      420,
+      16,
+      "Little Susitna",
+      "Sockeye"
+    ],
+    [
+      2025,
       "September, 01 2025 00:00:00",
       0,
       420,
@@ -422,6 +422,33 @@
     "totalRecords": 45,
     "totalCount": 643,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-13T15:56:55.158283"
+    "last_updated": "2025-09-13T15:56:55.158283",
+    "daysWithData": 37,
+    "latestDate": 2025,
+    "lastUpdated": "2025-09-13T19:50:43.625786",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-09-13T19:50:43.625788",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 45,
+        "totalRecords": 45
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 45,
+    "total_records": 45,
+    "merge_timestamp": "2025-09-13T19:50:43.625791",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 37,
+      "total_count": 643,
+      "total_records": 45
+    }
   }
 }

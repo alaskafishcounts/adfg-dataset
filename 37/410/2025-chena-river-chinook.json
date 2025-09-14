@@ -11,7 +11,97 @@
   "DATA": [
     [
       2025,
-      "June, 30 2025 00:00:00",
+      "August, 01 2025 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      8,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      19,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      0,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      45,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      48,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      36,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 08 2025 00:00:00",
+      23,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 09 2025 00:00:00",
+      18,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 10 2025 00:00:00",
+      7,
+      410,
+      37,
+      "Chena River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "August, 11 2025 00:00:00",
       0,
       410,
       37,
@@ -299,97 +389,7 @@
     ],
     [
       2025,
-      "August, 01 2025 00:00:00",
-      0,
-      410,
-      37,
-      "Chena River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "August, 02 2025 00:00:00",
-      8,
-      410,
-      37,
-      "Chena River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "August, 03 2025 00:00:00",
-      19,
-      410,
-      37,
-      "Chena River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "August, 04 2025 00:00:00",
-      0,
-      410,
-      37,
-      "Chena River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "August, 05 2025 00:00:00",
-      45,
-      410,
-      37,
-      "Chena River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "August, 06 2025 00:00:00",
-      48,
-      410,
-      37,
-      "Chena River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "August, 07 2025 00:00:00",
-      36,
-      410,
-      37,
-      "Chena River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "August, 08 2025 00:00:00",
-      23,
-      410,
-      37,
-      "Chena River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "August, 09 2025 00:00:00",
-      18,
-      410,
-      37,
-      "Chena River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "August, 10 2025 00:00:00",
-      7,
-      410,
-      37,
-      "Chena River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "August, 11 2025 00:00:00",
+      "June, 30 2025 00:00:00",
       0,
       410,
       37,
@@ -404,6 +404,33 @@
     "totalRecords": 43,
     "totalCount": 1219,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-13T15:57:23.200198"
+    "last_updated": "2025-09-13T15:57:23.200198",
+    "daysWithData": 35,
+    "latestDate": 2025,
+    "lastUpdated": "2025-09-13T19:51:42.520566",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-09-13T19:51:42.520568",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 43,
+        "totalRecords": 43
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 43,
+    "total_records": 43,
+    "merge_timestamp": "2025-09-13T19:51:42.520571",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 35,
+      "total_count": 1219,
+      "total_records": 43
+    }
   }
 }
