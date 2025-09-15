@@ -11,6 +11,15 @@
   "DATA": [
     [
       2025,
+      "July, 31 2025 00:00:00",
+      4,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ],
+    [
+      2025,
       "August, 01 2025 00:00:00",
       3,
       430,
@@ -116,15 +125,6 @@
       29,
       "Saltery Creek",
       "Coho"
-    ],
-    [
-      2025,
-      "July, 31 2025 00:00:00",
-      4,
-      430,
-      29,
-      "Saltery Creek",
-      "Coho"
     ]
   ],
   "metadata": {
@@ -134,33 +134,6 @@
     "totalRecords": 13,
     "totalCount": 39,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-13T15:57:13.041668",
-    "daysWithData": 9,
-    "latestDate": 2025,
-    "lastUpdated": "2025-09-13T19:51:21.081697",
-    "updateCount": 1,
-    "mergeHistory": [
-      {
-        "timestamp": "2025-09-13T19:51:21.081700",
-        "newRecords": 0,
-        "updatedRecords": 0,
-        "unchangedRecords": 13,
-        "totalRecords": 13
-      }
-    ]
-  },
-  "record_update_times": {},
-  "merge_info": {
-    "new_records_added": 0,
-    "existing_records_updated": 0,
-    "unchanged_records": 13,
-    "total_records": 13,
-    "merge_timestamp": "2025-09-13T19:51:21.081708",
-    "data_freshness": {
-      "latest_date": 2025,
-      "days_with_data": 9,
-      "total_count": 39,
-      "total_records": 13
-    }
+    "last_updated": "2025-09-14T16:43:41.778239"
   }
 }
