@@ -11,15 +11,6 @@
   "DATA": [
     [
       2025,
-      "July, 31 2025 00:00:00",
-      2,
-      450,
-      31,
-      "Orzinski Lake",
-      "Chum"
-    ],
-    [
-      2025,
       "August, 01 2025 00:00:00",
       1,
       450,
@@ -53,6 +44,15 @@
       31,
       "Orzinski Lake",
       "Chum"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      2,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
     ]
   ],
   "metadata": {
@@ -62,6 +62,47 @@
     "totalRecords": 5,
     "totalCount": 29,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-15T01:25:34.474297"
+    "last_updated": "2025-09-15T01:25:34.474297",
+    "daysWithData": 5,
+    "latestDate": 2025,
+    "lastUpdated": "2025-09-21T10:31:56.796292",
+    "updateCount": 3,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-09-14T22:05:57.586131",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 5,
+        "totalRecords": 5
+      },
+      {
+        "timestamp": "2025-09-21T10:26:21.979543",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 5,
+        "totalRecords": 5
+      },
+      {
+        "timestamp": "2025-09-21T10:31:56.796296",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 5,
+        "totalRecords": 5
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 5,
+    "total_records": 5,
+    "merge_timestamp": "2025-09-21T10:31:56.796303",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 5,
+      "total_count": 29,
+      "total_records": 5
+    }
   }
 }

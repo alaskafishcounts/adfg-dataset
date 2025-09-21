@@ -341,15 +341,96 @@
       9,
       "Anchor River",
       "Steelhead"
+    ],
+    [
+      2025,
+      "September, 13 2025 00:00:00",
+      14,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "September, 14 2025 00:00:00",
+      8,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "September, 15 2025 00:00:00",
+      14,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "September, 16 2025 00:00:00",
+      17,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "September, 17 2025 00:00:00",
+      31,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "September, 18 2025 00:00:00",
+      7,
+      540,
+      9,
+      "Anchor River",
+      "Steelhead"
     ]
   ],
   "metadata": {
-    "location_id": 9,
+    "location_id": "9",
     "species_id": 540,
     "year": "2025",
-    "totalRecords": 37,
-    "totalCount": 296,
+    "totalRecords": 43,
+    "totalCount": 387,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-15T01:25:12.725625"
+    "last_updated": "2025-09-21T10:29:01.576270",
+    "daysWithData": 33,
+    "latestDate": 2025,
+    "lastUpdated": "2025-09-21T10:30:54.943232",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-09-21T10:30:54.943234",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 43,
+        "totalRecords": 43
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 43,
+    "total_records": 43,
+    "merge_timestamp": "2025-09-21T10:30:54.943238",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 33,
+      "total_count": 387,
+      "total_records": 43
+    }
   }
 }

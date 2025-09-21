@@ -11,15 +11,6 @@
   "DATA": [
     [
       2025,
-      "June, 25 2025 00:00:00",
-      7,
-      450,
-      7,
-      "Coghill River",
-      "Chum"
-    ],
-    [
-      2025,
       "July, 05 2025 00:00:00",
       3,
       450,
@@ -44,6 +35,15 @@
       7,
       "Coghill River",
       "Chum"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      7,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
     ]
   ],
   "metadata": {
@@ -53,6 +53,54 @@
     "totalRecords": 4,
     "totalCount": 16,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-15T01:25:10.526193"
+    "last_updated": "2025-09-15T01:25:10.526193",
+    "daysWithData": 4,
+    "latestDate": 2025,
+    "lastUpdated": "2025-09-21T10:30:48.564893",
+    "updateCount": 4,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-09-14T22:04:52.958798",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 4,
+        "totalRecords": 4
+      },
+      {
+        "timestamp": "2025-09-21T10:25:17.077300",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 4,
+        "totalRecords": 4
+      },
+      {
+        "timestamp": "2025-09-21T10:28:55.690441",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 4,
+        "totalRecords": 4
+      },
+      {
+        "timestamp": "2025-09-21T10:30:48.564896",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 4,
+        "totalRecords": 4
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 4,
+    "total_records": 4,
+    "merge_timestamp": "2025-09-21T10:30:48.564902",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 4,
+      "total_count": 16,
+      "total_records": 4
+    }
   }
 }

@@ -11,6 +11,60 @@
   "DATA": [
     [
       2025,
+      "August, 01 2025 00:00:00",
+      3,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      2,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      1,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      2,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      13,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      100,
+      430,
+      27,
+      "Dog Salmon River",
+      "Coho"
+    ],
+    [
+      2025,
       "July, 25 2025 00:00:00",
       1,
       430,
@@ -71,60 +125,6 @@
       27,
       "Dog Salmon River",
       "Coho"
-    ],
-    [
-      2025,
-      "August, 01 2025 00:00:00",
-      3,
-      430,
-      27,
-      "Dog Salmon River",
-      "Coho"
-    ],
-    [
-      2025,
-      "August, 02 2025 00:00:00",
-      2,
-      430,
-      27,
-      "Dog Salmon River",
-      "Coho"
-    ],
-    [
-      2025,
-      "August, 03 2025 00:00:00",
-      1,
-      430,
-      27,
-      "Dog Salmon River",
-      "Coho"
-    ],
-    [
-      2025,
-      "August, 04 2025 00:00:00",
-      2,
-      430,
-      27,
-      "Dog Salmon River",
-      "Coho"
-    ],
-    [
-      2025,
-      "August, 05 2025 00:00:00",
-      13,
-      430,
-      27,
-      "Dog Salmon River",
-      "Coho"
-    ],
-    [
-      2025,
-      "August, 06 2025 00:00:00",
-      100,
-      430,
-      27,
-      "Dog Salmon River",
-      "Coho"
     ]
   ],
   "metadata": {
@@ -134,6 +134,47 @@
     "totalRecords": 13,
     "totalCount": 123,
     "source": "ADFG JSON API",
-    "last_updated": "2025-09-15T01:25:28.066130"
+    "last_updated": "2025-09-15T01:25:28.066130",
+    "daysWithData": 8,
+    "latestDate": 2025,
+    "lastUpdated": "2025-09-21T10:31:43.267879",
+    "updateCount": 3,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-09-14T22:05:43.959240",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 13,
+        "totalRecords": 13
+      },
+      {
+        "timestamp": "2025-09-21T10:26:08.395228",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 13,
+        "totalRecords": 13
+      },
+      {
+        "timestamp": "2025-09-21T10:31:43.267889",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 13,
+        "totalRecords": 13
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 13,
+    "total_records": 13,
+    "merge_timestamp": "2025-09-21T10:31:43.267906",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 8,
+      "total_count": 123,
+      "total_records": 13
+    }
   }
 }
